@@ -1,0 +1,164 @@
+{
+  "ses_dosyasi": "test.mp3",
+  "model": "medium",
+  "cihaz": "cuda",
+  "ses_suresi_sn": 120.8,
+  "islem_suresi_sn": 12.6,
+  "parcalar": [
+    {
+      "baslangic": 0.0,
+      "bitis": 6.64,
+      "metin": "aritmetik ve dil bilgisiyle uğraştığım aklıma geldi ve bizim köçeye biraz da üzülerek"
+    },
+    {
+      "baslangic": 6.64,
+      "bitis": 8.86,
+      "metin": "resim yapmayı beceremediğimi söyledim."
+    },
+    {
+      "baslangic": 8.86,
+      "bitis": 12.84,
+      "metin": "''Ne zararı var canım'' dedi, ''bir koyun çizi ver.''"
+    },
+    {
+      "baslangic": 12.84,
+      "bitis": 16.96,
+      "metin": "Tersi gibi şimdiye kadar hiç koyun resmi yapmamıştım."
+    },
+    {
+      "baslangic": 16.96,
+      "bitis": 21.64,
+      "metin": "İster istemez sık sık yaptığım iki resimden birini çizdim, yani boğa yılanının"
+    },
+    {
+      "baslangic": 21.64,
+      "bitis": 26.96,
+      "metin": "dıştan görünüşünü ama bizimki ''Yoo yo'' demesin mi?"
+    },
+    {
+      "baslangic": 27.0,
+      "bitis": 31.64,
+      "metin": "''Boğanın içindeki bir fil istemiyorum, boğa çok tehlikeli bir yaratıktır."
+    },
+    {
+      "baslangic": 31.64,
+      "bitis": 36.84,
+      "metin": "File gelince o da çok yer kaplar, bizim oralarda her şey küçücüktür."
+    },
+    {
+      "baslangic": 36.84,
+      "bitis": 40.76,
+      "metin": "Gerçekte bir koyun istiyorum, bir koyun çizsene bana.''"
+    },
+    {
+      "baslangic": 40.76,
+      "bitis": 42.28,
+      "metin": "Çizdim koyunu."
+    },
+    {
+      "baslangic": 42.28,
+      "bitis": 48.64,
+      "metin": "Resmi iyice inceledi, sonra ''Olmadı'' dedi, ''bu daha şimdiden çok zayıf,"
+    },
+    {
+      "baslangic": 48.64,
+      "bitis": 51.56,
+      "metin": "hasta bir koyun, bir tane daha çiz.''"
+    },
+    {
+      "baslangic": 51.56,
+      "bitis": 53.96,
+      "metin": "Ben de bir tane daha çizdim."
+    },
+    {
+      "baslangic": 54.12,
+      "bitis": 57.68,
+      "metin": "Arkadaşım tatlı tatlı anlayışla gülümsedi."
+    },
+    {
+      "baslangic": 57.68,
+      "bitis": 63.88,
+      "metin": "''Sen de görüyorsun ya, bu koyun değil, bal gibi koç, boynuzlarına baksana.''"
+    },
+    {
+      "baslangic": 63.88,
+      "bitis": 67.84,
+      "metin": "Resmi yeniden çizdim ama tekrar beğendirememiştim."
+    },
+    {
+      "baslangic": 67.84,
+      "bitis": 73.48,
+      "metin": "''Bu da çok yaşlı, ben öyle bir koyun istiyorum ki uzun zaman yaşasın.''"
+    },
+    {
+      "baslangic": 73.48,
+      "bitis": 76.04,
+      "metin": "Tahammülüm kalmamıştı artık."
+    },
+    {
+      "baslangic": 76.04,
+      "bitis": 79.84,
+      "metin": "Üstelik uçağımın motorunu bir an evvel sökmek niyetindeydim."
+    },
+    {
+      "baslangic": 79.84,
+      "bitis": 82.64,
+      "metin": "Aşağıda gördüğünüz resmi karaladım."
+    },
+    {
+      "baslangic": 82.8,
+      "bitis": 86.8,
+      "metin": "''İstediğin koyun şu sandığın içinde.'' diye kestirip attım."
+    },
+    {
+      "baslangic": 86.8,
+      "bitis": 91.56,
+      "metin": "Küçük eleştirmenin yüzünün aniden aydınlandığını görünce şaşırdım."
+    },
+    {
+      "baslangic": 91.56,
+      "bitis": 96.48,
+      "metin": "''Tam da istediğim gibi oldu, peki bu koyun çok mu ot yer dersin?''"
+    },
+    {
+      "baslangic": 96.48,
+      "bitis": 98.08,
+      "metin": "''Neden?'' sordun."
+    },
+    {
+      "baslangic": 98.08,
+      "bitis": 101.04,
+      "metin": "''Bizim oralarda her şey çok küçüktür de.''"
+    },
+    {
+      "baslangic": 101.04,
+      "bitis": 104.12,
+      "metin": "''Ona o kadar ot bulunur canım.'' dedim."
+    },
+    {
+      "baslangic": 104.12,
+      "bitis": 106.56,
+      "metin": "''Ben sana küçücük bir koyun verdim.''"
+    },
+    {
+      "baslangic": 106.56,
+      "bitis": 108.72,
+      "metin": "Resmin üstüne eğildi."
+    },
+    {
+      "baslangic": 109.04,
+      "bitis": 113.0,
+      "metin": "''Küçük dedimse bak, bak uyumuş.''"
+    },
+    {
+      "baslangic": 113.0,
+      "bitis": 117.36,
+      "metin": "İşte küçük prensle arkadaşlık kurmam böyle oldu."
+    },
+    {
+      "baslangic": 117.36,
+      "bitis": 120.88,
+      "metin": "Nereden geldiğini öğrenmem için uzun bir zaman..."
+    }
+  ]
+}

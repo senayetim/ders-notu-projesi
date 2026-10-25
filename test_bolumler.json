@@ -1,0 +1,36 @@
+{
+  "bolumler": [
+    {
+      "baslik": "Küçük Prens İçin Koyun Çizme Çabası",
+      "baslangic_sn": 0,
+      "bitis_sn": 73,
+      "ozet": "Konuşmacı, resim yapmayı beceremediğini belirterek koyun isteyen küçük çocuğa önce boğa yılanı çizer fakat reddedilir. Ardından çizdiği hasta koyun, koç ve yaşlı koyun resimleri de çocuk tarafından beğenilmez. Konuşmacı tekrar tekrar çizim yapsa da istediği sonucu elde edemez.",
+      "anahtar_kelimeler": [
+        "koyun çizimi",
+        "küçük prens",
+        "boğa yılanı",
+        "koç",
+        "resim"
+      ]
+    },
+    {
+      "baslik": "Sandıktaki Koyun ve Arkadaşlığın Başlangıcı",
+      "baslangic_sn": 73,
+      "bitis_sn": 117,
+      "ozet": "Sabrı tükenen konuşmacı, istediği koyunun bir sandığın içinde olduğunu söyleyerek sadece bir sandık çizer. Küçük çocuk bu çözümü çok beğenir ve sandığın içindeki koyunu sevinçle kabul eder. Böylece konuşmacı ile Küçük Prens arasında arkadaşlık bağı kurulmuş olur.",
+      "anahtar_kelimeler": [
+        "sandık",
+        "küçük prens",
+        "arkadaşlık",
+        "resim",
+        "çizim"
+      ]
+    }
+  ],
+  "olcumler": {
+    "model": "gemini-3.5-flash",
+    "gecikme_sn": 8.84,
+    "girdi_token": 913,
+    "cikti_token": 281
+  }
+}
