@@ -3,7 +3,7 @@
   "model": "medium",
   "cihaz": "cuda",
   "ses_suresi_sn": 120.8,
-  "islem_suresi_sn": 16.5,
+  "islem_suresi_sn": 16.0,
   "parcalar": [
     {
       "baslangic": 0.0,

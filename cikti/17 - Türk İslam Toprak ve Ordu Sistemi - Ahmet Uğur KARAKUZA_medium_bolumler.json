@@ -1,0 +1,64 @@
+{
+  "bolumler": [
+    {
+      "baslik": "Türk-İslam Devletlerinde Toprak Mülkiyeti ve Mülk Arazi",
+      "baslangic_sn": 5,
+      "bitis_sn": 108,
+      "ozet": "Türk-İslam devletlerinde topraklar genel olarak miri ve mülki olmak üzere ikiye ayrılır. Mülk araziler Müslümanlara ait öşri ve gayrimüslimlere ait haraci arazi şeklinde sınıflandırılır. Toprakların büyük çoğunluğunun devlete ait olması feodalleşmeyi, toprak ağalığını ve sınıf ayrımını önlemek amacı taşımaktadır.",
+      "anahtar_kelimeler": [
+        "miri arazi",
+        "mülk arazi",
+        "öşri arazi",
+        "haraci arazi",
+        "feodalleşme"
+      ]
+    },
+    {
+      "baslik": "Has ve Vakıf Arazi Sistemleri",
+      "baslangic_sn": 108,
+      "bitis_sn": 283,
+      "ozet": "Miri arazilerden olan has arazi geliri sultana ayrılan topraklardır. Vakıf arazilerin gelirleri hazineye aktarılmayıp cami, medrese, hastane ve aşevi gibi sosyal ve dini eserlerin masraflarına harcanır. Vakıf sistemi sosyal devlet anlayışını yansıtır; kadı tarafından denetlenip mütevelli heyeti tarafından yönetilir.",
+      "anahtar_kelimeler": [
+        "has arazi",
+        "vakıf sistemi",
+        "sosyal devlet",
+        "kadı",
+        "mütevelli heyeti"
+      ]
+    },
+    {
+      "baslik": "İkta Sistemi ve Devlete Faydaları",
+      "baslangic_sn": 283,
+      "bitis_sn": 575,
+      "ozet": "İkta sisteminde toprağın mülkiyeti devlete, kullanım hakkı halka, vergi geliri ise atanan yöneticiye aittir. Yönetici topladığı vergiyle maaşını karşılar ve devlete ikta ordusu için asker besler. Bu sistem üretimin sürekliliğini, göçebelerin yerleşmesini ve hazineden para çıkmadan güvenlik sağlanmasını garantiler.",
+      "anahtar_kelimeler": [
+        "ikta sistemi",
+        "divan-ı pervane",
+        "pervaneci",
+        "ikta ordusu",
+        "üretimde süreklilik"
+      ]
+    },
+    {
+      "baslik": "Türk-İslam Devletlerinde Ordu Teşkilatı ve Kurumlar",
+      "baslangic_sn": 575,
+      "bitis_sn": 1186,
+      "ozet": "Ordu sisteminde gulam devşirme kökenli askerlerden oluşur ve maaşları bistegani adıyla hazineden ödenir. Anadolu Selçuklu Devleti'nde donanmanın başında reis-ül bahr veya melik-ü sevahil bulunurken, Moğol tehlikesi nedeniyle ücretli askerlik de uygulanmıştır. Güvenliği şurta teşkilatı sağlarken, ordu işlerine divan-ı arz bakar.",
+      "anahtar_kelimeler": [
+        "gulam sistemi",
+        "bistegani",
+        "hassa ordusu",
+        "reis-ül bahr",
+        "şurta teşkilatı",
+        "divan-ı arz"
+      ]
+    }
+  ],
+  "olcumler": {
+    "model": "gemini-3.5-flash",
+    "gecikme_sn": 14.38,
+    "girdi_token": 6903,
+    "cikti_token": 833,
+    "toplam_deneme": 1
+  }
+}

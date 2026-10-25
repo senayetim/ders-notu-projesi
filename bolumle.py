@@ -3,6 +3,7 @@ import os
 import sys
 import time
 
+from google.genai import errors
 from dotenv import load_dotenv
 from google import genai
 from google.genai import types
@@ -11,7 +12,10 @@ from pydantic import BaseModel
 load_dotenv()
 
 # Model adı değişirse sadece bu satırı değiştir. 404 hatası alırsan "gemini-2.5-flash" dene.
-MODEL = "gemini-3.5-flash"
+# Sırayla denenir: ilki yoğunsa ya da bulunamazsa sıradakine geçilir
+MODELLER = ["gemini-3.5-flash", "gemini-2.5-flash", "gemini-3.5-flash-lite"]
+MODEL = MODELLER[0]  # app.py kenar çubuğunda göstermek için
+DENEME_SAYISI = 3
 
 
 class Bolum(BaseModel):
@@ -47,29 +51,52 @@ def bolumle(transkript):
     """Transkripti LLM ile konu bölümlerine ayırır. (bölümler, ölçümler) döner."""
     istemci = genai.Client()  # GEMINI_API_KEY ortam değişkenini kendisi okur
     metin = transkripti_metne_cevir(transkript)
-
-    baslangic = time.time()
-    yanit = istemci.models.generate_content(
-        model=MODEL,
-        contents=metin,
-        config=types.GenerateContentConfig(
-            system_instruction=SISTEM_TALIMATI,
-            response_mime_type="application/json",
-            response_schema=list[Bolum],
-            temperature=0.2,
-        ),
+    config = types.GenerateContentConfig(
+        system_instruction=SISTEM_TALIMATI,
+        response_mime_type="application/json",
+        response_schema=list[Bolum],
+        temperature=0.2,
     )
-    sure = time.time() - baslangic
 
-    bolumler = json.loads(yanit.text)
-    kullanim = yanit.usage_metadata
-    olcumler = {
-        "model": MODEL,
-        "gecikme_sn": round(sure, 2),
-        "girdi_token": kullanim.prompt_token_count,
-        "cikti_token": kullanim.candidates_token_count,
-    }
-    return bolumler, olcumler
+    hatalar = []
+    toplam_deneme = 0
+    for model in MODELLER:
+        for deneme in range(1, DENEME_SAYISI + 1):
+            toplam_deneme += 1
+            try:
+                baslangic = time.time()
+                yanit = istemci.models.generate_content(model=model, contents=metin, config=config)
+                sure = time.time() - baslangic
+
+                if not yanit.text:
+                    raise RuntimeError("Model boş yanıt döndürdü")
+                bolumler = json.loads(yanit.text)
+                if not bolumler:
+                    raise RuntimeError("Model boş bölüm listesi döndürdü")
+
+                kullanim = yanit.usage_metadata
+                olcumler = {
+                    "model": model,
+                    "gecikme_sn": round(sure, 2),
+                    "girdi_token": kullanim.prompt_token_count,
+                    "cikti_token": kullanim.candidates_token_count,
+                    "toplam_deneme": toplam_deneme,
+                }
+                return bolumler, olcumler
+
+            except errors.APIError as e:
+                hatalar.append(f"{model} (deneme {deneme}): {e.code}")
+                if e.code in (500, 503, 429) and deneme < DENEME_SAYISI:
+                    time.sleep(3 * deneme)   # 3 sn, 6 sn bekle, tekrar dene
+                    continue
+                break                         # 404 vb.: bu modeli bırak, sıradakine geç
+            except (RuntimeError, json.JSONDecodeError) as e:
+                hatalar.append(f"{model} (deneme {deneme}): {e}")
+                if deneme < DENEME_SAYISI:
+                    continue
+                break
+
+    raise RuntimeError("Hiçbir model yanıt veremedi: " + " | ".join(hatalar))
 
 
 def sn_to_dk(sn):
