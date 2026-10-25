@@ -1,2 +1,15 @@
-  [server]
-  maxUploadSize = 1000
+[theme]
+primaryColor = "#4F46E5"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F3F4F9"
+textColor = "#1F2937"
+font = "sans serif"
+
+[server]
+maxUploadSize = 1000
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
