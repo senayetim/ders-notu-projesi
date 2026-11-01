@@ -1,64 +1,65 @@
 {
   "bolumler": [
     {
-      "baslik": "Türk-İslam Devletlerinde Toprak Mülkiyeti ve Mülk Arazi",
-      "baslangic_sn": 5,
-      "bitis_sn": 108,
-      "ozet": "Türk-İslam devletlerinde topraklar genel olarak miri ve mülki olmak üzere ikiye ayrılır. Mülk araziler Müslümanlara ait öşri ve gayrimüslimlere ait haraci arazi şeklinde sınıflandırılır. Toprakların büyük çoğunluğunun devlete ait olması feodalleşmeyi, toprak ağalığını ve sınıf ayrımını önlemek amacı taşımaktadır.",
+      "baslik": "Türk-İslam Devletlerinde Toprak Sistemi ve Vakıflar",
+      "baslangic_sn": 0,
+      "bitis_sn": 283,
+      "ozet": "Türk-İslam devletlerinde topraklar mülki ve miri arazi olarak ikiye ayrılır. Feodalleşmeyi ve toprak ağalığını engellemek amacıyla toprakların büyük çoğunluğu devlete aittir. Sosyal devlet anlayışının bir parçası olan vakıf sistemi sayesinde eğitim, din ve imar faaliyetleri yürütülür.",
       "anahtar_kelimeler": [
         "miri arazi",
-        "mülk arazi",
-        "öşri arazi",
-        "haraci arazi",
-        "feodalleşme"
-      ]
-    },
-    {
-      "baslik": "Has ve Vakıf Arazi Sistemleri",
-      "baslangic_sn": 108,
-      "bitis_sn": 283,
-      "ozet": "Miri arazilerden olan has arazi geliri sultana ayrılan topraklardır. Vakıf arazilerin gelirleri hazineye aktarılmayıp cami, medrese, hastane ve aşevi gibi sosyal ve dini eserlerin masraflarına harcanır. Vakıf sistemi sosyal devlet anlayışını yansıtır; kadı tarafından denetlenip mütevelli heyeti tarafından yönetilir.",
-      "anahtar_kelimeler": [
-        "has arazi",
+        "mülki arazi",
+        "öşri",
+        "haraci",
         "vakıf sistemi",
-        "sosyal devlet",
-        "kadı",
-        "mütevelli heyeti"
+        "sosyal devlet"
       ]
     },
     {
-      "baslik": "İkta Sistemi ve Devlete Faydaları",
+      "baslik": "İkta Sistemi ve Devlete Sağladığı Faydalar",
       "baslangic_sn": 283,
-      "bitis_sn": 575,
-      "ozet": "İkta sisteminde toprağın mülkiyeti devlete, kullanım hakkı halka, vergi geliri ise atanan yöneticiye aittir. Yönetici topladığı vergiyle maaşını karşılar ve devlete ikta ordusu için asker besler. Bu sistem üretimin sürekliliğini, göçebelerin yerleşmesini ve hazineden para çıkmadan güvenlik sağlanmasını garantiler.",
+      "bitis_sn": 574,
+      "ozet": "İkta sisteminde toprağın mülkiyeti devlete, kullanım hakkı köylüye, vergisi ise yöneticilere ve asker beslenmesine bırakılır. Anadolu Selçuklu Devleti'nde ikta kayıtlarını Divan-ı Pervane tutar. Bu sistem üretimi artırır, taşra güvenliğini sağlar ve hazineye yük olmadan asker yetiştirilmesine imkan tanır.",
       "anahtar_kelimeler": [
         "ikta sistemi",
         "divan-ı pervane",
         "pervaneci",
-        "ikta ordusu",
+        "eyalet ordusu",
         "üretimde süreklilik"
       ]
     },
     {
-      "baslik": "Türk-İslam Devletlerinde Ordu Teşkilatı ve Kurumlar",
-      "baslangic_sn": 575,
-      "bitis_sn": 1186,
-      "ozet": "Ordu sisteminde gulam devşirme kökenli askerlerden oluşur ve maaşları bistegani adıyla hazineden ödenir. Anadolu Selçuklu Devleti'nde donanmanın başında reis-ül bahr veya melik-ü sevahil bulunurken, Moğol tehlikesi nedeniyle ücretli askerlik de uygulanmıştır. Güvenliği şurta teşkilatı sağlarken, ordu işlerine divan-ı arz bakar.",
+      "baslik": "Gulam Sistemi ve Hassa Ordusu",
+      "baslangic_sn": 574,
+      "bitis_sn": 770,
+      "ozet": "Türk-İslam devletlerinde uygulanan gulam sistemi, esir veya toplanan çocukların Türk-İslam terbiyesiyle eğitilmesine dayanır. Gulam askerleri hazineden bistegani adı verilen düzenli maaş alırlar ve merkezde bulunur. Hassa ordusu ise doğrudan sultana bağlı muhafız birlikleridir.",
       "anahtar_kelimeler": [
         "gulam sistemi",
         "bistegani",
         "hassa ordusu",
+        "guleman-ı saray",
+        "devşirme"
+      ]
+    },
+    {
+      "baslik": "Askerî Teşkilat, Donanma ve Askerî Terimler",
+      "baslangic_sn": 770,
+      "bitis_sn": 1194.6,
+      "ozet": "İkta ordusu eyaletlerde görev yaparken, Anadolu Selçuklu Devleti denizcilikte gelişerek Reis-ül Bahr komutasında donanma kurmuştur. İç güvenlik için Şurta teşkilatı yapılandırılmış, Moğol tehlikesine karşı ise ücretli askerler istihdam edilmiştir. Ordunun idari işlerinden Divan-ı Arz sorumludur.",
+      "anahtar_kelimeler": [
+        "ikta ordusu",
+        "donanma",
         "reis-ül bahr",
         "şurta teşkilatı",
+        "subaşı",
         "divan-ı arz"
       ]
     }
   ],
   "olcumler": {
     "model": "gemini-3.5-flash",
-    "gecikme_sn": 14.38,
+    "gecikme_sn": 14.23,
     "girdi_token": 6903,
-    "cikti_token": 833,
-    "toplam_deneme": 1
+    "cikti_token": 794,
+    "toplam_deneme": 2
   }
 }

@@ -1,9 +1,20 @@
 [theme]
-primaryColor = "#4F46E5"
-backgroundColor = "#FFFFFF"
-secondaryBackgroundColor = "#F3F4F9"
-textColor = "#1F2937"
-font = "sans serif"
+base = "light"
+primaryColor = "#0F6B5F"
+backgroundColor = "#F6F2E9"
+secondaryBackgroundColor = "#F0EADD"
+textColor = "#1D2B36"
+borderColor = "#E2DAC9"
+baseRadius = "10px"
+font = "Figtree:https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&display=swap"
+headingFont = "Fraunces:https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&display=swap"
+codeFont = "JetBrains Mono:https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&display=swap"
+
+[theme.sidebar]
+backgroundColor = "#1D2B36"
+secondaryBackgroundColor = "#28394A"
+textColor = "#E8E3D6"
+borderColor = "#34475A"
 
 [server]
 maxUploadSize = 1000

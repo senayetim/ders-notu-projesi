@@ -1,5 +1,5 @@
 from bolumle import sinirlari_duzelt
-from yardimci import bolum_bul, sadelestir, vurgula
+from yardimci import bolum_bul, iceriyor, sadelestir, vurgula
 
 
 def bolum(baslangic, bitis):
@@ -11,15 +11,27 @@ def test_sadelestir_turkce_harfleri_esitler():
 
 
 def test_vurgula_aksansiz_sorguyla_ozgun_metni_korur():
-    assert vurgula("Küçük Prens geldi", "kucuk") == "**Küçük** Prens geldi"
+    assert vurgula("Küçük Prens geldi", "kucuk") == "<mark>Küçük</mark> Prens geldi"
 
 
 def test_vurgula_tum_gecisleri_isaretler():
-    assert vurgula("koyun ve Koyun", "koyun") == "**koyun** ve **Koyun**"
+    assert vurgula("koyun ve Koyun", "koyun") == "<mark>koyun</mark> ve <mark>Koyun</mark>"
+
+
+def test_arama_kelime_basini_yakalar_ortasini_yakalamaz():
+    assert iceriyor("İktanın önemi", "ikta")
+    assert iceriyor("Bu (ikta) sistemi", "ikta")
+    assert not iceriyor("Anladıktan sonra", "ikta")
+    assert vurgula("Anladıktan sonra ikta", "ikta") == "Anladıktan sonra <mark>ikta</mark>"
 
 
 def test_vurgula_bos_sorgu():
     assert vurgula("metin", "") == "metin"
+
+
+def test_vurgula_html_kacar():
+    assert vurgula("<b>koyun</b>", "koyun") == "&lt;b&gt;<mark>koyun</mark>&lt;/b&gt;"
+    assert vurgula("<script>", "") == "&lt;script&gt;"
 
 
 def test_bolum_bul_sinirlar():

@@ -1,0 +1,89 @@
+{
+  "bolumler": [
+    {
+      "baslik": "Karahanlıların Kuruluş Coğrafyası ve Genel Özellikleri",
+      "baslangic_sn": 0,
+      "bitis_sn": 261,
+      "ozet": "Karahanlılar; Karluk, Yağma, Çiğil ve Tükşi boylarının birleşmesiyle kurulmuş ve boylar federasyonu yapısı sergilemiştir. Batı Türkistan coğrafyasında kurulan devlet, adını Karlukları yöneten Kara ailesinden ve Han unvanından almaktadır. Ataları olarak İskitleri kabul etmiş ve kendilerini Afrasiyaboğulları olarak tanıtmışlardır.",
+      "anahtar_kelimeler": [
+        "Karahanlılar",
+        "Batı Türkistan",
+        "Karluk",
+        "Boylar Federasyonu",
+        "Afrasiyaboğulları"
+      ]
+    },
+    {
+      "baslik": "Karahanlılar Siyasi Tarihi ve Önemli Hükümdarları",
+      "baslangic_sn": 261,
+      "bitis_sn": 584,
+      "ozet": "Karahanlılar Bilge Kadir Han tarafından kurulmuş, Satuk Buğra Han döneminde İslamiyet'i kabul ederek devlet dini haline getirmiştir. En parlak dönem Yusuf Kadir Han zamanında yaşanmış, bu dönemde Gazneliler ile Maveraünnehir İttifakı kurulmuştur. Devlet zamanla Doğu ve Batı Karahanlılar olarak ikiye ayrılmış, Doğu'ya Karahitaylar, Batı'ya Harzemşahlar son vermiştir.",
+      "anahtar_kelimeler": [
+        "Satuk Buğra Han",
+        "Yusuf Kadir Han",
+        "Bilge Kadir Han",
+        "Maveraünnehir İttifakı",
+        "İkili Teşkilat"
+      ]
+    },
+    {
+      "baslik": "Karahanlılarda İlkler ve Kültürel Özellikler",
+      "baslangic_sn": 584,
+      "bitis_sn": 1023,
+      "ozet": "Karahanlılar Orta Asya'da kurulan ilk Türk-İslam devletidir ve ilk ribat, bimarhane, medrese ile düzenli posta örgütünü kurmuşlardır. Türkçe unvanlar ve Uygur alfabesi kullanarak milli kimliklerini ve Orta Asya Türk devlet geleneğini korumuşlardır. Kutadgu Bilig, Divanü Lugati't-Türk ve Divan-ı Hikmet gibi ilk Türk-İslam eserleri de bu dönemde verilmiştir.",
+      "anahtar_kelimeler": [
+        "Ribat",
+        "Bimarhane",
+        "Medrese",
+        "Milli Kimlik",
+        "Kutadgu Bilig"
+      ]
+    },
+    {
+      "baslik": "Gaznelilerin Kuruluşu ve Genel Özellikleri",
+      "baslangic_sn": 1023,
+      "bitis_sn": 1340,
+      "ozet": "Gazneliler, Samanoğulları'nın zayıflamasıyla komutan Alptekin tarafından Afganistan ve Hindistan çevresinde kurulmuştur. Saray dili Türkçe, yazı dili Farsça ve bilim dili Arapça olan devlet, çok uluslu yapısıyla ilk Türk-İslam imparatorluğu niteliğindedir. Önemli kültürel mirası arasında Pentname ve Zafer Kuleleri yer almaktadır.",
+      "anahtar_kelimeler": [
+        "Gazneliler",
+        "Alptekin",
+        "İmparatorluk",
+        "Çok Uluslu Yapı",
+        "Pentname"
+      ]
+    },
+    {
+      "baslik": "Gazneli Mahmut Dönemi ve Gaznelilerin Yıkılışı",
+      "baslangic_sn": 1340,
+      "bitis_sn": 1809,
+      "ozet": "Gazneli Mahmut, Abbasi halifesini koruduğu için Sultan unvanını alan ilk Türk hükümdarı olmuş ve Hindistan'a 17 sefer düzenleyerek İslamiyet'i yaymıştır. Biruni, Utbi ve Firdevsi gibi bilim insanı ve edipleri sarayında ağırlamıştır. Mahmut'un ardından Sultan Mesut döneminde Büyük Selçuklu ile yapılan Nesa, Serahs ve Dandanakan savaşları sonucu zayıflayan devlete Gurlular son vermiştir.",
+      "anahtar_kelimeler": [
+        "Gazneli Mahmut",
+        "Sultan Unvanı",
+        "Hindistan Seferleri",
+        "Biruni",
+        "Dandanakan Savaşı"
+      ]
+    },
+    {
+      "baslik": "Önemli Türk-İslam Şehirleri ve Unvanları",
+      "baslangic_sn": 1809,
+      "bitis_sn": 1988.9,
+      "ozet": "Türk-İslam tarihinde Sembolik unvanlara sahip önemli şehirler ele alınmıştır. Kaşgar 'Işıldayan İnci', Buhara 'İslam'ın Roma'sı', Semerkant 'Şehirlerin Şahı' ve İsfahan 'Nısf-ı Cihan' olarak anılmıştır. Ayrıca Ahlat ve Belh şehirleri 'Kubbet-ül İslam', Anadolu coğrafyası ise 'Diyar-ı Rûm' adıyla nitelendirilmiştir.",
+      "anahtar_kelimeler": [
+        "Semerkant",
+        "Buhara",
+        "Kaşgar",
+        "Kubbet-ül İslam",
+        "Diyar-ı Rûm"
+      ]
+    }
+  ],
+  "olcumler": {
+    "model": "gemini-3.5-flash",
+    "gecikme_sn": 16.78,
+    "girdi_token": 9669,
+    "cikti_token": 1336,
+    "toplam_deneme": 1
+  }
+}

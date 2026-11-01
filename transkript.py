@@ -28,13 +28,14 @@ def _model_yukle(model_boyutu, cihaz, hesap_tipi):
     return WhisperModel(model_boyutu, device=cihaz, compute_type=hesap_tipi)
 
 
-def _calistir(ses_yolu, model_boyutu, cihaz, hesap_tipi):
+def _calistir(ses_yolu, model_boyutu, cihaz, hesap_tipi, terimler, ilerleme):
     model = _model_yukle(model_boyutu, cihaz, hesap_tipi)
     print("Model yüklendi, transkripsiyon başlıyor...")
     baslangic = time.time()
     # condition_on_previous_text=False: aynı cümlenin art arda tekrarlanmasını önler
     segments, info = model.transcribe(
-        ses_yolu, language="tr", vad_filter=True, condition_on_previous_text=False
+        ses_yolu, language="tr", vad_filter=True, condition_on_previous_text=False,
+        hotwords=terimler or None,
     )
     parcalar = []
     for s in segments:
@@ -42,23 +43,32 @@ def _calistir(ses_yolu, model_boyutu, cihaz, hesap_tipi):
             {"baslangic": round(s.start, 2), "bitis": round(s.end, 2), "metin": s.text.strip()}
         )
         print(f"  [{s.start:6.1f}] {s.text.strip()}")
+        if ilerleme and info.duration:
+            ilerleme(min(s.end / info.duration, 1.0))
     return parcalar, info, time.time() - baslangic
 
 
-def transkript_et(ses_yolu, model_boyutu="medium"):
+def terimleri_birlestir(metin):
+    """Virgül ya da satırla ayrılmış terimleri Whisper'ın beklediği tek metne çevirir."""
+    return ", ".join(t.strip() for t in metin.replace("\n", ",").split(",") if t.strip())
+
+
+def transkript_et(ses_yolu, model_boyutu="medium", terimler="", ilerleme=None):
     """Önce GPU'yu dener, olmazsa CPU'ya düşer."""
+    terimler = terimleri_birlestir(terimler)
     try:
         cihaz, tip = "cuda", "int8_float16"
-        parcalar, info, sure = _calistir(ses_yolu, model_boyutu, cihaz, tip)
+        parcalar, info, sure = _calistir(ses_yolu, model_boyutu, cihaz, tip, terimler, ilerleme)
     except Exception as e:
         print(f"GPU çalışmadı ({e}), CPU'ya geçiliyor...")
         cihaz, tip = "cpu", "int8"
-        parcalar, info, sure = _calistir(ses_yolu, model_boyutu, cihaz, tip)
+        parcalar, info, sure = _calistir(ses_yolu, model_boyutu, cihaz, tip, terimler, ilerleme)
 
     return {
         "ses_dosyasi": ses_yolu,
         "model": model_boyutu,
         "cihaz": cihaz,
+        "terimler": terimler,
         "ses_suresi_sn": round(info.duration, 1),
         "islem_suresi_sn": round(sure, 1),
         "parcalar": parcalar,

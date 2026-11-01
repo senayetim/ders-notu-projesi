@@ -2,6 +2,19 @@
 
 Ders kayıtlarını yazıya döken, konulara bölüp özetleyen ve zaman damgasıyla aranabilir hale getiren Streamlit uygulaması. Ses faster-whisper ile yazıya dökülür, bölümleme ve özetleme Gemini ile yapılır.
 
+## Özellikler
+
+- **Bölümler:** Konu başlıkları, özetler, anahtar kelimeler. Notlar `.md`, `.docx` ve `.pdf` olarak indirilebilir.
+- **Kütüphane:** İşlenen dersler yan menüden yeniden yüklemeden açılır.
+- **Çalış:** Dersten quiz ve bilgi kartları üretilir, her biri kaynağı olan saniyeye bağlıdır.
+- **Soru sor:** Cevaplar yalnızca transkripte dayanır ve zaman damgalı kaynakla gelir.
+- **Arama:** Bu derste, tüm derslerde ya da anlama göre (kelime birebir geçmese de) arama.
+- **Özel terimler:** Derse özgü kelimeler Whisper'a verilerek doğru yazılması sağlanır.
+
+Arayüzün görünümü `assets/stil.css`, HTML parçaları `arayuz.py` dosyasındadır. Yazı tipleri Google Fonts'tan yüklenir; internet yoksa sistem yazı tipleri kullanılır.
+
+Quiz, soru sorma ve anlamsal arama Gemini API'sini kullanır. PDF çıktısı için Türkçe harfleri içeren bir sistem yazı tipi gerekir (Arial ya da DejaVu Sans).
+
 ## Kurulum
 
 Python 3.12 ile denendi.

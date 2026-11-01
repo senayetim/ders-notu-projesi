@@ -15,9 +15,12 @@ def app(tmp_path, monkeypatch):
     monkeypatch.setattr(modul, "st", MagicMock(session_state=SimpleNamespace()))
     cagrilar = {"transkript": 0, "bolum": 0}
 
-    def sahte_transkript(yol, model):
+    def sahte_transkript(yol, model, terimler="", ilerleme=None):
         cagrilar["transkript"] += 1
-        return {"ses_suresi_sn": 20.0, "parcalar": [{"baslangic": 0.0, "bitis": 20.0, "metin": "x"}]}
+        return {
+            "ses_dosyasi": yol, "ses_suresi_sn": 20.0,
+            "parcalar": [{"baslangic": 0.0, "bitis": 20.0, "metin": "x"}],
+        }
 
     def sahte_bolumle(transkript):
         cagrilar["bolum"] += 1
@@ -63,7 +66,7 @@ def test_bolumleme_basarisizsa_eski_bolum_geri_gelmez(app, monkeypatch):
 
 
 def test_transkript_hatasi_uygulamayi_dusurmez(app, monkeypatch):
-    def bozuk(yol, model):
+    def bozuk(yol, model, terimler="", ilerleme=None):
         raise RuntimeError("bozuk dosya")
 
     monkeypatch.setattr(app, "transkript_et", bozuk)

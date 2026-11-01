@@ -57,15 +57,14 @@ def sinirlari_duzelt(bolumler, toplam_sn):
     return duzeltilmis
 
 
-def bolumle(transkript):
-    """Transkripti LLM ile konu bölümlerine ayırır. (bölümler, ölçümler) döner."""
+def llm_json(icerik, talimat, sema, sicaklik=0.2):
+    """LLM'den şemaya uygun JSON ister, modeller arasında yedekli dener. (veri, ölçümler) döner."""
     istemci = genai.Client()  # GEMINI_API_KEY ortam değişkenini kendisi okur
-    metin = transkripti_metne_cevir(transkript)
     config = types.GenerateContentConfig(
-        system_instruction=SISTEM_TALIMATI,
+        system_instruction=talimat,
         response_mime_type="application/json",
-        response_schema=list[Bolum],
-        temperature=0.2,
+        response_schema=sema,
+        temperature=sicaklik,
     )
 
     hatalar = []
@@ -75,14 +74,14 @@ def bolumle(transkript):
             toplam_deneme += 1
             try:
                 baslangic = time.time()
-                yanit = istemci.models.generate_content(model=model, contents=metin, config=config)
+                yanit = istemci.models.generate_content(model=model, contents=icerik, config=config)
                 sure = time.time() - baslangic
 
                 if not yanit.text:
                     raise RuntimeError("Model boş yanıt döndürdü")
-                bolumler = json.loads(yanit.text)
-                if not bolumler:
-                    raise RuntimeError("Model boş bölüm listesi döndürdü")
+                veri = json.loads(yanit.text)
+                if not veri:
+                    raise RuntimeError("Model boş sonuç döndürdü")
 
                 kullanim = yanit.usage_metadata
                 olcumler = {
@@ -92,7 +91,7 @@ def bolumle(transkript):
                     "cikti_token": kullanim.candidates_token_count,
                     "toplam_deneme": toplam_deneme,
                 }
-                return sinirlari_duzelt(bolumler, transkript["ses_suresi_sn"]), olcumler
+                return veri, olcumler
 
             except errors.APIError as e:
                 hatalar.append(f"{model} (deneme {deneme}): {e.code}")
@@ -109,9 +108,19 @@ def bolumle(transkript):
     raise RuntimeError("Hiçbir model yanıt veremedi: " + " | ".join(hatalar))
 
 
+def bolumle(transkript):
+    """Transkripti LLM ile konu bölümlerine ayırır. (bölümler, ölçümler) döner."""
+    metin = transkripti_metne_cevir(transkript)
+    bolumler, olcumler = llm_json(metin, SISTEM_TALIMATI, list[Bolum])
+    return sinirlari_duzelt(bolumler, transkript["ses_suresi_sn"]), olcumler
+
+
 def sn_to_dk(sn):
     sn = int(sn)
-    return f"{sn // 60:02d}:{sn % 60:02d}"
+    saat, dakika, saniye = sn // 3600, sn // 60 % 60, sn % 60
+    if saat:
+        return f"{saat}:{dakika:02d}:{saniye:02d}"
+    return f"{dakika:02d}:{saniye:02d}"
 
 
 if __name__ == "__main__":

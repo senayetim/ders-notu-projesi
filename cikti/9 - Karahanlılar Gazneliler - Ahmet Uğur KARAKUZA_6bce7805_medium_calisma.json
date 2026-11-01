@@ -1,0 +1,201 @@
+{
+  "sorular": [
+    {
+      "soru": "Karahanlılar Devleti aşağıdaki hangi Türk boylarının birleşimiyle kurulmuştur?",
+      "secenekler": [
+        "Karluk, Yağma, Çiğil, Tüksü",
+        "Peçenek, Uz, Kıpçak, Karluk",
+        "Kınık, Avşar, Begdili, Çiğil",
+        "Yağma, Kıpçak, Çiğil, Tüksü"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Karahanlılar Devleti Karluk, Yağma, Çiğil ve Tüksü boylarının birleşmesiyle boylar federasyonu şeklinde kurulmuştur.",
+      "kaynak_sn": 50.1
+    },
+    {
+      "soru": "Karahanlılar Devleti'nde İslamiyet'in kabul edildiği ve resmi devlet dini haline geldiği dönem hangi hükümdar zamanına denk gelmektedir?",
+      "secenekler": [
+        "Bilge Kadir Han",
+        "Satuk Buğra Han",
+        "Yusuf Kadir Han",
+        "Tamgaç Buğra Han"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Satuk Buğra Han zamanında Samanoğulları şehzadesi ile görüşülmüş ve İslamiyet devlet dini olarak kabul edilmiştir.",
+      "kaynak_sn": 290.94
+    },
+    {
+      "soru": "Karahanlılar döneminde inşa edilen, ticari ve konaklama amaçlı kullanılan kervansaray yapılarına verilen özel ad hangisidir?",
+      "secenekler": [
+        "Bimarhane",
+        "Ribat",
+        "Medrese",
+        "Şadırvan"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Karahanlılar kervansaray türü yapılara 'ribat' adını vermişlerdir.",
+      "kaynak_sn": 612.47
+    },
+    {
+      "soru": "Gazneliler Devleti'nde saray dilinin Türkçe, yazı dilinin Farsça ve bilim dilinin Arapça olması bu devlet hakkında doğrudan hangisini kanıtlar?",
+      "secenekler": [
+        "Çok uluslu ve imparatorluk yapısına sahip olduğunu",
+        "Türkçeyi resmi dil kabul ettiklerini",
+        "Boylar federasyonu şeklinde örgütlendiklerini",
+        "Orta Asya devlet geleneğini aynen koruduklarını"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Birden fazla dilin kullanılması Gaznelilerin çok uluslu bir yapıda olduğunu ve ilk Türk-İslam imparatorluğu niteliği taşıdığını gösterir.",
+      "kaynak_sn": 1209.36
+    },
+    {
+      "soru": "Gazneli Mahmut, Abbasi halifesini Şiilere karşı koruduğu için halife tarafından kendisine hangi unvan verilmiştir?",
+      "secenekler": [
+        "Han",
+        "Hakan",
+        "Sultan",
+        "Tigin"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Gazneli Mahmut Abbasi halifesini koruduğu için tarihte 'Sultan' unvanını kullanan ilk Türk hükümdarı olmuştur.",
+      "kaynak_sn": 1373.22
+    },
+    {
+      "soru": "Gazneli Mahmut'un 'Sarayımın en değerli hazinesi' diyerek taltif ettiği bilim insanı hangisidir?",
+      "secenekler": [
+        "İbn-i Sina",
+        "Biruni",
+        "Utbi",
+        "Firdevsi"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Gazneli Mahmut, ünlü bilim insanı Biruni için 'Sarayımın en değerli hazinesi' ifadesini kullanmıştır.",
+      "kaynak_sn": 1608.7
+    },
+    {
+      "soru": "Karahanlılar ve Gazneliler'in 1025 yılında Büyük Selçuklu Devleti'ne karşı kurdukları ittifakın adı nedir?",
+      "secenekler": [
+        "Maveraünnehir İttifakı",
+        "Horasan Paktı",
+        "Dandanakan İttifakı",
+        "Semerkand Paktı"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Karahanlı hükümdarı Yusuf Kadir Han ile Gazneli Mahmut, Büyük Selçuklu'ya karşı Maveraünnehir İttifakı'nı kurmuşlardır.",
+      "kaynak_sn": 121.82
+    },
+    {
+      "soru": "Türk-İslam şehir unvanları eşleştirmesinde 'Şehirlerin Şahı' unvanı ile anılan şehir hangisidir?",
+      "secenekler": [
+        "Kaşgar",
+        "Buhara",
+        "Semerkant",
+        "İsfahan"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Türk-İslam medeniyetinde Semerkant şehri 'Şehirlerin Şahı' unvanıyla tanınmaktadır.",
+      "kaynak_sn": 1851.28
+    },
+    {
+      "soru": "Gazneliler Devleti'nin tam bağımsız bir devlet haline gelmesini sağlayan hükümdar kimdir?",
+      "secenekler": [
+        "Alptekin",
+        "Sebüktegin",
+        "Sultan Mesut",
+        "Gazneli Mahmut"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Gazneliler Samanoğlu komutanı Alptekin tarafından kurulmuş, Sebüktegin döneminde ise tam bağımsız devlet niteliği kazanmıştır.",
+      "kaynak_sn": 1126.96
+    },
+    {
+      "soru": "Karahanlılar Devleti'ne en parlak dönemini yaşatan hükümdar aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Bilge Kadir Han",
+        "Yusuf Kadir Han",
+        "Satuk Buğra Han",
+        "Ahmet Arslan Han"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "İslamiyet'i kabul eden popüler hükümdar Satuk Buğra Han olmasına rağmen Karahanlıların en parlak dönemi Yusuf Kadir Han dönemidir.",
+      "kaynak_sn": 379.39
+    }
+  ],
+  "kartlar": [
+    {
+      "on": "Karahanlılar Devleti'nin kurucusu kimdir?",
+      "arka": "Bilge Kadir Han",
+      "kaynak_sn": 264.7
+    },
+    {
+      "on": "Karahanlılar Devleti'nin en parlak dönemi hangi hükümdar zamanıdır?",
+      "arka": "Yusuf Kadir Han",
+      "kaynak_sn": 379.39
+    },
+    {
+      "on": "Satuk Buğra Han İslamiyet'i kabul ettikten sonra hangi ismi almıştır?",
+      "arka": "Abdülkerim (Unvanı: El Mücahit El Gazi)",
+      "kaynak_sn": 316.63
+    },
+    {
+      "on": "Orta Asya'da kurulan ilk Türk-İslam devleti hangisidir?",
+      "arka": "Karahanlılar Devleti",
+      "kaynak_sn": 572.52
+    },
+    {
+      "on": "Karahanlılarda akıl hastanelerine ne ad verilirdi?",
+      "arka": "Bimarhane",
+      "kaynak_sn": 633.56
+    },
+    {
+      "on": "Karahanlılar dönemindeki ilk medrese hangi şehirde açılmıştır?",
+      "arka": "Semerkand",
+      "kaynak_sn": 636.6
+    },
+    {
+      "on": "Gazneliler Devleti'nin kurucusu kimdir?",
+      "arka": "Alptekin",
+      "kaynak_sn": 1120.96
+    },
+    {
+      "on": "Sultan unvanını kullanan ilk Türk hükümdarı kimdir?",
+      "arka": "Gazneli Mahmut",
+      "kaynak_sn": 1373.22
+    },
+    {
+      "on": "Gazneli Mahmut Hindistan'a kaç sefer düzenlemiştir?",
+      "arka": "17 sefer",
+      "kaynak_sn": 1421.38
+    },
+    {
+      "on": "Gazneli Mahmut'a Şehname adlı ünlü eserini sunan şair kimdir?",
+      "arka": "Firdevsi",
+      "kaynak_sn": 1677.28
+    },
+    {
+      "on": "Gazneliler ile Büyük Selçuklular arasında Horasan bölgesi için yapılan savaşlar hangileridir?",
+      "arka": "Nesa, Serahs ve Dandanakan Savaşları",
+      "kaynak_sn": 1740.92
+    },
+    {
+      "on": "Gazneliler Devleti'ni yıkan yerel kabile hangisidir?",
+      "arka": "Gurulular",
+      "kaynak_sn": 1766.0
+    },
+    {
+      "on": "Kaşgar şehrinin Türk-İslam tarihindeki unvanı nedir?",
+      "arka": "Işıldayan İnci",
+      "kaynak_sn": 1817.86
+    },
+    {
+      "on": "Türk-İslam kültüründe 'İslam'ın Roma'sı' olarak adlandırılan şehir hangisidir?",
+      "arka": "Buhara",
+      "kaynak_sn": 1835.57
+    },
+    {
+      "on": "'Nıfıs-ı Cihan' (Dünyanın Yarısı) unvanıyla bilinen şehir hangisidir?",
+      "arka": "İsfahan",
+      "kaynak_sn": 1877.45
+    }
+  ]
+}
