@@ -6,6 +6,7 @@ import json
 import site
 import sys
 import time
+from functools import lru_cache
 
 
 def _cuda_dll_yollari_ekle():
@@ -21,12 +22,20 @@ _cuda_dll_yollari_ekle()
 from faster_whisper import WhisperModel
 
 
-def _calistir(ses_yolu, model_boyutu, cihaz, hesap_tipi):
+@lru_cache(maxsize=1)  # sonraki dosyalarda model baştan yüklenmesin
+def _model_yukle(model_boyutu, cihaz, hesap_tipi):
     print(f"Model yükleniyor: {model_boyutu} ({cihaz})...")
-    model = WhisperModel(model_boyutu, device=cihaz, compute_type=hesap_tipi)
+    return WhisperModel(model_boyutu, device=cihaz, compute_type=hesap_tipi)
+
+
+def _calistir(ses_yolu, model_boyutu, cihaz, hesap_tipi):
+    model = _model_yukle(model_boyutu, cihaz, hesap_tipi)
     print("Model yüklendi, transkripsiyon başlıyor...")
     baslangic = time.time()
-    segments, info = model.transcribe(ses_yolu, language="tr", vad_filter=True)
+    # condition_on_previous_text=False: aynı cümlenin art arda tekrarlanmasını önler
+    segments, info = model.transcribe(
+        ses_yolu, language="tr", vad_filter=True, condition_on_previous_text=False
+    )
     parcalar = []
     for s in segments:
         parcalar.append(

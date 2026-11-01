@@ -1,3 +1,4 @@
+import hashlib
 import html
 import json
 from pathlib import Path
@@ -5,8 +6,9 @@ from pathlib import Path
 import streamlit as st
 
 from bolumle import MODEL as LLM_MODEL
-from bolumle import bolumle, sn_to_dk
+from bolumle import bolumle, sinirlari_duzelt, sn_to_dk
 from transkript import transkript_et
+from yardimci import bolum_bul, sadelestir, vurgula
 
 st.set_page_config(page_title="Ders Notu Asistanı", page_icon="🎓", layout="wide")
 
@@ -38,44 +40,18 @@ st.markdown(
 )
 
 for anahtar, deger in {
-    "transkript": None, "bolumler": [], "olcumler": None, "ses_bayt": None,
+    "transkript": None, "bolumler": [], "olcumler": None, "ses_yol": None,
     "ses_format": "audio/mpeg", "dosya_adi": "", "baslangic_sn": 0, "otomatik": False,
-    "bolum_hatasi": None,
+    "oynatma_no": 0, "bolum_hatasi": None,
 }.items():
     st.session_state.setdefault(anahtar, deger)
 
 
 # ---------- Yardımcı fonksiyonlar ----------
-def sadelestir(metin):
-    """Küçük harfe çevirir ve Türkçe karakterleri sadeleştirir (arama için)."""
-    metin = metin.replace("İ", "i").replace("I", "ı").lower()
-    return metin.translate(str.maketrans("çğıöşü", "cgiosu"))
-
-
-def vurgula(metin, sorgu):
-    m, s = sadelestir(metin), sadelestir(sorgu)
-    if not s:
-        return metin
-    sonuc, i = "", 0
-    while True:
-        j = m.find(s, i)
-        if j == -1:
-            return sonuc + metin[i:]
-        sonuc += metin[i:j] + "**" + metin[j:j + len(s)] + "**"
-        i = j + len(s)
-
-
-def bolum_bul(bolumler, sn):
-    """Verilen saniyenin hangi bölümde olduğunu (sıra, bölüm) olarak döner."""
-    for i, b in enumerate(bolumler):
-        if b["baslangic_sn"] <= sn < b["bitis_sn"]:
-            return i, b
-    return None
-
-
 def git(sn):
     st.session_state.baslangic_sn = int(sn)
     st.session_state.otomatik = True
+    st.session_state.oynatma_no += 1
 
 
 def rozet(metin, renk):
@@ -115,7 +91,8 @@ def transkript_txt(t):
 def isle(ses_bayt, dosya_adi, whisper_modeli, yeniden_t, yeniden_b):
     yol = YUKLEME_DIZINI / dosya_adi
     yol.write_bytes(ses_bayt)
-    anahtar = f"{yol.stem}_{whisper_modeli}"
+    # İçerik özeti anahtara girer: aynı adlı farklı kayıtlar birbirinin sonucunu almasın
+    anahtar = f"{yol.stem}_{hashlib.sha256(ses_bayt).hexdigest()[:8]}_{whisper_modeli}"
     t_yol = CIKTI_DIZINI / f"{anahtar}_transkript.json"
     b_yol = CIKTI_DIZINI / f"{anahtar}_bolumler.json"
 
@@ -126,13 +103,20 @@ def isle(ses_bayt, dosya_adi, whisper_modeli, yeniden_t, yeniden_b):
             transkript = json.loads(t_yol.read_text(encoding="utf-8"))
         else:
             st.write("Ses yazıya dökülüyor (ilk seferde model indirilir, lütfen bekle)...")
-            transkript = transkript_et(str(yol), whisper_modeli)
+            try:
+                transkript = transkript_et(str(yol), whisper_modeli)
+            except Exception as e:
+                durum.update(label="Transkript üretilemedi", state="error", expanded=True)
+                st.error(f"Ses yazıya dökülemedi: {e}")
+                return
             t_yol.write_text(json.dumps(transkript, ensure_ascii=False, indent=2), encoding="utf-8")
+            b_yol.unlink(missing_ok=True)  # eski bölümlerin zamanları yeni transkripte uymaz
 
         if b_yol.exists() and not yeniden_b:
             st.write("Kayıtlı bölümleme bulundu, Gemini atlanıyor.")
             kayit = json.loads(b_yol.read_text(encoding="utf-8"))
-            bolumler, olcumler = kayit["bolumler"], kayit["olcumler"]
+            bolumler = sinirlari_duzelt(kayit["bolumler"], transkript["ses_suresi_sn"])
+            olcumler = kayit["olcumler"]
         else:
             st.write("Konulara bölünüyor (Gemini)...")
             try:
@@ -149,7 +133,7 @@ def isle(ses_bayt, dosya_adi, whisper_modeli, yeniden_t, yeniden_b):
     st.session_state.transkript = transkript
     st.session_state.bolumler = bolumler
     st.session_state.olcumler = olcumler
-    st.session_state.ses_bayt = ses_bayt
+    st.session_state.ses_yol = str(yol)
     st.session_state.ses_format = SES_FORMATLARI.get(Path(dosya_adi).suffix.lower(), "audio/mpeg")
     st.session_state.dosya_adi = dosya_adi
     st.session_state.baslangic_sn = 0
@@ -167,8 +151,6 @@ with st.sidebar:
     yeniden_t = st.checkbox("Transkripti yeniden üret")
     yeniden_b = st.checkbox("Bölümlemeyi yeniden üret")
     st.divider()
-    st.caption(f"Özetleme modeli: {LLM_MODEL}")
-    st.caption("Ses → yazı: faster-whisper")
 
 # ---------- Başlık ----------
 st.markdown('<p class="hero-baslik">🎓 Ders Notu Asistanı</p>', unsafe_allow_html=True)
@@ -180,6 +162,11 @@ st.markdown(
 yuklenen = st.file_uploader("Ses dosyası", type=["mp3", "wav", "m4a", "mp4", "ogg", "flac"])
 if yuklenen and st.button("İşle", type="primary"):
     isle(yuklenen.getvalue(), yuklenen.name, whisper_modeli, yeniden_t, yeniden_b)
+
+# İşlemden sonra yazılır ki yedek modele geçildiyse o görünsün
+kullanilan = st.session_state.olcumler
+st.sidebar.caption(f"Özetleme modeli: {kullanilan['model'] if kullanilan else LLM_MODEL}")
+st.sidebar.caption("Ses → yazı: faster-whisper")
 
 t = st.session_state.transkript
 
@@ -201,11 +188,13 @@ else:
     st.divider()
     bolumler = st.session_state.bolumler
     st.caption(f"📁 {st.session_state.dosya_adi}")
+    # Oynatıcı aynı başlangıca tekrar sarmaz; alt değişince yeniden kurulup baştan çalar
     st.audio(
-        st.session_state.ses_bayt,
+        st.session_state.ses_yol,
         format=st.session_state.ses_format,
         start_time=st.session_state.baslangic_sn,
         autoplay=st.session_state.otomatik,
+        alt=f"Ders kaydı {st.session_state.oynatma_no}",
     )
 
     sekme_b, sekme_a, sekme_t, sekme_o = st.tabs(["Bölümler", "Arama", "Tam transkript", "Ölçümler"])
@@ -221,7 +210,7 @@ else:
             m1, m2, m3 = st.columns(3)
             m1.metric("Süre", sn_to_dk(t["ses_suresi_sn"]))
             m2.metric("Bölüm sayısı", len(bolumler))
-            m3.metric("Cümle sayısı", len(t["parcalar"]))
+            m3.metric("Parça sayısı", len(t["parcalar"]))
 
             zaman_cizelgesi(bolumler, t["ses_suresi_sn"])
 
@@ -282,7 +271,7 @@ else:
         st.dataframe(
             [{"Zaman": sn_to_dk(p["baslangic"]), "Metin": p["metin"]} for p in t["parcalar"]],
             hide_index=True,
-            use_container_width=True,
+            width="stretch",
         )
 
     # --- Ölçümler ---

@@ -1,7 +1,11 @@
 .env
 venv/
 __pycache__/
+.pytest_cache/
 *.mp3
 *.wav
 *.m4a
+*.mp4
+*.ogg
+*.flac
 /yuklenenler/

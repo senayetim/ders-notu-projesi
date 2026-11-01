@@ -1,5 +1,4 @@
 import json
-import os
 import sys
 import time
 
@@ -11,7 +10,6 @@ from pydantic import BaseModel
 
 load_dotenv()
 
-# Model adı değişirse sadece bu satırı değiştir. 404 hatası alırsan "gemini-2.5-flash" dene.
 # Sırayla denenir: ilki yoğunsa ya da bulunamazsa sıradakine geçilir
 MODELLER = ["gemini-3.5-flash", "gemini-2.5-flash", "gemini-3.5-flash-lite"]
 MODEL = MODELLER[0]  # app.py kenar çubuğunda göstermek için
@@ -45,6 +43,18 @@ Kurallar:
 def transkripti_metne_cevir(transkript):
     satirlar = [f"[{int(p['baslangic'])}] {p['metin']}" for p in transkript["parcalar"]]
     return "\n".join(satirlar)
+
+
+def sinirlari_duzelt(bolumler, toplam_sn):
+    """LLM'in verdiği sınırları boşluksuz ve tüm kaydı kapsayacak hale getirir."""
+    sirali = sorted(bolumler, key=lambda b: b["baslangic_sn"])
+    duzeltilmis = []
+    for i, b in enumerate(sirali):
+        baslangic = 0 if i == 0 else b["baslangic_sn"]
+        bitis = sirali[i + 1]["baslangic_sn"] if i + 1 < len(sirali) else toplam_sn
+        if bitis > baslangic:
+            duzeltilmis.append({**b, "baslangic_sn": baslangic, "bitis_sn": bitis})
+    return duzeltilmis
 
 
 def bolumle(transkript):
@@ -82,7 +92,7 @@ def bolumle(transkript):
                     "cikti_token": kullanim.candidates_token_count,
                     "toplam_deneme": toplam_deneme,
                 }
-                return bolumler, olcumler
+                return sinirlari_duzelt(bolumler, transkript["ses_suresi_sn"]), olcumler
 
             except errors.APIError as e:
                 hatalar.append(f"{model} (deneme {deneme}): {e.code}")
