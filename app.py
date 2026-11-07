@@ -14,7 +14,7 @@ from kutuphane import ders_oku, ders_ozeti, dersleri_listele, tum_derslerde_ara
 from transkript import transkript_et
 from yardimci import bolum_bul, iceriyor, vurgula
 
-st.set_page_config(page_title="Ders Notu", page_icon="📓", layout="wide")
+st.set_page_config(page_title="LectureNote", page_icon=str(arayuz.LOGO_YOLU), layout="wide")
 st.html(arayuz.CSS_YOLU)
 
 YUKLEME_DIZINI = Path("yuklenenler")

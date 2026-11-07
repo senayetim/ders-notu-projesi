@@ -20,10 +20,21 @@ def uzun_sure(sn):
     return f"{max(dakika, 1)} dk"
 
 
+LOGO_YOLU = Path(__file__).parent / "assets" / "logo.png"
+# Rozetin sarı zemini CSS'ten gelir; burada yalnızca ses dalgası ve not satırları çizilir
+LOGO_SVG = (
+    '<svg viewBox="0 0 64 64" width="26" height="26" fill="#1D2B36" aria-hidden="true">'
+    '<rect x="11.5" y="20" width="5" height="8" rx="2.5"/><rect x="20.5" y="16" width="5" height="16" rx="2.5"/>'
+    '<rect x="29.5" y="13" width="5" height="22" rx="2.5"/><rect x="38.5" y="17" width="5" height="14" rx="2.5"/>'
+    '<rect x="47.5" y="20" width="5" height="8" rx="2.5"/><rect x="11.5" y="41" width="41" height="4.5" rx="2.25"/>'
+    '<rect x="11.5" y="49" width="26" height="4.5" rx="2.25" opacity=".55"/></svg>'
+)
+
+
 def marka():
     return (
-        '<div class="marka"><div class="marka-rozet">D</div>'
-        '<div><div class="marka-ad">Ders Notu</div><div class="marka-alt">Çalışma asistanın</div></div></div>'
+        f'<div class="marka"><div class="marka-rozet">{LOGO_SVG}</div>'
+        '<div><div class="marka-ad">LectureNote</div><div class="marka-alt">Ders kaydından çalışma notuna</div></div></div>'
     )
 
 
