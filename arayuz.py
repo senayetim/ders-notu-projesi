@@ -1,4 +1,5 @@
 """Arayüzün HTML parçaları. Yapay zekâdan ya da kayıttan gelen her metin burada kaçışlanır."""
+import base64
 from html import escape
 from pathlib import Path
 
@@ -20,10 +21,19 @@ def uzun_sure(sn):
     return f"{max(dakika, 1)} dk"
 
 
+LOGO_YOLU = Path(__file__).parent / "assets" / "logo.png"
+# st.html satır içi <svg>'yi temizlediği için logo <img> içinde data URI olarak verilir
+LOGO_IMG = (
+    '<img src="data:image/svg+xml;base64,'
+    + base64.b64encode((Path(__file__).parent / "assets" / "logo.svg").read_bytes()).decode()
+    + '" width="34" height="34" alt="" style="display:block">'
+)
+
+
 def marka():
     return (
-        '<div class="marka"><div class="marka-rozet">D</div>'
-        '<div><div class="marka-ad">Ders Notu</div><div class="marka-alt">Çalışma asistanın</div></div></div>'
+        f'<div class="marka"><div class="marka-rozet">{LOGO_IMG}</div>'
+        '<div><div class="marka-ad">EchoNote</div><div class="marka-alt">Ders kaydından çalışma notuna</div></div></div>'
     )
 
 

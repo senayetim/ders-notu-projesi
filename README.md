@@ -1,4 +1,4 @@
-# Ders Notu Asistanı
+# EchoNote
 
 Ders kayıtlarını yazıya döken, konulara bölüp özetleyen ve zaman damgasıyla aranabilir hale getiren Streamlit uygulaması. Ses faster-whisper ile yazıya dökülür, bölümleme ve özetleme Gemini ile yapılır.
 

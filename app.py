@@ -14,7 +14,7 @@ from kutuphane import ders_oku, ders_ozeti, dersleri_listele, tum_derslerde_ara
 from transkript import transkript_et
 from yardimci import bolum_bul, iceriyor, vurgula
 
-st.set_page_config(page_title="Ders Notu", page_icon="📓", layout="wide")
+st.set_page_config(page_title="EchoNote", page_icon=str(arayuz.LOGO_YOLU), layout="wide")
 st.html(arayuz.CSS_YOLU)
 
 YUKLEME_DIZINI = Path("yuklenenler")
@@ -206,7 +206,7 @@ def ana_sayfa(dersler):
             if isle(yuklenen.getvalue(), yuklenen.name, whisper_modeli, yeniden_t, yeniden_b, terimler):
                 st.rerun()
 
-    st.space("large")
+    st.space("small")
     if not ozetler:
         st.html(arayuz.adimlar())
         return
@@ -491,28 +491,6 @@ def transkript_sekmesi(t, bolumler):
     st.html(arayuz.transkript_okuma(t["parcalar"], bolumler))
 
 
-def olcumler_sekmesi(t):
-    hiz = t["ses_suresi_sn"] / t["islem_suresi_sn"] if t["islem_suresi_sn"] else 0
-    st.html('<p class="bolum-etiketi">Ses → yazı</p>')
-    st.html(arayuz.istatistikler([
-        ("Model", t["model"]),
-        ("Cihaz", t["cihaz"].upper() if t["cihaz"] == "cpu" else "GPU"),
-        ("Ses süresi", sn_to_dk(t["ses_suresi_sn"])),
-        ("İşlem süresi", sn_to_dk(t["islem_suresi_sn"])),
-        ("Hız", f"{hiz:.1f} kat".replace(".", ",")),
-    ]))
-    o = st.session_state.olcumler
-    if o:
-        st.space("small")
-        st.html('<p class="bolum-etiketi">Bölümleme</p>')
-        st.html(arayuz.istatistikler([
-            ("Model", o["model"]),
-            ("Gecikme", f"{o['gecikme_sn']} sn".replace(".", ",")),
-            ("Girdi token", f"{o['girdi_token']:,}".replace(",", ".")),
-            ("Çıktı token", f"{o['cikti_token']:,}".replace(",", ".")),
-        ]))
-
-
 def ders_sayfasi(t, dersler):
     bolumler = st.session_state.bolumler
     anahtar = st.session_state.anahtar
@@ -536,7 +514,7 @@ def ders_sayfasi(t, dersler):
     else:
         st.warning("Bu dersin ses dosyası bulunamadı; notlar açık ama dinleme düğmeleri çalışmaz.")
 
-    sekmeler = st.tabs(["Bölümler", "Çalış", "Soru sor", "Arama", "Transkript", "Ölçümler"])
+    sekmeler = st.tabs(["Bölümler", "Çalış", "Soru sor", "Arama", "Transkript"])
     with sekmeler[0]:
         bolumler_sekmesi(t, bolumler)
     with sekmeler[1]:
@@ -547,8 +525,6 @@ def ders_sayfasi(t, dersler):
         arama_sekmesi(t, bolumler, anahtar)
     with sekmeler[4]:
         transkript_sekmesi(t, bolumler)
-    with sekmeler[5]:
-        olcumler_sekmesi(t)
 
 
 # ---------- Sayfa seçimi ----------
