@@ -69,7 +69,7 @@ button:focus-visible { outline: 2px solid var(--vurgu) !important; outline-offse
 [data-testid="stSidebarHeader"] { position: absolute; top: 0; right: 0; width: auto; height: auto; padding: .9rem .6rem 0 0; z-index: 2; }
 [data-testid="stSidebarUserContent"] { padding-top: 1rem; }
 .marka { display: flex; align-items: center; gap: .65rem; padding: .1rem 0 .4rem; }
-.marka-rozet { width: 34px; height: 34px; border-radius: 10px; background: var(--kalem); color: var(--murekkep); flex-shrink: 0;
+.marka-rozet { width: 34px; height: 34px; border-radius: 10px; background: var(--kalem); color: var(--murekkep);
                display: grid; place-items: center; font-family: var(--baslik-yazi); font-weight: 700; font-size: 1.15rem; }
 .marka-ad { font-family: var(--baslik-yazi); font-size: 1.12rem; font-weight: 600; color: #FBF7EC; line-height: 1.15; }
 .marka-alt { font-size: .74rem; color: #A9B4B8; }
