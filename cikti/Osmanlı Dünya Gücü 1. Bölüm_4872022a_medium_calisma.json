@@ -1,0 +1,201 @@
+{
+  "sorular": [
+    {
+      "soru": "Fatih Sultan Mehmet Dönemi'nde kuşatılmasına rağmen alınamayan yerler aşağıdakilerin hangisinde birlikte verilmiştir?",
+      "secenekler": [
+        "Rodos ve Belgrad",
+        "Kırım ve Mora",
+        "Amasya ve Sinop",
+        "Trabzon ve Bosna"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Fatih Sultan Mehmet karada Belgrad'ı, denizde ise Rodos'u kuşatmış fakat alamamıştır.",
+      "kaynak_sn": 2173.06
+    },
+    {
+      "soru": "Fatih Sultan Mehmet'in Bizans imparatorlarının kullandığı unvanı üstlenerek kendisini Doğu Roma'nın tek varisi saydığını gösteren unvan aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Hakanül Berreyn",
+        "Kayser-i Rum",
+        "Hakanül Bahreyn",
+        "Sultan-ı İklim-i Rum"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Fatih Sultan Mehmet, İstanbul'u fethettikten sonra Bizans imparatorlarının kullandığı Kayser-i Rum unvanını almıştır.",
+      "kaynak_sn": 872.19
+    },
+    {
+      "soru": "1473 yılında Akkoyunlu Devleti hükümdarı Uzun Hasan ile Osmanlı Devleti arasında yapılan Otlukbeli Savaşı'nda ara buluculuk yapan ünlü bilim insanı kimdir?",
+      "secenekler": [
+        "Piri Reis",
+        "İlber Ortaylı",
+        "Ali Kuşçu",
+        "Akşemseddin"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Otlukbeli Savaşı sırasında Fatih Sultan Mehmet ile Uzun Hasan arasında ara buluculuk yapan bilim insanı Ali Kuşçu'dur.",
+      "kaynak_sn": 1544.57
+    },
+    {
+      "soru": "Gedik Ahmet Paşa komutasında 1475 yılında Kırım'ın fethedilmesinin Osmanlı Devleti açısından en önemli sonucu aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Akdeniz'in Türk gölü haline gelmesi",
+        "İtalya'nın tamamen fethedilmesi",
+        "Venedik ile barış antlaşması yapılması",
+        "Karadeniz'in Türk yolu haline gelmesi ve İpek Yolu'nda tam denetim sağlanması"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "Kırım'ın fethiyle birlikte Karadeniz bir Türk yolu haline gelmiş ve İpek Yolu ticaretinde tam denetim sağlanmıştır.",
+      "kaynak_sn": 1769.6
+    },
+    {
+      "soru": "Osmanlı Devleti'nin Fatih Dönemi'nde gayrimüslimlere dinsel hoşgörü tanıması ve Venedik gibi Avrupalı devletlere imtiyazlar vermesinin temel amacı aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Avrupa Hristiyan birliğinin (Haçlı ittifakı) oluşmasını engellemek",
+        "Derebeylik (feodalite) sistemini güçlendirmek",
+        "İpek Yolu ticaretini tamamen sonlandırmak",
+        "Akdeniz'deki donanma faaliyetlerini durdurmak"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Azınlıklara iyi davranılması veya Hristiyan devletlere ticari kapitülasyonlar/imtiyazlar verilmesinin temel amacı, onları yanına çekerek Osmanlı'ya karşı bir Haçlı ittifakı oluşmasını önlemektir.",
+      "kaynak_sn": 1196.38
+    },
+    {
+      "soru": "Fatih Sultan Mehmet'in İstanbul'u fethettikten sonra halka can ve mal güvenliği garantisi vermek amacıyla yayımladığı belgeye ne ad verilir?",
+      "secenekler": [
+        "Fetihname",
+        "Amanname",
+        "Kanunname",
+        "Berat"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Fethedilen bir bölgede halkın can, mal ve inanç özgürlüğüne verilen resmi güvence belgesine amanname denir.",
+      "kaynak_sn": 1254.5
+    },
+    {
+      "soru": "Ders anlatımında harita kültürü çerçevesinde verilen ipucuna göre, soruda Ortadoğu coğrafyasındaki fetihlerden bahsediliyorsa cevap olarak hangi Osmanlı padişahı düşünülmelidir?",
+      "secenekler": [
+        "Fatih Sultan Mehmet",
+        "Yavuz Sultan Selim",
+        "Kanuni Sultan Süleyman",
+        "İkinci Bayezid"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Sorularda Balkanlar ve Karadeniz Fatih'i, Ortadoğu Yavuz Sultan Selim'i, Macaristan-Viyana gibi Balkanlar ötesi ise Kanuni'yi işaret eder.",
+      "kaynak_sn": 184.94
+    },
+    {
+      "soru": "Gedik Ahmet Paşa komutasındaki Osmanlı donanmasının İtalya'nın topuğu olarak bilinen Otranto'yu fethetmesinin temel amacı aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "İtalya'nın fethine zemin hazırlamak",
+        "Karamanoğulları Beyliği'ne son vermek",
+        "Trabzon Rum İmparatorluğu'nu yıkmak",
+        "Karadeniz ticaretini Venedik'e devretmek"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Otranto'nun fethi, İtalya'nın fethine zemin hazırlamak ve Hristiyan dünyasının merkezine doğru ilerlemek amacıyla yapılmıştır.",
+      "kaynak_sn": 1930.54
+    },
+    {
+      "soru": "Fatih Sultan Mehmet Dönemi'nde Venedik'e verilen ayrıcalıklar kapsamında İstanbul'da bulundurmalarına izin verilen Venedik elçisine ne ad verilirdi?",
+      "secenekler": [
+        "Kardinal",
+        "Patrik",
+        "Balyos",
+        "Konsolos"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Fatih Dönemi'nde Venedik'e tanınan ayrıcalıklar çerçevesinde Venedik'in İstanbul'da bulundurduğu elçiye Balyos denmiştir.",
+      "kaynak_sn": 2041.02
+    },
+    {
+      "soru": "Bizanslı din adamlarının İstanbul'da kardinal külahı görmektense Osmanlı sarığı giymeyi tercih ederim demelerinin temel sebebi aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Dördüncü Haçlı Seferi'nden beri Katoliklere duydukları nefret ve Osmanlı'nın hoşgörülü yönetimi",
+        "Fatih Sultan Mehmet'in kendilerine zorla İslamiyet'i kabul ettirmesi",
+        "Venediklilerin Karadeniz ticaretini ele geçirmesi",
+        "Akkoyunluların Ortodokslara saldırması"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Dördüncü Haçlı Seferi sırasında Katoliklerin Ortodokslara saldırmış olması nedeniyle Bizanslılar Papa ve Katolik baskısı yerine Osmanlı adaletini tercih etmişlerdir.",
+      "kaynak_sn": 526.21
+    }
+  ],
+  "kartlar": [
+    {
+      "on": "Fatih Sultan Mehmet Dönemi'ni simgeleyen ana fetih alanları nelerdir?",
+      "arka": "Balkanlar ve Karadeniz sahilleri.",
+      "kaynak_sn": 175.14
+    },
+    {
+      "on": "Yavuz Sultan Selim Dönemi fetih haritasında öne çıkan coğrafya neresidir?",
+      "arka": "Ortadoğu.",
+      "kaynak_sn": 184.94
+    },
+    {
+      "on": "Kanuni Sultan Süleyman Dönemi fetihlerinde öne çıkan coğrafi alanlar nerelerdir?",
+      "arka": "Balkanlar'dan ötesi (Macaristan, Viyana, Belgrad, Zigetvar).",
+      "kaynak_sn": 189.46
+    },
+    {
+      "on": "İtalya ile Bosna arasında yer alan deniz hangisidir?",
+      "arka": "Adriyatik Denizi.",
+      "kaynak_sn": 237.23
+    },
+    {
+      "on": "İstanbul'un fethinde deniz ateşi olarak bilinen Bizans silahı nedir?",
+      "arka": "Grejuva (Rum Ateşi).",
+      "kaynak_sn": 467.63
+    },
+    {
+      "on": "İstanbul'un fethine hazırlık amacıyla Karadeniz yardımını kesmek için yapılan hisar hangisidir?",
+      "arka": "Rumeli Hisarı (Boğazkesen).",
+      "kaynak_sn": 671.28
+    },
+    {
+      "on": "Fatih Sultan Mehmet'e verilen İki Denizin Hakanı anlamına gelen unvan nedir?",
+      "arka": "Hakanül Bahreyn.",
+      "kaynak_sn": 889.87
+    },
+    {
+      "on": "Fatih Sultan Mehmet'e verilen İki Karanın Hakanı anlamına gelen unvan nedir?",
+      "arka": "Hakanül Berreyn.",
+      "kaynak_sn": 904.6
+    },
+    {
+      "on": "İstanbul'dan İtalya'ya kaçan bilim insanlarının katkısıyla Avrupa'da başlayan hareket nedir?",
+      "arka": "Rönesans.",
+      "kaynak_sn": 959.99
+    },
+    {
+      "on": "Fethedilen bir bölgede halkın can, mal ve din güvencesini belirten belgeye ne denir?",
+      "arka": "Amanname.",
+      "kaynak_sn": 1254.5
+    },
+    {
+      "on": "Fatih'in Mora ve Trabzon Rum İmparatorluğu'na son vermesinin ortak amacı nedir?",
+      "arka": "Bizans'ın yeniden canlanmasını önlemek.",
+      "kaynak_sn": 1451.45
+    },
+    {
+      "on": "1473 Otlukbeli Savaşı kimler arasında gerçekleşmiştir?",
+      "arka": "Osmanlı Devleti (Fatih) ile Akkoyunlu Devleti (Uzun Hasan).",
+      "kaynak_sn": 1468.89
+    },
+    {
+      "on": "Otlukbeli Savaşı sonrası zaferi duyurmak amacıyla Uygur alfabesiyle yazılan belgeye ne denir?",
+      "arka": "Fetihname.",
+      "kaynak_sn": 1575.81
+    },
+    {
+      "on": "Gedik Ahmet Paşa tarafından fethedilerek Karadeniz'in Türk gölü olmasını sağlayan yer neresidir?",
+      "arka": "Kırım.",
+      "kaynak_sn": 1762.88
+    },
+    {
+      "on": "İstanbul'da görev yapmasına izin verilen Venedik elçilerine ne ad verilir?",
+      "arka": "Balyos.",
+      "kaynak_sn": 2041.02
+    }
+  ]
+}

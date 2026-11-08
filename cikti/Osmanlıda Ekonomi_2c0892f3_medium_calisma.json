@@ -1,0 +1,201 @@
+{
+  "sorular": [
+    {
+      "soru": "Osmanlı Devleti'nde bakır paranın adı nedir ve ilk kez hangi padişah zamanında basılmıştır?",
+      "secenekler": [
+        "Akçe - Orhan Bey",
+        "Mangır - Osman Bey",
+        "Kaime - Abdülmecit",
+        "Sultani - Fatih Sultan Mehmet"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Osmanlı döneminde ilk bakır para Mangır adıyla Osman Bey döneminde basılmıştır.",
+      "kaynak_sn": 41.97
+    },
+    {
+      "soru": "Osmanlı'da devletin günlük masraflarının karşılandığı hazine aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Hazineyi Hassa",
+        "Hazineyi Cep",
+        "Hazineyi Amire",
+        "Hazineyi Mansure"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Devletin günlük masraflarının karşılandığı hazine Hazineyi Amire olarak adlandırılır.",
+      "kaynak_sn": 149.97
+    },
+    {
+      "soru": "Osmanlı Devleti'nde ilk kez modern ve denk bütçeyi hazırlayan devlet adamı kimdir?",
+      "secenekler": [
+        "Tarhuncu Ahmet",
+        "Mithat Paşa",
+        "Sokullu Mehmet Paşa",
+        "Köprülü Fazıl Ahmet Paşa"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "17. yüzyılda ilk modern ve denk bütçeyi Tarhuncu Ahmet Paşa yapmıştır.",
+      "kaynak_sn": 465.2
+    },
+    {
+      "soru": "Osmanlı'da 1881 yılında Muharrem Kararnamesi ile kurulan ve Avrupalı devletlerin el koyduğu altı verginin oluşturduğu idarenin adı nedir?",
+      "secenekler": [
+        "Rüsumu Sitte",
+        "Vilayeti Sitte",
+        "Reji İdaresi",
+        "Memleket Sandıkları"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Düyun-ı Umumiye idaresinin el koyduğu altı verginin adı Rüsumu Sitte'dir.",
+      "kaynak_sn": 873.1
+    },
+    {
+      "soru": "Aşağıdaki bankalardan hangisi İttihat ve Terakki tarafından kurulmuş ve daha sonra Türkiye Cumhuriyeti'nde İş Bankası ile birleşmiştir?",
+      "secenekler": [
+        "Bank-ı Dersadet",
+        "Ziraat Bankası",
+        "Milli İtibar Bankası",
+        "Bank-ı Osmani"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Milli İtibar Bankası İttihat ve Terakki tarafından kurulmuş olup daha sonra İş Bankası ile birleşmiştir.",
+      "kaynak_sn": 1202.44
+    },
+    {
+      "soru": "Osmanlı ekonomik anlayışında piyasada halka yetecek kadar mal bulundurma ilkesine ne ad verilir?",
+      "secenekler": [
+        "Fiskalizm",
+        "İașecilik",
+        "Merkantilizm",
+        "Gedik"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Piyasada halkın ihtiyacını karşılayacak kadar bol mal bulundurma politikası iaşeciliktir.",
+      "kaynak_sn": 1518.77
+    },
+    {
+      "soru": "Osmanlı'da zanaat sahibi olan ancak tarımla uğraşmayan kişilere ne ad verilir?",
+      "secenekler": [
+        "Ehl-i Hiref",
+        "Mekkari Taifesi",
+        "Muhtesip",
+        "Levanten"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Tarımla uğraşmayıp zanaat sahibi olan kişilere ehl-i hiref (veya ehl-i hirfet) denir.",
+      "kaynak_sn": 1968.16
+    },
+    {
+      "soru": "Aşağıdaki vergilerden hangisi gayrimüslimlerden güvenlik karşılığında ve askere gitmeme bedeli olarak alınan şer'i vergidir?",
+      "secenekler": [
+        "Aşar",
+        "Haraç",
+        "Cizye",
+        "Avarız"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Cizye, askerlik çağına gelen gayrimüslimlerden güvenlik amacıyla alınan şer'i bir vergidir.",
+      "kaynak_sn": 2241.64
+    },
+    {
+      "soru": "Osmanlı'da devlete ait araziyi ihaleye verip peşin para toplama sistemine ne ad verilir?",
+      "secenekler": [
+        "İltizam",
+        "Mukata",
+        "Müsadere",
+        "Malikane"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Vergilerin veya devlet arazilerinin ihale yoluyla peşin olarak kiraya verilmesi iltizam sistemidir.",
+      "kaynak_sn": 515.56
+    },
+    {
+      "soru": "Osmanlı'da Boğazlardan geçen gemilerden alınan verginin adı nedir?",
+      "secenekler": [
+        "Amediye",
+        "İzni Sefine",
+        "Refikiye",
+        "Baç"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Boğazlardan geçen gemilerden alınan vergi İzni Sefine olarak adlandırılır.",
+      "kaynak_sn": 2606.27
+    }
+  ],
+  "kartlar": [
+    {
+      "on": "Osmanlı'da bakır paranın adı nedir?",
+      "arka": "Mangır",
+      "kaynak_sn": 41.97
+    },
+    {
+      "on": "Osmanlı'da gümüş paranın adı nedir?",
+      "arka": "Akçe",
+      "kaynak_sn": 55.57
+    },
+    {
+      "on": "Osmanlı'da kağıt paranın adı nedir?",
+      "arka": "Kaime",
+      "kaynak_sn": 124.02
+    },
+    {
+      "on": "Padişahın özel hazinesi hangi isimle anılır?",
+      "arka": "Hazineyi Hassa",
+      "kaynak_sn": 177.71
+    },
+    {
+      "on": "İlk defa modern ve denk bütçeyi kim yapmıştır?",
+      "arka": "Tarhuncu Ahmet Paşa",
+      "kaynak_sn": 465.2
+    },
+    {
+      "on": "Osmanlı'nın iç borçlanma senetlerinin adı nedir?",
+      "arka": "Esam",
+      "kaynak_sn": 638.09
+    },
+    {
+      "on": "Osmanlı'nın dış borç aldığı ilk devlet hangisidir?",
+      "arka": "İngiltere",
+      "kaynak_sn": 729.04
+    },
+    {
+      "on": "Düyun-ı Umumiye idaresinin el koyduğu altı verginin genel adı nedir?",
+      "arka": "Rüsumu Sitte",
+      "kaynak_sn": 873.1
+    },
+    {
+      "on": "Osmanlı'da kurulan ilk devlet bankası hangisidir?",
+      "arka": "Ziraat Bankası",
+      "kaynak_sn": 1157.21
+    },
+    {
+      "on": "Hazine gelirlerini artırıp giderlerini azaltma politikasına ne denir?",
+      "arka": "Fiskalizm",
+      "kaynak_sn": 1400.01
+    },
+    {
+      "on": "Piyasada halka yetecek kadar mal bulundurma anlayışına ne denir?",
+      "arka": "İașecilik",
+      "kaynak_sn": 1518.77
+    },
+    {
+      "on": "Esnafların dükkan açma ruhsatına ne ad verilir?",
+      "arka": "Gedik",
+      "kaynak_sn": 1985.48
+    },
+    {
+      "on": "Gayrimüslimlerden alınan ürün vergisinin adı nedir?",
+      "arka": "Haraç",
+      "kaynak_sn": 2241.64
+    },
+    {
+      "on": "Müslümanlardan alınan tarımsal ürün vergisinin adı nedir?",
+      "arka": "Aşar (Öşür)",
+      "kaynak_sn": 2271.96
+    },
+    {
+      "on": "Küçükbaş hayvanlar üzerinden alınan verginin adı nedir?",
+      "arka": "Anam",
+      "kaynak_sn": 2636.92
+    }
+  ]
+}

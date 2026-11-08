@@ -1,0 +1,201 @@
+{
+  "sorular": [
+    {
+      "soru": "Osmanoğulları, Oğuzların hangi koluna ve aşiretine mensuptur?",
+      "secenekler": [
+        "Bozok Kolu - Kara Keçili Aşireti",
+        "Üçok Kolu - Kınık Aşireti",
+        "Bozok Kolu - Avşar Aşireti",
+        "Üçok Kolu - Dodurga Aşireti"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Osmanoğulları, Oğuzların Bozok Kolu'nun Günhan soyuna ve Kara Keçili Aşireti'ne mensuptur.",
+      "kaynak_sn": 51.87
+    },
+    {
+      "soru": "Osmanlı Devleti'nin bir dönem bağlı kaldığı, Kastamonu ve çevresinde egemenlik kurmuş beylik hangisidir?",
+      "secenekler": [
+        "Germiyanoğulları",
+        "Karesioğulları",
+        "Çobanoğulları",
+        "Candaroğulları"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Osmanlılar bir dönem Kastamonu ve çevresinde egemen olan ve Kayı boyu akrabası sayılan Çobanoğulları'na bağlı kalmıştır.",
+      "kaynak_sn": 237.26
+    },
+    {
+      "soru": "Osmanlı'nın fethettiği bölgelerdeki halkın dinine ve kültürüne karışmayıp yerel yöneticileri koruyarak uyguladığı hoşgörü politikasına ne ad verilir?",
+      "secenekler": [
+        "Mudara",
+        "İstimalet",
+        "İskan",
+        "Devşirme"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "İstimalet, fethedilen yerlerdeki halkın dinine, kültürüne müdahale etmeyerek hoşgörü ve adaletle yönetme politikasıdır.",
+      "kaynak_sn": 319.16
+    },
+    {
+      "soru": "Osmanlı Devleti'nin kuruluş sürecinde yeterli güce ulaşana kadar beylikler ve Bizans ile iyi geçinme politikasına verilen isim hangisidir?",
+      "secenekler": [
+        "İstimalet",
+        "İskan",
+        "Mudara",
+        "Cihat"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Mudara, devlet yeterli askeri ve siyasi güce erişene kadar komşu beylikler ve Bizans ile dostane geçinme taktiğidir.",
+      "kaynak_sn": 644.59
+    },
+    {
+      "soru": "Osmanlı Devleti'nin İskan politikası doğrultusunda fethettiği bölgelere yerleştirdiği göçmen nüfusa verilen özel unvan nedir?",
+      "secenekler": [
+        "Gaziyan-ı Rum",
+        "Evlad-ı Fatihan",
+        "Abdalan-ı Rum",
+        "Bacıyan-ı Rum"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "İskan politikasıyla Balkanlar'a yerleştirilen Türkmen ahaliye ve onların soyundan gelenlere Evlad-ı Fatihan denir.",
+      "kaynak_sn": 863.96
+    },
+    {
+      "soru": "İskan politikası çerçevesinde Rumeli ve Balkanlar'a ilk olarak hangi aileden nüfus nakledilmiştir?",
+      "secenekler": [
+        "Karesi Ailesi'nden Kararaplar",
+        "Germiyan Ailesi'nden Karakeçililer",
+        "Çoban Ailesi'nden Saruhanlılar",
+        "Dulkadir Ailesi'nden Avşarlar"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "İskan uygulamasında göç ettirilen ilk gruptan biri Karesi Ailesi'nden Kararaplar olmuştur.",
+      "kaynak_sn": 1006.56
+    },
+    {
+      "soru": "Osmanlı'nın Batı'daki hızlı ilerleyişini kolaylaştıran, İngiltere ile Fransa arasında 116 yıl süren savaşlara ne ad verilir?",
+      "secenekler": [
+        "Haçlı Savaşları",
+        "Yüzyıl Savaşları",
+        "Otuz Yıl Savaşları",
+        "Yedi Yıl Savaşları"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Yüzyıl Savaşları (1337-1453) İngiltere ve Fransa arasında yaşanmış, Avrupa'nın iç karmaşada olması Osmanlı'nın Batı'da ilerlemesini kolaylaştırmıştır.",
+      "kaynak_sn": 683.63
+    },
+    {
+      "soru": "Osmanlı Beyliği'nin kurulduğu coğrafi bölgeye tarihsel olarak verilen ad aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Kilikya",
+        "Bitinya",
+        "Kapadokya",
+        "Pamfilya"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Osmanlı Beyliği'nin ilk olarak ortaya çıktığı Söğüt, İznik ve Bursa çevresini kapsayan bölgeye Bitinya denir.",
+      "kaynak_sn": 1272.97
+    },
+    {
+      "soru": "Kuruluş döneminde Osmanlı Beyliği'nin doğrudan sınır komşusu olan beylikler arasında hangisi sayılmaz?",
+      "secenekler": [
+        "Candaroğulları",
+        "Kalesioğulları",
+        "Germiyanoğulları",
+        "Karamanoğulları"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "Osmanlı kurulduğunda Candaroğulları, Kalesioğulları ve Germiyanoğulları ile sınır komşusuyken Karamanoğulları daha güneyde yer almaktadır.",
+      "kaynak_sn": 1321.61
+    },
+    {
+      "soru": "Fetih hareketlerine destek veren Sarı Saltuk gibi derviş ve eren gruplarına verilen ad hangisidir?",
+      "secenekler": [
+        "Gaziyan-ı Rum",
+        "Bacıyan-ı Rum",
+        "Abdalan-ı Rum",
+        "Fethiyan-ı Rum"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Abdalan-ı Rum, gaza ruhuyla fetih bölgelerine gidip gönüllü irşad ve destek sağlayan dervişler ve erenlerdir.",
+      "kaynak_sn": 525.01
+    }
+  ],
+  "kartlar": [
+    {
+      "on": "Osmanoğulları hangi aşirete mensuptur?",
+      "arka": "Kara Keçili Aşireti",
+      "kaynak_sn": 51.87
+    },
+    {
+      "on": "Kayı Boyu sembolünün anlamı nedir?",
+      "arka": "Güçlü ve kuvvetli",
+      "kaynak_sn": 103.17
+    },
+    {
+      "on": "Yaslıçemen Savaşı sonrası Osmanlılara yaylak ve kışlak verilen bölgeler nerelerdir?",
+      "arka": "Söğüt ve Domaniç",
+      "kaynak_sn": 189.46
+    },
+    {
+      "on": "Osmanlı'nın bir dönem vergi ödediği Moğol kolu hangisidir?",
+      "arka": "İlhanlılar",
+      "kaynak_sn": 214.18
+    },
+    {
+      "on": "MEB ders kitabına göre İskan politikasının kelime anlamı nedir?",
+      "arka": "Issızı şenlendirme",
+      "kaynak_sn": 802.16
+    },
+    {
+      "on": "İstimalet politikası ne anlama gelir?",
+      "arka": "Fethedilen yerlerdeki halkın dinine ve kültürüne saygı gösterme hoşgörüsüdür.",
+      "kaynak_sn": 319.16
+    },
+    {
+      "on": "Ahilerin fetihlere destek veren esnaf kanadına ne ad verilir?",
+      "arka": "Ahiyan-ı Rum",
+      "kaynak_sn": 357.6
+    },
+    {
+      "on": "Kadınların fetih ve gaza hareketlerine katıldığı gönüllü gruba ne denir?",
+      "arka": "Bacıyan-ı Rum",
+      "kaynak_sn": 534.53
+    },
+    {
+      "on": "Mudara nedir?",
+      "arka": "Güçlenene kadar Bizans ve komşu beylikler ile iyi geçinme taktiğidir.",
+      "kaynak_sn": 644.59
+    },
+    {
+      "on": "Yüzyıl Savaşları hangi ülkeler arasında gerçekleşmiştir?",
+      "arka": "İngiltere ve Fransa",
+      "kaynak_sn": 693.31
+    },
+    {
+      "on": "İskan politikası 14 ve 15. yüzyıllarda öncelikli olarak nerede uygulanmıştır?",
+      "arka": "Balkanlar",
+      "kaynak_sn": 817.12
+    },
+    {
+      "on": "İskan edilen ailelerden kaç yıl boyunca vergi alınmazdı?",
+      "arka": "5 yıl",
+      "kaynak_sn": 1006.56
+    },
+    {
+      "on": "İskan bölgelerinde eğitim, cami ve toplumsal hizmetleri hangi yapı üstlenmiştir?",
+      "arka": "Vakıflar",
+      "kaynak_sn": 1063.07
+    },
+    {
+      "on": "Osmanlı'nın Rumeli'ye geçişini kolaylaştıran ilk beylik hangisidir?",
+      "arka": "Karesioğulları",
+      "kaynak_sn": 1473.36
+    },
+    {
+      "on": "Osmanlı'nın Bizans ile yaptığı ilk savaşların kısaltması (KMS) neyi ifade eder?",
+      "arka": "Koyunhisar, Maltepe ve Sazlıdere Savaşları",
+      "kaynak_sn": 1633.46
+    }
+  ]
+}

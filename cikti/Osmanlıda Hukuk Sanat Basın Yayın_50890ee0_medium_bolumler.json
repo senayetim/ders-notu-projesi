@@ -1,0 +1,89 @@
+{
+  "bolumler": [
+    {
+      "baslik": "Osmanlı Hukuk Sisteminin Temelleri",
+      "baslangic_sn": 0,
+      "bitis_sn": 170,
+      "ozet": "Osmanlı hukuk sisteminin oluşumunda İslam dini, Türk töresi ve fethedilen bölgelerin kültürel özellikleri etkili olmuştur. Yüksek mahkeme konumundaki Divan'da davalara kazasker bakarken, Türk tarihinde ilk yazılı kanunlar Fatih Sultan Mehmet döneminde çıkarılmıştır. Tanzimat Fermanı ile kanun üstünlüğü kabul edilmiş, meşrutiyetle birlikte ise anayasal düzene geçilmiştir.",
+      "anahtar_kelimeler": [
+        "Osmanlı hukuku",
+        "Divan",
+        "Kazasker",
+        "Kanunname-i Ali Osman",
+        "Tanzimat Fermanı"
+      ]
+    },
+    {
+      "baslik": "Kadının Görevleri ve Rütbeleri",
+      "baslangic_sn": 170,
+      "bitis_sn": 490,
+      "ozet": "Medrese eğitimli ilmiye sınıfından olan kadı; hakimlik, kaymakamlık ve noterlik gibi görevleri bir arada yürütmüştür. Kadılar hazineden maaş almayıp baktığı davalardan ücret alırdı ve yargı bağımsızlığı için aynı yerde uzun süre görev yapmazlardı. Kadılık makamları taht kadısından köy kadısına kadar rütbelere ayrılmaktaydı.",
+      "anahtar_kelimeler": [
+        "Kadı",
+        "İlmiye",
+        "Yargı ve yürütme",
+        "Taht kadısı",
+        "Medrese"
+      ]
+    },
+    {
+      "baslik": "Osmanlı'da Mahkeme Türleri ve Hukuki Terimler",
+      "baslangic_sn": 490,
+      "bitis_sn": 834,
+      "ozet": "Osmanlı'da hukuk birliği olmadığından şeri, örfi, azınlık ve konsolosluk mahkemeleri gibi farklı yargı organları bir arada bulunmuştur. Mahkeme kararlarının kaydedildiği defter şer'iyye sicili, miras ve borç bilgilerinin tutulduğu defter ise tereke olarak adlandırılmıştır. On dokuzuncu yüzyılda Batı tarzı Nizamiye mahkemeleri kurulmuş, Şura-yı Devlet ve Divan-ı Ahkam-ı Adliye gibi kurumlar teşkil edilmiştir.",
+      "anahtar_kelimeler": [
+        "Şeri mahkeme",
+        "Örfi mahkeme",
+        "Konsolosluk mahkemesi",
+        "Şer'iyye sicili",
+        "Tereke"
+      ]
+    },
+    {
+      "baslik": "Mecelle ve 19. Yüzyıl Medeni Hukuku",
+      "baslangic_sn": 834,
+      "bitis_sn": 969,
+      "ozet": "Ahmet Cevdet Paşa başkanlığındaki bir komisyon tarafından hazırlanan Mecelle, şeriyata dayalı ilk medeni hukuk kitabıdır. İçeriğinde borçlar, eşya, kiralama gibi hukuki konular yer alırken; evlenme, boşanma ve miras gibi aile hukuku konuları bulunmadığından daha sonra Aile Kararnamesi çıkarılmıştır.",
+      "anahtar_kelimeler": [
+        "Mecelle",
+        "Ahmet Cevdet Paşa",
+        "Medeni hukuk",
+        "Şeriat",
+        "Aile Kararnamesi"
+      ]
+    },
+    {
+      "baslik": "Osmanlı Sanat Dalları ve Sanatçıları",
+      "baslangic_sn": 969,
+      "bitis_sn": 1600,
+      "ozet": "Osmanlı sanatında çini, minyatür, ebru, hat, tezhip ve ahşap işçiliği önemli yer tutar. Levni, Nigari ve Sinan Paşa minyatür alanında öne çıkarken; Şeyh Hamdullah ve Hafız Osman hat sanatının öncülerindendir. Resim alanında Şeker Ahmet Paşa ilk sergiyi açmış, Osman Hamdi Bey ise Kaplumbağa Terbiyecisi gibi önemli eserlerle Türk müzeciliğine ve güzel sanatlara yön vermiştir.",
+      "anahtar_kelimeler": [
+        "Minyatür",
+        "Hat sanatı",
+        "Ebru",
+        "Osman Hamdi Bey",
+        "Nakkaş"
+      ]
+    },
+    {
+      "baslik": "Osmanlı'da Basın ve Yayın Hayatı",
+      "baslangic_sn": 1600,
+      "bitis_sn": 1920.3,
+      "ozet": "Osmanlı'da ilk özel matbaa Lale Devri'nde İbrahim Müteferrika tarafından kurulmuştur. İlk resmi gazete Takvim-i Vekayi, yarı resmi gazete Ceride-i Havadis ve ilk özel gazete Tercüman-ı Ahval'dir. Dönem boyunca çıkarılan çeşitli gazete ve dergiler, hem resmi duyuruların halka ulaşmasını sağlamış hem de fikir hayatının gelişiminde önemli rol oynamıştır.",
+      "anahtar_kelimeler": [
+        "Matbaa",
+        "Takvim-i Vekayi",
+        "Tercüman-ı Ahval",
+        "Resmi gazete",
+        "Basın"
+      ]
+    }
+  ],
+  "olcumler": {
+    "model": "gemini-3.5-flash-lite",
+    "gecikme_sn": 4.12,
+    "girdi_token": 10430,
+    "cikti_token": 1299,
+    "toplam_deneme": 5
+  }
+}

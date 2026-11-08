@@ -1,0 +1,76 @@
+{
+  "bolumler": [
+    {
+      "baslik": "Divan Teşkilatının Tarihsel Süreci ve Türleri",
+      "baslangic_sn": 0,
+      "bitis_sn": 254,
+      "ozet": "Osmanlı merkez teşkilatında Divan-ı Hümayun'un tarihi süreci Orhan Bey ile kuruluşu, I. Murat dönemi üyeleri, Fatih Sultan Mehmet'in başkanlığı bırakması ve II. Mahmut tarafından kaldırılmasıyla anlatılmıştır. Ayrıca ayak divanı, ikindi divanı, galebe divanı, çarşamba divanı, cuma divanı ve at sefer divanı gibi toplantı türleri açıklanmıştır.",
+      "anahtar_kelimeler": [
+        "Divan teşkilatı",
+        "Orhan Bey",
+        "I. Murat",
+        "II. Mahmut",
+        "Divan türleri"
+      ]
+    },
+    {
+      "baslik": "Divanın Üyeleri: Sadrazam, Defterdar ve Vezirler",
+      "baslangic_sn": 254,
+      "bitis_sn": 661,
+      "ozet": "Divanın en önemli üyeleri olan sadrazamın yetkileri, vezir-i azam unvanı, Babıali veya Paşa Kapısı kavramları detaylandırılmıştır. Maliye bakanı konumundaki defterdarların sayısı ve protokol sırası ile kubbe altı vezirlerinin konumu anlatılmıştır.",
+      "anahtar_kelimeler": [
+        "Sadrazam",
+        "Babıali",
+        "Serdar Ekrem",
+        "Defterdar",
+        "Kubbe altı vezirleri"
+      ]
+    },
+    {
+      "baslik": "Nişancı ve Kazasker",
+      "baslangic_sn": 661,
+      "bitis_sn": 935,
+      "ozet": "Nişancının görevleri, tuttuğu mühimme ve tahvil defterleri ile tımar dağıtımı ve mühür işlerindeki rolü vurgulanmıştır. Adalet ve eğitim işlerine bakan kazaskerin kadı, müderris ve imam atamalarındaki yetkileri aktarılmıştır.",
+      "anahtar_kelimeler": [
+        "Nişancı",
+        "Mühimme defteri",
+        "Tahvil defteri",
+        "Kazasker",
+        "Atama yetkisi"
+      ]
+    },
+    {
+      "baslik": "Divana Sonradan Katılan Üyeler ve Divanın Yapısı",
+      "baslangic_sn": 935,
+      "bitis_sn": 1343,
+      "ozet": "Şeyhülislam, Kaptan-ı Derya, Yeniçeri Ağası ve Reisülküttap gibi divana sonradan dahil olan üyeler tanıtılmıştır. Divanın bir danışma meclisi olduğu, son sözün padişaha ait olduğu ve Kurultay ile olan benzerlikleri ele alınmıştır.",
+      "anahtar_kelimeler": [
+        "Şeyhülislam",
+        "Kaptan-ı Derya",
+        "Reisülküttap",
+        "Danışma meclisi",
+        "Kurultay"
+      ]
+    },
+    {
+      "baslik": "Kalem Odaları ve Bürokrasi",
+      "baslangic_sn": 1343,
+      "bitis_sn": 1468.8,
+      "ozet": "Nişancıya bağlı çalışan tahvil kalemi, ruus, amediye, teşrifatçı, beylikçi kalemi ve vakanüvis gibi kalem odalarının bürokratik işlevleri özetlenmiştir.",
+      "anahtar_kelimeler": [
+        "Kalem odaları",
+        "Tahvil kalemi",
+        "Beylikçi kalemi",
+        "Vakanüvis",
+        "Bürokrasi"
+      ]
+    }
+  ],
+  "olcumler": {
+    "model": "gemini-3.5-flash-lite",
+    "gecikme_sn": 3.3,
+    "girdi_token": 7090,
+    "cikti_token": 936,
+    "toplam_deneme": 5
+  }
+}

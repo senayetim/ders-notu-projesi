@@ -1,0 +1,89 @@
+{
+  "bolumler": [
+    {
+      "baslik": "Yildirim Bayezid Donemi ve Bati Seferleri",
+      "baslangic_sn": 0,
+      "bitis_sn": 349,
+      "ozet": "Yildirim Bayezid doneminde bati politikasi cercevesinde Istanbul bircok kez kusatilmis, bu kusatmalara karsi Anadoluhisari ve Gelibolu tersanesi insa edilmistir. Bizans'in yardim istemesiyle Haçlilar ile Nigbolu Savasi yapilmis ve bu savas kazanilmistir. Ayrica bu donemde Karamanoğullari ile mucadele edilmistir.",
+      "anahtar_kelimeler": [
+        "Yildirim Bayezid",
+        "Istanbul'un kusatilmasi",
+        "Anadoluhisari",
+        "Nigbolu Savasi",
+        "Karamanoğullari"
+      ]
+    },
+    {
+      "baslik": "Anadolu Politikasi ve Devletlesme Ilkleri",
+      "baslangic_sn": 349,
+      "bitis_sn": 543,
+      "ozet": "Yildirim Bayezid Anadolu'da beylikleri ele gecirerek buyuk oranda Anadolu Turk Birligini saglamistir. Bu gelismeyle birlikte Anadolu Beylerbeyligi kurulmus, ilk kez culus dagitilmis ve bazi ilk idari ve askeri adimlar atilmistir.",
+      "anahtar_kelimeler": [
+        "Anadolu Turk Birligi",
+        "Anadolu Beylerbeyligi",
+        "Dulkadiroğullari",
+        "ulus",
+        "kardes katli"
+      ]
+    },
+    {
+      "baslik": "Ankara Savasi ve Sonuclari",
+      "baslangic_sn": 543,
+      "bitis_sn": 1101,
+      "ozet": "Timur'un Cin seferi öncesi guclu bir Osmanli istememesi ve liderlik mucadelesi gibi sebeplerle Ankara Savasi gerceklesmistir. Savasta Yildirim Bayezid esir dusmus, Osmanli Devleti dagilma tehlikesi yasamis ve Fetret Devri baslamistir.",
+      "anahtar_kelimeler": [
+        "Ankara Savasi",
+        "Timur",
+        "esir dusme",
+        "Anadolu Turk Birliginin bozulmasi",
+        "Fetret Devri"
+      ]
+    },
+    {
+      "baslik": "Fetret Devri ve I. Mehmet Donemi",
+      "baslangic_sn": 1101,
+      "bitis_sn": 1669,
+      "ozet": "Fetret Devri'ne son veren I. Mehmet Osmanli'nin ikinci kurucusu sayilmistir. Bu donemde Duzmece Mustafa Isyani ile Seyh Bedrettin Isyani bastirilmis, Venedik ile ilk deniz savasi yapilmis ve devşirme kanunu cikarilmistir.",
+      "anahtar_kelimeler": [
+        "Fetret Devri",
+        "I. Mehmet",
+        "Duzmece Mustafa",
+        "Seyh Bedrettin Isyani",
+        "Lapseki Savasi"
+      ]
+    },
+    {
+      "baslik": "II. Murat Donemi ve Haçli Mucadeleleri",
+      "baslangic_sn": 1669,
+      "bitis_sn": 2292,
+      "ozet": "II. Murat doneminde Edirne-Segedin Antlaşmasi imzalanmis, Varna ve II. Kosova savaslari ile Haçlilar bozguna ugratilmistir. II. Kosova Savasi ile Balkanlar kesin Turk yurdu haline gelmis ve ilk yeniçeri isyani olan Bucuktepe Isyani yasanmistir.",
+      "anahtar_kelimeler": [
+        "II. Murat",
+        "Edirne-Segedin Antlasmasi",
+        "Varna Savasi",
+        "II. Kosova Savasi",
+        "Bucuktepe Isyani"
+      ]
+    },
+    {
+      "baslik": "Kurulus Donemi Genel Tekrari",
+      "baslangic_sn": 2292,
+      "bitis_sn": 2513.7,
+      "ozet": "Kurulus Donemi'nin genel bir ozeti yapilarak olumsuzluklar, isyanlar, Bizans ile yapilan savaslar ve Haçlilarla gerceklesen temel muharebeler siralandirilmis ve ders sonlandirilmistir.",
+      "anahtar_kelimeler": [
+        "Kurulus Donemi",
+        "genel tekrar",
+        "Haçli savaslari",
+        "isyanlar",
+        "tarih"
+      ]
+    }
+  ],
+  "olcumler": {
+    "model": "gemini-3.5-flash-lite",
+    "gecikme_sn": 4.26,
+    "girdi_token": 12339,
+    "cikti_token": 1156,
+    "toplam_deneme": 5
+  }
+}

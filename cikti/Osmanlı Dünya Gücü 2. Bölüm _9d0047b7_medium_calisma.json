@@ -1,0 +1,201 @@
+{
+  "sorular": [
+    {
+      "soru": "Fatih Sultan Mehmet Dönemi'nde yapılan Yeni Saray'ın günümüzdeki bilinen adı aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Saray-ı Atike",
+        "Topkapı Sarayı",
+        "Çırağan Sarayı",
+        "Yıldız Sarayı"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Fatih Sultan Mehmet, fetihten sonra inşa ettirdiği Saray-ı Atike'yi (Eski Saray) beğenmeyerek Yeni Saray adıyla bilinen Topkapı Sarayı'nı yaptırmıştır.",
+      "kaynak_sn": 49.19
+    },
+    {
+      "soru": "Fatih Sultan Mehmet'in 'Gül Koklayan Adam' olarak bilinen ünlü profil portresini yapan Türk nakkaş/ressam kimdir?",
+      "secenekler": [
+        "Gentile Bellini",
+        "Matrakçı Nasuh",
+        "Sinan Paşa",
+        "Nigari"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Fatih Sultan Mehmet ilk profil resmini İtalyan Bellini'ye çizdirmiş, daha sonra Sinan Paşa'ya poz vererek 'Gül koklayan adam' portresini yaptırmıştır.",
+      "kaynak_sn": 112.66
+    },
+    {
+      "soru": "Fatih Dönemi'nde üniversite seviyesinde yükseköğrenim veren medrese ve bu medreseye öğrenci yetiştiren hazırlık bölümleri aşağıdakilerin hangisinde doğru eşleştirilmiştir?",
+      "secenekler": [
+        "Sahn-ı Seman - Tetimme Medreseleri",
+        "Sahn-ı Seman - Enderun Mektebi",
+        "Süleymaniye - Darülhadis",
+        "Nizamiye Medresesi - Tetimme Medreseleri"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Fatih Dönemi'nde açılan Sahn-ı Seman Medresesi üniversite, ona öğrenci yetiştiren Tetimme medreseleri ise fakülte/hazırlık niteliğindedir.",
+      "kaynak_sn": 148.96
+    },
+    {
+      "soru": "Fatih Sultan Mehmet'in Divan-ı Hümayun başkanlığını Sadrazama devretmesinin temel gerekçeleri arasında aşağıdakilerden hangisi gösterilemez?",
+      "secenekler": [
+        "Sadrazamın devlet idaresindeki yetkilerini tamamen kısıtlamak",
+        "Padişahın divan makamının üstünde olduğunu göstermek",
+        "Fetihteki yoğunluk sebebiyle zaman ayıramaması",
+        "Divan üyelerinin fikirlerini daha özgürce dile getirmesini sağlamak"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Fatih, kendisinin divandan üstün kalması, fetihlerin yoğunluğu ve üyelerin çekinmeden konuşabilmesi için divan başkanlığını sadrazama bırakmıştır; bu durum zamanla sadrazamın yetkisini artırmıştır.",
+      "kaynak_sn": 424.05
+    },
+    {
+      "soru": "Osmanlı Devleti'nde ilk yazılı kanunname kabul edilen, sancak usulünü ve kardeş katlini yasalaştıran hukuki metin aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Kanunname-i Ali Osman",
+        "Mecelle",
+        "Tanzimat Fermanı",
+        "Kanun-ı Esasi"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Fatih Sultan Mehmet tarafından çıkarılan Kanunname-i Ali Osman Osmanlı tarihinin ilk yazılı kanunnamesi olup kardeş katli, sancak usulü ve müsadere gibi uygulamaları yasallaştırmıştır.",
+      "kaynak_sn": 647.74
+    },
+    {
+      "soru": "II. Bayezid Dönemi'nde yaşanan ve Osmanlı iç sorunuyken uluslararası bir soruna dönüşen Cem Sultan Olayı'na aşağıdakilerden hangisi müdahil olmamıştır?",
+      "secenekler": [
+        "Rodos Şövalyeleri",
+        "Memlükler",
+        "Bizans İmparatorluğu",
+        "Papalık"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Cem Sultan Olayı'na Karaman, Memlükler, Rodos Şövalyeleri, Fransa ve Papalık müdahil olmuştur. Bizans İmparatorluğu ise İstanbul'un fethiyle önceden yıkıldığı için bu süreçte yer almaz.",
+      "kaynak_sn": 1055.5
+    },
+    {
+      "soru": "1511 yılında Antalya Korkuteli merkezli ortaya çıkan ve Safavilerin kışkırtmasıyla Anadolu'ya yayılan Şii nitelikli isyan aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Baba İshak İsyanı",
+        "Şeyh Bedrettin İsyanı",
+        "Bozoklu Celal İsyanı",
+        "Şahkulu İsyanı"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "1511'de çıkan Şahkulu İsyanı, Safavilerin kışkırtmasıyla patlak veren Şii kökenli toplumsal bir ayaklanmadır ve Gökçay Savaşı ile bastırılmıştır.",
+      "kaynak_sn": 1130.16
+    },
+    {
+      "soru": "II. Bayezid Dönemi'nde Kili ve Akerman kalelerinin alınmasının sağladığı en önemli stratejik sonuç aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Eflak-Boğdan fethinin tamamlanması ve Kırım ile kara bağlantısının kurulması",
+        "Mora Yarımadası'nın tamamen Osmanlı kontrolüne geçmesi",
+        "Trabzon Rum İmparatorluğu'na son verilmesi",
+        "Belgrat'ın fethi için karargah elde edilmesi"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Kili ve Akerman kalelerinin fethedilmesiyle Eflak ve Boğdan'ın fethi tamamlanmış, aynı zamanda Kırım Hanlığı ile Osmanlı toprakları arasında kara bağlantısı sağlanmıştır.",
+      "kaynak_sn": 1538.9
+    },
+    {
+      "soru": "II. Bayezid Dönemi'nde 'Küçük Kıyamet' olarak bilinen büyük İstanbul depremi sonrasında ilk kez toplanmaya başlanan olağanüstü hal vergisi aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Öşür",
+        "Avarız",
+        "Haraç",
+        "Cizye"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "İstanbul depreminin yarattığı olumsuzlukları ve acil masrafları karşılamak amacıyla ilk kez II. Bayezid döneminde Avarız adıyla olağanüstü vergi toplanmıştır.",
+      "kaynak_sn": 1664.65
+    },
+    {
+      "soru": "II. Bayezid Dönemi'nin önemli tarihçilerinden İdrisi Bitlisi'nin, ilk sekiz Osmanlı padişahının dönemini anlattığı meşhur eseri aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Tevarih-i Ali Osman",
+        "Şehname",
+        "Heşt Beşt",
+        "Kabusname"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "İdrisi Bitlisi, II. Bayezid Dönemi'nde ilk sekiz padişahın hayatını ve başarılarını 'Heşt Beşt' (Sekiz Cennet) adını verdiği eserinde kaleme almıştır.",
+      "kaynak_sn": 1619.25
+    }
+  ],
+  "kartlar": [
+    {
+      "on": "Saray-ı Atike ve Topkapı Sarayı hangi padişah döneminde yaptırılmıştır?",
+      "arka": "Fatih Sultan Mehmet döneminde (Saray-ı Atike Eski Saray, Topkapı ise Yeni Saray'dır).",
+      "kaynak_sn": 49.19
+    },
+    {
+      "on": "Fatih Dönemi'nde bastırılan altın paraya verilen isimler nelerdir?",
+      "arka": "Yaldızlı Sultani veya Flori.",
+      "kaynak_sn": 77.82
+    },
+    {
+      "on": "Sahn-ı Seman Medresesi'nde müdarrislik yapan ünlü matematik ve astronomi bilgini kimdir?",
+      "arka": "Ali Kuşçu.",
+      "kaynak_sn": 158.04
+    },
+    {
+      "on": "Fatih Sultan Mehmet'in yönetimde Türkmen aileler yerine devşirmelere ağırlık vermesinin amacı nedir?",
+      "arka": "Merkezi otoriteyi korumak ve padişaha rakip olabilecek güçlü Türk ailelerin oluşmasını engellemek.",
+      "kaynak_sn": 341.3
+    },
+    {
+      "on": "Osmanlı hukukundaki 'Kulluk Hakkı' kavramı neyi ifade eder?",
+      "arka": "Padişahın devşirmeler üzerindeki öldürme yetkisi de dahil olmak üzere mutlak cezalandırma gücünü.",
+      "kaynak_sn": 505.43
+    },
+    {
+      "on": "Müsadere sisteminin uygulanma gerekçeleri nelerdir?",
+      "arka": "Rüşvet ve haksız kazancı engellemek, zenginleşerek Osmanlı hanedanına rakip olunmasını önlemek ve merkezi otoriteyi sağlamak.",
+      "kaynak_sn": 528.83
+    },
+    {
+      "on": "Fatih Sultan Mehmet'in şiirlerinde kullandığı mahlas ve Batı'da tanındığı unvan nedir?",
+      "arka": "Mahlası 'Avni', Batı'daki unvanı ise 'Gran Turco' (Büyük Türk)'dur.",
+      "kaynak_sn": 578.11
+    },
+    {
+      "on": "Kanunname-i Ali Osman ile yasalaşan temel konular nelerdir?",
+      "arka": "Sancak usulü, cülus bahşişi, müsadere usulü ve kardeş katli.",
+      "kaynak_sn": 708.44
+    },
+    {
+      "on": "II. Bayezid Dönemi'nin Yükselme Devri içinde 'Duraklama Dönemi' olarak adlandırılmasının temel sebebi nedir?",
+      "arka": "Cem Sultan Olayı nedeniyle dış politikada pasif ve çekimser bir tutum izlenmesi.",
+      "kaynak_sn": 1094.34
+    },
+    {
+      "on": "Şahkulu İsyanı hangi devletin kışkırtmasıyla çıkmış ve hangi savaşla bastırılmıştır?",
+      "arka": "Safavilerin kışkırtmasıyla çıkmış, Gökçay Savaşı ile bastırılmıştır.",
+      "kaynak_sn": 1149.34
+    },
+    {
+      "on": "Şehzade Selim'in (Yavuz) babası II. Bayezid'in pasif tutumuna kızarak yaptığı savaş hangisidir?",
+      "arka": "Karıştıran Savaşı.",
+      "kaynak_sn": 1212.35
+    },
+    {
+      "on": "II. Bayezid Dönemi'nde İspanya'da baskı gören Yahudi ve Müslümanları Osmanlı topraklarına taşıyan kaptan-ı derya/denizciler kimlerdir?",
+      "arka": "Kemal Reis ve Burak Reis.",
+      "kaynak_sn": 1412.93
+    },
+    {
+      "on": "Edirne II. Bayezid Külliyesi'ndeki şifahanede hastalar hangi yöntemle tedavi edilmekteydi?",
+      "arka": "Su ve müzik sesiyle tedavi uygulanmaktaydı.",
+      "kaynak_sn": 1710.52
+    },
+    {
+      "on": "II. Bayezid Dönemi'nde 'Tevarih-i Ali Osman' adlı tarih eserini kaleme alan alim kimdir?",
+      "arka": "İbni Kemal.",
+      "kaynak_sn": 1599.44
+    },
+    {
+      "on": "Osmanlı Devleti'nde ilk belediye düzenlemesi niteliği taşıyan kanun hangisidir?",
+      "arka": "İhtisap Kanunu (II. Bayezid Dönemi).",
+      "kaynak_sn": 1696.51
+    }
+  ]
+}

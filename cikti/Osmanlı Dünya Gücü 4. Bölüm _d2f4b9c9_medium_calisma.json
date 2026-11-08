@@ -1,0 +1,201 @@
+{
+  "sorular": [
+    {
+      "soru": "Kanuni Sultan Süleyman'a 'Kanuni' unvanını veren tarihçi kimdir?",
+      "secenekler": [
+        "Dimitri Kandemir",
+        "Katip Çelebi",
+        "Aşıkpaşazade",
+        "Naima"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Ders anlatımına göre Kanuni Sultan Süleyman'a çok kanun yaptığı ve kanunlara saygılı olduğu için bu unvanı Tarihçi Dimitri Kandemir vermiştir.",
+      "kaynak_sn": 45.54
+    },
+    {
+      "soru": "Kanuni Sultan Süleyman Osmanlı tahtına Anadolu dışında yer alan tek sancak merkezi olan hangi bölgeden gelerek çıkmıştır?",
+      "secenekler": [
+        "Manisa",
+        "Amasya",
+        "Kefe",
+        "Trabzon"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Osmanlı'nın Anadolu dışındaki tek sancak merkezi Kırım'ın Kefe bölgesidir ve Kanuni tahta buradan çıkmıştır.",
+      "kaynak_sn": 109.77
+    },
+    {
+      "soru": "Kanuni döneminde Mısır'da çıkan Canberk Gazali İsyanı'nın temel amacı nedir?",
+      "secenekler": [
+        "Osmanlı vergi sistemini protesto etmek",
+        "Memlük Devleti'ni yeniden kurmak",
+        "Sadrazamlık makamına geçmek",
+        "Eflak ve Boğdan'ı ele geçirmek"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Canberk Gazali, Mısır'da yıkılmış olan Memlük Devleti'ni tekrar kurmak amacıyla ayaklanmıştır.",
+      "kaynak_sn": 317.71
+    },
+    {
+      "soru": "1533 İstanbul (İbrahim Paşa) Antlaşması'na göre Avusturya Arşidükü protokol bakımından Osmanlı Devleti'nde kime denk sayılmıştır?",
+      "secenekler": [
+        "Sadrazam",
+        "Padişah",
+        "Kaptan-ı Derya",
+        "Kazasker"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "İstanbul Antlaşması ile Avusturya Arşidükü protokol bakımından Osmanlı padişahına değil, Osmanlı sadrazamına denk kabul edilmiştir.",
+      "kaynak_sn": 980.92
+    },
+    {
+      "soru": "Kanuni Sultan Süleyman'ın şiirlerinde kullandığı mahlas aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Avni",
+        "Adli",
+        "Muradi",
+        "Muhibbi"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "Kanuni Sultan Süleyman şiirlerini 'Muhibbi' mahlasıyla yazmıştır.",
+      "kaynak_sn": 224.36
+    },
+    {
+      "soru": "Osmanlı Devleti ile İran (Safeviler) arasında imzalanan ilk resmi yazılı antlaşma hangisidir?",
+      "secenekler": [
+        "Kasr-ı Şirin Antlaşması",
+        "Ferhat Paşa Antlaşması",
+        "Amasya Antlaşması",
+        "Serav Antlaşması"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "1555 Amasya Antlaşması, Osmanlı Devleti ile İran arasında imzalanan ilk resmi yazılı antlaşmadır.",
+      "kaynak_sn": 2208.89
+    },
+    {
+      "soru": "Hint Deniz Seferleri sırasında donanmayı Basra'da bırakıp geri döndüğü için idam edilen Osmanlı denizcisi kimdir?",
+      "secenekler": [
+        "Seydi Ali Reis",
+        "Piri Reis",
+        "Murat Reis",
+        "Hadım Süleyman Paşa"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Piri Reis II. Hint Deniz Seferi'nde donanmayı Basra'da bıraktığı için idam edilmiştir.",
+      "kaynak_sn": 1758.46
+    },
+    {
+      "soru": "Turgut Reis'in şehit düşmesi üzerine kuşatması kaldırılan ve başarısızlıkla sonuçlanan deniz seferi hangisidir?",
+      "secenekler": [
+        "Malta Kuşatması",
+        "Rodos Kuşatması",
+        "Cerbe Savaşı",
+        "Girit Kuşatması"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Malta kuşatması sırasında Turgut Reis şehit düşmüş ve kuşatma başarısızlıkla sonuçlanmıştır.",
+      "kaynak_sn": 1554.91
+    },
+    {
+      "soru": "1538 yılında Haçlı donanmasına karşı kazanılan ve Akdeniz'in Türk gölü olmasını sağlayan deniz zaferi hangisidir?",
+      "secenekler": [
+        "Cerbe Deniz Savaşı",
+        "İnebahtı Deniz Savaşı",
+        "Preveze Deniz Savaşı",
+        "Modon Deniz Savaşı"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Barbaros Hayrettin Paşa komutasında kazanılan Preveze Deniz Savaşı ile Akdeniz bir Türk gölü haline gelmiştir.",
+      "kaynak_sn": 1379.53
+    },
+    {
+      "soru": "Fransa'ya verilen kapitülasyonlarda yer alan 'Fransız tüccarların davalarına Fransız yargıçların bakması' hükmü hangi alandaki bir düzenlemedir?",
+      "secenekler": [
+        "Askeri",
+        "Dini",
+        "Siyasi",
+        "Hukuk"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "Tüccarların davalarına kendi yargıçlarının bakması hukuki alandaki bir ayrıcalıktır ve Konsolosluk Mahkemeleri'nin temeli atılmıştır.",
+      "kaynak_sn": 2369.16
+    }
+  ],
+  "kartlar": [
+    {
+      "on": "Kanuni unvanını padişaha kim vermiştir?",
+      "arka": "Tarihçi Dimitri Kandemir",
+      "kaynak_sn": 45.54
+    },
+    {
+      "on": "ABD Kongre binasında kabartması/portresi yer alan Osmanlı padişahı kimdir?",
+      "arka": "Kanuni Sultan Süleyman",
+      "kaynak_sn": 75.33
+    },
+    {
+      "on": "Anadolu dışında bulunan tek Osmanlı sancak merkezi neresidir?",
+      "arka": "Kırım'ın Kefe şehri",
+      "kaynak_sn": 104.97
+    },
+    {
+      "on": "Kanuni Sultan Süleyman'ın şiirlerinde kullandığı mahlas nedir?",
+      "arka": "Muhibbi",
+      "kaynak_sn": 224.36
+    },
+    {
+      "on": "Osmanlı tarihinde en uzun süre görev yapan şeyhülislam kimdir?",
+      "arka": "Ebu Suud Efendi",
+      "kaynak_sn": 178.2
+    },
+    {
+      "on": "Seydi Ali Reis'in Hint Deniz Seferi dönüşü yazdığı ünlü eser hangisidir?",
+      "arka": "Mir'atü'l-Memalik",
+      "kaynak_sn": 169.2
+    },
+    {
+      "on": "Mısır'da Memlük Devleti'ni yeniden kurmak için çıkan isyan hangisidir?",
+      "arka": "Canberk Gazali İsyanı",
+      "kaynak_sn": 317.71
+    },
+    {
+      "on": "Sadrazamlık beklerken Mısır valiliğine atanınca isyan eden vezir kimdir?",
+      "arka": "Ahmet Paşa",
+      "kaynak_sn": 358.14
+    },
+    {
+      "on": "Avrupa'da Almanya, Avusturya ve İspanya'yı yöneten akraba sülale kimdir?",
+      "arka": "Habsburglar",
+      "kaynak_sn": 433.27
+    },
+    {
+      "on": "1521 yılında fethedilen ve Darü'l-Cihat olarak anılan şehir neresidir?",
+      "arka": "Belgrad",
+      "kaynak_sn": 716.12
+    },
+    {
+      "on": "Tarihin en kısa süren meydan savaşıyla alınan ülke neresidir?",
+      "arka": "Mohaç Meydan Savaşı ile Macaristan",
+      "kaynak_sn": 778.7
+    },
+    {
+      "on": "1533 İstanbul Antlaşması'nda Avusturya Arşidükü kime denk sayılmıştır?",
+      "arka": "Osmanlı Sadrazamına",
+      "kaynak_sn": 980.92
+    },
+    {
+      "on": "Akdeniz'i Türk gölü yapan deniz zaferi hangisidir?",
+      "arka": "1538 Preveze Deniz Savaşı",
+      "kaynak_sn": 1379.53
+    },
+    {
+      "on": "Trablusgarp Fatihi olarak tanınan ve Malta'da şehit düşen denizci kimdir?",
+      "arka": "Turgut Reis",
+      "kaynak_sn": 1554.91
+    },
+    {
+      "on": "İran ile yapılan ilk resmi yazılı antlaşma hangisidir?",
+      "arka": "1555 Amasya Antlaşması",
+      "kaynak_sn": 2208.89
+    }
+  ]
+}

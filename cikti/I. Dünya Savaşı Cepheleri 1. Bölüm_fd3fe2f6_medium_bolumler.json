@@ -1,0 +1,67 @@
+{
+  "bolumler": [
+    {
+      "baslik": "Cepheler Konusuna Giriş ve Temel Kavramlar",
+      "baslangic_sn": 0,
+      "bitis_sn": 270,
+      "ozet": "Birinci Dünya Savaşı'ndaki Osmanlı cepheleri taarruz, savunma ve yardım cepheleri olmak üzere üçe ayrılır. Konuyu kavrayabilmek için Çarlık Rusya'dan Bolşevik Rusya'ya geçiş süreci ve İtilaf Devletleri'nin Rusya'ya yardım stratejileri bilinmelidir. Ayrıca Mustafa Kemal Atatürk'ün görev aldığı Çanakkale, Kafkas ve Suriye-Filistin cephelerinin mantığı açıklanmıştır.",
+      "anahtar_kelimeler": [
+        "Birinci Dünya Savaşı",
+        "Taarruz Cepheleri",
+        "Savunma Cepheleri",
+        "Çarlık Rusya",
+        "Bolşevik Rusya",
+        "Mustafa Kemal Atatürk"
+      ]
+    },
+    {
+      "baslik": "Harita Üzerinde Cepheler ve Osmanlı Sınırları",
+      "baslangic_sn": 270,
+      "bitis_sn": 784,
+      "ozet": "Savaş başladığında Osmanlı Devleti'nin sınır durumu harita üzerinde detaylandırılmıştır. Mısır'ın işgali ve Kars, Ardahan, Batum'un kaybedilmiş olması sebebiyle Kafkas ve Kanal taarruz cephelerinin açılma nedenleri anlatılmıştır. Ayrıca Osmanlı Devleti'nin müttefiklerine yardım amacıyla sınırlar dışında savaştığı Galiçya, Romanya ve Makedonya cepheleri incelenmiştir.",
+      "anahtar_kelimeler": [
+        "Osmanlı Sınırları",
+        "Kafkas Cephesi",
+        "Kanal Cephesi",
+        "Galiçya Cephesi",
+        "Romanya Cephesi",
+        "Makedonya Cephesi"
+      ]
+    },
+    {
+      "baslik": "Taarruz Cepheleri: Kafkas ve Kanal Cepheleri",
+      "baslangic_sn": 784,
+      "bitis_sn": 1746,
+      "ozet": "İlk açılan cephe olan Kafkas Cephesi'nde Enver Paşa komutasındaki Sarıkamış Harekatı ve asayişi sağlamak amacıyla çıkarılan Tehcir Kanunu anlatılmıştır. Çarlık Rusya'nın yıkılması ve Brest-Litovsk Anlaşması ile Kars, Ardahan ve Batum geri alınarak bu cephede toprak kazancı sağlanmıştır. Kanal Cephesi'nde ise Mısır'ı geri almak ve İngiltere'nin sömürge yollarını kesmek amaçlanmıştır.",
+      "anahtar_kelimeler": [
+        "Sarıkamış Harekatı",
+        "Tehcir Kanunu",
+        "Brest-Litovsk Anlaşması",
+        "Nuri Killigil",
+        "Kafkas İslam Ordusu",
+        "Cemal Paşa"
+      ]
+    },
+    {
+      "baslik": "Savunma Cepheleri: Irak ve Hicaz-Yemen Cepheleri",
+      "baslangic_sn": 1746,
+      "bitis_sn": 2190.8,
+      "ozet": "Irak Cephesi'nde İngiliz petrollerini koruma hamlelerine karşı Halil Paşa komutasında Kut'ül Amâre Zaferi kazanılmıştır. Hicaz-Yemen Cephesi'nde ise Fahrettin Paşa, Medine'yi ve kutsal emanetleri İngiliz ve yerli işbirlikçi güçlere karşı büyük bir fedakarlıkla savunmuştur. Ortadoğu cephelerinde yaşanan başarısızlıklar İslamcılık fikrinin önemini yitirdiğini göstermektedir.",
+      "anahtar_kelimeler": [
+        "Irak Cephesi",
+        "Kut'ül Amâre",
+        "Halil Kut",
+        "Hicaz-Yemen Cephesi",
+        "Fahrettin Paşa",
+        "Medine Savunması"
+      ]
+    }
+  ],
+  "olcumler": {
+    "model": "gemini-3.5-flash",
+    "gecikme_sn": 20.4,
+    "girdi_token": 12028,
+    "cikti_token": 955,
+    "toplam_deneme": 1
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "bolumler": [
+    {
+      "baslik": "Osmanlı Ekonomi Konusuna Giriş ve Para Türleri",
+      "baslangic_sn": 0,
+      "bitis_sn": 144,
+      "ozet": "Osmanlı ekonomi ve kültür medeniyet tarihi sınavlar için oldukça belirleyici ve önemli bir konudur. Bu bölümde Osmanlı Devleti'nde basılan ilk bakır para Mangır, gümüş para Akçe ve altın para Sultani ile ilerleyen dönemlerde kullanılan kaime ve mecidiye gibi para türleri ele alınmıştır.",
+      "anahtar_kelimeler": [
+        "Osmanlı ekonomisi",
+        "Mangır",
+        "Akçe",
+        "Sultani",
+        "Kaime"
+      ]
+    },
+    {
+      "baslik": "Osmanlı Hazine Türleri ve Gelir Kaynakları",
+      "baslangic_sn": 144,
+      "bitis_sn": 423,
+      "ozet": "Devletin mali yapısını düzenleyen hazine-i amire, hazine-i hassa ve hazine-i cep gibi farklı hazine türleri açıklanmıştır. Ayrıca orman, tuzla ve maden işletmeleri, vergiler ile ganimetler hazinenin başlıca gelir kaynakları olarak sıralanmıştır.",
+      "anahtar_kelimeler": [
+        "Hazine-i amire",
+        "Hazine-i hassa",
+        "Gelir kaynakları",
+        "Ganimet",
+        "İltizam"
+      ]
+    },
+    {
+      "baslik": "Mali Süreç, Nakit İhtiyacı ve İç Borçlanma",
+      "baslangic_sn": 423,
+      "bitis_sn": 929,
+      "ozet": "Osmanlı maliyesinin başında defterdar bulunur ve en parlak dönem Yavuz Sultan Selim zamanıdır. Nakit ihtiyacını karşılamak için iltizam, malikane ve esam senetleri gibi iç borçlanma yöntemleri uygulanmış, dağılma döneminde ise dış borçlar alınarak Düyun-ı Umumiyye idaresi kurulmuştur.",
+      "anahtar_kelimeler": [
+        "Defterdar",
+        "Tarhuncu Ahmet",
+        "Esam senetleri",
+        "Düyun-ı Umumiyye",
+        "Rüsum-u Sitte"
+      ]
+    },
+    {
+      "baslik": "Osmanlı Bankacılık Tarihi",
+      "baslangic_sn": 929,
+      "bitis_sn": 1290,
+      "ozet": "Osmanlı'da bankacılık 19. yüzyılda Bank-ı Dersaadet ile başlamış, ardından ilk yabancı destekli banka olan Bank-ı Şahaneyi Osmani kurulmuştur. Köylüyü desteklemek amacıyla kurulan memleket sandıkları daha sonra Ziraat Bankası'na dönüştürülmüştür.",
+      "anahtar_kelimeler": [
+        "Bank-ı Dersaadet",
+        "Bank-ı Şahaneyi Osmani",
+        "Memleket sandıkları",
+        "Ziraat Bankası",
+        "Milli İtibar Bankası"
+      ]
+    },
+    {
+      "baslik": "Ekonomik Kavramlar ve Politikalar",
+      "baslangic_sn": 1290,
+      "bitis_sn": 2102,
+      "ozet": "Osmanlı ekonomik zihniyetinin temel ilkeleri olan fiskalizm, iaşecilik ve merkantilizm kavramları detaylandırılmıştır. Lonca teşkilatı, gedik hakkı, narh sistemi ve mesleki eğitim süreçleri ekonomik hayatın denetimini sağlamıştır.",
+      "anahtar_kelimeler": [
+        "Fiskalizm",
+        "İaşecilik",
+        "Merkantilizm",
+        "Lonca",
+        "Gedik"
+      ]
+    },
+    {
+      "baslik": "Osmanlı Vergi Sistemleri ve Çeşitleri",
+      "baslangic_sn": 2102,
+      "bitis_sn": 2813.2,
+      "ozet": "Vergiler şerî ve örfî olarak ayrılmakta; haraç, cizye ve aşar gibi şerî vergilerin yanında çift-bozan, avarız ve ağil gibi örfî vergiler tahsil edilmektedir. Vergi toplama yöntemleri ve ilgili cezai uygulamalar Osmanlı mali yapısının önemli unsurlarındandır.",
+      "anahtar_kelimeler": [
+        "Şerî vergiler",
+        "Örfî vergiler",
+        "Haraç",
+        "Cizye",
+        "Aşar",
+        "Avarız"
+      ]
+    }
+  ],
+  "olcumler": {
+    "model": "gemini-3.5-flash-lite",
+    "gecikme_sn": 3.73,
+    "girdi_token": 14701,
+    "cikti_token": 1134,
+    "toplam_deneme": 5
+  }
+}

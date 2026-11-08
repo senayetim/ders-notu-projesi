@@ -1,0 +1,65 @@
+{
+  "bolumler": [
+    {
+      "baslik": "Mondros Ateşkes Antlaşması'nın İmzalanma Süreci ve Nedenleri",
+      "baslangic_sn": 0,
+      "bitis_sn": 266,
+      "ozet": "Wilson İlkeleri'ne güvenilerek imzalanan Mondros Ateşkes Antlaşması sürecinde Osmanlı padişahı VI. Mehmet Vahdettin, sadrazam ise Ahmet İzzet Paşa'dır. Antlaşmayı Osmanlı Devleti adına Bahriye Nazırı Rauf Orbay imzalamıştır. Antlaşmanın imzalanmasında Bulgaristan'ın savaştan çekilmesi ve Almanya'nın yenilmeye başlaması gibi faktörler etkili olmuştur.",
+      "anahtar_kelimeler": [
+        "Mondros Ateşkes Antlaşması",
+        "Rauf Orbay",
+        "Mehmet Vahdettin",
+        "Ahmet İzzet Paşa",
+        "Wilson İlkeleri"
+      ]
+    },
+    {
+      "baslik": "Mondros Ateşkes Antlaşması'nın Önemli Maddeleri ve Değerlendirilmesi",
+      "baslangic_sn": 266,
+      "bitis_sn": 995,
+      "ozet": "Antlaşmanın 7. maddesi, İtilaf Devletleri'ne stratejik bölgeleri işgal etme hakkı vererek işgallere yasal dayanak oluşturmuştur. 24. madde ise Vilayet-i Sitte'de (6 vilayet) karışıklık çıkması halinde işgale imkan tanıyarak bir Ermeni devleti kurulmasını amaçlamıştır. Haberleşme araçlarına el konulması ve ordunun terhis edilmesi gibi maddeler doğrudan işgalleri kolaylaştırmayı ve milli örgütlenmeyi engellemeyi hedeflemiştir.",
+      "anahtar_kelimeler": [
+        "7. Madde",
+        "24. Madde",
+        "Vilayet-i Sitte",
+        "Kazım Karabekir",
+        "Kuvayımilliye",
+        "Haberleşme"
+      ]
+    },
+    {
+      "baslik": "Mondros Ateşkes Antlaşması'nın Önemi ve Osmanlı'ya Etkileri",
+      "baslangic_sn": 995,
+      "bitis_sn": 1371,
+      "ozet": "Antlaşmanın ardından Mustafa Kemal Paşa İstanbul'a gelerek geldikleri gibi giderler sözünü söylemiştir. Mondros ile Osmanlı Devleti fiilen sona ermiş ve İstanbul fiilen işgale açık hale gelmiştir. İstanbul Hükümeti işgaller karşısında halkı sakinleştirmek adına Heyet-i Nasiha kurullarını Anadolu'ya göndermiştir.",
+      "anahtar_kelimeler": [
+        "Mustafa Kemal Atatürk",
+        "Fiilen Sona Erme",
+        "Mebusan Meclisi",
+        "Heyet-i Nasiha",
+        "İstanbul'un İşgali"
+      ]
+    },
+    {
+      "baslik": "Mondros Sonrası İşgaller ve İşgalci Devletler",
+      "baslangic_sn": 1371,
+      "bitis_sn": 1624.1,
+      "ozet": "Mondros sonrasında İtilaf Devletleri tarafından ilk işgal edilen yer Musul, Anadolu'da ilk işgal edilen yer ise Hatay Dörtyol olmuştur. Gizli anlaşmalarda yer almayıp işgallere katılan tek devlet Yunanistan olurken, Rusya ve ABD işgallere katılmamıştır. Bu haksız işgaller karşısında Türk halkı bölgesel direniş faaliyetlerini başlatmıştır.",
+      "anahtar_kelimeler": [
+        "Musul",
+        "Hatay Dörtyol",
+        "İngiltere",
+        "Fransa",
+        "Yunanistan",
+        "İlk İşgaller"
+      ]
+    }
+  ],
+  "olcumler": {
+    "model": "gemini-3.5-flash",
+    "gecikme_sn": 11.03,
+    "girdi_token": 7064,
+    "cikti_token": 912,
+    "toplam_deneme": 2
+  }
+}

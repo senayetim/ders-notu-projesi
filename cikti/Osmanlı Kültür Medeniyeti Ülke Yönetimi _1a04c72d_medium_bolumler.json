@@ -1,0 +1,66 @@
+{
+  "bolumler": [
+    {
+      "baslik": "Osmanlı Merkez Teşkilatı ve İstanbul Yönetimi",
+      "baslangic_sn": 0,
+      "bitis_sn": 184,
+      "ozet": "Osmanlı Devleti'nin başkenti İstanbul ve merkez teşkilatının yapısı ele alınmıştır. İstanbul'un tarihsel adları, mülki amiri olan taht kadısı, güvenliğini sağlayan yeniçeri ağası, subaşı ve istihbarat görevlisi böcekbaşı gibi önemli yetkililer açıklanmıştır.",
+      "anahtar_kelimeler": [
+        "merkez teşkilatı",
+        "başkent",
+        "taht kadısı",
+        "yeniçeri ağası",
+        "böcekbaşı"
+      ]
+    },
+    {
+      "baslik": "Osmanlı Taşra Teşkilatı ve İdari Birimler",
+      "baslangic_sn": 184,
+      "bitis_sn": 640,
+      "ozet": "Ülke yönetim birimleri eyalet, sancak, kaza ve köy olarak tarihsel sırayla incelenmiştir. On dokuzuncu yüzyıldaki vilayet nizamnamesiyle gelen değişiklikler, sancakların livaya dönüşmesi, nahiye birimi ve mütesellim gibi vekillik kurumları detaylandırılmıştır.",
+      "anahtar_kelimeler": [
+        "taşra teşkilatı",
+        "eyalet",
+        "sancak",
+        "liva",
+        "mutasarrıf",
+        "mütesellim"
+      ]
+    },
+    {
+      "baslik": "Salyaneli Eyaletler ve İltizam Sistemi",
+      "baslangic_sn": 640,
+      "bitis_sn": 1172,
+      "ozet": "Uzak eyaletlerde uygulanan, verginin peşin alındığı salyaneli eyaletler sistemi anlatılmıştır. İltizam ve malikane ihaleleri, mültezimlerin rolü ve bu sistemin ayanların ortaya çıkmasındaki etkisi açıklanmıştır.",
+      "anahtar_kelimeler": [
+        "salyaneli eyaletler",
+        "iltizam",
+        "mültezim",
+        "malikane",
+        "mukaata",
+        "ayan"
+      ]
+    },
+    {
+      "baslik": "Salyanesiz ve İmtiyazlı Eyaletler",
+      "baslangic_sn": 1172,
+      "bitis_sn": 1601.6,
+      "ozet": "Dirlik sisteminin uygulandığı salyanesiz eyaletler ile özel statüye sahip imtiyazlı eyaletlerin yapısı ele alınmıştır. Eflak-Boğdan, Kırım ve Hicaz gibi bölgelerin yönetim biçimleri ve vergi yükümlülükleri özetlenmiştir.",
+      "anahtar_kelimeler": [
+        "salyanesiz eyaletler",
+        "imtiyazlı eyaletler",
+        "dirlik sistemi",
+        "kırım",
+        "hicaz",
+        "emiri şerif"
+      ]
+    }
+  ],
+  "olcumler": {
+    "model": "gemini-3.5-flash-lite",
+    "gecikme_sn": 2.85,
+    "girdi_token": 8154,
+    "cikti_token": 760,
+    "toplam_deneme": 5
+  }
+}

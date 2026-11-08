@@ -1,0 +1,76 @@
+{
+  "bolumler": [
+    {
+      "baslik": "Kanuni Sultan Süleyman'ın Genel Özellikleri ve Dönemin Şahsiyetleri",
+      "baslangic_sn": 0,
+      "bitis_sn": 262,
+      "ozet": "Kanuni Sultan Süleyman Osmanlı tahtında kırk altı yıl ile en uzun süre kalan padişahtır. Anadolu dışındaki tek sancak merkezi olan Kırım'ın Kefe bölgesinden tahta çıkmış ve şiirlerinde Muhibbi mahlasını kullanmıştır. Döneminde Fuzuli, Piri Reis, Seydi Ali Reis, Ebussuud Efendi, Matrakçı Nasuh ve Mimar Sinan gibi önemli şahsiyetler yetişmiştir.",
+      "anahtar_kelimeler": [
+        "Kanuni Sultan Süleyman",
+        "Muhibbi",
+        "Kefe",
+        "Piri Reis",
+        "Ebussuud Efendi"
+      ]
+    },
+    {
+      "baslik": "Kanuni Dönemi İç İsyanlar ve Şehzade Ayaklanmaları",
+      "baslangic_sn": 262,
+      "bitis_sn": 415,
+      "ozet": "Kanuni'nin ilk yıllarında Anadolu'da dini ve ekonomik nitelikli Kalender Çelebi ve Baba Zünnün isyanları çıkmış ve kısa sürede bastırılmıştır. Mısır'da ise Memlük Devleti'ni yeniden kurmak isteyen Canberk Gazali ile sadrazam olamadığı için ayaklanan Ahmet Paşa isyan etmiştir. Ayrıca bu dönemde taht mücadelesi bağlamında Şehzade Mustafa ve Şehzade Bayezid olayları yaşanmıştır.",
+      "anahtar_kelimeler": [
+        "Kalender Çelebi",
+        "Baba Zünnün",
+        "Canberk Gazali",
+        "Ahmet Paşa",
+        "Şehzade Mustafa"
+      ]
+    },
+    {
+      "baslik": "Kanuni Dönemi Batı Seferleri ve Habsburg Mücadelesi",
+      "baslangic_sn": 415,
+      "bitis_sn": 1216,
+      "ozet": "Osmanlı Devleti bu dönemde Batı'da Almanya, Avusturya, İspanya ve Macaristan'ı yöneten Habsburg hanedanıyla mücadele etmiştir. Belgrad'ın fethinden sonra Mohaç Meydan Savaşı kazanılmış ve Macaristan Osmanlı hakimiyetine girmiştir. Avusturya ile yapılan mücadeleler sonucu 1533 İstanbul Antlaşması imzalanmış, Avusturya kralı protokolde Osmanlı sadrazamına denk sayılmıştır. Kanuni'nin son seferi ise Zigetvar Kuşatması olmuştur.",
+      "anahtar_kelimeler": [
+        "Habsburglar",
+        "Belgrad",
+        "Mohaç Meydan Savaşı",
+        "İstanbul Antlaşması",
+        "Zigetvar Seferi"
+      ]
+    },
+    {
+      "baslik": "Kanuni Dönemi Deniz Seferleri ve Hint Deniz Seferleri",
+      "baslangic_sn": 1216,
+      "bitis_sn": 2179,
+      "ozet": "Rodos'un fethinin ardından Barbaros Hayrettin Paşa'nın Kaptan-ı Derya olmasıyla Cezayir Osmanlı'ya katılmış ve Preveze Deniz Zaferi ile Akdeniz Türk gölü haline gelmiştir. Coğrafi Keşifler sonrasında Baharat Yolu'nu canlandırmak ve Müslümanlara yardım etmek amacıyla Hint Deniz Seferleri düzenlenmiştir. Turgut Reis Trablusgarp'ı fethetmiş, Malta kuşatmasında şehit düşmüş ve dönemin sonunda Sakız Adası alınmıştır.",
+      "anahtar_kelimeler": [
+        "Preveze Deniz Zaferi",
+        "Barbaros Hayrettin Paşa",
+        "Hint Deniz Seferleri",
+        "Trablusgarp",
+        "Sakız Adası"
+      ]
+    },
+    {
+      "baslik": "Irakeyn Seferi, Amasya Antlaşması ve Fransa Kapitülasyonları",
+      "baslangic_sn": 2179,
+      "bitis_sn": 2549.0,
+      "ozet": "Doğu seferleri sonucunda Bağdat ele geçirilmiş ve İran ile ilk resmi antlaşma olan 1555 Amasya Antlaşması imzalanmıştır. Avrupa'da Haçlı birliğini bölmek amacıyla Reform hareketlerine destek verilmiş ve Fransa'ya kapitülasyonlar tanınmıştır. Fransa kapitülasyonları hukuki, dini ve ekonomik haklar içerirken Osmanlı'da Konsolosluk Mahkemeleri'nin kurulmasına zemin hazırlamıştır.",
+      "anahtar_kelimeler": [
+        "Irakeyn Seferi",
+        "Amasya Antlaşması",
+        "Reform",
+        "Kapitülasyonlar",
+        "Konsolosluk Mahkemeleri"
+      ]
+    }
+  ],
+  "olcumler": {
+    "model": "gemini-3.5-flash",
+    "gecikme_sn": 15.12,
+    "girdi_token": 13065,
+    "cikti_token": 1171,
+    "toplam_deneme": 1
+  }
+}

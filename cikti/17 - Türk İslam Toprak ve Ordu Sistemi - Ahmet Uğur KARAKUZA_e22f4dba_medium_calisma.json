@@ -1,0 +1,201 @@
+{
+  "sorular": [
+    {
+      "soru": "Türk-İslam devletlerinde gayrimüslim halkın mülkiyetinde bulunan arazilerden alınan vergi ve bu arazi türüne verilen ad aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Öşri",
+        "Haraci",
+        "Has",
+        "Vakıf"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Mülki arazilerden Müslümanlara ait olanlara öşri, gayrimüslimlere ait olanlara ise haraci arazi denir.",
+      "kaynak_sn": 40.41
+    },
+    {
+      "soru": "Türk-İslam tarihinde sosyal devlet anlayışının bir göstergesi olan vakıf sistemi ilk kez hangi devlette görülmüştür?",
+      "secenekler": [
+        "Büyük Selçuklu Devleti",
+        "Karahanlılar",
+        "Gazneliler",
+        "Tolunoğulları"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Türk-İslam tarihinde vakıf sistemi ilk kez Karahanlılar döneminde uygulanmaya başlanmıştır.",
+      "kaynak_sn": 128.0
+    },
+    {
+      "soru": "Vakıf sisteminin işleyişi ile ilgili olarak kurumların denetimi ve yönetimi kimler tarafından gerçekleştirilir?",
+      "secenekler": [
+        "Kadı denetler, mütevelli heyeti yönetir",
+        "Pervaneci denetler, subaşı yönetir",
+        "Subaşı denetler, kadı yönetir",
+        "Mütevelli heyeti denetler, kadı yönetir"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Vakıfların hukuki denetimini kadı yaparken, vakfın idari yönetimini mütevelli heyeti üstlenir.",
+      "kaynak_sn": 220.74
+    },
+    {
+      "soru": "Anadolu Selçuklu Devleti'nde ikta topraklarının dağıtımı ve kayıt işlerinden sorumlu olan divan ve görevli aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Divan-ı Arz - Emir-i Arz",
+        "Divan-ı Pervane - Pervaneci",
+        "Divan-ı İstifa - Müstevfi",
+        "Divan-ı İşraf - Müşrif"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Anadolu Selçuklu Devleti'nde ikta arazilerinin organizasyonunu ve kaydını Divan-ı Pervane yürütür, görevlisine ise pervaneci denir.",
+      "kaynak_sn": 440.98
+    },
+    {
+      "soru": "İkta sisteminde toprağın mülkiyeti, kullanım hakkı ve vergisi/geliri sırasıyla kime aittir?",
+      "secenekler": [
+        "Mülkiyet halkın, kullanım devletin, gelir yöneticinin",
+        "Mülkiyet yöneticinin, kullanım halkın, gelir devletin",
+        "Mülkiyet devletin, kullanım halkın, gelir yöneticinin",
+        "Mülkiyet devletin, kullanım yöneticinin, gelir halkın"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "İkta sisteminde toprağın mülkiyeti devlete, işleme ve kullanım hakkı halka, toplanan vergi gelirleri ise orada görevli yöneticiye aittir.",
+      "kaynak_sn": 398.73
+    },
+    {
+      "soru": "Gulam sisteminde yetişen ve doğrudan sultana bağlı olan ordunun hazineden aldığı maaşa ne ad verilir?",
+      "secenekler": [
+        "Cülus",
+        "Ulufe",
+        "Bistegani",
+        "Tımar"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Gulam sistemindeki askerlerin hazineden aldıkları maaş Bistegani olarak adlandırılır. Osmanlı'daki karşılığı Ulufe'dir.",
+      "kaynak_sn": 735.03
+    },
+    {
+      "soru": "Anadolu Selçuklu Devleti'nde donanma komutanlarına verilen unvanlar arasında aşağıdakilerden hangisi yer alır?",
+      "secenekler": [
+        "Reis-ül Bahr",
+        "Kaptan-ı Derya",
+        "Subaşı",
+        "Emir-i Ümera"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Anadolu Selçuklu Devleti'nde deniz kuvvetleri liderlerine Reis-ül Bahr veya Melik-ü Sevahil unvanı verilir.",
+      "kaynak_sn": 865.84
+    },
+    {
+      "soru": "Büyük Selçuklu Devleti'nde görülmeyen ancak Anadolu Selçuklu Devleti'nde başvurulan ücretli askerlik uygulamasının temel sebebi nedir?",
+      "secenekler": [
+        "Haçlı Seferleri'nin başlaması",
+        "Bizans ile yapılan savaşlar",
+        "Moğol tehlikesi",
+        "Taht kavgaları"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Anadolu Selçuklu Devleti, karşı karşıya kaldığı Moğol tehlikesi nedeniyle ücretli askerlik sisteminden faydalanmıştır.",
+      "kaynak_sn": 953.38
+    },
+    {
+      "soru": "Türk-İslam devletlerinde günümüzdeki jandarma teşkilatına benzer şekilde güvenlik işlerini yürüten yapı hangisidir?",
+      "secenekler": [
+        "Şurta Teşkilatı",
+        "Muhtesiplik",
+        "Divan-ı Mezalim",
+        "Barid Teşkilatı"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Şurta teşkilatı, Türk-İslam devletlerinde kamu düzenini sağlayan ve jandarmaya benzetilen güvenlik organıdır.",
+      "kaynak_sn": 963.89
+    },
+    {
+      "soru": "Türk-İslam devletlerinde ordunun ihtiyaçları, denetimi ve askeri işlerin yürütülmesiyle ilgilenen divan hangisidir?",
+      "secenekler": [
+        "Divan-ı İşraf",
+        "Divan-ı Tuğra",
+        "Divan-ı İnşa",
+        "Divan-ı Arz"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "Ordu teşkilatı ve askeri işlerin yönetimi Divan-ı Arz tarafından gerçekleştirilir.",
+      "kaynak_sn": 1176.32
+    }
+  ],
+  "kartlar": [
+    {
+      "on": "Toprakların büyük çoğunluğunun devlete ait olmasının temel amacı nedir?",
+      "arka": "Feodalleşmeyi ve toprak ağalığını engellemek, devlet otoritesini korumaktır.",
+      "kaynak_sn": 89.41
+    },
+    {
+      "on": "Öşri arazi nedir?",
+      "arka": "Mülkiyeti Müslüman halka ait olan özel mülk arazileridir.",
+      "kaynak_sn": 40.41
+    },
+    {
+      "on": "Haraci arazi nedir?",
+      "arka": "Mülkiyeti gayrimüslim halka ait olan özel mülk arazileridir.",
+      "kaynak_sn": 40.41
+    },
+    {
+      "on": "Türk-İslam tarihinde vakıf sistemi ilk kez hangi devlette görülmüştür?",
+      "arka": "Karahanlılar Devleti'nde görülmüştür.",
+      "kaynak_sn": 128.0
+    },
+    {
+      "on": "Vakıf sistemindeki imarethane ne anlama gelir?",
+      "arka": "Yoksullara ve öğrencilere yemek verilen aşevidir.",
+      "kaynak_sn": 182.95
+    },
+    {
+      "on": "Vakıf kurumlarının yönetim ve denetimi kimler tarafından yapılır?",
+      "arka": "Kadı denetler, mütevelli heyeti yönetir.",
+      "kaynak_sn": 220.74
+    },
+    {
+      "on": "Anadolu Selçuklu'da ikta arazilerini kaydeden ve dağıtan divan hangisidir?",
+      "arka": "Divan-ı Pervane (Görevlisi: Pervaneci).",
+      "kaynak_sn": 440.98
+    },
+    {
+      "on": "İkta sisteminde yetişen yarı asker yarı çiftçi olan atlı askerlere ne ad verilir?",
+      "arka": "Cebelu.",
+      "kaynak_sn": 372.73
+    },
+    {
+      "on": "İkta ordusu merkezde mi yoksa eyaletlerde mi konuşlandırılır?",
+      "arka": "Eyaletlerde konuşlandırılır.",
+      "kaynak_sn": 390.73
+    },
+    {
+      "on": "Gulam sistemindeki askerlerin maaşı nereden karşılanır?",
+      "arka": "Doğrudan devlet hazinesinden ödenir.",
+      "kaynak_sn": 725.05
+    },
+    {
+      "on": "Gulam ordusunun hazineden aldığı maaşa verilen ad nedir?",
+      "arka": "Bistegani.",
+      "kaynak_sn": 735.03
+    },
+    {
+      "on": "Anadolu Selçuklu Devleti ilk tersanesini hangi şehirde kurmuştur?",
+      "arka": "Sinop'ta kurmuştur.",
+      "kaynak_sn": 850.84
+    },
+    {
+      "on": "Anadolu Selçuklu Devleti'nde donanma komutanlarına ne ad verilir?",
+      "arka": "Reis-ül Bahr ve Melik-ü Sevahil.",
+      "kaynak_sn": 865.84
+    },
+    {
+      "on": "Türk-İslam devletlerinde jandarma işlevine sahip güvenlik birimi nedir?",
+      "arka": "Şurta Teşkilatı.",
+      "kaynak_sn": 963.89
+    },
+    {
+      "on": "Türk-İslam devletlerinde şehir güvenliğini sağlayan yetkili kimdir?",
+      "arka": "Subaşı.",
+      "kaynak_sn": 1072.54
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "sorular": [
+    {
+      "soru": "Osmanlı Devleti'nin I. Dünya Savaşı'nda kendi taarruzuyla açtığı cepheler aşağıdakilerin hangisinde doğru verilmiştir?",
+      "secenekler": [
+        "Kafkas ve Kanal",
+        "Çanakkale ve Irak",
+        "Galiçya ve Romanya",
+        "Suriye ve Filistin"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Osmanlı Devleti'nin taarruz amacıyla açtığı iki cephe Kafkas ve Kanal cepheleridir.",
+      "kaynak_sn": 39.88
+    },
+    {
+      "soru": "İtilaf Devletleri'nin Çarlık Rusya'ya yardım ulaştırmak amacıyla açtığı cepheler aşağıdakilerden hangileridir?",
+      "secenekler": [
+        "Kafkas ve Kanal",
+        "Çanakkale ve Irak",
+        "Hicaz ve Yemen",
+        "Galiçya ve Romanya"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "İtilaf Devletleri, Çarlık Rusya'da Bolşeviklerin iktidara gelmesini önlemek ve yardım götürmek için Çanakkale ve Irak cephelerini açmıştır.",
+      "kaynak_sn": 140.28
+    },
+    {
+      "soru": "Mustafa Kemal'in I. Dünya Savaşı'nda sırasıyla görev yaptığı cepheler hangi seçenekte doğru sıralanmıştır?",
+      "secenekler": [
+        "Kafkas - Çanakkale - Suriye-Filistin",
+        "Suriye-Filistin - Kafkas - Çanakkale",
+        "Çanakkale - Kafkas - Suriye-Filistin",
+        "Çanakkale - Suriye-Filistin - Kafkas"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Mustafa Kemal I. Dünya Savaşı'nda sırasıyla Çanakkale, Kafkas ve Suriye-Filistin cephelerinde (ÇKS) savaşmıştır.",
+      "kaynak_sn": 211.88
+    },
+    {
+      "soru": "Kafkas Cephesi'nde yaşanan olaylar ve Ermeni isyanları üzerine 27 Mayıs 1915 tarihinde Tehcir Kanunu'nu çıkaran devlet adamı kimdir?",
+      "secenekler": [
+        "Enver Paşa",
+        "Cemal Paşa",
+        "Halil Paşa",
+        "Talat Paşa"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "Tehcir (Sevk ve İskan) Kanunu dönemin Dahiliye Nazırı Talat Paşa tarafından çıkartılmıştır.",
+      "kaynak_sn": 1058.34
+    },
+    {
+      "soru": "Osmanlı Devleti'nin I. Dünya Savaşı'nda askeri açıdan başarısız olmasına rağmen Brest-Litovsk Antlaşması ile toprak kazandığı tek cephe hangisidir?",
+      "secenekler": [
+        "Kafkas Cephesi",
+        "Çanakkale Cephesi",
+        "Kanal Cephesi",
+        "Irak Cephesi"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Kafkas Cephesi mağlubiyetle sonuçlanmasına rağmen Rusya'da ihtilal çıkması sonucu imzalanan Brest-Litovsk Antlaşması ile Kars, Ardahan ve Batum geri alınarak toprak kazanılmıştır.",
+      "kaynak_sn": 1408.38
+    },
+    {
+      "soru": "Kafkas İslam Ordusu'nun başında Bakü'ye girerek şehri Ermeni ve Rus zulmünden kurtaran ve 'Bakü Fatihi' olarak anılan komutan kimdir?",
+      "secenekler": [
+        "Fahrettin Paşa",
+        "Nuri Killigil",
+        "Halil Kut",
+        "Kazım Karabekir"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Enver Paşa'nın kardeşi Nuri Killigil, Kafkas İslam Ordusu ile Bakü'yü kurtararak Bakü Fatihi unvanını almıştır.",
+      "kaynak_sn": 1573.18
+    },
+    {
+      "soru": "Osmanlı Devleti'nin Mısır'ı geri almak ve İngiltere'nin sömürge yolları ile bağlantısını kesmek amacıyla açtığı taarruz cephesi hangisidir?",
+      "secenekler": [
+        "Irak Cephesi",
+        "Hicaz-Yemen Cephesi",
+        "Kanal Cephesi",
+        "Suriye Cephesi"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Kanal Cephesi, Mısır'ı geri almak ve İngiltere'nin Uzak Doğu sömürge bağlantılarını kesmek için açılmıştır.",
+      "kaynak_sn": 399.87
+    },
+    {
+      "soru": "Irak Cephesi'nde Küt'ül Amare Zaferi'ni kazanarak büyük bir İngiliz birliğini esir alan ve 'Küt'ül Amare Kahramanı' olarak bilinen komutan kimdir?",
+      "secenekler": [
+        "Cemal Paşa",
+        "Talat Paşa",
+        "Fahrettin Paşa",
+        "Halil Paşa (Halil Kut)"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "Halil Paşa (Halil Kut), Küt'ül Amare'de kazandığı tarihi zaferden dolayı bu unvanla anılmaktadır.",
+      "kaynak_sn": 1836.65
+    },
+    {
+      "soru": "Hicaz-Yemen Cephesi'nde Medine'yi zor şartlar altında 90 gün boyunca savunarak kutsal emanetleri koruyan ve 'Çöl Kaplanı' olarak bilinen komutan kimdir?",
+      "secenekler": [
+        "Fahrettin Türkkan",
+        "Nuri Killigil",
+        "Sakallı Nurettin",
+        "Enver Paşa"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Fahrettin Paşa (Türkkan), Medine Müdafii ve Çöl Kaplanı olarak kutsal emanetleri ve Medine'yi savunmuştur.",
+      "kaynak_sn": 2080.15
+    },
+    {
+      "soru": "Osmanlı Devleti'nin kendi sınırları dışında, müttefiklerine yardım etmek amacıyla savaştığı cepheler hangileridir?",
+      "secenekler": [
+        "Hicaz, Yemen, Irak",
+        "Galiçya, Romanya, Makedonya",
+        "Çanakkale, Suriye, Filistin",
+        "Kafkas, Kanal, Mısır"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Galiçya, Romanya ve Makedonya cepheleri Osmanlı'nın sınırları dışında müttefiklerine destek olmak için açtığı yardım cepheleridir.",
+      "kaynak_sn": 43.88
+    }
+  ],
+  "kartlar": [
+    {
+      "on": "Osmanlı Devleti'nin I. Dünya Savaşı'ndaki Taarruz cepheleri hangileridir?",
+      "arka": "Kafkas ve Kanal cepheleri.",
+      "kaynak_sn": 39.88
+    },
+    {
+      "on": "Osmanlı Devleti'nin sınırları dışındaki yardım cepheleri hangileridir?",
+      "arka": "Galiçya, Romanya ve Makedonya cepheleri.",
+      "kaynak_sn": 43.88
+    },
+    {
+      "on": "İtilaf Devletleri'nin Çarlık Rusya'ya yardım götürmek için açtığı cepheler hangileridir?",
+      "arka": "Çanakkale ve Irak cepheleri (Çırak kodlaması).",
+      "kaynak_sn": 140.28
+    },
+    {
+      "on": "Mustafa Kemal I. Dünya Savaşı başladığında hangi görevde bulunmaktaydı?",
+      "arka": "Sofya Ateşemiliterliği görevindeydi.",
+      "kaynak_sn": 179.88
+    },
+    {
+      "on": "Mustafa Kemal'in I. Dünya Savaşı'nda savaştığı cephelerin sırası nedir?",
+      "arka": "Çanakkale, Kafkas ve Suriye-Filistin (ÇKS).",
+      "kaynak_sn": 211.88
+    },
+    {
+      "on": "Elviye-i Selase olarak bilinen ve 1878'de Rusya'ya verilen üç vilayet nerelerdir?",
+      "arka": "Kars, Ardahan ve Batum.",
+      "kaynak_sn": 361.85
+    },
+    {
+      "on": "27 Mayıs 1915 tarihinde Tehcir Kanunu'nu çıkaran devlet adamı kimdir?",
+      "arka": "Dahiliye Nazırı Talat Paşa.",
+      "kaynak_sn": 1058.34
+    },
+    {
+      "on": "Mustafa Kemal Kafkas Cephesi'nde hangi şehirleri Ruslardan geri almıştır?",
+      "arka": "Muş ve Bitlis.",
+      "kaynak_sn": 1223.48
+    },
+    {
+      "on": "Mustafa Kemal'e Kafkas Cephesi'ndeki başarılarından dolayı hangi ödül verilmiştir?",
+      "arka": "Altın Kılıç Madalyası verilmiş ve generalliğe yükseltilmiştir.",
+      "kaynak_sn": 1232.38
+    },
+    {
+      "on": "Osmanlı Devleti'nin I. Dünya Savaşı'nda askeri açıdan başarılı olduğu tek cephe hangisidir?",
+      "arka": "Çanakkale Cephesi.",
+      "kaynak_sn": 1403.18
+    },
+    {
+      "on": "Osmanlı Devleti'nin I. Dünya Savaşı'nda toprak kazandığı tek cephe hangisidir?",
+      "arka": "Kafkas Cephesi (Brest-Litovsk Antlaşması ile Kars, Ardahan ve Batum kazanılmıştır).",
+      "kaynak_sn": 1408.38
+    },
+    {
+      "on": "Bakü Fatihi olarak tanınan Kafkas İslam Ordusu komutanı kimdir?",
+      "arka": "Nuri Killigil (Enver Paşa'nın kardeşi).",
+      "kaynak_sn": 1573.18
+    },
+    {
+      "on": "Kanal Cephesi'nin komutanı ve temel amacı nedir?",
+      "arka": "Komutanı Cemal Paşa'dır; amacı Mısır'ı geri almak ve İngiltere'nin sömürge bağlantılarını kesmektir.",
+      "kaynak_sn": 1689.66
+    },
+    {
+      "on": "Irak Cephesi'nde büyük zafer elde eden 'Küt'ül Amare Kahramanı' kimdir?",
+      "arka": "Halil Paşa (Halil Kut).",
+      "kaynak_sn": 1836.65
+    },
+    {
+      "on": "Hicaz-Yemen Cephesi'nde Medine'yi savunan 'Çöl Kaplanı' kimdir?",
+      "arka": "Fahrettin Paşa (Fahrettin Türkkan).",
+      "kaynak_sn": 2080.15
+    }
+  ]
+}

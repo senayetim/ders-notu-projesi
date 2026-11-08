@@ -1,0 +1,84 @@
+{
+  "bolumler": [
+    {
+      "baslik": "Osmanli Mimari Donemleri ve Kavramlar",
+      "baslangic_sn": 0,
+      "bitis_sn": 127,
+      "ozet": "Osmanli mimarisi erken donem, klasik donem ve gecikmis donem olmak uzere ucten incelenir. Erken ve klasik donemler batisiz ozellik gosterirken; 1700 sonrasi gecikmis donem barok, rokoko gibi bati tarzidir.",
+      "anahtar_kelimeler": [
+        "erken donem",
+        "klasik donem",
+        "gecikmis donem",
+        "mimaride bati tarzi"
+      ]
+    },
+    {
+      "baslik": "Erken Donem Osmanli Mimari Eserleri",
+      "baslangic_sn": 127,
+      "bitis_sn": 244,
+      "ozet": "Kurulus donemini kapsayan erken donem eserleri genellikle İznik, Bursa ve Edirne'de verilmistir. Bursa Bey Sarayi, Haclilar Camii ve ilk medreseler bu donemde insa edilmistir.",
+      "anahtar_kelimeler": [
+        "erken donem",
+        "Bursa Bey Sarayi",
+        "haci ozbek camii",
+        "ilk medrese"
+      ]
+    },
+    {
+      "baslik": "Klasik Donem ve Mimar Sinan Eserleri",
+      "baslangic_sn": 244,
+      "bitis_sn": 469,
+      "ozet": "Yukselme ve duraklama devrini kapsayan klasik donemin en onemli mimari figuru Mimar Sinan'dir. Sehzade, Suleymaniye ve Selimiye camileri sirasiyla ciraklik, kalfalik ve ustalik eserleridir.",
+      "anahtar_kelimeler": [
+        "klasik donem",
+        "mimar sinan",
+        "topkapi sarayi",
+        "sultanahmet camii"
+      ]
+    },
+    {
+      "baslik": "Batı Tarzi Saraylar ve Mimari Eserler",
+      "baslangic_sn": 469,
+      "bitis_sn": 810,
+      "ozet": "Gerileme ve dagilma doneminde bati etkisiyle Isak Pasa, Yildiz, Dolmabahce ve Cirağan gibi saraylar yapilmistir. Bu donem eserlerinde barok ve rokokotik motifler gorulur.",
+      "anahtar_kelimeler": [
+        "bati tarzi",
+        "isak pasa sarayi",
+        "dolmabahce sarayi",
+        "beylerbeyi sarayi"
+      ]
+    },
+    {
+      "baslik": "Osmanli'da Dil, Edebiyat ve Yazı Turleri",
+      "baslangic_sn": 810,
+      "bitis_sn": 1130,
+      "ozet": "Osmanli'nin resmi dili Turkce olup Arap alfabesi kullanilmistir. Divan edebiyati, halk edebiyati ve cesitli yazi turleri arasinda mali islerde kullanilan sifreli siyakat yazisi onemlidir.",
+      "anahtar_kelimeler": [
+        "resmi dil",
+        "divan edebiyati",
+        "siyakat",
+        "hat turleri"
+      ]
+    },
+    {
+      "baslik": "Osmanli Defterleri ve Kayit Sistemleri",
+      "baslangic_sn": 1130,
+      "bitis_sn": 1407.6,
+      "ozet": "Devlet islerinin duzenli yurutulmesi icin muhimme, tahrir, terekke ve ser'i sicil gibi cesitli defterler tutulmustur. Bu defterler arazi, nufus, mahkeme kararlari ve miras kayitlarini tutmak amaciyla kullanilmistir.",
+      "anahtar_kelimeler": [
+        "muhimme",
+        "tahrir",
+        "tereke",
+        "seri sicil",
+        "osmanli defterleri"
+      ]
+    }
+  ],
+  "olcumler": {
+    "model": "gemini-3.5-flash-lite",
+    "gecikme_sn": 3.64,
+    "girdi_token": 7193,
+    "cikti_token": 1014,
+    "toplam_deneme": 5
+  }
+}

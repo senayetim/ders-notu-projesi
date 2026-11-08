@@ -1,0 +1,201 @@
+{
+  "sorular": [
+    {
+      "soru": "Osmanlı Devleti'nde 17. yüzyıl hangi dönemi ifade eder ve yeni adı nedir?",
+      "secenekler": [
+        "Duraklama Dönemi - Arayış Yılları",
+        "Gerileme Dönemi - Diplomasi Yılları",
+        "Dağılma Dönemi - En Uzun Yüzyıl",
+        "Kuruluş Dönemi - Yükseliş Yılları"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "17. yüzyıl Osmanlı tarihinde Duraklama Dönemi olarak bilinir ve yeni adı arayış yıllarıdır.",
+      "kaynak_sn": 15.58
+    },
+    {
+      "soru": "Duraklama döneminde iki kez tahta çıkan padişah kimdir?",
+      "secenekler": [
+        "Genç Osman",
+        "Dördüncü Mehmet",
+        "Birinci Mustafa",
+        "Üçüncü Murat"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Birinci Mustafa duraklama döneminde iki kez tahta çıkan padişahtır.",
+      "kaynak_sn": 145.46
+    },
+    {
+      "soru": "Osmanlı'da otuz beş devlet adamının çınar ağacına asılmasıyla sonuçlanan olay (Çınar Olayı) hangi isimle anılır?",
+      "secenekler": [
+        "Vakayı Vakvakiye",
+        "Büyük Kaçkun",
+        "Hotin Seferi",
+        "Beşik Ulemlığı"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "1655 yılındaki Çınar Olayı Vakayı Vakvakiye olarak adlandırılır.",
+      "kaynak_sn": 174.45
+    },
+    {
+      "soru": "Medreselerde 'alimin oğlu alimdir' anlayışıyla küçük çocuklara meslek verilmesi anlamına gelen sistem hangisidir?",
+      "secenekler": [
+        "Devşirme Sistemi",
+        "Beşik Ulemlığı",
+        "İltizam Sistemi",
+        "Dirlik Sistemi"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Beşik ulemalığı, alimin oğlunun alim kabul edilerek küçük yaşta meslek sahibi yapılmasıdır ve ilmiye sınıfını bozar.",
+      "kaynak_sn": 450.66
+    },
+    {
+      "soru": "Tımar sisteminin bozulması sonucunda köylerin boşalması ve şehirlerde işsizliğin artmasıyla ortaya çıkan duruma ne ad verilir?",
+      "secenekler": [
+        "Cülus Bahşişi",
+        "Tahşiş",
+        "Büyük Kaçkun",
+        "Merkantilizm"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Tımarın bozulmasıyla köylerin boşalması ve büyük göçler yaşanması Büyük Kaçkun (Büyük Kaçış) olarak adlandırılır.",
+      "kaynak_sn": 655.3
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi Duraklama döneminin dış sebeplerinden biri değildir?",
+      "secenekler": [
+        "Doğal sınırlarına ulaşılması",
+        "Avrupa'nın bilim ve kültürde ilerlemesi",
+        "Coğrafi Keşifler ve Avrupa'nın zenginleşmesi",
+        "Tımar sisteminin bozulması"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "Tımar sisteminin bozulması iç sebepler arasında yer alır, dış sebep değildir.",
+      "kaynak_sn": 346.11
+    },
+    {
+      "soru": "Osmanlı'da para ayarının düşürülmesi, yani altına gümüş veya bakır katılması işlemi aşağıdakilerden hangisiyle ifade edilir?",
+      "secenekler": [
+        "Tahşiş",
+        "Cülus",
+        "İltizam",
+        "Avarız"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Paranın ayarının düşürülmesine tahşiş denir ve kapıkulu isyanlarının sebeplerindendir.",
+      "kaynak_sn": 1252.78
+    },
+    {
+      "soru": "İstanbul isyanlarının (merkez isyanlarının) başrolünde kimler yer alır?",
+      "secenekler": [
+        "Celaliler",
+        "Kapıkulu ocakları (Yeniçeriler)",
+        "Tımarlı sipahiler",
+        "Suhteler"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "İstanbul isyanlarında başrolde kapıkulu askerleri yani yeniçeriler vardır.",
+      "kaynak_sn": 1229.03
+    },
+    {
+      "soru": "Anadolu'da çıkan Celali isyanlarının en temel ekonomik ve idari sebebi aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Fransız İhtilali'nin etkisi",
+        "Tımar sisteminin bozulması ve iltizamın yayılması",
+        "Yeniçerilerin maaşlarının geç ödenmesi",
+        "Rönesans hareketleri"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Celali isyanlarının temel sebebi tımar sisteminin bozulması ve iltizam usulünün yayılmasıdır.",
+      "kaynak_sn": 1585.27
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi Osmanlı'nın doğal sınırlarına ulaşmasında etkili olan coğrafi unsurlardan biri değildir?",
+      "secenekler": [
+        "Aşılmaz dağlar",
+        "Uçsuz bucaksız çöller",
+        "Okyanuslar",
+        "Verimli ovalar"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "Doğal sınırlar; dağlar, çöller, okyanuslar ve güçlü devletler gibi engellerle oluşur, verimli ovalar bu kapsamda değildir.",
+      "kaynak_sn": 1131.31
+    }
+  ],
+  "kartlar": [
+    {
+      "on": "17. yüzyıl Osmanlı döneminin yeni adı nedir?",
+      "arka": "Arayış yılları",
+      "kaynak_sn": 15.58
+    },
+    {
+      "on": "Duraklama döneminde iki kez tahta çıkan padişah kimdir?",
+      "arka": "Birinci Mustafa",
+      "kaynak_sn": 145.46
+    },
+    {
+      "on": "Çınar Olayı hangi padişah döneminde gerçekleşmiştir?",
+      "arka": "Dördüncü Mehmet",
+      "kaynak_sn": 185.97
+    },
+    {
+      "on": "Beşik ulemalığı hangi sınıfı olumsuz etkiler?",
+      "arka": "İlmiye sınıfını",
+      "kaynak_sn": 461.34
+    },
+    {
+      "on": "Tımar sisteminin bozulmasıyla köylerin boşalmasına ne denir?",
+      "arka": "Büyük Kaçkun (Büyük Kaçış)",
+      "kaynak_sn": 655.3
+    },
+    {
+      "on": "Paranın ayarının düşürülmesine ne ad verilir?",
+      "arka": "Tahşiş",
+      "kaynak_sn": 1252.78
+    },
+    {
+      "on": "İstanbul isyanlarında başrolde hangi ordu vardır?",
+      "arka": "Kapıkulu (Yeniçeriler)",
+      "kaynak_sn": 1229.03
+    },
+    {
+      "on": "Celali isyanlarının temel çıkış yeri ve sebebi nedir?",
+      "arka": "Anadolu; tımar sisteminin bozulması",
+      "kaynak_sn": 1546.22
+    },
+    {
+      "on": "Celali isyanlarındaki en büyük isyancı lider kimdir?",
+      "arka": "Karayazıcı",
+      "kaynak_sn": 1776.32
+    },
+    {
+      "on": "Medrese bitirip Beşik ulemalığı yüzünden iş bulamayan isyancı öğrencilere ne denir?",
+      "arka": "Suhteler",
+      "kaynak_sn": 1763.2
+    },
+    {
+      "on": "Osmanlı'nın genişlemesini durduran coğrafi engeller nelerdir?",
+      "arka": "Dağlar, çöller, okyanuslar ve güçlü devletler",
+      "kaynak_sn": 1131.31
+    },
+    {
+      "on": "1655 yılındaki Çınar Olayı'nın tarihteki diğer adı nedir?",
+      "arka": "Vakayı Vakvakiye",
+      "kaynak_sn": 174.45
+    },
+    {
+      "on": "Devletin nakit para ihtiyacı için tımar topraklarını ihale ile vermesine ne denir?",
+      "arka": "İltizam",
+      "kaynak_sn": 1605.24
+    },
+    {
+      "on": "Osmanlı'da en çok cülus bahşişi dağıtılan yüzyıl hangisidir?",
+      "arka": "17. yüzyıl (Duraklama Dönemi)",
+      "kaynak_sn": 125.82
+    },
+    {
+      "on": "Duraklama döneminde 'Devlet ocak içindir' anlayışı hangi duruma dönüşmüştür?",
+      "arka": "Ocak devlet içindir anlayışına",
+      "kaynak_sn": 413.79
+    }
+  ]
+}

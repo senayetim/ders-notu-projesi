@@ -1,0 +1,201 @@
+{
+  "sorular": [
+    {
+      "soru": "Osmanlı Devleti'nin Venedik ile 24 yıl boyunca savaşmasının temel sebebi aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Girit adasını fethetmek",
+        "Belgrad'ı ele geçirmek",
+        "İpek Yolu'nun kontrolünü sağlamak",
+        "Boğazların ticaret güvenliğini artırmak"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Osmanlı Devleti, Venedik ile Akdeniz'de alınmayan son büyük ada olan Girit'i fethetmek için 24 yıl savaşmıştır.",
+      "kaynak_sn": 137.48
+    },
+    {
+      "soru": "Osmanlı Devleti'nin Lehistan (Polonya) ile imzaladığı hangi anlaşma ile Batı'da en geniş sınırlarına ulaştığı kabul edilir?",
+      "secenekler": [
+        "Hotin Antlaşması",
+        "Bucaş Antlaşması",
+        "Karlofça Antlaşması",
+        "Zitvatorok Antlaşması"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "1672 yılında Lehistan ile imzalanan Bucaş Antlaşması ile Podolia ve Ukrayna alınmış, Batı'da en geniş sınırlara ulaşılmıştır.",
+      "kaynak_sn": 653.46
+    },
+    {
+      "soru": "İran ile yapılan savaşlar sonucunda imzalanan hangi antlaşma ile Osmanlı Devleti Doğu'da en geniş sınırlarına ulaşmıştır?",
+      "secenekler": [
+        "Nasuh Paşa Antlaşması",
+        "Amasya Antlaşması",
+        "Ferhat Paşa Antlaşması",
+        "Kasr-ı Şirin Antlaşması"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Üçüncü Murat döneminde İran ile imzalanan Ferhat Paşa Antlaşması ile Dağıstan ve Gürcistan alınarak Doğu'da en geniş sınırlara ulaşılmıştır.",
+      "kaynak_sn": 879.82
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi İran ile yapılan savaşların temel sebeplerinden biri değildir?",
+      "secenekler": [
+        "Doğu Anadolu'ya hakim olma isteği",
+        "Şiilik propagandaları ve mezhep çatışmaları",
+        "İpek Yolu ticaret yolunun kontrolü",
+        "Orta Avrupa'daki siyasi üstünlüğü ele geçirme"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "Orta Avrupa'daki siyasi üstünlük Avusturya ile olan ilişkilerin konusudur, İran ile olan mücadelelerin temelinde Doğu Anadolu, Şiilik ve İpek Yolu vardır.",
+      "kaynak_sn": 239.02
+    },
+    {
+      "soru": "Genç Osman döneminde düzenlenen Hotin Seferi, hangi askeri zafiyetin açıkça görülmesine ve Yeniçeri Ocağı'nın kaldırılması fikrinin doğmasına yol açmıştır?",
+      "secenekler": [
+        "Yeniçerilerin disiplinsizliği",
+        "Donanmanın yetersizliği",
+        "Tımarlı sipahilerin isyan etmesi",
+        "Kırım kuvvetlerinin ihaneti"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Hotin seferi sırasında yeniçerilerin disiplinsiz hareketleri padişahın dikkatini çekmiş ve ocakla ilgili ıslahat/kaldırma fikirleri bu dönemde oluşmuştur.",
+      "kaynak_sn": 595.93
+    },
+    {
+      "soru": "Osmanlı Devleti'nin Avusturya karşasındaki siyasi üstünlüğünü kaybettiği ve padişahın Avusturya arşidüküne denk sayıldığı antlaşma aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Vasvar Antlaşması",
+        "Zitvatorok Antlaşması",
+        "Karlofça Antlaşması",
+        "İstanbul Antlaşması"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "1606 yılında imzalanan Zitvatorok Antlaşması ile Avusturya arşidükü Osmanlı padişahına denk sayılmış ve siyasi üstünlük kaybedilmiştir.",
+      "kaynak_sn": 1480.45
+    },
+    {
+      "soru": "Dördüncü Murat, İran seferindeki başarısından dolayı hangi unvanla anılmaktadır?",
+      "secenekler": [
+        "Eğri Fatihi",
+        "Kıbrıs Fatihi",
+        "Bağdat Fatihi",
+        "Belgrad Fatihi"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Dördüncü Murat, Bağdat'ı İran'dan geri aldığı için 'Bağdat Fatihi' unvanıyla anılmaktadır.",
+      "kaynak_sn": 1054.52
+    },
+    {
+      "soru": "Günümüzdeki Türk-İran sınırının büyük ölçüde belirlendiği antlaşma hangisidir?",
+      "secenekler": [
+        "Ferhat Paşa Antlaşması",
+        "Nasuh Paşa Antlaşması",
+        "Serav Antlaşması",
+        "Kasr-ı Şirin Antlaşması"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "1639 yılında imzalanan Kasr-ı Şirin Antlaşması günümüzdeki Türk-İran sınırını çizen antlaşmadır.",
+      "kaynak_sn": 1129.47
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi Osmanlı Devleti'nin Batı'da ilk büyük toprak kaybına uğradığı ve Avrupalı devletlerin arabuluculuğunu kabul ettiği antlaşmadır?",
+      "secenekler": [
+        "Karlofça Antlaşması",
+        "Vasvar Antlaşması",
+        "Zitvatorok Antlaşması",
+        "Bucaş Antlaşması"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Karlofça Antlaşması, Osmanlı'nın Batı'da ilk büyük toprak kaybı yaşadığı ve ilk kez arabulucu Avrupalı devletlerin katıldığı antlaşmadır.",
+      "kaynak_sn": 2038.62
+    },
+    {
+      "soru": "Kanije ve Estergon kalelerini 25 bin kişilik Avusturya ordusuna karşı küçük bir kuvvetle savunarak büyük bir kahramanlık gösteren Osmanlı komutanı kimdir?",
+      "secenekler": [
+        "Merzifonlu Kara Mustafa Paşa",
+        "Tiryaki Hasan Paşa",
+        "Köprülü Fazıl Ahmet Paşa",
+        "Sokullu Mehmet Paşa"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Tiryaki Hasan Paşa, Kanije ve Estergon kalelerini kahramanca savunarak kaleyi düşmana teslim etmemiştir.",
+      "kaynak_sn": 1422.34
+    }
+  ],
+  "kartlar": [
+    {
+      "on": "Duraklama döneminde Osmanlı'nın savaştığı devletleri gösteren şifre nedir?",
+      "arka": "VARİLİM (Venedik, Avusturya, Rusya, İran, Leyslan, Malta)",
+      "kaynak_sn": 27.62
+    },
+    {
+      "on": "Venedik ile yapılan 24 yıllık savaşın temel hedefi hangi adadır?",
+      "arka": "Girit Adası",
+      "kaynak_sn": 137.48
+    },
+    {
+      "on": "Lehistan ile yapılan ve Yeniçeri Ocağı'nın kaldırılması fikrinin doğmasına yol açan sefer hangisidir?",
+      "arka": "Hotin Seferi",
+      "kaynak_sn": 595.93
+    },
+    {
+      "on": "Osmanlı'nın Batı'da en geniş sınırlarına ulaştığı anlaşma hangisidir?",
+      "arka": "Bucaş Antlaşması",
+      "kaynak_sn": 684.1
+    },
+    {
+      "on": "İran ile imzalanan ve Doğu'da en geniş sınırlara ulaşılan antlaşma hangisidir?",
+      "arka": "Ferhat Paşa Antlaşması",
+      "kaynak_sn": 879.82
+    },
+    {
+      "on": "İran ile yapılan savaşlarda Doğu'da ilk ciddi toprak kaybına yol açan antlaşma hangisidir?",
+      "arka": "Nasuh Paşa Antlaşması",
+      "kaynak_sn": 961.28
+    },
+    {
+      "on": "Dördüncü Murat hangi unvanla anılmaktadır?",
+      "arka": "Bağdat Fatihi",
+      "kaynak_sn": 1054.52
+    },
+    {
+      "on": "Günümüzdeki Türk-İran sınırını belirleyen antlaşma hangisidir?",
+      "arka": "Kasr-ı Şirin Antlaşması",
+      "kaynak_sn": 1129.47
+    },
+    {
+      "on": "Eğri Kalesi'ni fetheden ve Eğri Fatihi olarak bilinen padişah kimdir?",
+      "arka": "Üçüncü Mehmet",
+      "kaynak_sn": 1237.47
+    },
+    {
+      "on": "Kanije ve Estergon kalelerini kahramanca savunan Osmanlı komutanı kimdir?",
+      "arka": "Tiryaki Hasan Paşa",
+      "kaynak_sn": 1422.34
+    },
+    {
+      "on": "Osmanlı'nın Avusturya karşısında siyasi üstünlüğünü kaybettiği antlaşma hangisidir?",
+      "arka": "Zitvatorok Antlaşması",
+      "kaynak_sn": 1480.45
+    },
+    {
+      "on": "Avusturya'dan son kez toprak (Uyvar Kalesi) kazandığımız antlaşma hangisidir?",
+      "arka": "Vasvar Antlaşması",
+      "kaynak_sn": 1695.34
+    },
+    {
+      "on": "Osmanlı Devleti'nin Batı'da ilk büyük toprak kaybına uğradığı antlaşma hangisidir?",
+      "arka": "Karlofça Antlaşması",
+      "kaynak_sn": 2171.4
+    },
+    {
+      "on": "Karlofça Antlaşması'na arabuluculuk eden devletler hangileridir?",
+      "arka": "İngiltere ve Hollanda",
+      "kaynak_sn": 2031.62
+    },
+    {
+      "on": "Karlofça Antlaşması'nda imzası bulunmayan devlet hangisidir?",
+      "arka": "Rusya",
+      "kaynak_sn": 2264.88
+    }
+  ]
+}

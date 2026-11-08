@@ -1,0 +1,201 @@
+{
+  "sorular": [
+    {
+      "soru": "Tarihçilerin kutbu Halil İnalcık'a göre Osmanlı Devleti'nin kuruluşu olarak kabul edilen savaş hangisidir?",
+      "secenekler": [
+        "Domaniç İkizceli Savaşı",
+        "Koyunhisar (Bafeyon) Savaşı",
+        "Maltepe (Palekanon) Savaşı",
+        "Sazıdere Savaşı"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Halil İnalcık'a göre 1302 yılında Bizans tekfurlarına karşı kazanılan Koyunhisar (Bafeyon) Savaşı Osmanlı Devleti'nin gerçek kuruluş tarihidir.",
+      "kaynak_sn": 101.52
+    },
+    {
+      "soru": "Osman Bey döneminde alınan çarşı-pazar vergisinin adı nedir?",
+      "secenekler": [
+        "Cizye",
+        "Öşür",
+        "Baç",
+        "Ağıl"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Osman Bey döneminde toplanan ilk Osmanlı vergisi çarşı-pazar vergisi olan Baç vergisidir.",
+      "kaynak_sn": 166.64
+    },
+    {
+      "soru": "1329 yılında Bizans ile yapılan ve İznik'in geçici başkent olmasını sağlayan savaş hangisidir?",
+      "secenekler": [
+        "Maltepe (Palekanon) Savaşı",
+        "Koyunhisar Savaşı",
+        "Sırpsındığı Savaşı",
+        "Çirmen Savaşı"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Orhan Bey döneminde 1329 yılında yapılan Maltepe (Palekanon) Savaşı sonrasında İznik fethedilmiş ve geçici başkent yapılmıştır.",
+      "kaynak_sn": 293.1
+    },
+    {
+      "soru": "Osmanlı Devleti'ne katılan ilk beylik olup denizcilik faaliyetlerinin başlamasını ve Rumeli fetihlerinin kolaylaşmasını sağlayan beylik hangisidir?",
+      "secenekler": [
+        "Germiyanoğulları",
+        "Hamitoğulları",
+        "Karamanoğulları",
+        "Karesioğulları"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "1345 yılında Osmanlı'ya katılan Karesioğulları ilk beyliktir ve donanması sayesinde Osmanlı'da denizcilik başlayarak Rumeli'ye geçiş kolaylaşmıştır.",
+      "kaynak_sn": 531.41
+    },
+    {
+      "soru": "Bizans'a yapılan yardım karşılığında Orhan Bey döneminde alınan ve Osmanlı'nın Rumeli'deki ilk üssü sayılan kale hangisidir?",
+      "secenekler": [
+        "Çimpe Kalesi",
+        "Kulacahisar",
+        "Karacahisar",
+        "Yarhisar"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Bizans taht kavgasında Kantakuzen'e yardım edilmesi karşılığında 1352-1353 yıllarında alınan Çimpe Kalesi Rumeli'ye ilk adım kabul edilir.",
+      "kaynak_sn": 623.01
+    },
+    {
+      "soru": "Osmanlı Devleti'nin Haçlılar ile yaptığı ilk savaş hangisidir?",
+      "secenekler": [
+        "I. Kosova Savaşı",
+        "Sırpsındığı Savaşı",
+        "Çirmen Savaşı",
+        "Ploşnik Savaşı"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "1364 yılında Edirne'nin fethinden sonra Haçlılar ile yapılan Sırpsındığı Savaşı, Osmanlı'nın Haçlılarla yaptığı ilk savaştır.",
+      "kaynak_sn": 1102.48
+    },
+    {
+      "soru": "Osmanlı Devleti'nin Balkanlar'da aldığı ilk yenilgi aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Sazıdere Bozgunu",
+        "I. Çirmen Yenilgisi",
+        "Ploşnik Bozgunu",
+        "Frenkyazısı Bozgunu"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "1387 yılında yaşanan Ploşnik Bozgunu, Osmanlı Devleti'nin Balkanlar'da aldığı ilk mağlubiyettir.",
+      "kaynak_sn": 1219.14
+    },
+    {
+      "soru": "Savaş meydanında şehit düşen ilk ve tek Osmanlı padişahı kimdir?",
+      "secenekler": [
+        "Osman Bey",
+        "Orhan Bey",
+        "Yıldırım Bayezid",
+        "I. Murat"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "I. Kosova Savaşı zaferle sonuçlandıktan sonra savaş meydanını gezerken Sırplı Miloş Obiliç tarafından hançerlenen I. Murat şehit olan tek padişahtır.",
+      "kaynak_sn": 1390.12
+    },
+    {
+      "soru": "I. Murat döneminde taht kavgalarını azaltmak amacıyla veraset sisteminde yapılan değişiklik nedir?",
+      "secenekler": [
+        "Ülke hükümdar ve oğullarının malıdır anlayışının getirilmesi",
+        "Ekber ve erşed sistemine geçilmesi",
+        "Ülke hanedanın ortak malıdır anlayışının kabul edilmesi",
+        "Kardeş katlinin yasal hale getirilmesi"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "I. Murat eski Türk geleneği olan hanedan ortak malı anlayışını değiştirip ülkeyi sadece hükümdar ve oğullarının malı sayarak taht kavgalarını sınırlandırmıştır.",
+      "kaynak_sn": 1749.13
+    },
+    {
+      "soru": "I. Murat döneminde Molla Rüstem'in tavsiyesiyle kurulan ve savaş esirlerinin beşte birinin orduya alınmasını sağlayan sistem hangisidir?",
+      "secenekler": [
+        "Tımar Sistemi",
+        "Devşirme Sistemi",
+        "Pençik Sistemi",
+        "İskan Politikası"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Penç kelimesi beş anlamına gelip, Molla Rüstem'in önerisiyle savaştaki esirlerin beşte birinin asker yapılmasına Pençik sistemi denir.",
+      "kaynak_sn": 1832.44
+    }
+  ],
+  "kartlar": [
+    {
+      "on": "Osman Bey'e verilen ve dinin övüncü anlamına gelen unvan nedir?",
+      "arka": "Fahrettin",
+      "kaynak_sn": 212.05
+    },
+    {
+      "on": "Osmanlı Devleti'nde atanan ilk kadı kimdir?",
+      "arka": "Dursun Fakih",
+      "kaynak_sn": 180.72
+    },
+    {
+      "on": "Osman Bey döneminde basılan ilk para hangi madendendir?",
+      "arka": "Bakır (Mangır)",
+      "kaynak_sn": 161.16
+    },
+    {
+      "on": "Orhan Bey döneminde 1326 yılında fethedilip başkent yapılan şehir hangisidir?",
+      "arka": "Bursa",
+      "kaynak_sn": 246.08
+    },
+    {
+      "on": "İbni Batuta'nın hükümdarların en ulusu dediği ve Osmanlı'da Sultan unvanını ilk kullanan padişah kimdir?",
+      "arka": "Orhan Bey",
+      "kaynak_sn": 857.96
+    },
+    {
+      "on": "Osmanlı Devleti'nin ilk camisi kabul edilen yapı hangisidir?",
+      "arka": "Hacı Özbek Camii (İznik)",
+      "kaynak_sn": 903.66
+    },
+    {
+      "on": "Osmanlı Devleti'nde açılan ilk medrese neresidir?",
+      "arka": "İznik Süleyman Paşa (Orhaney) Medresesi",
+      "kaynak_sn": 926.76
+    },
+    {
+      "on": "Edirne'nin fethedilerek Bizans'ın Balkan bağlantısının kesildiği savaş hangisidir?",
+      "arka": "Sazıdere Savaşı",
+      "kaynak_sn": 982.76
+    },
+    {
+      "on": "Şehzade Bayezid'e Yıldırım unvanı hangi savaşta gösterdiği cesaretten dolayı verilmiştir?",
+      "arka": "Frenkyazısı Savaşı",
+      "kaynak_sn": 1459.2
+    },
+    {
+      "on": "I. Murat döneminde Germiyanoğulları'ndan çeyiz yoluyla alınan şehir hangisidir?",
+      "arka": "Kütahya",
+      "kaynak_sn": 1523.19
+    },
+    {
+      "on": "I. Murat döneminde Hamitoğulları'ndan para karşılığı satın alınan bölge neresidir?",
+      "arka": "Isparta ve çevresi",
+      "kaynak_sn": 1544.66
+    },
+    {
+      "on": "Sancaktan gelerek tahta çıkan ilk Osmanlı padişahı kimdir?",
+      "arka": "I. Murat",
+      "kaynak_sn": 1633.35
+    },
+    {
+      "on": "I. Murat döneminde kurulan Rumeli Beylerbeyliği'nin merkezi neresidir?",
+      "arka": "Manastır",
+      "kaynak_sn": 1676.1
+    },
+    {
+      "on": "Osmanlı Devleti'nin ilk Rumeli Beylerbeyi kimdir?",
+      "arka": "Lala Şahin Paşa",
+      "kaynak_sn": 1680.54
+    },
+    {
+      "on": "Anadolu beylerinin ilk kez Osmanlı yanında yer aldığı ve ilk kez topun kullanıldığı Haçlı savaşı hangisidir?",
+      "arka": "I. Kosova Savaşı",
+      "kaynak_sn": 1358.76
+    }
+  ]
+}

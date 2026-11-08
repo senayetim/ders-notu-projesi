@@ -1,0 +1,98 @@
+{
+  "bolumler": [
+    {
+      "baslik": "Duraklama Donemi Siyasi Tarihe Giris",
+      "baslangic_sn": 0,
+      "bitis_sn": 98,
+      "ozet": "Dersin basinda Osmanli Devleti'nin Duraklama Donemi siyasi tarihi ve bu donemde savasilan devletler ele alinmaktadir. Venedik, Avusturya, Rusya, Iran, Lehistan ve Malta gibi devletlerle yapilan mucadeleler harita mantigi uzerinden yorumlanmaktadir. Ogrencinin ezber yerine cografi ve stratejik nedenleri kavramasi gerektigi vurgulanmaktadir.",
+      "anahtar_kelimeler": [
+        "siyasi tarih",
+        "duraklasma donemi",
+        "harita mantigi",
+        "osmanli dusmanlari"
+      ]
+    },
+    {
+      "baslik": "Venedik ve Lehistan Iliskileri",
+      "baslangic_sn": 98,
+      "bitis_sn": 182,
+      "ozet": "Akdeniz Hakimiyeti ve Ege'nin fethini tamamlamak amaciyla Venedik ile yapilan 24 yillik Girit savasi anlatilmaktadir. Bogazlarin abluka altina alinmasi nedeniyle fethin uzun surdugu ve Girit'in alinan son buyuk ada oldugu belirtilmektedir.",
+      "anahtar_kelimeler": [
+        "venedik",
+        "girit",
+        "akdeniz",
+        "egenin fethi"
+      ]
+    },
+    {
+      "baslik": "Osmanli-Iran Iliskileri ve Antlasmalar",
+      "baslangic_sn": 182,
+      "bitis_sn": 444,
+      "ozet": "Dogu Anadolu, Siilik ve Ipek Yolu'na hakim olmak amaciyla Iran ile yapilan savaslar ele alinmaktadir. Ferhat Pasa Antlasmasi ile doguda en genis sinirlara ulasildigi, Nasuh Pasa ile ilk ciddi toprak kaybinin yasanigi ve Kasr-i Sirin Antlasmasi ile gunumuz Turk-Iran sinirinin cizildigi ifade edilmektedir.",
+      "anahtar_kelimeler": [
+        "iran",
+        "ferhat pasa",
+        "nasuh pasa",
+        "kasr-i sirin",
+        "ipek yolu"
+      ]
+    },
+    {
+      "baslik": "Osmanli-Venedik ve Lehistan Iliskilerinin Detaylari",
+      "baslangic_sn": 444,
+      "bitis_sn": 792,
+      "ozet": "Venedik'le yapilan Girit mucadelesi ve Lehistan'la imzalanan Hotin ile Bucas Antlasmalari detaylandirilmaktadir. Bucas Antlasmasi ile batida en genis sinirlara ulasildigi ve bu donemin toprak kazanilan son anlasma oldugu vurgulanmaktadir.",
+      "anahtar_kelimeler": [
+        "venedik",
+        "lehistan",
+        "hotin seferi",
+        "bucas antlasmasi"
+      ]
+    },
+    {
+      "baslik": "Osmanli-Iran Mucadeleleri ve Kasr-i Sirin",
+      "baslangic_sn": 792,
+      "bitis_sn": 1209,
+      "ozet": "Fatih ve Yavuz doneminden baslayarak Iran ile yapilan mucadeleler ozetlenmektedir. Dorduncu Murat'in Bagdat fatihi unvani aldigi seferler ve Kasr-i Sirin Antlasmasi'nin onemi uzerinde durulmaktadir.",
+      "anahtar_kelimeler": [
+        "akkoyunlular",
+        "safaviler",
+        "dorduncu murat",
+        "bagdat fatihi",
+        "kasr-i sirin"
+      ]
+    },
+    {
+      "baslik": "Avusturya Iliskileri ve Zitvatoruk Antlasmasi",
+      "baslangic_sn": 1209,
+      "bitis_sn": 1741,
+      "ozet": "Orta Avrupa hakimi Avusturya ile yapilan Hacova Meydan Savasi, Celali isyanlarinin baslangici ve Zitvatoruk Antlasmasi ile siyasi ustunlugun kaybedildigi surec anlatilmaktadir. Ayrica Uyvar Kalesi'nin fethi ve Vasvar Antlasmasi'na deginilmektedir.",
+      "anahtar_kelimeler": [
+        "avusturya",
+        "hacova savasi",
+        "zitvatoruk",
+        "celali isyanlari",
+        "vasvar antlasmasi"
+      ]
+    },
+    {
+      "baslik": "Ikinci Viyana Kusatmasi ve Karlofca Antlasmasi",
+      "baslangic_sn": 1741,
+      "bitis_sn": 2465.9,
+      "ozet": "Ikinci Viyana Kusatmasi'ndaki bozgun sonrasi kurulan Kutsal Ittifak savamlari ve Karlofca Antlasmasi ile batidaki ilk buyuk toprak kaybinin yasanmasi ele alinmaktadir. Bu anlasma ile Duraklama Donemi'nin bitip Gerileme Donemi'nin basladigi aciklanmaktadir.",
+      "anahtar_kelimeler": [
+        "ikinci viyana kusatmasi",
+        "kutsal ittifak",
+        "karlofca antlasmasi",
+        "gerileme donemi"
+      ]
+    }
+  ],
+  "olcumler": {
+    "model": "gemini-3.5-flash-lite",
+    "gecikme_sn": 4.38,
+    "girdi_token": 12267,
+    "cikti_token": 1356,
+    "toplam_deneme": 5
+  }
+}

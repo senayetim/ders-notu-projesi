@@ -1,0 +1,201 @@
+{
+  "sorular": [
+    {
+      "soru": "Divan teşkilatını kuran Osmanlı hükümdarı kimdir?",
+      "secenekler": [
+        "Orhan Bey",
+        "Birinci Murat",
+        "Fatih Sultan Mehmet",
+        "İkinci Mahmut"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Divan teşkilatı Orhan Bey döneminde kurulmuştur.",
+      "kaynak_sn": 23.58
+    },
+    {
+      "soru": "Divanı kaldırarak nazırlık yani kabine sistemine geçen Osmanlı padişahı kimdir?",
+      "secenekler": [
+        "Birinci Murat",
+        "Yıldırım Bayezid",
+        "İkinci Mahmut",
+        "Fatih Sultan Mehmet"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Divan teşkilatı İkinci Mahmut döneminde kaldırılmış ve nazırlık sistemine geçilmiştir.",
+      "kaynak_sn": 112.0
+    },
+    {
+      "soru": "Halkın ayaküstü sorunlarının dinlendiği divan türü aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Ayak divanı",
+        "Galebe divanı",
+        "İkindi divanı",
+        "Cuma divanı"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Halkın ayaküstü dinlendiği divana ayak divanı denir.",
+      "kaynak_sn": 151.87
+    },
+    {
+      "soru": "Osmanlı'da elçi kabul edilen divan türü hangisidir?",
+      "secenekler": [
+        "Çarşamba divanı",
+        "Galebe divanı",
+        "İkindi divanı",
+        "Ayak divanı"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Elçilerin kabul edildiği divan türü galebe divanıdır.",
+      "kaynak_sn": 165.23
+    },
+    {
+      "soru": "Sadrazamın ordunun başında sefere çıktığında aldığı unvan aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Serdar Ekrem",
+        "Sadaret Kaymakamı",
+        "Vezir-i Azam",
+        "Reisül Küttap"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Sadrazam ordunun başında sefere çıktığında Serdar Ekrem unvanını alır.",
+      "kaynak_sn": 323.68
+    },
+    {
+      "soru": "Osmanlı'da yüce kapı anlamına gelen, sadrazam konağı olan ve divan toplantılarının da yapıldığı mekanın adı nedir?",
+      "secenekler": [
+        "Topkapı Sarayı",
+        "Kubbealtı",
+        "Babıali",
+        "Enderun"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Sadrazam konağı ve yüce kapı anlamına gelen yer Babıali'dir.",
+      "kaynak_sn": 375.98
+    },
+    {
+      "soru": "Divanda mühür işleriyle ilgilenen, tımar dağıtımı yapan ve mühimme defterini tutan divan üyesi kimdir?",
+      "secenekler": [
+        "Kazasker",
+        "Defterdar",
+        "Nişancı",
+        "Reisül Küttap"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Mühür işleri, tımar dağıtımı ve mühimme defterinin tutulması nişancının görevidir.",
+      "kaynak_sn": 691.16
+    },
+    {
+      "soru": "Osmanlı divanında kadı, imam ve müderris atamalarını yapan üye kimdir?",
+      "secenekler": [
+        "Kazasker",
+        "Nişancı",
+        "Defterdar",
+        "Sadrazam"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Kadı, imam ve müderris gibi görevlilerin atamasını kazasker yapar.",
+      "kaynak_sn": 790.58
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi divana sonradan katılan üyelerden biridir?",
+      "secenekler": [
+        "Sadrazam",
+        "Defterdar",
+        "Nişancı",
+        "Reisül Küttap"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "Reisül Küttap divana sonradan katılan üyeler arasında yer alır.",
+      "kaynak_sn": 995.74
+    },
+    {
+      "soru": "Divanda alınan kararların kaydedildiği defter aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Mühimme defteri",
+        "Tahvil defteri",
+        "Ruznamçe",
+        "Şeriye sicili"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Divandan alınan kararlar mühimme defterine yazılır.",
+      "kaynak_sn": 732.4
+    }
+  ],
+  "kartlar": [
+    {
+      "on": "Divanı kuran padişah",
+      "arka": "Orhan Bey",
+      "kaynak_sn": 23.58
+    },
+    {
+      "on": "Divanı kaldıran padişah",
+      "arka": "İkinci Mahmut",
+      "kaynak_sn": 112.0
+    },
+    {
+      "on": "Halkın ayaküstü dinlendiği divan",
+      "arka": "Ayak divanı",
+      "kaynak_sn": 151.87
+    },
+    {
+      "on": "Elçi kabul edilen divan",
+      "arka": "Galebe divanı",
+      "kaynak_sn": 165.23
+    },
+    {
+      "on": "İstanbul için toplanan divan",
+      "arka": "Çarşamba divanı",
+      "kaynak_sn": 172.75
+    },
+    {
+      "on": "Sadrazamın ordu sefeindeki unvanı",
+      "arka": "Serdar Ekrem",
+      "kaynak_sn": 323.68
+    },
+    {
+      "on": "Sadrazam konağı ve yüce kapı anlamındaki yer",
+      "arka": "Babıali",
+      "kaynak_sn": 375.98
+    },
+    {
+      "on": "Sadrazamın İstanbul'daki vekili",
+      "arka": "Sadaret Kaymakamı",
+      "kaynak_sn": 516.54
+    },
+    {
+      "on": "Divandaki maliye bakanı",
+      "arka": "Defterdar",
+      "kaynak_sn": 580.26
+    },
+    {
+      "on": "Tımar dağıtımı ve mühür işlerinden sorumlu üye",
+      "arka": "Nişancı",
+      "kaynak_sn": 691.16
+    },
+    {
+      "on": "Divan kararlarının yazıldığı defter",
+      "arka": "Mühimme defteri",
+      "kaynak_sn": 732.4
+    },
+    {
+      "on": "Kadı ve müderris ataması yapan divan üyesi",
+      "arka": "Kazasker",
+      "kaynak_sn": 790.58
+    },
+    {
+      "on": "Divanın niteliği",
+      "arka": "Danışma meclisi",
+      "kaynak_sn": 1147.54
+    },
+    {
+      "on": "Üst düzey memurların atama dosyasını tutan kalem odası",
+      "arka": "Tahvil kalemi",
+      "kaynak_sn": 1382.41
+    },
+    {
+      "on": "Divan kararlarının yazılmasına yardımcı olan kalem odası",
+      "arka": "Beylikçi kalemi",
+      "kaynak_sn": 1406.61
+    }
+  ]
+}

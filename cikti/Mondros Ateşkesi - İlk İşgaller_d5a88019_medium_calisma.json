@@ -1,0 +1,201 @@
+{
+  "sorular": [
+    {
+      "soru": "Mondros Ateşkes Antlaşması imzalandığı sırada Osmanlı Devleti'nin padişahı kimdir?",
+      "secenekler": [
+        "Mehmet Reşat",
+        "Mehmet Vahdeddin",
+        "II. Abdülhamid",
+        "Sultan Abdülaziz"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Mondros imzalanmadan iki ay önce Mehmet Reşat vefat ettiği için antlaşma imzalandığı esnada tahtta Mehmet Vahdeddin bulunmaktaydı.",
+      "kaynak_sn": 46.53
+    },
+    {
+      "soru": "Mondros Ateşkes Antlaşması'nı Osmanlı Devleti adına imzalamak üzere heyet başkanı olarak Limni Adası'na giden devlet adamı kimdir?",
+      "secenekler": [
+        "Ahmet İzzet Paşa",
+        "Damat Ferit Paşa",
+        "Hüseyin Rauf Orbay",
+        "Kazım Karabekir"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Mondros Ateşkes Antlaşması'nı Osmanlı Devleti adına Bahriye Nazırı Hüseyin Rauf Orbay imzalamıştır.",
+      "kaynak_sn": 88.94
+    },
+    {
+      "soru": "İttifak Devletleri bloğuna Çanakkale Zaferi'nden sonra katılan ancak Birinci Dünya Savaşı'ndan ilk çekilen devlet hangisidir?",
+      "secenekler": [
+        "Bulgaristan",
+        "Osmanlı Devleti",
+        "Almanya",
+        "Avusturya-Macaristan"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Bulgaristan İttifak bloğuna son katılan devlet olmuş, savaştan ise en erken çekilen taraf olmuştur.",
+      "kaynak_sn": 181.89
+    },
+    {
+      "soru": "Mondros Ateşkes Antlaşması imzalandığı sırada Mustafa Kemal hangi askeri görevde bulunmaktaydı?",
+      "secenekler": [
+        "9. Ordu Müfettişi",
+        "Anafartalar Grup Komutanı",
+        "Yıldırım Orduları Grup Komutanı",
+        "19. Tümen Komutanı"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Mustafa Kemal, antlaşma imzalandığında Suriye-Filistin cephesinden Adana'ya geçmiş ve Yıldırım Orduları Grup Komutanı olarak görev yapmaktaydı.",
+      "kaynak_sn": 246.92
+    },
+    {
+      "soru": "Mondros Ateşkes Antlaşması'nın 7. maddesi ile ilgili verilen bilgilerden hangisi doğrudur?",
+      "secenekler": [
+        "İtilaf Devletleri'nin yapacağı işgallere yasal ve hukuki dayanak oluşturmuştur.",
+        "Sadece Doğu Anadolu'daki altı vilayeti kapsayan özel bir maddedir.",
+        "Osmanlı ordusunun derhal terhis edilmesini zorunlu kılmıştır.",
+        "Osmanlı borçlarının ödenme şartlarını düzenlemiştir."
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "7. madde, asayişin bozulduğu stratejik noktaların işgal edilmesine imkan tanıyarak tüm işgallere yasal zemin hazırlamıştır.",
+      "kaynak_sn": 409.38
+    },
+    {
+      "soru": "Mondros Ateşkes Antlaşması'nın 24. maddesinde yer alan Vilayet-i Sitte'de karışıklık çıkması halinde işgal hakkı tanınmasının temel amacı nedir?",
+      "secenekler": [
+        "Yunanistan'ın Ege bölgesindeki iddialarını desteklemek",
+        "Bölgede bağımsız bir Ermeni devleti kurulmasını sağlamak",
+        "Fransa'nın sömürge alanlarını güneye doğru genişletmek",
+        "Boğazların güvenliğini uluslararası bir komisyona bırakmak"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "24. maddede hedeflenen asıl amaç Doğu Anadolu'daki altı ilde bir Ermeni devleti kurulmasına zemin hazırlamaktır.",
+      "kaynak_sn": 554.27
+    },
+    {
+      "soru": "Mondros Ateşkes Antlaşması sonrasında ordusunu terhis etmeyerek direnişi muhafaza eden komutan ve birliği hangisidir?",
+      "secenekler": [
+        "Ali Fuat Paşa - 20. Kolordu",
+        "Cevat Abbas - 3. Kolordu",
+        "Ahmet İzzet Paşa - 1. Kolordu",
+        "Kazım Karabekir - 15. Kolordu"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "Kazım Karabekir emirlerin aksine 15. Kolordu'yu terhis etmemiş ve bu birlik Osmanlı'dan kalan son düzenli ordu olmuştur.",
+      "kaynak_sn": 710.56
+    },
+    {
+      "soru": "Mustafa Kemal'in İstanbul'a ulaştığında İtilaf donanmasını görüp Cevat Abbas'a söylediği 'Geldikleri gibi giderler' sözü hangi gazetede yayımlanmıştır?",
+      "secenekler": [
+        "İkdam",
+        "Minber",
+        "Hakimiyet-i Milliye",
+        "İrade-i Milliye"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Mustafa Kemal'in Kartal II gemisinde ifade ettiği bu tarihi söz İkdam gazetesinde yayımlanmıştır.",
+      "kaynak_sn": 1045.07
+    },
+    {
+      "soru": "Osmanlı Devleti'nin sona erme süreçleri dikkate alındığında 'fiilen' sona erme hangi olayla gerçekleşmiştir?",
+      "secenekler": [
+        "Saltanatın Kaldırılması",
+        "Mudanya Mütarekesi",
+        "Sevr Antlaşması",
+        "Mondros Ateşkes Antlaşması"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "Osmanlı Devleti Mondros ile fiilen, Mudanya ile hukuken, Saltanatın kaldırılmasıyla resmen sona ermiştir.",
+      "kaynak_sn": 1076.97
+    },
+    {
+      "soru": "Mondros Ateşkes Antlaşması sonrasında Anadolu topraklarında ilk işgali gerçekleştiren devlet ve işgal yeri aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "İngiltere - Musul",
+        "Fransa - Hatay Dörtyol",
+        "İtalya - Antalya",
+        "Yunanistan - İzmir"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Mondros sonrası genel ilk işgal Musul (İngiltere) olsa da Anadolu sınırları içerisindeki ilk işgal Fransa tarafından Hatay Dörtyol'da yapılmıştır.",
+      "kaynak_sn": 1400.8
+    }
+  ],
+  "kartlar": [
+    {
+      "on": "Mondros Ateşkes Antlaşması imzalandığı sırada Osmanlı Sadrazamı (Hükümet Başkanı) kimdir?",
+      "arka": "Ahmet İzzet Paşa",
+      "kaynak_sn": 71.12
+    },
+    {
+      "on": "Mondros Ateşkes Antlaşması nerede ve hangi gemide imzalanmıştır?",
+      "arka": "Limni Adası'nda Agamemnon zırhlısında",
+      "kaynak_sn": 125.16
+    },
+    {
+      "on": "Mondros Ateşkes Antlaşması'nı İtilaf Devletleri adına kim imzalamıştır?",
+      "arka": "İngiliz Amiral Calthorpe",
+      "kaynak_sn": 96.45
+    },
+    {
+      "on": "Mustafa Kemal, Mondros'un 7. maddesi için hangi tanımlamayı yapmıştır?",
+      "arka": "Beyni yakan zehirli bir ok",
+      "kaynak_sn": 468.18
+    },
+    {
+      "on": "Mondros 24. maddede geçen Vilayet-i Sitte (Altı İl) hangi şehirlerden oluşur?",
+      "arka": "Bitlis, Erzurum, Sivas, Diyarbakır, Elazığ ve Van",
+      "kaynak_sn": 503.52
+    },
+    {
+      "on": "Mondros'ta tüm haberleşme araçlarına el konulmasının amacı nedir?",
+      "arka": "Halkın örgütlenmesini engellemek ve işgalleri kolaylaştırmak",
+      "kaynak_sn": 629.27
+    },
+    {
+      "on": "Ordunun terhis edilmesi ve işgallerin başlamasıyla halkın kurduğu halk direniş örgütlenmesine ne ad verilir?",
+      "arka": "Kuvay-ı Milliye",
+      "kaynak_sn": 761.97
+    },
+    {
+      "on": "İtilaf esirlerinin serbest bırakılıp Osmanlı esirlerinin tutsak kalması maddesi neyi gösterir?",
+      "arka": "Antlaşmanın eşit koşullarda imzalanmadığını (mütekabiliyetsizliği)",
+      "kaynak_sn": 806.85
+    },
+    {
+      "on": "Mondros'ta demiryolları, limanlar ve akaryakıt üzerindeki denetim hükümleri neyle ilgilidir?",
+      "arka": "Sömürgecilik amaçlarıyla",
+      "kaynak_sn": 911.21
+    },
+    {
+      "on": "Osmanlı Devleti'nin Mudanya Ateşkes Antlaşması ile sona erme biçimi nedir?",
+      "arka": "Hukuken sona erme",
+      "kaynak_sn": 1116.16
+    },
+    {
+      "on": "İstanbul Hükümeti işgallere karşı halkı sakinleştirmek amacıyla Anadolu'ya ne göndermiştir?",
+      "arka": "Heyet-i Nasiha (Nasihat Kurulları)",
+      "kaynak_sn": 1246.07
+    },
+    {
+      "on": "Mondros Ateşkes Antlaşması sonrasında genel olarak ilk işgal edilen yer neresidir?",
+      "arka": "Musul (İngiltere tarafından)",
+      "kaynak_sn": 1386.64
+    },
+    {
+      "on": "Gizli anlaşmalarda yer almayıp Mondros sonrasında işgallere katılan devlet hangisidir?",
+      "arka": "Yunanistan",
+      "kaynak_sn": 1547.7
+    },
+    {
+      "on": "Gizli anlaşmalarda yer almasına karşın ihtilal nedeniyle savaştan çekilip işgallere katılmayan devlet hangisidir?",
+      "arka": "Rusya",
+      "kaynak_sn": 1594.0
+    },
+    {
+      "on": "Antep, Urfa ve Maraş çevresi hangi düzenleme ile İngiltere'den Fransa'ya devredilmiştir?",
+      "arka": "Suriye İtilafnamesi",
+      "kaynak_sn": 1474.05
+    }
+  ]
+}

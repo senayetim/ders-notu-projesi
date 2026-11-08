@@ -1,0 +1,201 @@
+{
+  "sorular": [
+    {
+      "soru": "Osmanlı'da ilk bilim insanı olarak bilinen ve aynı zamanda Ali Kuşçu'nun hocası olan kişi kimdir?",
+      "secenekler": [
+        "Kadızade-i Rumi",
+        "Ali Kuşçu",
+        "Takiyeddin Mehmet",
+        "Matrakçı Nasuh"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Kadızade-i Rumi Osmanlı'daki ilk bilim insanı kabul edilir ve Ali Kuşçu'nun hocasıdır.",
+      "kaynak_sn": 54.3
+    },
+    {
+      "soru": "Ay haritasını çizen ve Ay'da bir gezegene adı verilen Osmanlı bilim insanı kimdir?",
+      "secenekler": [
+        "Piri Reis",
+        "Ali Kuşçu",
+        "Katip Çelebi",
+        "Seydi Ali Reis"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Ali Kuşçu Ay haritasını çizmiştir ve Ay'da bir gezegene adı verilmiştir.",
+      "kaynak_sn": 87.62
+    },
+    {
+      "soru": "Osmanlı Devleti'nde Üçüncü Murat döneminde ilk rasathaneyi kuran bilim insanı kimdir?",
+      "secenekler": [
+        "Hazerfen Ahmet Çelebi",
+        "Lagari Hasan Çelebi",
+        "Takiyeddin Mehmet",
+        "Yanyalı Esat Efendi"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Takiyeddin Mehmet, Üçüncü Murat zamanında Osmanlı'daki ilk rasathaneyi kuran kişidir.",
+      "kaynak_sn": 168.46
+    },
+    {
+      "soru": "Matematik ve minyatür çalışmalarıyla tanınan, Kanuni döneminde yaşayan ve Muhteşem Yüzyıl ile anılan kişi kimdir?",
+      "secenekler": [
+        "Matrakçı Nasuh",
+        "İdris-i Bitlisi",
+        "Tursun Bey",
+        "Naima"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Matrakçı Nasuh matematik ve minyatür çalışmaları olan, Kanuni döneminde yaşamış bir isimdir.",
+      "kaynak_sn": 230.02
+    },
+    {
+      "soru": "Kanuni Sultan Süleyman'a sunduğu 'Kitab-ı Bahriye' adlı eseriyle tanınan ve dünya haritasını çizen coğrafyacı kimdir?",
+      "secenekler": [
+        "Seydi Ali Reis",
+        "Katip Çelebi",
+        "Evliya Çelebi",
+        "Piri Reis"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "Piri Reis dünya haritasını çizmiş ve Kanuni'ye Kitab-ı Bahriye'yi sunmuştur.",
+      "kaynak_sn": 277.38
+    },
+    {
+      "soru": "Osmanlı'da ataması yapılan ilk resmi tarihçi (vakanüvis) kimdir?",
+      "secenekler": [
+        "Naima",
+        "Abdurrahman Şeref",
+        "Ahmet Cevdet Paşa",
+        "Hoca Saadettin"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Ataması yapılan ilk resmi tarihçi Naima'dır.",
+      "kaynak_sn": 447.68
+    },
+    {
+      "soru": "Mecelle komisyonunun başkanlığını yapan ve Adalet Bakanlığı görevinde bulunan önemli tarihçi ve devlet adamı kimdir?",
+      "secenekler": [
+        "İdris-i Bitlisi",
+        "Ahmet Cevdet Paşa",
+        "Katip Çelebi",
+        "Tursun Bey"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Ahmet Cevdet Paşa Adalet Bakanlığı yapmış ve Mecelle'yi hazırlayan komisyona başkanlık etmiştir.",
+      "kaynak_sn": 466.86
+    },
+    {
+      "soru": "İlk Türkçe tıp kitabı olan 'Cerrahiyetü'l-Haniyye'nin yazarı ve plastik cerrahinin öncüsü kabul edilen kişi kimdir?",
+      "secenekler": [
+        "Akşemsettin",
+        "Altunizade",
+        "Sabuncuoğlu Şerafettin",
+        "Ahi Çelebi"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Sabuncuoğlu Şerafettin ilk Türkçe tıp kitabı olan Cerrahiyetü'l-Haniyye'yi yazmış ve cerrahi alanda öncülük etmiştir.",
+      "kaynak_sn": 538.28
+    },
+    {
+      "soru": "Fatih Sultan Mehmet'in hocası olan ve mikrop üzerine çalışmalar yaparak 'Maddetü'l-Hayat' adlı eseri kaleme alan kimdir?",
+      "secenekler": [
+        "Molla Gürani",
+        "Akşemsettin",
+        "Molla Fenari",
+        "Ebu Suud Efendi"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Akşemsettin mikropla ilgili çalışmalar yapmış ve Maddetü'l-Hayat eserini yazmıştır.",
+      "kaynak_sn": 608.38
+    },
+    {
+      "soru": "Lale Devri'nde yaşayan, 'Muallim-i Sani' (ikinci öğretmen) Farabi'den sonra 'Muallim-i Salis' (üçüncü öğretmen) olarak bilinen fikir insanı kimdir?",
+      "secenekler": [
+        "İbrahim Müteferika",
+        "Koçubey",
+        "Yanyalı Esat Efendi",
+        "Davud-i Kayseri"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Yanyalı Esat Efendi Lale Devri'nde yaşamış ve Muallim-i Salis olarak anılmıştır.",
+      "kaynak_sn": 671.1
+    }
+  ],
+  "kartlar": [
+    {
+      "on": "Kadızade-i Rumi kimdir?",
+      "arka": "Osmanlı'da ilk bilim insanıdır ve Ali Kuşçu'nun hocasıdır.",
+      "kaynak_sn": 54.3
+    },
+    {
+      "on": "Ali Kuşçu'nun eksen eğikliğini hesapladığı, İstanbul Mühendishanesinde ders kitabı olarak okutulan eseri nedir?",
+      "arka": "Risale-i Tülfetiye",
+      "kaynak_sn": 109.12
+    },
+    {
+      "on": "Osmanlı'da ilk rasathaneyi kuran kişi kimdir?",
+      "arka": "Takiyeddin Mehmet",
+      "kaynak_sn": 168.46
+    },
+    {
+      "on": "Hazerfen ve Lagari kelimeleri ne anlama gelir?",
+      "arka": "Hazerfen bin fenli (kanatlı uçucu), Lagari ise roketli uçucu anlamına gelir.",
+      "kaynak_sn": 199.31
+    },
+    {
+      "on": "Matrakçı Nasuh hangi alanlardaki çalışmalarıyla bilinir?",
+      "arka": "Matematik ve minyatür alanlarında çalışmalar yapmıştır.",
+      "kaynak_sn": 230.02
+    },
+    {
+      "on": "Piri Reis'in Kanuni Sultan Süleyman'a sunduğu ünlü eserinin adı nedir?",
+      "arka": "Kitab-ı Bahriye",
+      "kaynak_sn": 277.38
+    },
+    {
+      "on": "Katip Çelebi'nin önemli eserlerinden bazıları nelerdir?",
+      "arka": "Keşf-i Zünun, Cihannüma, Fezleke",
+      "kaynak_sn": 376.06
+    },
+    {
+      "on": "Osmanlı'da tarih yazıcılığı teşkilatına ne ad verilir?",
+      "arka": "Şehnamecilik",
+      "kaynak_sn": 429.41
+    },
+    {
+      "on": "Osmanlı'nın ataması yapılan ilk resmi tarihçisi (vakanüviki) kimdir?",
+      "arka": "Naima",
+      "kaynak_sn": 447.68
+    },
+    {
+      "on": "Mecelle'yi hazırlayan komisyonun başkanı ve Adalet Bakanı olan tarihçi kimdir?",
+      "arka": "Ahmet Cevdet Paşa",
+      "kaynak_sn": 466.86
+    },
+    {
+      "on": "İlk Türkçe tıp kitabı olan Cerrahiyetü'l-Haniyye'nin yazarı kimdir?",
+      "arka": "Sabuncuoğlu Şerafettin",
+      "kaynak_sn": 570.34
+    },
+    {
+      "on": "Akşemsettin'in mikropla ilgili çalışmalarını içeren en ünlü eseri nedir?",
+      "arka": "Maddetü'l-Hayat",
+      "kaynak_sn": 627.27
+    },
+    {
+      "on": "Osmanlı'nın ilk şeyhülislamı kimdir?",
+      "arka": "Molla Fenari",
+      "kaynak_sn": 636.27
+    },
+    {
+      "on": "Duraklama döneminde 4. Murat ve 1. İbrahim'e ıslahat raporları sunan yazar kimdir?",
+      "arka": "Koçubey",
+      "kaynak_sn": 655.07
+    },
+    {
+      "on": "Lale Devri'nde yaşayan ve 'Muallim-i Salis' olarak bilinen fikir insanı kimdir?",
+      "arka": "Yanyalı Esat Efendi",
+      "kaynak_sn": 671.1
+    }
+  ]
+}

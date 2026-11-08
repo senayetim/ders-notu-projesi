@@ -1,0 +1,201 @@
+{
+  "sorular": [
+    {
+      "soru": "Osmanlı Devleti'nde 17. yüzyıl için kullanılan yeni adlandırma aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Diplomasi Yılları",
+        "Arayış Yılları",
+        "En Uzun Yüzyıl",
+        "Yenileşme Dönemi"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "17. yüzyıl Osmanlı tarihinde Duraklama Dönemi olarak bilinir ve yeni adı 'Arayış Yılları'dır.",
+      "kaynak_sn": 15.52
+    },
+    {
+      "soru": "Duraklama Dönemi'nde iki kez tahta çıkan Osmanlı padişahı aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "4. Murat",
+        "Genç Osman",
+        "4. Mehmet",
+        "1. Mustafa"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "1. Mustafa Duraklama Dönemi'nde iki farklı dönemde tahta çıkarak iki kez padişahlık yapmıştır.",
+      "kaynak_sn": 148.06
+    },
+    {
+      "soru": "Osmanlı tarihinde yaklaşık 6-7 yaşlarında tahta çıkarak en küçük yaşta padişah olan hükümdar kimdir?",
+      "secenekler": [
+        "4. Mehmet",
+        "Genç Osman",
+        "3. Murat",
+        "1. Ahmet"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "En küçük yaşta tahta çıkan padişah Genç Osman değil, 6-7 yaşlarında tahta geçen 4. Mehmet'tir.",
+      "kaynak_sn": 197.0
+    },
+    {
+      "soru": "Duraklama Dönemi'nde ortaya çıkan 'Beşik Ulemalığı' anlayışı doğrudan hangi devlet sınıfının yozlaşmasına yol açmıştır?",
+      "secenekler": [
+        "Kalemiye",
+        "Seyfiye",
+        "İlmiye",
+        "Mülkiye"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Âlimin oğlu âlimdir anlayışına dayanan Beşik Ulemalığı, medrese ve eğitim sistemini yozlaştırarak İlmiye sınıfını bozmuştur.",
+      "kaynak_sn": 450.71
+    },
+    {
+      "soru": "Tımar sisteminin bozulmasıyla köylülerin toprağını terk ederek şehirlere göç etmesi olayına verilen ad aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Vakai Vakvakiyye",
+        "Büyük Kaçkun",
+        "Beşik Ulemalığı",
+        "Tahşiş"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Tımarın bozulması sonucu köylülerin toprağını bırakıp kaçması ve şehirlerde işsizliğin artması 'Büyük Kaçkun' olarak adlandırılır.",
+      "kaynak_sn": 658.44
+    },
+    {
+      "soru": "Dirlik (Tımar) sisteminin bozulması Osmanlı Devleti'nde aşağıdakilerden hangisine doğrudan sebep **olmaz**?",
+      "secenekler": [
+        "Eyalet ordusunun zayıflamasına",
+        "Taşra idaresinin bozulmasına",
+        "Tarımsal üretimin ve ekonominin olumsuz etkilenmesine",
+        "Merkezi yönetimin (padişah ve divan) doğrudan değişmesine"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "Tımarın bozulması eyalet ordusunu, taşra yönetimini ve ekonomiyi bozar; ancak merkezi yönetimi (padişah/saray yapısını) doğrudan değiştirmez.",
+      "kaynak_sn": 694.11
+    },
+    {
+      "soru": "Coğrafi Keşifler sonrası Avrupa'da değerli maden birikimine (altın ve gümüş) dayalı ortaya çıkan ekonomik anlayış aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Merkantilizm",
+        "Feodalizm",
+        "Skolastizm",
+        "Kapitalizm"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Avrupa'da ne kadar altın ve değerli madene sahip olunursa o kadar güçlü olunduğunu savunan anlayış merkantilizmdir.",
+      "kaynak_sn": 972.31
+    },
+    {
+      "soru": "İstanbul isyanlarının nedenleri arasında yer alan ve paranın içerisindeki değerli maden oranının düşürülmesi anlamına gelen terim nedir?",
+      "secenekler": [
+        "Cülus",
+        "İltizam",
+        "Tahşiş",
+        "Avarız"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Paranın ayarının düşürülüp içerisine bakır katılması işlemine 'tahşiş' denir ve askerlere ayarı düşük para ödenmesi isyanlara sebep olmuştur.",
+      "kaynak_sn": 1252.74
+    },
+    {
+      "soru": "4. Mehmet döneminde gerçekleşen Vakai Vakvakiyye (Çınar Olayı) ile ilgili aşağıda verilen bilgilerden hangisi doğrudur?",
+      "secenekler": [
+        "Padişah tahttan indirilmiştir.",
+        "İsyancılar 35 devlet adamının idam edilip ağaca asılmasını sağlamıştır.",
+        "Rejimi değiştirmeye yönelik ilk halk isyanıdır.",
+        "Celali isyanlarının bastırılması amacıyla gerçekleşmiştir."
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Vakai Vakvakiyye'de Yeniçerilerin isteğiyle 35 devlet adamı öldürülüp çınar ağacına asılmıştır; olayda taht değişikliği yaşanmamıştır.",
+      "kaynak_sn": 1443.92
+    },
+    {
+      "soru": "Duraklama Dönemi'nde çıkan Celali (Anadolu) isyanlarının en büyüğü aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Karayazıcı İsyanı",
+        "Deli Hasan İsyanı",
+        "Kalenderoğlu İsyanı",
+        "Abaza Mehmet Paşa İsyanı"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Anadolu'da patlak veren Celali isyanlarının en büyüğü Karayazıcı İsyanı'dır.",
+      "kaynak_sn": 1775.16
+    }
+  ],
+  "kartlar": [
+    {
+      "on": "17. Yüzyılın Yeni Adı",
+      "arka": "Arayış Yılları",
+      "kaynak_sn": 15.52
+    },
+    {
+      "on": "18. Yüzyılın Yeni Adı",
+      "arka": "Diplomasi Yılları",
+      "kaynak_sn": 19.12
+    },
+    {
+      "on": "19. Yüzyılın Yeni Adı",
+      "arka": "En Uzun Yüzyıl",
+      "kaynak_sn": 27.84
+    },
+    {
+      "on": "En çok cülus bahşişi dağıtılan yüzyıl hangisidir?",
+      "arka": "17. Yüzyıl (Duraklama Dönemi)",
+      "kaynak_sn": 128.14
+    },
+    {
+      "on": "Duraklama Dönemi'nde iki kez tahta çıkan padişah kimdir?",
+      "arka": "1. Mustafa",
+      "kaynak_sn": 148.06
+    },
+    {
+      "on": "Osmanlı'da en küçük yaşta tahta çıkan padişah kimdir?",
+      "arka": "4. Mehmet (6-7 yaşında)",
+      "kaynak_sn": 197.0
+    },
+    {
+      "on": "Beşik Ulemalığı nedir?",
+      "arka": "'Âlimin oğlu âlimdir' anlayışıyla küçük çocuklara meslek unvanlarının verilmesidir.",
+      "kaynak_sn": 450.71
+    },
+    {
+      "on": "Tahşiş nedir?",
+      "arka": "Paranın içerisindeki değerli maden oranının düşürülmesi (ayarsız/kırık akçe çıkarılması).",
+      "kaynak_sn": 1252.74
+    },
+    {
+      "on": "Büyük Kaçkun nedir?",
+      "arka": "Tımar sisteminin bozulmasıyla köylülerin toprağını terk edip şehirlere göç etmesidir.",
+      "kaynak_sn": 658.44
+    },
+    {
+      "on": "Merkantilizm nedir?",
+      "arka": "Bir devletin zenginliğinin sahip olduğu altın ve gümüş miktarıyla ölçüldüğü ekonomik anlayıştır.",
+      "kaynak_sn": 972.31
+    },
+    {
+      "on": "İstanbul (Merkez) isyanlarında başrolde olan askeri grup hangisidir?",
+      "arka": "Kapıkulu Ocağı (Yeniçeriler)",
+      "kaynak_sn": 1232.32
+    },
+    {
+      "on": "Vakai Vakvakiyye (Çınar Olayı) hangi padişah döneminde yaşanmıştır?",
+      "arka": "4. Mehmet",
+      "kaynak_sn": 182.68
+    },
+    {
+      "on": "Vakai Vakvakiyye olayında taht değişikliği yaşanmış mıdır?",
+      "arka": "Hayır, taht değişikliği yaşanmamıştır.",
+      "kaynak_sn": 1443.92
+    },
+    {
+      "on": "En büyük Celali İsyanı hangisidir?",
+      "arka": "Karayazıcı İsyanı",
+      "kaynak_sn": 1775.16
+    },
+    {
+      "on": "Celali İsyanlarına destek veren işsiz medrese öğrencilerine ne ad verilir?",
+      "arka": "Suhteler",
+      "kaynak_sn": 1760.96
+    }
+  ]
+}

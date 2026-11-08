@@ -1,0 +1,67 @@
+{
+  "bolumler": [
+    {
+      "baslik": "Birinci Dünya Savaşı'nın Genel Sebepleri ve ÖSYM Yaklaşımı",
+      "baslangic_sn": 0,
+      "bitis_sn": 187,
+      "ozet": "ÖSYM'nin İnkılap Tarihi ve Birinci Dünya Savaşı konularında özellikle kronoloji, cepheler ve cemiyetlerden soru sorduğu vurgulanmaktadır. Savaşın genel nedenleri arasında Fransız İhtilali'nin yaydığı milliyetçilik akımı ile Sanayi İnkılabı sonrası ortaya çıkan sömürgecilik yarışları yer almaktadır. Bu gelişmeler devletler arasındaki silahlanma yarışını ve rekabeti tırmandırarak bloklaşma sürecine zemin hazırlamıştır.",
+      "anahtar_kelimeler": [
+        "Birinci Dünya Savaşı",
+        "Fransız İhtilali",
+        "Milliyetçilik",
+        "Sanayi İnkılabı",
+        "Sömürgecilik",
+        "Silahlanma Yarışı"
+      ]
+    },
+    {
+      "baslik": "Birinci Dünya Savaşı'nda Bloklar ve Devletler",
+      "baslangic_sn": 187,
+      "bitis_sn": 485,
+      "ozet": "Savaş sürecinde devletler İtilaf (Anlaşma) ve İttifak (Bağlaşma) olmak üzere iki ana bloğa ayrılmıştır. İtalya savaş sırasında İttifak bloğundan İtilaf bloğuna geçerken, Rusya Bolşevik İhtilali ile rejim değiştirmiş, Yunanistan ise savaşa en son katılan devlet olmuştur. Norveç, İsveç, İsviçre, Danimarka ve Hollanda gibi ülkeler ise savaş boyunca tarafsız kalmışlardır.",
+      "anahtar_kelimeler": [
+        "İtilaf Devletleri",
+        "İttifak Devletleri",
+        "Bloklaşma",
+        "Tarafsız Devletler",
+        "İtalya",
+        "Rusya"
+      ]
+    },
+    {
+      "baslik": "Birinci Dünya Savaşı'nın Özel Sebepleri ve Kıvılcım",
+      "baslangic_sn": 485,
+      "bitis_sn": 718,
+      "ozet": "İngiltere ile Almanya arasındaki sömürge rekabeti, Fransa ile Almanya arasındaki Alsas-Loren maden havzası sorunu ve Rusya'nın Panslavizm politikası savaşın ana özel sebeplerini oluşturur. Uzak Doğu'da Japonya ile Almanya arasında yaşanan nüfuz mücadelesi de savaşı küresel boyuta taşımıştır. Avusturya-Macaristan Veliahtı'nın Saraybosna'da bir Sırplı tarafından öldürülmesi ise savaşı başlatan kıvılcım olmuştur.",
+      "anahtar_kelimeler": [
+        "Alsas-Loren",
+        "Panslavizm",
+        "Özel Sebepler",
+        "Sırbistan",
+        "Avusturya-Macaristan",
+        "Bosna Ziyareti"
+      ]
+    },
+    {
+      "baslik": "Savaşın Yayılması ve Osmanlı Devleti'nin Durumu",
+      "baslangic_sn": 718,
+      "bitis_sn": 971.7,
+      "ozet": "Avusturya-Macaristan'ın Sırbistan'a savaş açması üzerine ittifak anlaşmaları devreye girmiş ve Avrupa genelinde savaş başlamıştır. Birçok devletle aynı anda savaşmak zorunda kalan Almanya, jeopolitik konumu ve nüfus gücü nedeniyle Osmanlı Devleti'ni kendi yanına çekmek istemiştir. Savaş başladığında Osmanlı tahtında Sultan Mehmet Reşat bulunmakta ve yönetimde İttihat ve Terakki Partisi etkisini sürdürmektedir.",
+      "anahtar_kelimeler": [
+        "Mehmet Reşat",
+        "İttihat ve Terakki",
+        "Osmanlı Devleti",
+        "Almanya",
+        "Sadrazam",
+        "Jeopolitik Konum"
+      ]
+    }
+  ],
+  "olcumler": {
+    "model": "gemini-3.5-flash",
+    "gecikme_sn": 13.78,
+    "girdi_token": 4959,
+    "cikti_token": 976,
+    "toplam_deneme": 1
+  }
+}

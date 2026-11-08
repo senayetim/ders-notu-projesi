@@ -1,0 +1,63 @@
+{
+  "bolumler": [
+    {
+      "baslik": "Osmanlı Beyliği'nin Kökeni ve Anadolu'ya Gelişi",
+      "baslangic_sn": 0,
+      "bitis_sn": 261,
+      "ozet": "Osmanlılar Oğuzların Kayı boyuna, Bozok koluna ve Karakeçili aşiretine mensuptur. Anadolu'ya ilk olarak Ahlat ve Karacadağ bölgelerinden giren Kayılar, Yassıçemen Savaşı sonrası Anadolu Selçuklu tarafından Söğüt ve Domaniç'e yerleştirilmiştir. Kuruluş sürecinde bir dönem Kastamonu çevresindeki Çobanoğulları Beyliği'ne bağlı kalınmış ve İlhanlılar'a vergi ödenmiştir.",
+      "anahtar_kelimeler": [
+        "Kayı Boyu",
+        "Yassıçemen Savaşı",
+        "Söğüt ve Domaniç",
+        "İlhanlılar",
+        "Çobanoğulları"
+      ]
+    },
+    {
+      "baslik": "Osmanlı Devleti'nin Büyüme Nedenleri ve Mudara Politikası",
+      "baslangic_sn": 261,
+      "bitis_sn": 782,
+      "ozet": "Osmanlı Beyliği'nin hızla büyümesinde istimalet yani hoşgörü politikası, Ahilerin desteği, tımar sistemi, gaza-cihat anlayışı ve merkeziyetçi yapı etkili olmuştur. Güçlenene kadar çevre güçlerle iyi geçinme anlamına gelen mudara politikası uygulanmıştır. Ayrıca Avrupa'da İngiltere ile Fransa arasında yaşanan Yüzyıl Savaşları da Osmanlı'nın batıda rahat ilerlemesini sağlamıştır.",
+      "anahtar_kelimeler": [
+        "İstimalet",
+        "Tımar Sistemi",
+        "Cihat ve Gaza",
+        "Mudara",
+        "Yüzyıl Savaşları"
+      ]
+    },
+    {
+      "baslik": "Osmanlı'da İskan Politikası ve Vakıfların Rolü",
+      "baslangic_sn": 782,
+      "bitis_sn": 1232,
+      "ozet": "İskan politikası fethedilen bölgelerin kalıcı hale getirilmesi için göçebe Türkmenlerin ve sorunlu ailelerin özellikle Balkanlar'a yerleştirilmesidir. Bölgeye gönderilen bu nüfusa evlad-ı fatihan denilmiş ve onlara kolaylık sağlamak için tımar toprakları verilmiştir. İskan edilen yerlerde cami, medrese gibi yapılar inşa eden vakıflar bölgenin bayındır hale gelmesinde ve sosyal hayatın düzenlenmesinde kritik rol oynamıştır.",
+      "anahtar_kelimeler": [
+        "İskan Politikası",
+        "Evlad-ı Fatihan",
+        "Balkanlar",
+        "Tımar",
+        "Vakıflar"
+      ]
+    },
+    {
+      "baslik": "Coğrafi Konum ve Batıda İlerlemenin Sonuçları",
+      "baslangic_sn": 1232,
+      "bitis_sn": 1811.4,
+      "ozet": "Osmanlı Devleti Bitinya bölgesinde kurulmuş, Bizans'ın zayıflığından ve Anadolu beylikleriyle savaşmama ilkesinden faydalanarak batı yönlü fetihlere ağırlık vermiştir. Batıda ilerleme sonucunda devlet çok uluslu bir yapı kazanmış, Rumeli Beylerbeyliği kurulmuş ve Haçlı ittifaklarıyla mücadeleler başlamıştır. Karasioğulları'nın alınması ise Osmanlı'nın Rumeli'ye geçişini kolaylaştırmıştır.",
+      "anahtar_kelimeler": [
+        "Bitinya",
+        "Coğrafi Konum",
+        "Karesioğulları",
+        "Rumeli Beylerbeyliği",
+        "Haçlı İttifakı"
+      ]
+    }
+  ],
+  "olcumler": {
+    "model": "gemini-3.5-flash",
+    "gecikme_sn": 13.72,
+    "girdi_token": 8477,
+    "cikti_token": 932,
+    "toplam_deneme": 1
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "sorular": [
+    {
+      "soru": "Osmanlı Devleti'nde İstanbul'un genel sorumlusu, yani başbakanı konumundaki görevli kimdir?",
+      "secenekler": [
+        "Yeniçeri Ağası",
+        "Sadrazam",
+        "Kadı",
+        "Beylerbeyi"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "İstanbul'un genel sorumlusu başbakan konumundaki sadrazamdır.",
+      "kaynak_sn": 72.72
+    },
+    {
+      "soru": "Osmanlı'da İstanbul'un mülki amiri ve hukuk işlerine bakan merkezi görevli aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Taht Kadısı",
+        "Subaşı",
+        "Mimar Başı",
+        "Ases Başı"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Taşradakinden farklı olarak merkezde İstanbul'un hukuk işlerine bakan ve mülki amiri olan kişi Taht Kadısı'dır.",
+      "kaynak_sn": 107.32
+    },
+    {
+      "soru": "On dokuzuncu yüzyılda yapılan idari değişikliklerle sancak adı verilen birimler hangi isme dönüştürülmüştür?",
+      "secenekler": [
+        "Vilayet",
+        "Nahiye",
+        "Liva",
+        "Kaza"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "19. yüzyıldaki düzenlemeyle sancaklar liva adını almıştır.",
+      "kaynak_sn": 355.32
+    },
+    {
+      "soru": "19. yüzyılda kaza ile köy arasında oluşturulan ve nüfus müdürleri tarafından yönetilen yeni ülke birimi hangisidir?",
+      "secenekler": [
+        "Nahiye",
+        "Liva",
+        "Vilayet",
+        "Sancak"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Kaza ve köy arasında kurulan yeni birim nahiye olup nüfus müdürleri tarafından yönetilmiştir.",
+      "kaynak_sn": 414.71
+    },
+    {
+      "soru": "Bir bölgeye atanan yöneticinin göreve gelmesine kadar orayı vekaleten yöneten zengin kişilere ne ad verilir?",
+      "secenekler": [
+        "Mültezim",
+        "Mutasarrıf",
+        "Mütesellim",
+        "Muhtesip"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Bir bölgeye atanan yöneticinin vekili olarak zenginlerden seçilerek vekaleten bakan kişiye mütesellim denir.",
+      "kaynak_sn": 524.38
+    },
+    {
+      "soru": "Osmanlı Devleti'nde uzak bölgelerin (Kuzey Afrika gibi) gelirlerinin ihale usulüyle peşin para karşılığı verilmesi sistemine ne ad verilir?",
+      "secenekler": [
+        "İltizam",
+        "Dirlik",
+        "Mukata",
+        "Malikane"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Nakit ihtiyacını karşılamak için uzak eyaletlerin ihale yoluyla verilmesi iltizam sistemidir.",
+      "kaynak_sn": 727.51
+    },
+    {
+      "soru": "İltizam usulünün ömür boyu (kaydı hayat şartıyla) verilmesine ne ad verilir?",
+      "secenekler": [
+        "Salyane",
+        "Malikane",
+        "Muaccele",
+        "Dirlik"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "İhalenin 3-5 yıl yerine ömür boyu yapılması durumuna malikane adı verilir.",
+      "kaynak_sn": 977.33
+    },
+    {
+      "soru": "Osmanlı Devleti'nde Mısır eyaletini yöneten valilere verilen unvan nedir?",
+      "secenekler": [
+        "Dayı",
+        "Voivoda",
+        "Hidiv",
+        "Emir Şerif"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Mısır'ı yöneten valilere hidiv adı verilmektedir.",
+      "kaynak_sn": 1113.36
+    },
+    {
+      "soru": "Aşağıdaki imtiyazlı eyaletlerden hangisinden asker alınmaz ve vergi gönderilmez; hatta merkeze bağlı olarak oraya yardım gönderilir?",
+      "secenekler": [
+        "Eflak",
+        "Boğdan",
+        "Kırım",
+        "Hicaz"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "Hicaz bölgesinden ne asker ne de vergi alınır, aksine merkezen hediye ve surre alayları gönderilir.",
+      "kaynak_sn": 1463.62
+    },
+    {
+      "soru": "Eflak ve Boğdan gibi imtiyazlı eyaletleri yöneten kişilere ne ad verilir?",
+      "secenekler": [
+        "Voivoda",
+        "Şahin Giray",
+        "Emir Şerif",
+        "Dayı"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Eflak ve Boğdan (memleketeyn) bölgesini yöneten kişilere voivoda denir.",
+      "kaynak_sn": 1364.78
+    }
+  ],
+  "kartlar": [
+    {
+      "on": "Başkent dışındaki tüm yerleşim birimlerine ne denir?",
+      "arka": "Taşra teşkilatı",
+      "kaynak_sn": 30.62
+    },
+    {
+      "on": "İstanbul'un tarih süreçteki adları nelerdir?",
+      "arka": "Asitane, Dersadet, Payitaht, Konstantiniye, İslambol, Ümmül İslam, Ümmül Dünya",
+      "kaynak_sn": 41.9
+    },
+    {
+      "on": "İstanbul'un gece ve gündüz güvenliğinden sorumlu görevliler kimlerdir?",
+      "arka": "Gece güvenliği Ases Başı, gündüz güvenliği Subaşı",
+      "kaynak_sn": 126.88
+    },
+    {
+      "on": "19. yüzyılda eyaletler hangi birime dönüştürülmüştür?",
+      "arka": "Vilayet",
+      "kaynak_sn": 340.4
+    },
+    {
+      "on": "Livaları yöneten yöneticilere ne denir?",
+      "arka": "Mutasarrıf",
+      "kaynak_sn": 378.95
+    },
+    {
+      "on": "İltizam sistemini ihaleyi kazanarak alan kişiye ne ad verilir?",
+      "arka": "Mültezim",
+      "kaynak_sn": 759.16
+    },
+    {
+      "on": "Geliri doğrudan hazineye giden araziler nasıl adlandırılır?",
+      "arka": "Mukataa arazi",
+      "kaynak_sn": 793.98
+    },
+    {
+      "on": "Taşrada zenginleşerek ortaya çıkan Müslüman yerel yöneticilere ne denir?",
+      "arka": "Ayan",
+      "kaynak_sn": 1049.91
+    },
+    {
+      "on": "Cezayir'i yöneten kişilere verilen unvan nedir?",
+      "arka": "Dayı",
+      "kaynak_sn": 1156.06
+    },
+    {
+      "on": "Eflak ve Boğdan bölgesine verilen genel ad nedir?",
+      "arka": "Memleketeyn",
+      "kaynak_sn": 1347.87
+    },
+    {
+      "on": "Kırım yöneticilerine ne ad verilir?",
+      "arka": "Şahin Giray",
+      "kaynak_sn": 1405.13
+    },
+    {
+      "on": "Hicaz bölgesini yöneten kişiye verilen unvan nedir?",
+      "arka": "Emir Şerif",
+      "kaynak_sn": 1439.7
+    },
+    {
+      "on": "Peygamber Efendimiz'in soyundan gelenlerle ilgilenmek üzere Hicaz'a gönderilen görevli kimdir?",
+      "arka": "Nâkıbul Eşraf",
+      "kaynak_sn": 1490.26
+    },
+    {
+      "on": "Tımarlı sipahilerin amiri olan askeri yönetici kimdir?",
+      "arka": "Alay Beyi",
+      "kaynak_sn": 574.68
+    },
+    {
+      "on": "Çarşı pazar denetiminden sorumlu olan zabıta görevlisi kimdir?",
+      "arka": "Muhtesip",
+      "kaynak_sn": 574.68
+    }
+  ]
+}

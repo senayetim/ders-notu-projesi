@@ -1,0 +1,75 @@
+{
+  "bolumler": [
+    {
+      "baslik": "Osmanli Duraklama Donemi ve Yuzyillara Gore Isimleri",
+      "baslangic_sn": 0,
+      "bitis_sn": 52,
+      "ozet": "Osmanli tarihinin 17. yuzyili Duraklama Donemi (Arayis Yillari), 18. yuzyili Gerileme Donemi (Diplomasi Yillari) ve 19. yuzyili Dagilma Donemi (En Uzun Yuzyil) olarak adlandirilir. Duraklama doneminde ozellikle isyanlar ve islahatlar uzerinde durulmasi gerektigi vurgulanmaktadir.",
+      "anahtar_kelimeler": [
+        "duraklama donemi",
+        "arayis yillari",
+        "gerileme donemi",
+        "dagilma donemi",
+        "islahatlar"
+      ]
+    },
+    {
+      "baslik": "Duraklama Donemi Padisahlari ve Onemli Olaylar",
+      "baslangic_sn": 52,
+      "bitis_sn": 224,
+      "ozet": "Duraklama donemindeki padisahlar sirasiyla ele alinmis, padişah siralamasinin daha cok islahat konularinda gerekli oldugu belirtilmistir. 17. yuzyil en cok culus bahsisi dagitilan yuzyil olmus, Ikinci Mustafa ise donemde iki kez tahta cikan padisahlardan biri olarak kayda gecmistir. Ayrica Dorduncu Mehmet doneminde Vakai Vakvakiye (Cinar Olayi) yasanmistir.",
+      "anahtar_kelimeler": [
+        "padisahlar",
+        "culus",
+        "birinci mustafa",
+        "dorduncu mehmet",
+        "cinar olayg"
+      ]
+    },
+    {
+      "baslik": "Duraklama Doneminin Ic Sebepleri",
+      "baslangic_sn": 224,
+      "bitis_sn": 820,
+      "ozet": "Duraklama doneminin ic nedenleri merkezi yonetimin, eyalet yonetiminin, ordunun, egitimin, ekonominin ve toplum yapisinin bozulmasi basliklari altinda incelenmistir. Timar sisteminin bozulmasi koylerin bosalmasina ve buyuk kacgun olayina yol acarak ekonomiyi ve toplumsal yapiyi derinden sarsmistir.",
+      "anahtar_kelimeler": [
+        "ic sebepler",
+        "merkezi yonetim",
+        "timar sistemi",
+        "ekonomi",
+        "buyuk kacgun"
+      ]
+    },
+    {
+      "baslik": "Duraklama Doneminin Dis Sebepleri ve Dogal Sinirlar",
+      "baslangic_sn": 820,
+      "bitis_sn": 1186,
+      "ozet": "Duraklama doneminin dis nedenleri arasinda dogal sinirlara ulasilmasi, Avrupa'nin bilim ve egitimde gelismesi, cografi kesiflerle Avrupa'nin zenginlesmesi ve Osmanli'ya karsi kutsal ittifakin kurulmasi yer alir. Daglar, coller ve okyanuslar gibi cografi unsurlar Osmanli'nin ilerlemesini durduran dogal sinirlari olusturmustur.",
+      "anahtar_kelimeler": [
+        "dis sebepler",
+        "dogal sinirlar",
+        "cografi kesifler",
+        "kutsal ittifak"
+      ]
+    },
+    {
+      "baslik": "Osmanli'da Isyanlar: Istanbul ve Celali Isyanlari",
+      "baslangic_sn": 1186,
+      "bitis_sn": 1886.2,
+      "ozet": "Duraklama doneminde cikan isyanlar Istanbul (merkez), eyalet ve Celali isyanlari olarak siniflandirilmistir. Yeniçerilerin cikardigi Istanbul isyanlarinda maaslarin gec odenmesi ve tahsis etkili olurken; Celali isyanlarinin temelinde timar sisteminin bozulmasi, iran savaslari ve ekonominin kotulesmesi yatmaktadir.",
+      "anahtar_kelimeler": [
+        "istanbul isyanlari",
+        "celali isyanlari",
+        "yeniceri",
+        "tahsis",
+        "karayazici"
+      ]
+    }
+  ],
+  "olcumler": {
+    "model": "gemini-3.5-flash-lite",
+    "gecikme_sn": 3.73,
+    "girdi_token": 8993,
+    "cikti_token": 1071,
+    "toplam_deneme": 5
+  }
+}

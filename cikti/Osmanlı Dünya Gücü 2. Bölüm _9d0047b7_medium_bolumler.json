@@ -1,0 +1,52 @@
+{
+  "bolumler": [
+    {
+      "baslik": "Fatih Dönemi Kültür, Medeniyet ve Devlet Teşkilatı",
+      "baslangic_sn": 0,
+      "bitis_sn": 914,
+      "ozet": "Fatih Sultan Mehmet Dönemi'nde Topkapı Sarayı, Sahn-ı Seman Medresesi ve Tetimme medreseleri inşa edilmiş, Ortodoksların koruyuculuğu üstlenilmiştir. Yönetimde devşirmelere ağırlık verilerek ve 'ülke hükümdarın malıdır' anlayışı benimsenerek merkezi otorite güçlendirilmiştir. Ayrıca kulluk hakkı, müsadere usulü ve kardeş katlini nizam-ı alem için yasallaştıran Kanunname-i Âli Osman yürürlüğe konulmuştur.",
+      "anahtar_kelimeler": [
+        "Fatih Sultan Mehmet",
+        "Kanunname-i Âli Osman",
+        "Sahn-ı Seman",
+        "Müsadere Usulü",
+        "Devşirme Sistemi",
+        "Kulluk Hakkı"
+      ]
+    },
+    {
+      "baslik": "II. Bayezid Dönemi İç Karışıklıklar ve İsyanlar",
+      "baslangic_sn": 914,
+      "bitis_sn": 1384,
+      "ozet": "II. Bayezid Dönemi'nde yaşanan Cem Sultan Olayı, Avrupalı devletlerin ve Papalığın müdahalesiyle iç sorundan uluslararası bir soruna dönüşmüş ve fetihleri yavaşlatmıştır. Safavilerin kışkırtmasıyla çıkan Şahkulu İsyanı ve devletin pasif tutumu üzerine Şehzade Selim babasına karşı ayaklanmıştır. Karıştıran Savaşı sonrası Yeniçerilerin desteğini alan I. Selim tahta çıkmıştır.",
+      "anahtar_kelimeler": [
+        "II. Bayezid",
+        "Cem Sultan Olayı",
+        "Şahkulu İsyanı",
+        "I. Selim",
+        "Karıştıran Savaşı"
+      ]
+    },
+    {
+      "baslik": "II. Bayezid Dönemi Siyasi ve Kültürel Gelişmeler",
+      "baslangic_sn": 1384,
+      "bitis_sn": 1872.5,
+      "ozet": "Bu dönemde Karamanoğulları Beyliği'ne tamamen son verilmiş, İspanya'daki baskıdan kaçan Yahudi ve Müslümanlara yardım edilmiştir. Kili ve Akerman kalelerinin fethedilmesiyle Eflak-Boğdan'ın fethi tamamlanmış ve Kırım ile kara bağlantısı sağlanmıştır. Ayrıca Küçük Kıyamet olarak bilinen deprem sonrası ilk kez Avarız vergisi toplanmış ve Edirne Bayezid Külliyesi'nde su ile müzikle tedavi yapılan şifahane kurulmuştur.",
+      "anahtar_kelimeler": [
+        "Karamanoğulları",
+        "Kili ve Akerman",
+        "Avarız Vergisi",
+        "İdris-i Bitlisî",
+        "Bayezid Külliyesi",
+        "Eflak ve Boğdan"
+      ]
+    }
+  ],
+  "olcumler": {
+    "model": "gemini-3.5-flash",
+    "gecikme_sn": 14.78,
+    "girdi_token": 9499,
+    "cikti_token": 752,
+    "toplam_deneme": 1
+  }
+}

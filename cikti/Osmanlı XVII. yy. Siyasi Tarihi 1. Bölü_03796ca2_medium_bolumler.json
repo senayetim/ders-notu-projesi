@@ -1,0 +1,63 @@
+{
+  "bolumler": [
+    {
+      "baslik": "Osmanli Duraklama Donemi Genel Esaslari",
+      "baslangic_sn": 0,
+      "bitis_sn": 252,
+      "ozet": "17. yuzyil Osmanli Tarihi duraklama donemi veya arayis yillari olarak adlandirilir ve bu donemde en cok isyanlar ile islahatlar on plana cikar. Padisaylarin siralamasi ve calisma tarzi ozellikle islahatlar icin onemlidir, ayrica bu donem en cok culus bahsiyesi dagitilan yuzyildir. Birinci Mustafa iki kez tahta cikan padisaylar arasinda yer alirken, Dorduncu Mehmet ise en kucuk yasta tahta cikan ve Kopruler donemi ile anilan padisahtir.",
+      "anahtar_kelimeler": [
+        "duraklama donemi",
+        "arayis yillari",
+        "padi_saylar",
+        "culus",
+        "isyanlar"
+      ]
+    },
+    {
+      "baslik": "Duraklama Doneminin I-Ic Sebepleri",
+      "baslangic_sn": 252,
+      "bitis_sn": 821,
+      "ozet": "Duraklasma doneminin ic sebepleri merkezi yonetimin bozulmasi, eyalet yonetimi ve timar sisteminin bozulmasi, ordunun gucunu kaybetmesi, egitimin yozlasmasi ve ekonominin kotuye gitmesi olarak incelenir. Timar sisteminin bozulmasi koylerin bosalmasina, sehirlerde issizligin artmasina ve Buyuk Kaçkun adi verilen toplumsal hareketlere yol acmistir. Bu durum eyalet ordusunu ve ekonomiyi dogrudan olumsuz etkilemistir.",
+      "anahtar_kelimeler": [
+        "merkezi yonetim",
+        "timar sistemi",
+        "ekonomi",
+        "egitim",
+        "buyuk kaçkun"
+      ]
+    },
+    {
+      "baslik": "Duraklama Doneminin Dis Sebepleri ve Dogal Sinirlar",
+      "baslangic_sn": 821,
+      "bitis_sn": 1185,
+      "ozet": "Duraklamanin dis sebepleri arasinda Avrupa'nin bilimsellesmesi, ronesans ve reform hareketleri, cografi kesiflerle zenginlesmesi ve kutsal ittifakin kurulmasi yer alir. Ayrica Osmanli Devleti'nin dag, col ve okyanus gibi cografi engellerle karsilasmasi ve guclu devletlerle komsuluk etmesi dogal sinirlara ulasilmasina ve genlemenin durmasina neden olmustur.",
+      "anahtar_kelimeler": [
+        "dis sebepler",
+        "dogal sinirlar",
+        "cografi kesifler",
+        "avrupa",
+        "kutsal ittifak"
+      ]
+    },
+    {
+      "baslik": "Osmanli'da Isyanlar: Istanbul ve Celali Isyanlari",
+      "baslangic_sn": 1185,
+      "bitis_sn": 1886.2,
+      "ozet": "Donemde cikan isyanlar Istanbul, eyalet ve Celali isyanlari olmak uzere uce ayrilir; Istanbul isyanlarinda Yeni-ceriler rol oynarken Celali isyanlarinin temelinde timar sisteminin bozulmasi ve iran savaslari yatar. Vaka-i Vakvakiye ve Genc Osman'in oldurulmesi onemli merkez isyanlarindandir. Celali isyanlari rejime degil kisi ve durumlara yonelik olup, diger cephelerdeki basarisizliklari da tetiklemistir.",
+      "anahtar_kelimeler": [
+        "istanbul isyanlari",
+        "celali isyanlari",
+        "yeniceri",
+        "vaka-i vakvakiye",
+        "karayazici"
+      ]
+    }
+  ],
+  "olcumler": {
+    "model": "gemini-3.5-flash-lite",
+    "gecikme_sn": 3.44,
+    "girdi_token": 8935,
+    "cikti_token": 952,
+    "toplam_deneme": 5
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "sorular": [
+    {
+      "soru": "Osmanlı Devleti'nde hukuk anlayışının oluşmasında aşağıdakilerden hangisi etkili olmamıştır?",
+      "secenekler": [
+        "Batı'nın tamamen doğrudan benimsenen medeni kanunları",
+        "İslam dini ve şeri hukuk",
+        "Türk töresi ve örfi hukuk",
+        "Fethedilen bölgelerin kültürleri"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Osmanlı hukukunun oluşumunda İslam, Türk töresi ve fethedilen bölgelerin kültürleri etkili olmuştur; Batı kanunları doğrudan benimsenmemiştir.",
+      "kaynak_sn": 78.26
+    },
+    {
+      "soru": "Osmanlı Devleti'nde Divan'da davalara bakan ve ataması kazasker tarafından yapılan görevli kimdir?",
+      "secenekler": [
+        "Kazasker",
+        "Kadı",
+        "Beylerbeyi",
+        "Sancak beyi"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Divan'da kadı yoktur, davalara kazasker bakar.",
+      "kaynak_sn": 110.59
+    },
+    {
+      "soru": "Osmanlı'da kadıların özellikleri düşünüldüğünde, kadı hangi yetkileri kullanır?",
+      "secenekler": [
+        "Yargı ve yürütme",
+        "Yasama ve yargı",
+        "Yalnızca yasama",
+        "Yasama ve yürütme"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Kadı, mahkeme davalarına baktığı için yargı, kazaları idare ettiği için yürütme yetkisini kullanır; yasama padişaha aittir.",
+      "kaynak_sn": 241.83
+    },
+    {
+      "soru": "Osmanlı'da kadıların aynı yerde uzun süre görev yapmaması ve atamalarının merkezden (divandan) yapılması öncelikli olarak neyi sağlamaya yöneliktir?",
+      "secenekler": [
+        "Yargının bağımsızlığını",
+        "Askeri disiplini",
+        "Vergi gelirlerinin artırılmasını",
+        "Ticaretin canlanmasını"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Kadıların halkla aşırı kaynaşıp duygusal kararlar vermesini engellemek ve bağımsız karar almalarını sağlamak amacıyla bu yöntem uygulanmıştır.",
+      "kaynak_sn": 408.95
+    },
+    {
+      "soru": "Osmanlı Devleti'nde kapitülasyonların yaygınlaşmasıyla sayısı artış gösteren mahkeme türü hangisidir?",
+      "secenekler": [
+        "Konsolosluk mahkemesi",
+        "Şeri mahkeme",
+        "Örfi mahkeme",
+        "Cemaat mahkemesi"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Kapitülasyonlar gereği yabancı tüccarların davalarına kendi konsolosluk mahkemeleri bakmıştır.",
+      "kaynak_sn": 527.77
+    },
+    {
+      "soru": "Ölen kişinin miras, borç, alacak ve akrabalık gibi bilgilerinin kaydedildiği genel defter hangisidir?",
+      "secenekler": [
+        "Tereke defteri",
+        "Şerii sicil defteri",
+        "Mühimmat defteri",
+        "Esame defteri"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Tereke defteri, kassam tarafından tutulan ve ölen kişinin miras ile borç bilgilerini içeren defterdir.",
+      "kaynak_sn": 635.45
+    },
+    {
+      "soru": "Ahmet Cevdet Paşa'nın komisyon başkanlığını yaptığı, şeriyata dayalı ilk medeni hukuk kitabı aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Mecelle",
+        "Kanunname-i Ali Osman",
+        "Kanun-ı Esasi",
+        "Müeyyide"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Mecelle, 19. yüzyılda Ahmet Cevdet Paşa başkanlığındaki bir komisyon tarafından hazırlanan şeriyata dayalı medeni hukuk kitabıdır.",
+      "kaynak_sn": 841.85
+    },
+    {
+      "soru": "Osmanlı sanatında minyatür dalıyla uğraşan kişilere ne ad verilir?",
+      "secenekler": [
+        "Nakkaş",
+        "Ebruzen",
+        "Hattat",
+        "Müzeyyip"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Minyatür sanatıyla uğraşan kişilere nakkaş denir.",
+      "kaynak_sn": 1025.24
+    },
+    {
+      "soru": "Osmanlı Devleti'nde çıkarılan ilk resmi gazete aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Takvim-i Vakayi",
+        "Ceride-i Havadis",
+        "Tercüman-ı Ahval",
+        "İbret"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Takvim-i Vakayi, II. Mahmut döneminde 1831 yılında çıkarılan ilk resmi gazetedir.",
+      "kaynak_sn": 1665.71
+    },
+    {
+      "soru": "Osmanlı'da güzel sanatlara büyük emek veren, Sanayi-i Nefise Mekkemi müdürü ve 'Kaplumbağa Terbiyecisi' gibi ünlü eserlerin sahibi kimdir?",
+      "secenekler": [
+        "Osman Hamdi Bey",
+        "Şeker Ahmet Paşa",
+        "Levni",
+        "Matrakçı Nasuh"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Osman Hamdi Bey müzeciliğin kurucusu olup Kaplumbağa Terbiyecisi gibi önemli tablolara imza atmıştır.",
+      "kaynak_sn": 1510.75
+    }
+  ],
+  "kartlar": [
+    {
+      "on": "Osmanlı'da yüksek mahkeme neresidir ve davalara kim bakar?",
+      "arka": "Divan; davalara kazasker bakar.",
+      "kaynak_sn": 107.75
+    },
+    {
+      "on": "Türk tarihinde uygulanan ilk yazılı kanun nedir?",
+      "arka": "Fatih Sultan Mehmet dönemindeki Kanunname-i Ali Osman'dır.",
+      "kaynak_sn": 120.27
+    },
+    {
+      "on": "Kadı hangi sınıftandır ve nereden mezundur?",
+      "arka": "İlmiye sınıfındandır ve medrese mezunudur.",
+      "kaynak_sn": 181.87
+    },
+    {
+      "on": "Kadının mahkemedeki yardımcılarından naip, kassam ve mübaşir benzeri kolluk kuvveti kimdir?",
+      "arka": "Mühsır (muhsır).",
+      "kaynak_sn": 663.97
+    },
+    {
+      "on": "Mahkeme kararlarının yazıldığı defter hangisidir?",
+      "arka": "Şerii sicil defteri.",
+      "kaynak_sn": 590.57
+    },
+    {
+      "on": "Mahkeme kararlarının halka duyurulduğu gazete hangisidir?",
+      "arka": "Ceride-i Mehakim.",
+      "kaynak_sn": 702.37
+    },
+    {
+      "on": "Osmanlı'da batı tarzı ilk mahkeme hangisidir?",
+      "arka": "Nizamiye mahkemesi.",
+      "kaynak_sn": 775.81
+    },
+    {
+      "on": "Mecelle'de hangi konular yer almaz?",
+      "arka": "Evlenme, boşanma ve miras konuları yer almaz.",
+      "kaynak_sn": 871.49
+    },
+    {
+      "on": "Osmanlı'da hat sanatının kurucusu kim kabul edilir?",
+      "arka": "Şeyh Hamdullah (Hattatların kıblesi).",
+      "kaynak_sn": 1240.44
+    },
+    {
+      "on": "Tezhip sanatıyla uğraşan kişiye ne ad verilir?",
+      "arka": "Müzeyyip.",
+      "kaynak_sn": 1347.88
+    },
+    {
+      "on": "Belgeleri çoğaltan canlı fotokopi olarak nitelendirilen görevli kimdir?",
+      "arka": "Müstensih.",
+      "kaynak_sn": 1365.44
+    },
+    {
+      "on": "Osmanlı'da ilk özel gazete hangisidir?",
+      "arka": "Tercüman-ı Ahval.",
+      "kaynak_sn": 1718.86
+    },
+    {
+      "on": "İlk kadın roman yazarımız kimdir ve eseri nedir?",
+      "arka": "Fatma Aliye; eseri Muhadderat.",
+      "kaynak_sn": 1760.06
+    },
+    {
+      "on": "Matbaada basılan ilk eser nedir?",
+      "arka": "Vankulu Lügatı.",
+      "kaynak_sn": 1655.83
+    },
+    {
+      "on": "Mehmet Akif'in başyazarlığını yaptığı İslamcılık düşüncesiyle yayın yapan dergi hangisidir?",
+      "arka": "Sırat-ı Müstakim.",
+      "kaynak_sn": 1851.02
+    }
+  ]
+}

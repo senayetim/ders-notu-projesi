@@ -1,0 +1,201 @@
+{
+  "sorular": [
+    {
+      "soru": "Fransız İhtilali'nin getirdiği milliyetçilik akımı ve sanayi inkılabının getirdiği sömürge rekabeti I. Dünya Savaşı'nın hangi sebep kategorisine girmektedir?",
+      "secenekler": [
+        "Genel sebepler",
+        "Özel sebepler",
+        "Dini sebepler",
+        "Askeri sebepler"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Fransız İhtilali'nin getirdiği milliyetçilik ile Sanayi İnkılabı'nın getirdiği sömürge rekabeti tüm devletleri etkileyen genel sebepler arasında yer alır.",
+      "kaynak_sn": 68.14
+    },
+    {
+      "soru": "I. Dünya Savaşı öncesinde Almanya, Avusturya ve Rusya arasında kurulan ancak Rusya'nın Panslavizm politikası yüzünden dağılan ittifak hangisidir?",
+      "secenekler": [
+        "Üçlü İtilaf",
+        "Üç İmparatorlar Ligi",
+        "Balkan Antantı",
+        "Kutsal İttifak"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "1870'lerden itibaren Avrupa'da Almanya, Avusturya ve Rusya arasında 3 İmparatorlar Ligi kurulmuş, ancak Rusya'nın Panslavizm politikası yüzünden uzun ömürlü olmamıştır.",
+      "kaynak_sn": 207.03
+    },
+    {
+      "soru": "I. Dünya Savaşı başlarında İttifak Bloğu'nda yer almaktayken daha sonra taraf değiştirerek İtilaf Bloğu'na geçen devlet hangisidir?",
+      "secenekler": [
+        "Bulgaristan",
+        "Japonya",
+        "İtalya",
+        "Romanya"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "İtalya savaşın başında İttifak devletlerinin yanındayken savaş sırasında taraf değiştirerek İtilaf grubuna geçmiştir.",
+      "kaynak_sn": 412.38
+    },
+    {
+      "soru": "I. Dünya Savaşı'na ve İtilaf Devletleri bloğuna en son katılan devlet aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Amerika Birleşik Devletleri",
+        "Japonya",
+        "Romanya",
+        "Yunanistan"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "İtilaf bloğuna ve savaşa en son katılan devlet Yunanistan'dır; ABD ise katılımıyla savaşın gidişatını değiştiren devlettir.",
+      "kaynak_sn": 434.94
+    },
+    {
+      "soru": "Aşağıdaki devletlerden hangisi I. Dünya Savaşı boyunca tarafsızlığını koruyan (Nihit) ülkelerden biri değildir?",
+      "secenekler": [
+        "İsviçre",
+        "Danimarka",
+        "Romanya",
+        "Hollanda"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Norveç, İsveç, İsviçre, Danimarka ve Hollanda savaşa katılmayıp tarafsız kalırken Romanya İtilaf bloğunda savaşa girmiştir.",
+      "kaynak_sn": 363.45
+    },
+    {
+      "soru": "Almanya ile Fransa arasında büyük bir rekabete yol açan, zengin maden yataklarına sahip tampon bölge aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Alsas-Loren",
+        "Dobruca",
+        "Bosna-Hersek",
+        "Trablusgarp"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Alsas-Loren (Asas Doren) bölgesi zengin maden yatakları nedeniyle Almanya ile Fransa arasında savaşın önemli özel sebeplerinden biridir.",
+      "kaynak_sn": 514.91
+    },
+    {
+      "soru": "Balkan Savaşları sonrasında aralarında Dobruca sorunu bulunduğu için I. Dünya Savaşı'nda farklı bloklarda yer alan iki devlet hangisidir?",
+      "secenekler": [
+        "Sırbistan - Karadağ",
+        "Bulgaristan - Romanya",
+        "Yunanistan - Bulgaristan",
+        "Almanya - Avusturya"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Bulgaristan ve Romanya aralarındaki Dobruca sorunu sebebiyle I. Dünya Savaşı'nda farklı bloklarda yer almışlardır.",
+      "kaynak_sn": 474.42
+    },
+    {
+      "soru": "I. Dünya Savaşı'nı fiilen başlatan gelişme aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Almanya'nın İngiliz sömürgelerine saldırması",
+        "Avusturya Arşidükü'nün Bosna ziyaretinde bir Sırplı tarafından öldürülmesi",
+        "Rusya'da Bolşevik İhtilali'nin çıkması",
+        "Japonya'nın Uzak Doğu'daki Alman sömürgelerini işgal etmesi"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Avusturya Arşidükü ve eşinin Bosna gezisinde Sırp bir milliyetçi tarafından öldürülmesi savaşı başlatan fiili kıvılcımdır.",
+      "kaynak_sn": 623.44
+    },
+    {
+      "soru": "I. Dünya Savaşı başladığı sırada Osmanlı Devleti'nin başında bulunan padişah kimdir?",
+      "secenekler": [
+        "II. Abdülhamid",
+        "V. Mehmet Reşat",
+        "VI. Mehmet Vahdettin",
+        "Sultan Abdülaziz"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Savaş başladığında Osmanlı Devleti padişahı 1909-1918 yılları arasında tahtta kalan V. Mehmet Reşat'tır.",
+      "kaynak_sn": 882.61
+    },
+    {
+      "soru": "I. Dünya Savaşı başladığı esnada Osmanlı Devleti'nde sadrazamlık (hükümet başkanlığı) görevinde bulunan devlet adamı kimdir?",
+      "secenekler": [
+        "Talat Paşa",
+        "Ahmet İzzet Paşa",
+        "Said Halim Paşa",
+        "Enver Paşa"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Savaş başladığında sadrazam Said Halim Paşa idi; süreç içinde yerini Talat Paşa'ya, sonrasında Mondros'u imzalayacak olan Ahmet İzzet Paşa'ya bırakmıştır.",
+      "kaynak_sn": 912.17
+    }
+  ],
+  "kartlar": [
+    {
+      "on": "İtilaf Devletlerinin diğer adı nedir?",
+      "arka": "Anlaşma Devletleri",
+      "kaynak_sn": 265.94
+    },
+    {
+      "on": "İttifak Devletlerinin diğer adı nedir?",
+      "arka": "Bağlaşma Devletleri",
+      "kaynak_sn": 265.94
+    },
+    {
+      "on": "I. Dünya Savaşı öncesinde Avrupa'da kurulan 3 İmparatorlar Ligi hangi devletlerden oluşmaktaydı?",
+      "arka": "Almanya, Avusturya ve Rusya",
+      "kaynak_sn": 207.03
+    },
+    {
+      "on": "I. Dünya Savaşı'nda İttifak Bloğu'na son katılan devlet hangisidir?",
+      "arka": "Bulgaristan",
+      "kaynak_sn": 399.38
+    },
+    {
+      "on": "I. Dünya Savaşı sırasında Çarlık rejiminden Bolşevik rejimine geçerek rejim değiştiren devlet hangisidir?",
+      "arka": "Rusya",
+      "kaynak_sn": 418.38
+    },
+    {
+      "on": "I. Dünya Savaşı'nın gidişatını değiştiren devlet hangisidir?",
+      "arka": "ABD (Amerika Birleşik Devletleri)",
+      "kaynak_sn": 434.94
+    },
+    {
+      "on": "I. Dünya Savaşı öncesi dönemde en çok silah satan iki ülke hangisidir?",
+      "arka": "Amerika ve Almanya",
+      "kaynak_sn": 157.92
+    },
+    {
+      "on": "I. Dünya Savaşı'nda tamamen tarafsız kalan (Nihit) Avrupa devletleri hangileridir?",
+      "arka": "Norveç, İsveç, İsviçre, Danimarka ve Hollanda",
+      "kaynak_sn": 363.45
+    },
+    {
+      "on": "Bulgaristan ile Romanya arasında Balkan Savaşları'ndan itibaren devam eden sınır anlaşmazlığı sorunu nedir?",
+      "arka": "Dobruca sorunu",
+      "kaynak_sn": 474.42
+    },
+    {
+      "on": "Almanya ile Fransa arasında soruna yol açan kömür ve maden yatağı bölgesi neresidir?",
+      "arka": "Alsas-Loren (Alsace-Lorraine)",
+      "kaynak_sn": 514.91
+    },
+    {
+      "on": "Rusya'nın bütün Slav halklarını kendi çatısı altında toplama politikasının adı nedir?",
+      "arka": "Panslavizm",
+      "kaynak_sn": 82.42
+    },
+    {
+      "on": "Sırbistan'ın Adriyatik Denizi'ne çıkışını engellemek için Avusturya'nın denetiminde tutmaya çalıştığı bölge neresidir?",
+      "arka": "Bosna",
+      "kaynak_sn": 667.59
+    },
+    {
+      "on": "I. Dünya Savaşı sürecinde Tehcir Kanunu'nu çıkaran Osmanlı sadrazamı kimdir?",
+      "arka": "Talat Paşa",
+      "kaynak_sn": 920.89
+    },
+    {
+      "on": "Savaşın sonunda Mondros Mütarekesi'ni imzalayan Osmanlı sadrazamı kimdir?",
+      "arka": "Ahmet İzzet Paşa",
+      "kaynak_sn": 923.33
+    },
+    {
+      "on": "I. Dünya Savaşı'nda Osmanlı ordusunda görev yapan önemli Alman subaylar kimlerdir?",
+      "arka": "Falkenhayn ve Liman von Sanders (Limon Paşa)",
+      "kaynak_sn": 949.54
+    }
+  ]
+}

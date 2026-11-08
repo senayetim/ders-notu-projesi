@@ -1,0 +1,201 @@
+{
+  "sorular": [
+    {
+      "soru": "Yıldırım Bayezid Dönemi'nde Niğbolu Savaşı'nın kazanılması üzerine Abbasi halifesi tarafından Yıldırım Bayezid'e hangi unvan verilmiştir?",
+      "secenekler": [
+        "Sultan-ı İklim-i Rum",
+        "Serdar-ı Ekrem",
+        "Gazi Hayır Babası",
+        "Çelebi"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Niğbolu Savaşı'nın kazanılmasının ardından halife duygulanmış ve Yıldırım Bayezid'e Sultan-ı İklim-i Rum unvanını vermiştir.",
+      "kaynak_sn": 235.13
+    },
+    {
+      "soru": "Osmanlı Devleti ile Timur kuvvetleri arasında gerçekleşen ve Yıldırım Bayezid'in esir düşmesine sebep olan savaş hangisidir?",
+      "secenekler": [
+        "Kırkdilim Savaşı",
+        "Akçay Savaşı",
+        "Ankara Savaşı",
+        "Niğbolu Savaşı"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "1402 Ankara Savaşı'nda Osmanlı ordusu yenilmiş ve Yıldırım Bayezid esir düşmüştür.",
+      "kaynak_sn": 544.01
+    },
+    {
+      "soru": "Ankara Savaşı sonrasında beylikler yeniden bağımsızlık kazanmış ancak bazıları tekrar kurulamamıştır. Aşağıdakilerden hangisi tekrar kurulamayan bu beyliklerden biridir?",
+      "secenekler": [
+        "Saruhanoğulları",
+        "Aydınoğulları",
+        "Menteşeoğulları",
+        "Karesioğulları"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "Ankara Savaşı sonrasında Kadı Burhanettin, Eşrefoğulları ve Karesioğulları tekrar kurulmayan beyliklerdir.",
+      "kaynak_sn": 922.34
+    },
+    {
+      "soru": "Yıldırım Bayezid'in oğulları arasında yaşanan taht kavgaları sebebiyle 1402-1413 yılları arasında yaşanan dönem transkriptte ne şekilde adlandırılmıştır?",
+      "secenekler": [
+        "Lale Devri",
+        "Fasıl-ı Saltanat Devri",
+        "Yükselme Devri",
+        "Duraklama Devri"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "1402-1413 yılları arasında şehzadelerin taht mücadelesi verdiği Fetret Devri, Fasıl-ı Saltanat dönemi olarak da bilinir.",
+      "kaynak_sn": 1122.34
+    },
+    {
+      "soru": "Fetret Devri'ne son vererek devleti yeniden toparladığı için Osmanlı Devleti'nin ikinci kurucusu kabul edilen padişah kimdir?",
+      "secenekler": [
+        "Birinci Murat",
+        "Yıldırım Bayezid",
+        "Birinci Mehmet",
+        "İkinci Murat"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Birinci Mehmet (Çelebi Mehmet), Fetret Devri'ni sonlandırarak devleti birleştirdiği için Osmanlı'nın ikinci kurucusu sayılır.",
+      "kaynak_sn": 1322.4
+    },
+    {
+      "soru": "Osmanlı Devleti tarihinde ortaya çıkan ilk dini ve toplumsal nitelikli ayaklanma aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Buçuktepe İsyanı",
+        "Şeyh Bedrettin İsyanı",
+        "Düzmece Mustafa İsyanı",
+        "Baba İshak İsyanı"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Birinci Mehmet Dönemi'nde çıkan Şeyh Bedrettin İsyanı, Osmanlı Devleti'ndeki ilk dini ve toplumsal nitelikli ayaklanmadır.",
+      "kaynak_sn": 1637.54
+    },
+    {
+      "soru": "Tarihte Osmanlı kapıkulu askerleri olan yeniçeriler tarafından çıkarılan ilk yeniçeri ayaklanması hangisidir?",
+      "secenekler": [
+        "Buçuktepe İsyanı",
+        "Şeyh Bedrettin İsyanı",
+        "Şahkulu İsyanı",
+        "Celali İsyanları"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "1445 yılında Yeniçerilerin altın/ulufe talebiyle çıkardığı Buçuktepe İsyanı, ilk yeniçeri ayaklanmasıdır.",
+      "kaynak_sn": 1985.94
+    },
+    {
+      "soru": "Hangi savaşın kazanılmasıyla Haçlılar savunmaya çekilmiş ve Balkanlar kesin olarak Türk yurdu haline gelmiştir?",
+      "secenekler": [
+        "Varna Savaşı",
+        "Birinci Kosova Savaşı",
+        "Niğbolu Savaşı",
+        "İkinci Kosova Savaşı"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "1448 İkinci Kosova Savaşı sonucunda Haçlı taarruzu kırılmış ve Balkanlar kesin olarak Türk yurdu olmuştur.",
+      "kaynak_sn": 2054.14
+    },
+    {
+      "soru": "Merhametli ve yardımsever kişiliğinden dolayı İkinci Murat'a hangi unvan verilmiştir?",
+      "secenekler": [
+        "Sultan-ı İklim-i Rum",
+        "Gazi Hayır Babası",
+        "Çelebi",
+        "Serdar-ı Ekrem"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Hayır işlerine ve merhametine binaen İkinci Murat, Gazi Hayır Babası olarak adlandırılmıştır.",
+      "kaynak_sn": 2232.9
+    },
+    {
+      "soru": "II. Murat'ın tahtı 12 yaşındaki oğlu II. Mehmet'e bırakması üzerine Haçlıların Edirne-Segedin Antlaşması'nı bozarak saldırmasıyla gerçekleşen savaş hangisidir?",
+      "secenekler": [
+        "Varna Savaşı",
+        "İkinci Kosova Savaşı",
+        "Niğbolu Savaşı",
+        "Sırpsındığı Savaşı"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Edirne-Segedin Antlaşması sonrası tahta küçük yaştaki II. Mehmet'in geçmesini fırsat bilen Haçlılarla Varna Savaşı yapılmıştır.",
+      "kaynak_sn": 1869.0
+    }
+  ],
+  "kartlar": [
+    {
+      "on": "İstanbul'u ilk kuşatan Osmanlı padişahı kimdir?",
+      "arka": "Yıldırım Bayezid",
+      "kaynak_sn": 36.82
+    },
+    {
+      "on": "Yıldırım Bayezid İstanbul kuşatması için Boğaz'da hangi hisarı yaptırmıştır?",
+      "arka": "Anadolu Hisarı (Güzelcehisar)",
+      "kaynak_sn": 63.02
+    },
+    {
+      "on": "Niğbolu Savaşı sonrası Yıldırım Bayezid'e verilen unvan nedir?",
+      "arka": "Sultan-ı İklim-i Rum",
+      "kaynak_sn": 235.13
+    },
+    {
+      "on": "Timur ile Yıldırım Bayezid arasında 1402 yılında yapılan savaş hangisidir?",
+      "arka": "Ankara Savaşı",
+      "kaynak_sn": 544.01
+    },
+    {
+      "on": "Savaş meydanında esir düşen ilk ve tek Osmanlı padişahı kimdir?",
+      "arka": "Yıldırım Bayezid",
+      "kaynak_sn": 817.38
+    },
+    {
+      "on": "Ankara Savaşı sonrasında tekrar kurulamayan beylikler hangileridir?",
+      "arka": "Kadı Burhanettin, Eşrefoğulları ve Karesioğulları",
+      "kaynak_sn": 899.38
+    },
+    {
+      "on": "Osmanlı Devleti'nde 1402-1413 yılları arasında yaşanan fetret döneminin diğer adı nedir?",
+      "arka": "Fasıl-ı Saltanat Devri",
+      "kaynak_sn": 1122.34
+    },
+    {
+      "on": "Osmanlı Devleti'nin ikinci kurucusu olarak kabul edilen padişah kimdir?",
+      "arka": "Birinci Mehmet (Çelebi Mehmet)",
+      "kaynak_sn": 1322.4
+    },
+    {
+      "on": "Venedik ile yapılan ilk deniz savaşı hangisidir?",
+      "arka": "Lapseki Savaşı",
+      "kaynak_sn": 1351.0
+    },
+    {
+      "on": "Osmanlı Devleti'nde çıkan ilk dini ve toplumsal ayaklanma hangisidir?",
+      "arka": "Şeyh Bedrettin İsyanı",
+      "kaynak_sn": 1605.27
+    },
+    {
+      "on": "Macarlarla 1444 yılında imzalanan aleyhteki ilk antlaşma hangisidir?",
+      "arka": "Edirne-Segedin Antlaşması",
+      "kaynak_sn": 1738.53
+    },
+    {
+      "on": "Osmanlı Devleti'ndeki ilk yeniçeri ayaklanması hangisidir?",
+      "arka": "Buçuktepe İsyanı",
+      "kaynak_sn": 1985.94
+    },
+    {
+      "on": "Balkanlar'ın kesin Türk yurdu olmasını sağlayan savaş hangisidir?",
+      "arka": "İkinci Kosova Savaşı",
+      "kaynak_sn": 2054.14
+    },
+    {
+      "on": "İkinci Murat döneminde devşirme öğrencileri için Edirne'de açılan okul hangisidir?",
+      "arka": "Enderun Mektebi",
+      "kaynak_sn": 2213.27
+    },
+    {
+      "on": "İkinci Murat'a merhametli tutumu nedeniyle verilen lakap nedir?",
+      "arka": "Gazi Hayır Babası",
+      "kaynak_sn": 2232.9
+    }
+  ]
+}

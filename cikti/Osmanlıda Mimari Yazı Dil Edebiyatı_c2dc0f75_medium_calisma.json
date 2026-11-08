@@ -1,0 +1,201 @@
+{
+  "sorular": [
+    {
+      "soru": "Osmanlı mimarisinde erken dönem hangi coğrafi merkezler üzerinde yoğunlaşmıştır?",
+      "secenekler": [
+        "İznik, Bursa, Edirne",
+        "İstanbul, Edirne, Bursa",
+        "Ankara, Konya, Sivas",
+        "Bursa, İznik, İstanbul"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Erken dönem eserleri genellikle İznik, Bursa ve Edirne şehirleri üzerinde yoğunlaşmıştır.",
+      "kaynak_sn": 33.34
+    },
+    {
+      "soru": "Osmanlı mimarisinde klasik dönem hangi yüzyıllar arasındaki yükselme ve duraklama dönemini kapsar?",
+      "secenekler": [
+        "1299 - 1453",
+        "1453 - 1700",
+        "1700 - 1922",
+        "1500 - 1800"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Klasik dönem 1453'ten 1700'e kadar olan yükselme ve duraklama dönemini kapsar.",
+      "kaynak_sn": 52.42
+    },
+    {
+      "soru": "Mimar Sinan'ın ustalık eseri olarak kabul edilen cami hangisidir?",
+      "secenekler": [
+        "Şehzade Camii",
+        "Süleymaniye Camii",
+        "Selimiye Camii",
+        "Sultanahmet Camii"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Mimar Sinan, Edirne'deki Selimiye Camii'ni ustalık eseri olarak yapmıştır.",
+      "kaynak_sn": 318.14
+    },
+    {
+      "soru": "Aşağıdaki saraylardan hangisi dış borçlarla tamamlanmıştır?",
+      "secenekler": [
+        "Topkapı Sarayı",
+        "Dolmabahçe Sarayı",
+        "Yıldız Sarayı",
+        "İshak Paşa Sarayı"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Dolmabahçe Sarayı Abdülmecit döneminde dış borç alınarak tamamlanmıştır.",
+      "kaynak_sn": 579.14
+    },
+    {
+      "soru": "Osmanlı'da mali işlerde kullanılan ve şifreli bir yazı türü olan hat çeşidi hangisidir?",
+      "secenekler": [
+        "Talik",
+        "Kufi",
+        "Siyakat",
+        "Rika"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Siyakat, mali işlerde kullanılan şifreli yazı türüdür.",
+      "kaynak_sn": 1058.23
+    },
+    {
+      "soru": "Divanda alınan kararların eyaletlere aktarıldığı defter türü aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Mühimme",
+        "Ahkam",
+        "Tahrir",
+        "Tereke"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Ahkam defterleri, divanda alınan kararların eyaletlere aktarıldığı defterlerdir.",
+      "kaynak_sn": 1139.79
+    },
+    {
+      "soru": "Vefat eden kişinin geride bıraktığı malı mülkü ve her türlü miras durumunu geniş kapsamlı yazan defter hangisidir?",
+      "secenekler": [
+        "Ahitname",
+        "Salname",
+        "Tahrir",
+        "Tereke"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "Tereke, miras, akrabalık, borç ve alacak gibi konuların yazıldığı geniş kapsamlı defterdir.",
+      "kaynak_sn": 1192.96
+    },
+    {
+      "soru": "Kapı kulu askerlerinin fiziki özelliklerinin kaydedildiği defter hangisidir?",
+      "secenekler": [
+        "Eşkal",
+        "Esame",
+        "Ruznamçe",
+        "Teşrif"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Eşkal defteri, kapı kulunun özellikle fiziki özelliklerinin kaydedildiği defterdir.",
+      "kaynak_sn": 1238.63
+    },
+    {
+      "soru": "Osmanlı Devleti'nin resmi dili nedir?",
+      "secenekler": [
+        "Arapça",
+        "Farsça",
+        "Türkçe",
+        "Osmanlıca"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Osmanlı'nın resmi dili Türkçedir, yazı tarzı ise Arap alfabesiyle yazılan Osmanlı Türkçesidir.",
+      "kaynak_sn": 814.38
+    },
+    {
+      "soru": "Mimar Sinan'ın İstanbul'daki ilk eseri hangisidir?",
+      "secenekler": [
+        "Şehzade Camii",
+        "Süleymaniye Camii",
+        "Mihrimah Külliyesi",
+        "Haseki Külliyesi"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "Haseki Külliyesi, Mimar Sinan'ın İstanbul'daki ilk eseridir.",
+      "kaynak_sn": 337.58
+    }
+  ],
+  "kartlar": [
+    {
+      "on": "Erken Dönem Mimari Özelliği",
+      "arka": "Osmanlı'nın kuruluş dönemi olup İznik, Bursa ve Edirne'de batısız eserler verilmiştir.",
+      "kaynak_sn": 30.38
+    },
+    {
+      "on": "Klasik Dönem Tarih Aralığı",
+      "arka": "1453 ile 1700 yılları arasını kapsayan yükselme ve duraklama dönemidir.",
+      "kaynak_sn": 52.42
+    },
+    {
+      "on": "Gecikmiş Dönem Mimari Özelliği",
+      "arka": "1700-1922 arası gerileme ve dağılma dönemi olup Batı tarzı (Barok, Rokoko vb.) özellikler taşır.",
+      "kaynak_sn": 75.42
+    },
+    {
+      "on": "Mimar Sinan'ın Çıraklık Eseri",
+      "arka": "Şehzade Camii",
+      "kaynak_sn": 307.82
+    },
+    {
+      "on": "Mimar Sinan'ın Kalfalık Eseri",
+      "arka": "Süleymaniye Camii",
+      "kaynak_sn": 315.34
+    },
+    {
+      "on": "Mimar Sinan'ın Ustalık Eseri",
+      "arka": "Edirne Selimiye Camii",
+      "kaynak_sn": 318.14
+    },
+    {
+      "on": "Siyakat Yazısı Nedir?",
+      "arka": "Mali işlerde kullanılan şifreli yazı türüdür.",
+      "kaynak_sn": 1058.23
+    },
+    {
+      "on": "Mühimme Defteri Nedir?",
+      "arka": "Divan kararlarının yazıldığı defter türüdür.",
+      "kaynak_sn": 1135.79
+    },
+    {
+      "on": "Ahkam Defteri Nedir?",
+      "arka": "Divanda alınan kararların eyaletlere aktarıldığı defterdir.",
+      "kaynak_sn": 1139.79
+    },
+    {
+      "on": "Salname Nedir?",
+      "arka": "Bir yıl boyunca meydana gelen olayların ve işlerin yazıldığı resmi veya özel yıllıktır.",
+      "kaynak_sn": 1281.12
+    },
+    {
+      "on": "Ahitname Nedir?",
+      "arka": "Gayrimüslimlere verilen hakların ve ayrıcalıkların yazıldığı belgedir.",
+      "kaynak_sn": 1325.12
+    },
+    {
+      "on": "Eşkal Defteri Nedir?",
+      "arka": "Kapı kulunun fiziki özelliklerinin kaydedildiği defterdir.",
+      "kaynak_sn": 1238.63
+    },
+    {
+      "on": "Esame Defteri Nedir?",
+      "arka": "Kapı kulunun isim ve bilgilerinin yer aldığı defterdir.",
+      "kaynak_sn": 1251.79
+    },
+    {
+      "on": "Osmanlı'nın Resmi Dili ve Alfabesi",
+      "arka": "Resmi dil Türkçe, alfabe ise Arap alfabesidir.",
+      "kaynak_sn": 814.38
+    },
+    {
+      "on": "Mostar Köprüsü'nün Mimarı",
+      "arka": "Mimar Sinan'ın öğrencilerinden Mimar Hayrettin'dir.",
+      "kaynak_sn": 449.34
+    }
+  ]
+}
