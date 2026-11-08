@@ -1,0 +1,3110 @@
+{
+  "ses_dosyasi": "yuklenenler\\Osmanlıda Ekonomi.mp3",
+  "model": "medium",
+  "cihaz": "cuda",
+  "terimler": "",
+  "ses_suresi_sn": 2813.2,
+  "islem_suresi_sn": 196.8,
+  "parcalar": [
+    {
+      "baslangic": 6.29,
+      "bitis": 10.37,
+      "metin": "Değerli öğrencilerim, Osmanlı ekonomi. Her şeyin başı nedir"
+    },
+    {
+      "baslangic": 10.37,
+      "bitis": 13.49,
+      "metin": "arkadaşlar? Önce sağlık tabii ki. Ekonomi demeyin. Sonra"
+    },
+    {
+      "baslangic": 13.49,
+      "bitis": 17.09,
+      "metin": "ekonomi. Osmanlı ekonomi konusu arkadaşlar ÖNCM'nin"
+    },
+    {
+      "baslangic": 17.09,
+      "bitis": 19.93,
+      "metin": "gerçekten sevdiği bir konu. Iki bin yirmi iki yirmi üçe bakın."
+    },
+    {
+      "baslangic": 19.93,
+      "bitis": 22.37,
+      "metin": "Genelde böyle eleyici sorular bu konulardan çıkıyor."
+    },
+    {
+      "baslangic": 22.37,
+      "bitis": 24.17,
+      "metin": "Kültür ve medeniyetten. Bunun altını özellikle"
+    },
+    {
+      "baslangic": 24.17,
+      "bitis": 28.13,
+      "metin": "çiziyorum. Aldı mı? KPS'de yirmi yedi soru var. Üç"
+    },
+    {
+      "baslangic": 28.13,
+      "bitis": 31.13,
+      "metin": "dört tanesi eleyicidir. O eleyici sorunun bir tanesi"
+    },
+    {
+      "baslangic": 31.13,
+      "bitis": 35.57,
+      "metin": "buradan gelir. AGS'e sıramında on soru var. Eleyici sorulardan"
+    },
+    {
+      "baslangic": 35.57,
+      "bitis": 38.21,
+      "metin": "birisi buradan gelebilir. Anlatabildim mi? On soru"
+    },
+    {
+      "baslangic": 38.21,
+      "bitis": 41.97,
+      "metin": "derken toplamda on soru. Hadi bismillah başlayalım. Önce"
+    },
+    {
+      "baslangic": 41.97,
+      "bitis": 47.69,
+      "metin": "genel yapı. Arkadaşlar Osmanlı'da Osmanlı'da paralara"
+    },
+    {
+      "baslangic": 47.69,
+      "bitis": 55.57,
+      "metin": "bakalım. Bakır para adı nedir bunun? Mangır. Hangi padişah?"
+    },
+    {
+      "baslangic": 55.57,
+      "bitis": 62.77,
+      "metin": "Osman Bey. Bakır paramızın adı Mangır. Gel kardeşim."
+    },
+    {
+      "baslangic": 62.77,
+      "bitis": 71.71,
+      "metin": "Gümüş paramızın adı Akçe. Hangi padişah? Orhan Bey'den"
+    },
+    {
+      "baslangic": 71.71,
+      "bitis": 81.31,
+      "metin": "tibaren. Gel kardeşim altın paramızın adı Yaldızlı"
+    },
+    {
+      "baslangic": 81.31,
+      "bitis": 91.26,
+      "metin": "Sultani Hesane Flori Hasanede yazılır. Ikici Mehmet"
+    },
+    {
+      "baslangic": 91.26,
+      "bitis": 95.18,
+      "metin": "kardeşleri Fatih Sultan Mehmet ama şu yorumu yapmayın. Hani"
+    },
+    {
+      "baslangic": 95.18,
+      "bitis": 98.1,
+      "metin": "altın parayı Fatih bastı ya en parlak dönem hazine Fatih"
+    },
+    {
+      "baslangic": 98.1,
+      "bitis": 107.46,
+      "metin": "değil, Yavuz. Sonra kardeşlerim sonra tasihi ayar ilk kez"
+    },
+    {
+      "baslangic": 107.46,
+      "bitis": 111.98,
+      "metin": "duyuyorsunuz. Mevp kitabında geçen bir bilgi. Paranın"
+    },
+    {
+      "baslangic": 111.98,
+      "bitis": 115.62,
+      "metin": "ayarının değiştirilmesi. Mesela bu tasih ayar yapılmış"
+    },
+    {
+      "baslangic": 115.62,
+      "bitis": 124.02,
+      "metin": "kuruş, metelik oldu mu? Bu tarz paralar basılmış. Bu tarz"
+    },
+    {
+      "baslangic": 124.02,
+      "bitis": 128.46,
+      "metin": "paralar basılmış. Onun dışında bizim kağıt paramızın adı ne?"
+    },
+    {
+      "baslangic": 128.46,
+      "bitis": 136.81,
+      "metin": "Kaime. Madeni paramız var, Mecidiyye. Abdülmecit zamanı"
+    },
+    {
+      "baslangic": 136.81,
+      "bitis": 141.97,
+      "metin": "arkadaşlar. Uygurlarda kağıt para çal, bizde kaime. Türk"
+    },
+    {
+      "baslangic": 141.97,
+      "bitis": 144.49,
+      "metin": "filmi ne der ya? Gayme diye. Oldu mu? Bunlar para"
+    },
+    {
+      "baslangic": 144.49,
+      "bitis": 149.97,
+      "metin": "türlerimiz. Peki bizde hazine türlerimiz var. Hazine"
+    },
+    {
+      "baslangic": 149.97,
+      "bitis": 162.84,
+      "metin": "türleri onu da güzelce işleyelim. Hazine türlerimiz"
+    },
+    {
+      "baslangic": 162.84,
+      "bitis": 172.67,
+      "metin": "şu. Bir hazineyi amire. Devletin günlük masraflarının"
+    },
+    {
+      "baslangic": 172.67,
+      "bitis": 175.35,
+      "metin": "karşılandığı hazinedir. Devletin günlük masraflarının"
+    },
+    {
+      "baslangic": 175.35,
+      "bitis": 177.71,
+      "metin": "karşılandığı hazine amiridir. Amir hep devletin anlamında"
+    },
+    {
+      "baslangic": 177.71,
+      "bitis": 184.51,
+      "metin": "kullanılır arkadaşlar. Hazineyi hassa bir şeye hazineyi has,"
+    },
+    {
+      "baslangic": 184.51,
+      "bitis": 190.27,
+      "metin": "hazineyi hassa, has toprak bunlar padişahın hazinesidir."
+    },
+    {
+      "baslangic": 190.27,
+      "bitis": 199.83,
+      "metin": "Hazineyi, cep. Önemlidir. Mısır'dan gelen paraların aktarıldığı, Padişah'ın kontrolündeki hazinedir."
+    },
+    {
+      "baslangic": 199.83,
+      "bitis": 204.55,
+      "metin": "Mısır'dan gelen paraların aktarıldığı, Padişah'ın kontrolündeki hazinedir."
+    },
+    {
+      "baslangic": 204.55,
+      "bitis": 211.71,
+      "metin": "Hazineyi, Mansure. Ahmet Hocam bu nedir?"
+    },
+    {
+      "baslangic": 211.71,
+      "bitis": 217.99,
+      "metin": "2. Mahmud'da anlatacağım. Asakiri, Mansure-i Muhammediye ordusunun masrafları içindir arkadaşlar."
+    },
+    {
+      "baslangic": 217.99,
+      "bitis": 225.43,
+      "metin": "Yine Nizam-ı Cidid'in masrafları içinde surprise İrad-i Cedid."
+    },
+    {
+      "baslangic": 225.43,
+      "bitis": 230.79,
+      "metin": "Oldu mu? İrad-i Cedid. O zaman ben soruyorum, ben cevaplıyorum."
+    },
+    {
+      "baslangic": 230.79,
+      "bitis": 234.19,
+      "metin": "Bu hazine türlerinden hangi dere askeri amaçlı kurulmuştur?"
+    },
+    {
+      "baslangic": 234.19,
+      "bitis": 239.43,
+      "metin": "Mansure, İrad-i Cedid. Oldu mu? Hangisi Mısır'dan gelen"
+    },
+    {
+      "baslangic": 239.43,
+      "bitis": 243.63,
+      "metin": "paraların aktarıldığı hazineyi cep. Hangisi padişahın"
+    },
+    {
+      "baslangic": 243.63,
+      "bitis": 247.71,
+      "metin": "direk kendi özel adresi? Hassa. Cebi de padişah kontrol"
+    },
+    {
+      "baslangic": 247.71,
+      "bitis": 252.39,
+      "metin": "ediyor. Şimdi hazine türleri bitti. Nereye geldik o zaman?"
+    },
+    {
+      "baslangic": 252.39,
+      "bitis": 261.81,
+      "metin": "Hazinenin gelir kaynakları. Evet. Hazineye para nereden"
+    },
+    {
+      "baslangic": 261.81,
+      "bitis": 268.41,
+      "metin": "gelir kardeşlerim? Bu hazineye para nereden gelir? Oldu mu?"
+    },
+    {
+      "baslangic": 268.41,
+      "bitis": 277.33,
+      "metin": "Bir, devletin işletmeleri var arkadaşlar. Orman, tuz, maden"
+    },
+    {
+      "baslangic": 277.33,
+      "bitis": 285.33,
+      "metin": "işletmeleri? Iki MEP kazanım testi sorusu. Klasik dönemde"
+    },
+    {
+      "baslangic": 285.33,
+      "bitis": 288.45,
+      "metin": "yani yükselme döneminden itibaren en önemli gelir"
+    },
+    {
+      "baslangic": 288.45,
+      "bitis": 297.32,
+      "metin": "kaynağımız ganimet. Topladığımız vergiler bu"
+    },
+    {
+      "baslangic": 297.32,
+      "bitis": 300.08,
+      "metin": "vergiler nereden gelebilir? Halktan topladığımız vergiler"
+    },
+    {
+      "baslangic": 300.08,
+      "bitis": 304.36,
+      "metin": "bağlı devletlerden gelen vergiler değil mi? Orman,"
+    },
+    {
+      "baslangic": 304.36,
+      "bitis": 308.04,
+      "metin": "tuzla, maden işletmeleri, ganimet gerileri, vergiler,"
+    },
+    {
+      "baslangic": 308.04,
+      "bitis": 315.48,
+      "metin": "Gümrük gerileri kardeşlerim, gümrük gerileri, dikkat, mala"
+    },
+    {
+      "baslangic": 315.48,
+      "bitis": 319.84,
+      "metin": "el koyma neydi? Müsaade müsaade malları hazineye girer"
+    },
+    {
+      "baslangic": 319.84,
+      "bitis": 326.16,
+      "metin": "arkadaşlar. Dikkat. Ta hazineye giden arazi türü. Neydi o?"
+    },
+    {
+      "baslangic": 326.16,
+      "bitis": 333.56,
+      "metin": "Mukata. Direk hazineye gelir. Mukata arazi. Peki bir yerin"
+    },
+    {
+      "baslangic": 333.56,
+      "bitis": 339.56,
+      "metin": "vergisini ihale yoluyla peşin almak neydi? Iltizam. Ömür"
+    },
+    {
+      "baslangic": 339.56,
+      "bitis": 344.04,
+      "metin": "bu ihale olursa ne oluyordu? Malikane. Bakın çok güzel oldu."
+    },
+    {
+      "baslangic": 344.04,
+      "bitis": 349.2,
+      "metin": "Orman, tuz, maden işletmeleri, ganimet, vergiler, gümrük"
+    },
+    {
+      "baslangic": 349.2,
+      "bitis": 355.28,
+      "metin": "gerileri, müsaade mukata, iltizam direkt hazineye gidiyor"
+    },
+    {
+      "baslangic": 355.28,
+      "bitis": 365.1,
+      "metin": "doğru mu gençler? Sizi nereden vuracaklar? Dikkat. Vakıf,"
+    },
+    {
+      "baslangic": 365.1,
+      "bitis": 372.04,
+      "metin": "dirlik yok. Ama hocam dirlik sistemi hazinenin yükünü"
+    },
+    {
+      "baslangic": 372.04,
+      "bitis": 377.8,
+      "metin": "azaltmıyor muydu? Tamam. Değerli kardeşlerim, hazinenin"
+    },
+    {
+      "baslangic": 377.8,
+      "bitis": 381.76,
+      "metin": "yükünü azaltır. Ama para hazineye gelmez. Bak biz onu"
+    },
+    {
+      "baslangic": 381.76,
+      "bitis": 384.52,
+      "metin": "anlatıyoruz. Anlatabildim mi? Cümleri karıştırmamak lazım."
+    },
+    {
+      "baslangic": 384.52,
+      "bitis": 389.32,
+      "metin": "Vakıf hazineye gelmez. Cami Medrese Hastane Kervansaray"
+    },
+    {
+      "baslangic": 389.32,
+      "bitis": 392.2,
+      "metin": "yapımına gider. O yüzden bunlar direkt hazineye gelir."
+    },
+    {
+      "baslangic": 392.2,
+      "bitis": 396.36,
+      "metin": "Orman, tuzla, maden, gümrük, vergiler, ganimet"
+    },
+    {
+      "baslangic": 396.36,
+      "bitis": 400.2,
+      "metin": "geliri, müsaadere, mukata, iltizam, ömür boyu hale,"
+    },
+    {
+      "baslangic": 400.2,
+      "bitis": 404.56,
+      "metin": "malikane değil mi? Bunlar direkt hazineye gelir ama vakıf ve"
+    },
+    {
+      "baslangic": 404.56,
+      "bitis": 407.64,
+      "metin": "dillik hazineye gelmez kardeşlerim. Onlar olduğu"
+    },
+    {
+      "baslangic": 407.64,
+      "bitis": 413.4,
+      "metin": "yerde dağıtılan şeylerdir. Peki gel başla. Kardeşim bu başlık"
+    },
+    {
+      "baslangic": 413.4,
+      "bitis": 417.24,
+      "metin": "bana ait. Söyleyeyim. Çok güzel başlık bence. Bir"
+    },
+    {
+      "baslangic": 417.24,
+      "bitis": 421.08,
+      "metin": "öğrenci Osmanlı dağılmaya kadar ekonominin şöyle ana"
+    },
+    {
+      "baslangic": 421.08,
+      "bitis": 423.48,
+      "metin": "hatlarını çok güzel öğrenecek inşallah. Buyurun"
+    },
+    {
+      "baslangic": 423.48,
+      "bitis": 427.8,
+      "metin": "tarihi süreç. Önce şuradan başlayalım. Kardeşim maliye"
+    },
+    {
+      "baslangic": 427.8,
+      "bitis": 434.23,
+      "metin": "kim bakar? Defterdar. Kim kurmuştur? Birinci Murat."
+    },
+    {
+      "baslangic": 434.23,
+      "bitis": 437.03,
+      "metin": "Zaman da bunların sayısı ikiye çıktı değil mi? Rumeli"
+    },
+    {
+      "baslangic": 437.03,
+      "bitis": 442.07,
+      "metin": "defterdarı, Anadolu defterdarı. Önde gelen kimdi? Önde gelen"
+    },
+    {
+      "baslangic": 442.07,
+      "bitis": 451.84,
+      "metin": "Rumeli'ydi. Iki hazinenin en parlak olduğu dönem Yavuz"
+    },
+    {
+      "baslangic": 451.84,
+      "bitis": 455.44,
+      "metin": "Sultan Selim zamanı. Özellikle Mısır Seferi'nde"
+    },
+    {
+      "baslangic": 455.44,
+      "bitis": 458.48,
+      "metin": "yirmi beş gemiyi ganimet taşıyoruz. Hazine gırtlağına"
+    },
+    {
+      "baslangic": 458.48,
+      "bitis": 461.72,
+      "metin": "kadar doluyor. Hatta hazine odasına mührünü vuruyor,"
+    },
+    {
+      "baslangic": 461.72,
+      "bitis": 465.2,
+      "metin": "değil mi? Anlatmıştım. Gelin şimdi kardeşlerim ıslahatlarda"
+    },
+    {
+      "baslangic": 465.2,
+      "bitis": 476.18,
+      "metin": "göreceksiniz. Ilk modern bütçe yani denk bütçe Tarhuncu"
+    },
+    {
+      "baslangic": 476.18,
+      "bitis": 482.23,
+      "metin": "Ahmet evet ilk modern bütçeyi kim yapmış? On yedinci"
+    },
+    {
+      "baslangic": 482.23,
+      "bitis": 486.15,
+      "metin": "yüzyılda modern bütçe denk bütçe ıslahatlarda göreceğiz"
+    },
+    {
+      "baslangic": 486.15,
+      "bitis": 491.63,
+      "metin": "Tarhuncu Ahmet yapmış. Gel kardeşim bizim başımızın belası"
+    },
+    {
+      "baslangic": 491.63,
+      "bitis": 497.64,
+      "metin": "olan bir konu var gençler. Biraz da mavi yazayım. Işte bu"
+    },
+    {
+      "baslangic": 497.64,
+      "bitis": 501.64,
+      "metin": "size çok şey katacak diye düşünüyorum. Biz nakit parayı"
+    },
+    {
+      "baslangic": 501.64,
+      "bitis": 511.48,
+      "metin": "nereden bulduk? Evet ana konumuz bu. Oldu mu? Evet."
+    },
+    {
+      "baslangic": 511.48,
+      "bitis": 515.56,
+      "metin": "Osmanlı nakit ihtiyacını nereden karşıladı? Herkes buraya"
+    },
+    {
+      "baslangic": 515.56,
+      "bitis": 522.45,
+      "metin": "baksın kardeşim. On altıncı yüzyılda yani bin beş"
+    },
+    {
+      "baslangic": 522.45,
+      "bitis": 528.65,
+      "metin": "yüzyıllarda Osmanlı iltizam sistemi uyguladı. Gittik"
+    },
+    {
+      "baslangic": 528.65,
+      "bitis": 533.37,
+      "metin": "Kuzey Afrika'ya, devlete ait araziyi ihaleye verdik. En"
+    },
+    {
+      "baslangic": 533.37,
+      "bitis": 537.41,
+      "metin": "fazla para veren mültezime peşin parayı salyaneyi almak"
+    },
+    {
+      "baslangic": 537.41,
+      "bitis": 541.57,
+      "metin": "şartıyla kiraladık. Duraklamada ne yaptık?"
+    },
+    {
+      "baslangic": 541.57,
+      "bitis": 544.05,
+      "metin": "Tımar topraklarını yine iltizama verdik. Neden?"
+    },
+    {
+      "baslangic": 544.05,
+      "bitis": 548.85,
+      "metin": "Neden? Çünkü kardeşlerim niçin? Dakil para ihtiyacı."
+    },
+    {
+      "baslangic": 548.85,
+      "bitis": 554.85,
+      "metin": "Sonra bin altı yüz doksan beş yılında on yedinci yüzyıl sonu"
+    },
+    {
+      "baslangic": 554.85,
+      "bitis": 564.0,
+      "metin": "dedi ki biz bu iltizamı ömür boyu yapalım. Kardeşlerim ömür"
+    },
+    {
+      "baslangic": 564.0,
+      "bitis": 570.94,
+      "metin": "boyu olunca ne oldu? Malikani. Önden de harç parası aldık."
+    },
+    {
+      "baslangic": 570.94,
+      "bitis": 574.46,
+      "metin": "Bakın on yedinci yüzyıl sonu bin altı yüz doksan beşten"
+    },
+    {
+      "baslangic": 574.46,
+      "bitis": 576.78,
+      "metin": "itibaren malikani. Önden de harç parası aldık."
+    },
+    {
+      "baslangic": 576.78,
+      "bitis": 587.29,
+      "metin": "muadceleydi. Gel kardeşim on sekizinci yüzyılda küçük"
+    },
+    {
+      "baslangic": 587.29,
+      "bitis": 590.77,
+      "metin": "kaynarca anlaşmasında tazminata mahkum olunca ne"
+    },
+    {
+      "baslangic": 590.77,
+      "bitis": 596.89,
+      "metin": "yaptık? Ne yaptık? Evet şöyle yaptık. Senetler hazırladık"
+    },
+    {
+      "baslangic": 596.89,
+      "bitis": 599.77,
+      "metin": "gençler. Senet. MEP kitabı bu arada. Pek bilinmeyen bir"
+    },
+    {
+      "baslangic": 599.77,
+      "bitis": 605.09,
+      "metin": "kitap bu. Türk Kültür Medeniyetleri Tarihi. Dinleyin."
+    },
+    {
+      "baslangic": 605.09,
+      "bitis": 608.25,
+      "metin": "Kardeşlerim soruları ve anlatımı bunun üzerine de"
+    },
+    {
+      "baslangic": 608.25,
+      "bitis": 610.09,
+      "metin": "şekillendiriyorum. Bunu da belirteyim. Siz bunu okursanız"
+    },
+    {
+      "baslangic": 610.09,
+      "bitis": 614.29,
+      "metin": "kafayı yersiniz. Kardeşlerim şurada borçlu Osmanlı yazıyor."
+    },
+    {
+      "baslangic": 614.29,
+      "bitis": 617.81,
+      "metin": "Vadesi iki bin yirmi yedi, üç yüz bin lira. Devlet diyor ki"
+    },
+    {
+      "baslangic": 617.81,
+      "bitis": 621.57,
+      "metin": "bana diyor iki yüz bin lira verin bu senede alın. Iki yüz"
+    },
+    {
+      "baslangic": 621.57,
+      "bitis": 625.21,
+      "metin": "bin verince sen iki sene sonra üç yüz bin alacaksın. Dört"
+    },
+    {
+      "baslangic": 625.21,
+      "bitis": 627.45,
+      "metin": "yüz bin verin, bu senede alın. Beş yüz bin lira bu da."
+    },
+    {
+      "baslangic": 627.45,
+      "bitis": 630.41,
+      "metin": "Altı yüz bin verin, yedi yüz bin alın. Devlet sizden para"
+    },
+    {
+      "baslangic": 630.41,
+      "bitis": 633.77,
+      "metin": "topluyor, size senet satıyor. Hazine bonusu gibi."
+    },
+    {
+      "baslangic": 633.77,
+      "bitis": 638.09,
+      "metin": "Kardeşlerim işte bu sistemin adı bu sistemin adı"
+    },
+    {
+      "baslangic": 638.09,
+      "bitis": 645.78,
+      "metin": "Sürpriz kırmızı yazayım ki ilginiz çeksin. Essam. Essam"
+    },
+    {
+      "baslangic": 645.78,
+      "bitis": 650.18,
+      "metin": "senetleri. O zaman cevap ver. Dışarıya mı borçlandık, içeriye"
+    },
+    {
+      "baslangic": 650.18,
+      "bitis": 654.1,
+      "metin": "mi borçlandık? Içeriye borçlandık. Oldu mu? Hiç"
+    },
+    {
+      "baslangic": 654.1,
+      "bitis": 659.22,
+      "metin": "borçlanma. Bitmedi. Peki buradan da para kazanan"
+    },
+    {
+      "baslangic": 659.22,
+      "bitis": 663.22,
+      "metin": "insanlar olur mu olmaz mı? Olur mu olmaz mı? Olur."
+    },
+    {
+      "baslangic": 663.22,
+      "bitis": 666.38,
+      "metin": "İlk zaman aldın üç yüz bine, kazandın beş yüz bin."
+    },
+    {
+      "baslangic": 666.38,
+      "bitis": 669.86,
+      "metin": "Malikane aldın yedi yüz bine, kazandın iki milyon. Üç yüz"
+    },
+    {
+      "baslangic": 669.86,
+      "bitis": 674.26,
+      "metin": "bin borç verdin, beş yüz bin kazandın. O zaman surprise,"
+    },
+    {
+      "baslangic": 674.26,
+      "bitis": 679.02,
+      "metin": "topla bunları. İltizam, malikane, esam. Neyi"
+    },
+    {
+      "baslangic": 679.02,
+      "bitis": 683.5,
+      "metin": "oluşturabiliyoruz mu? Ayanlık. Taş ya da sözü geçen"
+    },
+    {
+      "baslangic": 683.5,
+      "bitis": 686.66,
+      "metin": "zenginlere ne adlıyoruz gençler? Ayan. Tamam mı"
+    },
+    {
+      "baslangic": 686.66,
+      "bitis": 690.82,
+      "metin": "kardeşlerim? Devam ediyorum. Gerilemeli de böyle buluyoruz"
+    },
+    {
+      "baslangic": 690.82,
+      "bitis": 701.41,
+      "metin": "parayı. Geldik on dokuzuncu yüzyıla. Bakın büyük bir"
+    },
+    {
+      "baslangic": 701.41,
+      "bitis": 708.13,
+      "metin": "disiplin içerisinde şu bin beş yüzlü yıllar şu bin altı yüz"
+    },
+    {
+      "baslangic": 708.13,
+      "bitis": 712.81,
+      "metin": "doksan beşler itibaren şu bin yedi yüz yılların sonu on"
+    },
+    {
+      "baslangic": 712.81,
+      "bitis": 716.85,
+      "metin": "dokuzuncu yüze geldim. Duraklama gerileme dağılma."
+    },
+    {
+      "baslangic": 716.85,
+      "bitis": 721.93,
+      "metin": "Kardeşlerim burada da Kırım Harbi sırasında elimi cebime"
+    },
+    {
+      "baslangic": 721.93,
+      "bitis": 729.04,
+      "metin": "attım. Kırım Harbi sırasında para yok. Para olmayınca"
+    },
+    {
+      "baslangic": 729.04,
+      "bitis": 734.2,
+      "metin": "İngiltere'den ilk dış borcu aldım. Kim aldı bunu? Kısa"
+    },
+    {
+      "baslangic": 734.2,
+      "bitis": 738.16,
+      "metin": "yazıyorum. Abdülmecit yazım hatası var. İlk dış borç"
+    },
+    {
+      "baslangic": 738.16,
+      "bitis": 743.24,
+      "metin": "İngiltere'den Kırım Harbi'nde almışım. Doğru mu? Dış"
+    },
+    {
+      "baslangic": 743.24,
+      "bitis": 749.32,
+      "metin": "borçlama böyle oluyor. Sonra sonra kardeşlerim elinde"
+    },
+    {
+      "baslangic": 749.32,
+      "bitis": 753.56,
+      "metin": "valiz Abdülaziz diye anlatacağım. Sultan Abdülaziz"
+    },
+    {
+      "baslangic": 753.56,
+      "bitis": 760.16,
+      "metin": "yurt dışına gidecek. Evet. Borç para bulmak için. En çok"
+    },
+    {
+      "baslangic": 760.16,
+      "bitis": 766.04,
+      "metin": "borçlanan Abdülaziz olacak. Ilk borç Abdülmecit en çok"
+    },
+    {
+      "baslangic": 766.04,
+      "bitis": 770.0,
+      "metin": "borçlanan Abdülaziz. Sonra Abdülaziz diyecek ki galiba"
+    },
+    {
+      "baslangic": 770.0,
+      "bitis": 773.36,
+      "metin": "ben borçlarımı ödeyemeyeceğim. Bunu nasıl"
+    },
+    {
+      "baslangic": 773.36,
+      "bitis": 781.68,
+      "metin": "diyecek çocuklar? Ramazan kararnamesi. Evet. Nasıl"
+    },
+    {
+      "baslangic": 781.68,
+      "bitis": 787.06,
+      "metin": "diyormuş bunu? Ramazan kararnamesi. Maratorium gibi"
+    },
+    {
+      "baslangic": 787.06,
+      "bitis": 789.14,
+      "metin": "yani bir nevi iflas gibi borçların yeniden"
+    },
+    {
+      "baslangic": 789.14,
+      "bitis": 793.54,
+      "metin": "yapılandırılması. Sonra kardeşlerim ikinci Abdülhamid"
+    },
+    {
+      "baslangic": 793.54,
+      "bitis": 800.46,
+      "metin": "gelecek. Ikinci Abdülhamid buraları kaçırmayın lütfen."
+    },
+    {
+      "baslangic": 800.46,
+      "bitis": 804.46,
+      "metin": "Avrupa diyecek ki Osman galiba sen borçlarını ödeyemeyeceksin"
+    },
+    {
+      "baslangic": 804.46,
+      "bitis": 807.94,
+      "metin": "dedik. Salak aynı şey söylüyoruz diyeceğim. Ikinci"
+    },
+    {
+      "baslangic": 807.94,
+      "bitis": 812.66,
+      "metin": "Abdülhamid döneminde sevgili kardeşlerim Muharrem"
+    },
+    {
+      "baslangic": 812.66,
+      "bitis": 819.62,
+      "metin": "kararnamesiyle Muharrem kararnamesiyle Avrupalılar"
+    },
+    {
+      "baslangic": 819.62,
+      "bitis": 826.06,
+      "metin": "neyi kuracak biliyor musunuz? Topla bunları. Oh. Duyunu"
+    },
+    {
+      "baslangic": 826.06,
+      "bitis": 834.1,
+      "metin": "umumi idaresini kuracaklar. Yani dış borçlar idaresi. Bak"
+    },
+    {
+      "baslangic": 834.1,
+      "bitis": 838.66,
+      "metin": "dersin güzelliği şu. Abdülaziz Ramazan, Abdülhamid"
+    },
+    {
+      "baslangic": 838.66,
+      "bitis": 840.86,
+      "metin": "Muharrem, Muharrem kararnamesiyle kurulmuş"
+    },
+    {
+      "baslangic": 840.86,
+      "bitis": 845.18,
+      "metin": "Duyunun diye. Ön nisans dikkat et. Sizin yanılmıyorsam iki bin"
+    },
+    {
+      "baslangic": 845.18,
+      "bitis": 848.82,
+      "metin": "yirmi sorunuz bu. Duyunun diye alacaklarını tahsil etmek"
+    },
+    {
+      "baslangic": 848.82,
+      "bitis": 851.7,
+      "metin": "için İngiltere, Fransa'nın başkanlığını yaptı. Zamanlı"
+    },
+    {
+      "baslangic": 851.7,
+      "bitis": 856.02,
+      "metin": "Almanya'da yapacak. Dış borçlar idaresi. Diyecekler ki orman,"
+    },
+    {
+      "baslangic": 856.02,
+      "bitis": 861.7,
+      "metin": "tuzla, maden, gümrük, balık, alkol. Altı vergiyi Osmanlı"
+    },
+    {
+      "baslangic": 861.7,
+      "bitis": 865.94,
+      "metin": "unut diyecekler. Altı vergi unut. Biz o vergilerin"
+    },
+    {
+      "baslangic": 865.94,
+      "bitis": 867.98,
+      "metin": "parasını cebimize koyup alacağımızı tahsil edeceğiz."
+    },
+    {
+      "baslangic": 867.98,
+      "bitis": 873.1,
+      "metin": "Orman, tuzla, maden. Orman, tuzla, maden. Kardeşlerim."
+    },
+    {
+      "baslangic": 873.1,
+      "bitis": 877.82,
+      "metin": "Gümrük, balık, alkol. Bu el koydu. Buraya lütfen"
+    },
+    {
+      "baslangic": 877.82,
+      "bitis": 886.74,
+      "metin": "dikkat edelim. Altı Bergin'in adı Suprise Rusumusitte. Siz"
+    },
+    {
+      "baslangic": 886.74,
+      "bitis": 890.26,
+      "metin": "sekiz, beş sınıfındayken ne duydunuz? Vilayetisitte."
+    },
+    {
+      "baslangic": 890.26,
+      "bitis": 894.86,
+      "metin": "Doğuda altı vilayet. Sitte altı metre. Duyunun beni. El"
+    },
+    {
+      "baslangic": 894.86,
+      "bitis": 897.54,
+      "metin": "koydu. Altı Bergin'in adı neymiş arkadaşlar? Rusumusitte."
+    },
+    {
+      "baslangic": 897.54,
+      "bitis": 902.1,
+      "metin": "Oldu mu? Evet. Ikinci Atun Emid döneminde kurulacak. Said"
+    },
+    {
+      "baslangic": 902.1,
+      "bitis": 904.98,
+      "metin": "Paşa etkili olacak. İngiltere, Fransa başkanlığını"
+    },
+    {
+      "baslangic": 904.98,
+      "bitis": 909.06,
+      "metin": "yapacak. Kurulduğu gelişme Muharrem kararnamesi, el koydukları"
+    },
+    {
+      "baslangic": 909.06,
+      "bitis": 912.5,
+      "metin": "altı verginin adı neymiş? Rüsuvumuz itti. Bak çok güzel"
+    },
+    {
+      "baslangic": 912.5,
+      "bitis": 916.94,
+      "metin": "oldu. Dönem dönem dönem dönem ilmek ilmekmiş dedik. Ayağın"
+    },
+    {
+      "baslangic": 916.94,
+      "bitis": 920.54,
+      "metin": "sınıfından bile bahsettik. Oldu mu kardeşlerim? Şimdi"
+    },
+    {
+      "baslangic": 920.54,
+      "bitis": 922.82,
+      "metin": "duyulmayı bir de nereden anlatacağız biz sizlere?"
+    },
+    {
+      "baslangic": 922.82,
+      "bitis": 925.82,
+      "metin": "Dozan da pasifize olacak değil mi? Parayı nereden"
+    },
+    {
+      "baslangic": 925.82,
+      "bitis": 929.06,
+      "metin": "bulduğumuzu öğrendik mi? Başka yerde yok. Bizde bu. Evet."
+    },
+    {
+      "baslangic": 929.06,
+      "bitis": 935.78,
+      "metin": "Hadi bakalım. Geldik bankalara. Osman da kardeşlerim ilk"
+    },
+    {
+      "baslangic": 935.78,
+      "bitis": 940.58,
+      "metin": "banka on dokuzuncu yüzyıla kuruluyor. Bin sekiz yüz kırk"
+    },
+    {
+      "baslangic": 940.58,
+      "bitis": 948.46,
+      "metin": "yedi kırk altı diyelim. Bankı Dersadet. Bankı Dersadet"
+    },
+    {
+      "baslangic": 948.46,
+      "bitis": 953.1,
+      "metin": "Dersadet İstanbul demek. İstanbul Bankası. Hemen hangi"
+    },
+    {
+      "baslangic": 953.1,
+      "bitis": 955.18,
+      "metin": "padişah diye kafanızda büyütmeyin. Biz bunları"
+    },
+    {
+      "baslangic": 955.18,
+      "bitis": 959.22,
+      "metin": "ıslahatlara işeyeceğiz. Abdülmecid zamanı ama bu bankayı"
+    },
+    {
+      "baslangic": 959.22,
+      "bitis": 963.62,
+      "metin": "kuranlar kardeşim devlet kurmuyor bunu. Galata"
+    },
+    {
+      "baslangic": 963.62,
+      "bitis": 972.26,
+      "metin": "bankerleri kuruyor. Evet. Bildiğin tefeciler. Iki,"
+    },
+    {
+      "baslangic": 972.26,
+      "bitis": 978.75,
+      "metin": "ikinci bankamız bin sekiz yüz kırk yedide şimdi bin sekiz"
+    },
+    {
+      "baslangic": 978.75,
+      "bitis": 989.44,
+      "metin": "yüz elli altıda kardeşlerim bankı Osmani kuruluyor. Arada"
+    },
+    {
+      "baslangic": 989.44,
+      "bitis": 995.12,
+      "metin": "boşluk bıraktı. Banka Osmani. Kardeşlerim bu banka ilk"
+    },
+    {
+      "baslangic": 995.12,
+      "bitis": 999.84,
+      "metin": "şubesini Londra'da açıyor. Londra'sa kim desteklemiştir?"
+    },
+    {
+      "baslangic": 999.84,
+      "bitis": 1004.64,
+      "metin": "İngiltere. Bu bankaya altı yıl sonra Osmanlı ortak olacak ama"
+    },
+    {
+      "baslangic": 1004.64,
+      "bitis": 1011.72,
+      "metin": "şunu bilmemiz gerekiyor. Ilk yabancı destekli banka. Ilk"
+    },
+    {
+      "baslangic": 1011.72,
+      "bitis": 1021.6,
+      "metin": "yabancı destekli banka. Oldu mu? Sınıfım ilk yaban destekli"
+    },
+    {
+      "baslangic": 1021.6,
+      "bitis": 1025.32,
+      "metin": "banka diyorum. Sonradan Osmanlı ortak olunca bu bankanın adı"
+    },
+    {
+      "baslangic": 1025.32,
+      "bitis": 1032.4,
+      "metin": "Bankı Şahaneyi Osmani olacak. Ve bu bankanın bir üzeri daha"
+    },
+    {
+      "baslangic": 1032.4,
+      "bitis": 1039.09,
+      "metin": "var. Sürpriz para basar. O zaman soru cevaplayalım. Daha"
+    },
+    {
+      "baslangic": 1039.09,
+      "bitis": 1042.17,
+      "metin": "inkılap tarihini görmedik. Türkiye Cumhuriyeti'de Merkez"
+    },
+    {
+      "baslangic": 1042.17,
+      "bitis": 1048.53,
+      "metin": "Bankası'nın para kusma değil para basma yetkisi elini"
+    },
+    {
+      "baslangic": 1048.53,
+      "bitis": 1052.57,
+      "metin": "alması hangi bankayı pasif eder? Bankı Şahaneyi Osmani."
+    },
+    {
+      "baslangic": 1052.57,
+      "bitis": 1057.33,
+      "metin": "Merkez Bankası para basma yetkisini eline alınca hangi"
+    },
+    {
+      "baslangic": 1057.33,
+      "bitis": 1060.73,
+      "metin": "banka pazifesi olurmuş? Banka Şahane Osmani. Ilk yabancı"
+    },
+    {
+      "baslangic": 1060.73,
+      "bitis": 1065.65,
+      "metin": "destekli banka para basma ricalığı var. Demek ki Osmanlı"
+    },
+    {
+      "baslangic": 1065.65,
+      "bitis": 1067.85,
+      "metin": "ekonomisinde yabancıların etkili olduğu gösterir mi?"
+    },
+    {
+      "baslangic": 1067.85,
+      "bitis": 1074.09,
+      "metin": "Gösterir. Sonra değerli kardeşlerim sonra Jön Türkler'in"
+    },
+    {
+      "baslangic": 1074.09,
+      "bitis": 1082.82,
+      "metin": "lideri Mithat Paşa bakın Jön Türkler'in lideri Mithat"
+    },
+    {
+      "baslangic": 1082.82,
+      "bitis": 1090.73,
+      "metin": "Paşa. Bu adam Tuna valisi olacak. Tuna valisi. Orada"
+    },
+    {
+      "baslangic": 1090.73,
+      "bitis": 1098.78,
+      "metin": "kendince bir sandık kuracak. Memleket sandıkları. Köylüye"
+    },
+    {
+      "baslangic": 1098.78,
+      "bitis": 1104.22,
+      "metin": "kredi veriyor, düşük bütçeli. Köylü ekiyor, biçiyor."
+    },
+    {
+      "baslangic": 1104.22,
+      "bitis": 1108.34,
+      "metin": "Kredisini ödüyor. Bakıyor ki hem tarım gelişmiş hem sandık"
+    },
+    {
+      "baslangic": 1108.34,
+      "bitis": 1111.26,
+      "metin": "para kazanmış. Uygulama bu. Sonra diyorlar ki biz bunu"
+    },
+    {
+      "baslangic": 1111.26,
+      "bitis": 1114.98,
+      "metin": "İstanbul'a yapalım. Kardeşlerim bunun İstanbul"
+    },
+    {
+      "baslangic": 1114.98,
+      "bitis": 1125.76,
+      "metin": "versiyonun adı emniyet sandıkları. Sonra diyorlar ki"
+    },
+    {
+      "baslangic": 1125.76,
+      "bitis": 1129.36,
+      "metin": "yahu iki sandığı ne yapacağız? Biz bunu birleştirelim. Ikisi"
+    },
+    {
+      "baslangic": 1129.36,
+      "bitis": 1137.13,
+      "metin": "birleşiyor kardeşlerim. Menafi Sandı oluyor ismi. Ikinci"
+    },
+    {
+      "baslangic": 1137.13,
+      "bitis": 1139.93,
+      "metin": "Abdülhamid diyor ki oğlum siz kafayı mıydınız? Sandıklarım"
+    },
+    {
+      "baslangic": 1139.93,
+      "bitis": 1143.09,
+      "metin": "sandıklarım ne ya? Sandıklarım sandıklarım açılsın"
+    },
+    {
+      "baslangic": 1143.09,
+      "bitis": 1146.89,
+      "metin": "sandıklarım. Hayvandan beter çıktı. Insandır sandıklarım."
+    },
+    {
+      "baslangic": 1146.89,
+      "bitis": 1150.13,
+      "metin": "Nereden aklıma geldi bilmiyorum. Ikinci Abdülhamid"
+    },
+    {
+      "baslangic": 1150.13,
+      "bitis": 1153.85,
+      "metin": "diyecek ki bu kadar sandıkla ne yapacağız? Bunları"
+    },
+    {
+      "baslangic": 1153.85,
+      "bitis": 1157.21,
+      "metin": "birleştiriyor ikinci Abdülhamid. Bin sekiz yüz"
+    },
+    {
+      "baslangic": 1157.21,
+      "bitis": 1164.49,
+      "metin": "seksen sekiz yılında. Sürpriz. Hangi bankayı"
+    },
+    {
+      "baslangic": 1164.49,
+      "bitis": 1173.07,
+      "metin": "kuruyor? Ziraat Bankası. Bak tefeci kurdu, yabancı kurdu,"
+    },
+    {
+      "baslangic": 1173.07,
+      "bitis": 1177.43,
+      "metin": "devlet kurdu. Ilk devlet bankası, ziraat bankası. Atatürk"
+    },
+    {
+      "baslangic": 1177.43,
+      "bitis": 1180.19,
+      "metin": "dönemi değil. Oldu mu gençler? Emniyet ve"
+    },
+    {
+      "baslangic": 1180.19,
+      "bitis": 1182.75,
+      "metin": "memleket sandıkları bunun nesi oluyormuş? Temel oluyormuş"
+    },
+    {
+      "baslangic": 1182.75,
+      "bitis": 1190.04,
+      "metin": "oldu mu? Hangi padişah kurmuş? Ikinci Abdülhamid. Iki devlet"
+    },
+    {
+      "baslangic": 1190.04,
+      "bitis": 1193.88,
+      "metin": "bankası. Milli bankada diyebiliriz. Bak ana mantı"
+    },
+    {
+      "baslangic": 1193.88,
+      "bitis": 1202.44,
+      "metin": "köylü. Şimdi İttihat Terakide bin dokuz yüz on yiride bir"
+    },
+    {
+      "baslangic": 1202.44,
+      "bitis": 1215.38,
+      "metin": "banka daha kuracak. Milli İtibar Bankası. Kardeşlerim çok"
+    },
+    {
+      "baslangic": 1215.38,
+      "bitis": 1219.58,
+      "metin": "pardon iddia terakı kuruyor bunu. Milli itibar bankasını. Bu"
+    },
+    {
+      "baslangic": 1219.58,
+      "bitis": 1225.34,
+      "metin": "bankada Türkiye Cumhuriyeti'nde bin dokuz yüz yirmi dört iş"
+    },
+    {
+      "baslangic": 1225.34,
+      "bitis": 1231.1,
+      "metin": "bankasıyla birleşiyor. Iş bankasını cumhuriyet tarihinde"
+    },
+    {
+      "baslangic": 1231.1,
+      "bitis": 1235.02,
+      "metin": "göreceğiz. Evet bir daha söylüyorum. İttihat teraklının"
+    },
+    {
+      "baslangic": 1235.02,
+      "bitis": 1238.34,
+      "metin": "kurduğu milli itibar bankası Türkiye'nin ilk özel bankası"
+    },
+    {
+      "baslangic": 1238.34,
+      "bitis": 1241.42,
+      "metin": "olan Celal Bayar'ın genel müdürünü yapacağı hangi"
+    },
+    {
+      "baslangic": 1241.42,
+      "bitis": 1245.42,
+      "metin": "bankada birleşecekmiş iş bankası? Ziraat Bankası"
+    },
+    {
+      "baslangic": 1245.42,
+      "bitis": 1248.62,
+      "metin": "Osmanlı, İş Bankası, Türkiye Cumhuriyeti. Kaç banka"
+    },
+    {
+      "baslangic": 1248.62,
+      "bitis": 1252.26,
+      "metin": "anlattın? Beş. Aşk ile Şevkiyle buyurun gençler. Kir görüyorsunuz"
+    },
+    {
+      "baslangic": 1252.26,
+      "bitis": 1257.38,
+      "metin": "bunlar emek. Mürekkep onlar. Evet. Bankı Dersadet. Ilk"
+    },
+    {
+      "baslangic": 1257.38,
+      "bitis": 1262.06,
+      "metin": "banka. Yaban Destekli Banka, Bankı Şahaneyi Osmani. Emniyet"
+    },
+    {
+      "baslangic": 1262.06,
+      "bitis": 1265.1,
+      "metin": "Artı Memleket Birleşmiş ne oluşmuş? Ziraat Bankası, ilk"
+    },
+    {
+      "baslangic": 1265.1,
+      "bitis": 1268.58,
+      "metin": "devlet bankası. Milli itibar kurulmuş. O da neyle"
+    },
+    {
+      "baslangic": 1268.58,
+      "bitis": 1271.78,
+      "metin": "birleşmiş gençler? İş Bankası. Bütün bankaları"
+    },
+    {
+      "baslangic": 1271.78,
+      "bitis": 1275.1,
+      "metin": "yaparsın diye düşünüyorum değil mi? Duamı dediğim her kim"
+    },
+    {
+      "baslangic": 1275.1,
+      "bitis": 1280.46,
+      "metin": "izliyorsa tez zamanda devlet bankasından memur maaşı almak"
+    },
+    {
+      "baslangic": 1280.46,
+      "bitis": 1285.46,
+      "metin": "nasip olsun. Değil mi gençler? Hadi bakalım. Bankı den Saad'i de"
+    },
+    {
+      "baslangic": 1285.46,
+      "bitis": 1290.46,
+      "metin": "söyledim. Bak saat bile gaza geldi. Korunamış çıkacak. Şöyle"
+    },
+    {
+      "baslangic": 1290.46,
+      "bitis": 1296.97,
+      "metin": "yapalım. Evet. Ekonomik kavramlar. Hadi hep beraber"
+    },
+    {
+      "baslangic": 1296.97,
+      "bitis": 1299.81,
+      "metin": "mesaj yapıyoruz. Önemli bir konu. Ekonomik kavramlar."
+    },
+    {
+      "baslangic": 1299.81,
+      "bitis": 1303.97,
+      "metin": "Şöyle tek kaleme devam edeyim. Hazır mıyız gençler?"
+    },
+    {
+      "baslangic": 1303.97,
+      "bitis": 1309.97,
+      "metin": "Kardeşlerim bunların hepsi önemli gerçekten. Mesela 2022'de adam emanet usulünü sordur."
+    },
+    {
+      "baslangic": 1309.97,
+      "bitis": 1315.49,
+      "metin": "İtiraf ediyorum anlatmamıştım."
+    },
+    {
+      "baslangic": 1315.49,
+      "bitis": 1319.49,
+      "metin": "İtiraf ediyorum. Hep yakaladığımızı anlatacak halimiz yok. Biz de insan oluyuz arkadaşlar."
+    },
+    {
+      "baslangic": 1319.49,
+      "bitis": 1326.49,
+      "metin": "O yüzden ben ne yapıyorum biliyor musunuz? Beni izleyen her kimse bu videoları çekip kenara çekilmiyorum."
+    },
+    {
+      "baslangic": 1326.49,
+      "bitis": 1330.49,
+      "metin": "Ben bu videolardan sonra kardeşlerim, Instagram'ı çok aktif kullanıyorum."
+    },
+    {
+      "baslangic": 1330.49,
+      "bitis": 1334.49,
+      "metin": "Öyle devamlı link miyiz, tanıtım mı anıtım yok. Söyleyişi falan yok."
+    },
+    {
+      "baslangic": 1334.49,
+      "bitis": 1337.13,
+      "metin": "Bizde ne var? Haftalık canlı yayın yapıyoruz."
+    },
+    {
+      "baslangic": 1337.13,
+      "bitis": 1339.97,
+      "metin": "Çocuklar diyoruz, şuna dikkat edelim konu konu, buna dikkat edelim."
+    },
+    {
+      "baslangic": 1339.97,
+      "bitis": 1342.13,
+      "metin": "Bak şu bilgi şöyle oldu, bu bilgi böyle oldu diye."
+    },
+    {
+      "baslangic": 1342.13,
+      "bitis": 1346.89,
+      "metin": "Yetmiyor beraber binlerce, on üç bin, on beş bin öğrenciye deneme çözümlü zamanlar oluyor."
+    },
+    {
+      "baslangic": 1346.89,
+      "bitis": 1347.97,
+      "metin": "Söyleyeyim sizlere."
+    },
+    {
+      "baslangic": 1347.97,
+      "bitis": 1353.97,
+      "metin": "O yüzden tarih dersinde videoyu çek, kenara çekil, öğrenciyi kendi haline bırak, bunlar bitti."
+    },
+    {
+      "baslangic": 1353.97,
+      "bitis": 1356.77,
+      "metin": "Yirmi günde tarih bitiriyoruz, oldu canım."
+    },
+    {
+      "baslangic": 1356.77,
+      "bitis": 1359.81,
+      "metin": "Böyle kandırmalar bitti. Söylüyorum size."
+    },
+    {
+      "baslangic": 1359.81,
+      "bitis": 1362.61,
+      "metin": "Biz emek veriyoruz arkadaşlar, bizi bilen bilir."
+    },
+    {
+      "baslangic": 1362.61,
+      "bitis": 1371.61,
+      "metin": "8-9 ay boyunca Allah utandırmasın, ben ne biliyorsam ne öğreniyorsam ne hangi soruyu görüyorsam"
+    },
+    {
+      "baslangic": 1371.61,
+      "bitis": 1377.61,
+      "metin": "video ise video, videodan sonra da azıcık da böyle özetler halinde Instagram'ı kullanıyorum,"
+    },
+    {
+      "baslangic": 1377.61,
+      "bitis": 1383.61,
+      "metin": "ücretsiz denemeler yayınıyorum Telegram'dan, zaten göreceksiniz bunları oldu mu? Hani sizlere mahcup olmayacağız."
+    },
+    {
+      "baslangic": 1383.61,
+      "bitis": 1388.61,
+      "metin": "Çek videoyu kenara çekil, kitabını alsın yeter, o bitti arkadaşlar."
+    },
+    {
+      "baslangic": 1388.61,
+      "bitis": 1392.33,
+      "metin": "Biz yola çıktıklarımızı yolda bırakmayız Allah'a şükür."
+    },
+    {
+      "baslangic": 1392.33,
+      "bitis": 1395.69,
+      "metin": "Sınava kadar beraber. Sınava ben de gireceğim. Söyleyeyim"
+    },
+    {
+      "baslangic": 1395.69,
+      "bitis": 1400.01,
+      "metin": "size. Evet. Atanmak için girmeyeceğim korkmayın. Gençler"
+    },
+    {
+      "baslangic": 1400.01,
+      "bitis": 1405.25,
+      "metin": "fiskalizm nedir bu biliyor musun? Hep bana para gelsin,"
+    },
+    {
+      "baslangic": 1405.25,
+      "bitis": 1408.93,
+      "metin": "sakın benden para gitmesin. Hazine gelirlerini arttırıp"
+    },
+    {
+      "baslangic": 1408.93,
+      "bitis": 1412.21,
+      "metin": "giderlerini azaltmak. Hazine gelirlerini arttırıp"
+    },
+    {
+      "baslangic": 1412.21,
+      "bitis": 1415.81,
+      "metin": "giderlerini azaltmak. Fiskalizm. Osmanlı'nın"
+    },
+    {
+      "baslangic": 1415.81,
+      "bitis": 1421.09,
+      "metin": "klasik döneme uyguladığı politikadır. Zengin mantığı."
+    },
+    {
+      "baslangic": 1421.09,
+      "bitis": 1427.09,
+      "metin": "Merkantirizm. Hocam merkantirizm ne? Gençler bu bir Avrupa'da"
+    },
+    {
+      "baslangic": 1427.09,
+      "bitis": 1429.65,
+      "metin": "görülür. Bir de bizim Güneyde Anadolu bölgesinde."
+    },
+    {
+      "baslangic": 1429.65,
+      "bitis": 1435.41,
+      "metin": "Söyleyeyim size. Avrupalılar coğrafi keşiflerle zengin"
+    },
+    {
+      "baslangic": 1435.41,
+      "bitis": 1439.05,
+      "metin": "maden yataklarına ulaştılar. Altın gümüş yataklarına"
+    },
+    {
+      "baslangic": 1439.05,
+      "bitis": 1442.57,
+      "metin": "ulaştılar. Sonra Avrupa'da şu ortaya çıktı. Kimin altını"
+    },
+    {
+      "baslangic": 1442.57,
+      "bitis": 1446.05,
+      "metin": "madeni varsa en iyi devlet o devlet. Bu altın, bu maden"
+    },
+    {
+      "baslangic": 1446.05,
+      "bitis": 1452.05,
+      "metin": "dışarı çıkmamalı. Altın, gümüş, madeni görüyorsan ne"
+    },
+    {
+      "baslangic": 1452.05,
+      "bitis": 1455.13,
+      "metin": "işaretliyorsun? Merkantilizm. Bu bize zarar veriyor arkadaşlar."
+    },
+    {
+      "baslangic": 1455.13,
+      "bitis": 1458.21,
+      "metin": "Bizde altın yok ki. Biz paranı ayarını düşüreceğiz,"
+    },
+    {
+      "baslangic": 1458.21,
+      "bitis": 1460.93,
+      "metin": "anlatacağım. Biz paramızın ayarını düşüreceğiz. Bizde"
+    },
+    {
+      "baslangic": 1460.93,
+      "bitis": 1465.77,
+      "metin": "altın yok ki. Altın Avrupa'da. Avrupa'daki altın,"
+    },
+    {
+      "baslangic": 1465.77,
+      "bitis": 1468.37,
+      "metin": "gümüş, madenciliğin önem arz ettiği dönemin adı"
+    },
+    {
+      "baslangic": 1468.37,
+      "bitis": 1471.13,
+      "metin": "merkantilizmdir. Güneydoğu derken de söyleyeyim size."
+    },
+    {
+      "baslangic": 1471.13,
+      "bitis": 1474.37,
+      "metin": "Evet, Gaziantep olarak gençler. Antep'i çok seviyorum ama"
+    },
+    {
+      "baslangic": 1474.37,
+      "bitis": 1478.69,
+      "metin": "kız istemeye gidiyorsun. Aile altın kemer. Ya altın kemer"
+    },
+    {
+      "baslangic": 1478.69,
+      "bitis": 1481.85,
+      "metin": "ele güne karşı. Eltimin kızı böyle oldu. Onun kızı böyle"
+    },
+    {
+      "baslangic": 1481.85,
+      "bitis": 1486.37,
+      "metin": "oldu. Zıkkımın kökü oldu. Yani altın altın diye kafayı"
+    },
+    {
+      "baslangic": 1486.37,
+      "bitis": 1489.61,
+      "metin": "yediniz. Bak bir altı Şubat'ta yıkıldık geçtik. Ne"
+    },
+    {
+      "baslangic": 1489.61,
+      "bitis": 1491.85,
+      "metin": "altınımız kaldı, ne gümüşümüz kaldı, ne canımız kaldı."
+    },
+    {
+      "baslangic": 1491.85,
+      "bitis": 1494.49,
+      "metin": "Anlatabildim mi? Bu dünya malı gençler. Kimseyi böyle"
+    },
+    {
+      "baslangic": 1494.49,
+      "bitis": 1497.33,
+      "metin": "altın için gümüş zorlamayın. Söyleyeyim size. Yani kız"
+    },
+    {
+      "baslangic": 1497.33,
+      "bitis": 1500.25,
+      "metin": "kardeşlerim bana kızmasın. Benim de ailem Antep'le. Kadına"
+    },
+    {
+      "baslangic": 1500.25,
+      "bitis": 1503.81,
+      "metin": "bakıyorum beri soba gibi tövbe yarabbim. E altın kemer diyor."
+    },
+    {
+      "baslangic": 1503.81,
+      "bitis": 1506.41,
+      "metin": "Lan ona altın kemer yapmak için beş bankadan kredi"
+    },
+    {
+      "baslangic": 1506.41,
+      "bitis": 1510.37,
+      "metin": "çekmem lazım. O yüzden merkandilizm iyi bir şey"
+    },
+    {
+      "baslangic": 1510.37,
+      "bitis": 1516.05,
+      "metin": "değil. Ablam gidiyor. Düğüne gider böyle. Altınları say."
+    },
+    {
+      "baslangic": 1516.05,
+      "bitis": 1518.77,
+      "metin": "Böyle olur mu ya? Allah'ını seversen. Bizim Antep'de"
+    },
+    {
+      "baslangic": 1518.77,
+      "bitis": 1525.49,
+      "metin": "çoktur bunlar. Ihaşecilik iki bin yirmi dört sorusu."
+    },
+    {
+      "baslangic": 1525.49,
+      "bitis": 1529.81,
+      "metin": "Ihaşecilik. Aynı anlatım tekniğini kullanıyorum."
+    },
+    {
+      "baslangic": 1529.81,
+      "bitis": 1534.61,
+      "metin": "piyasada halka edecek kadar mal bulundurma. Piyasada halka"
+    },
+    {
+      "baslangic": 1534.61,
+      "bitis": 1538.45,
+      "metin": "edecek kadar mal bulundurma. Biz Allah'a şükür mal çok"
+    },
+    {
+      "baslangic": 1538.45,
+      "bitis": 1542.21,
+      "metin": "diyorduk gençler. Sınavda çıktı. Şöyle söyleyeyim. Şu"
+    },
+    {
+      "baslangic": 1542.21,
+      "bitis": 1547.49,
+      "metin": "kitap sayısı azaldıkça ne olur? Fiyatı artar. Kara"
+    },
+    {
+      "baslangic": 1547.49,
+      "bitis": 1550.37,
+      "metin": "borsa olur. Yeteri kadar kitap olursa fiyatı artmaz."
+    },
+    {
+      "baslangic": 1550.37,
+      "bitis": 1553.41,
+      "metin": "Oldu mu? Hatırlarsan Türkiye'de pandemi yıllar"
+    },
+    {
+      "baslangic": 1553.41,
+      "bitis": 1557.89,
+      "metin": "senesinde eee ay çek yağı krizi vardı. Lan ay çek yağı"
+    },
+    {
+      "baslangic": 1557.89,
+      "bitis": 1561.17,
+      "metin": "gelmedi diye millet markete hücum ettiler. Ablam arıyorum"
+    },
+    {
+      "baslangic": 1561.17,
+      "bitis": 1563.73,
+      "metin": "nereye gidiyorsun? Komşular ray çek yalmaya gidiyorsun. Artık"
+    },
+    {
+      "baslangic": 1563.73,
+      "bitis": 1567.25,
+      "metin": "bize bir etkinlik konusu olmuştu bu. Halbuki dönemin"
+    },
+    {
+      "baslangic": 1567.25,
+      "bitis": 1569.73,
+      "metin": "ekonomi bakanına süreci yönetemedi bence. Allah aşkına"
+    },
+    {
+      "baslangic": 1569.73,
+      "bitis": 1571.85,
+      "metin": "süreci yöneten ekonomi bakanı da pek görmedim. Halimiz"
+    },
+    {
+      "baslangic": 1571.85,
+      "bitis": 1574.85,
+      "metin": "meydanda. Söyleyin. Sizlerin de hali meydanda gençler."
+    },
+    {
+      "baslangic": 1574.85,
+      "bitis": 1578.25,
+      "metin": "Zenginin bize ne işi var Allah'ını seversin? Kaapesi"
+    },
+    {
+      "baslangic": 1578.25,
+      "bitis": 1581.77,
+      "metin": "her zaman gariplerin işi söyleyeyim. Gittik. Ay çek"
+    },
+    {
+      "baslangic": 1581.77,
+      "bitis": 1585.17,
+      "metin": "yağlarını aldık aldık evlere tıkadık. Daha da sayısız"
+    },
+    {
+      "baslangic": 1585.17,
+      "bitis": 1587.17,
+      "metin": "kazaldı, fiyatı daha da arttı. Hiçbir zaman da inmedi."
+    },
+    {
+      "baslangic": 1587.17,
+      "bitis": 1590.97,
+      "metin": "Osmanlı çok zeki. Senin o eleştirdiğin, beğenmediğin"
+    },
+    {
+      "baslangic": 1590.97,
+      "bitis": 1595.29,
+      "metin": "Osmanlı senden daha zeki. Demiş ki kardeşim halkı yetecek"
+    },
+    {
+      "baslangic": 1595.29,
+      "bitis": 1597.01,
+      "metin": "kadar mal bulunduracaksın. Ondan sonra yurt dışına"
+    },
+    {
+      "baslangic": 1597.01,
+      "bitis": 1601.21,
+      "metin": "satacaksın. Mal azalırsa kara bors olur, fiyatlar artar."
+    },
+    {
+      "baslangic": 1601.21,
+      "bitis": 1609.06,
+      "metin": "Mal. Oldu mu? Geldik, gelinlikçilik. Al haber. Allah"
+    },
+    {
+      "baslangic": 1609.06,
+      "bitis": 1612.78,
+      "metin": "bugünü üzerimizden almasın. Oldu mu? Bağır olan yapıyı"
+    },
+    {
+      "baslangic": 1612.78,
+      "bitis": 1615.38,
+      "metin": "korumak, gelinlikçilik. Halkı yetecek kadar mal"
+    },
+    {
+      "baslangic": 1615.38,
+      "bitis": 1618.38,
+      "metin": "bulundurmak, ihaşecilik. Altın maden görürsen bize zarar"
+    },
+    {
+      "baslangic": 1618.38,
+      "bitis": 1620.94,
+      "metin": "verdin, merkanterizm. Biz uygulamadık, Avrupa uyguladı."
+    },
+    {
+      "baslangic": 1620.94,
+      "bitis": 1625.26,
+      "metin": "Geliri arttır, gideri azalt, fiskalizm. Tehcid-i isikke."
+    },
+    {
+      "baslangic": 1625.26,
+      "bitis": 1631.46,
+      "metin": "Yavuz öldü, kim tahta çıktı? Kanuni. Kanuni tahta çıkınca"
+    },
+    {
+      "baslangic": 1631.46,
+      "bitis": 1635.14,
+      "metin": "Yavuz'un parasını tedaviden kaldırdı. Yeni para bastı."
+    },
+    {
+      "baslangic": 1635.14,
+      "bitis": 1638.66,
+      "metin": "Tehcid-i isikke. Tahta çıkan padişahın eski parayı"
+    },
+    {
+      "baslangic": 1638.66,
+      "bitis": 1645.1,
+      "metin": "ortadan kaldırmasın. Tahşiş. Paramızın ayarının"
+    },
+    {
+      "baslangic": 1645.1,
+      "bitis": 1648.58,
+      "metin": "düşürülmesi gençler. Demin tahsilci ayar demiştim. Orada"
+    },
+    {
+      "baslangic": 1648.58,
+      "bitis": 1650.94,
+      "metin": "direkt yeni para basıyorsun. Burada paranın ayarını"
+    },
+    {
+      "baslangic": 1650.94,
+      "bitis": 1655.06,
+      "metin": "düşürme olayıdır bu. Altına gümüş kattın, gümüşe bakır"
+    },
+    {
+      "baslangic": 1655.06,
+      "bitis": 1657.18,
+      "metin": "kattın, bakıra demir kattın. Paranın ayarını düşmesi."
+    },
+    {
+      "baslangic": 1657.18,
+      "bitis": 1662.66,
+      "metin": "Ülkede enflasyonu gösterir bu. Hatta sorularda zayıf akçe,"
+    },
+    {
+      "baslangic": 1662.66,
+      "bitis": 1667.98,
+      "metin": "kırık akçe gibi kelimeler bununla alakalıdır. Yedi"
+    },
+    {
+      "baslangic": 1667.98,
+      "bitis": 1676.41,
+      "metin": "vaid. Şu tişörtü sadece Osmanlı devleti üretir,"
+    },
+    {
+      "baslangic": 1676.41,
+      "bitis": 1680.81,
+      "metin": "Osman Devleti satar. Tekelcilik, yedi vaid. Ne zaman"
+    },
+    {
+      "baslangic": 1680.81,
+      "bitis": 1684.45,
+      "metin": "Baltaniman Anlaşması imzalandı, ileride işleyeceğiz? Aynı"
+    },
+    {
+      "baslangic": 1684.45,
+      "bitis": 1688.77,
+      "metin": "tişörtten İngiltere, Fransa'da getirdi. Yedi vaid bitti. Bir"
+    },
+    {
+      "baslangic": 1688.77,
+      "bitis": 1691.45,
+      "metin": "ürünü sadece devletin üretmesi ve satmasına ne"
+    },
+    {
+      "baslangic": 1691.45,
+      "bitis": 1695.73,
+      "metin": "adveriliyormuş? Yedi vaid. Tekelcilik. Oldu mu? Rej"
+    },
+    {
+      "baslangic": 1695.73,
+      "bitis": 1701.25,
+      "metin": "idaresi bu gerçek tekel. Gençler. Alkol, tütün idaresi."
+    },
+    {
+      "baslangic": 1701.25,
+      "bitis": 1705.45,
+      "metin": "Hatta duyunum diye altı vergi yer koydu ya. Zaman da"
+    },
+    {
+      "baslangic": 1705.45,
+      "bitis": 1709.73,
+      "metin": "reji yer koyacak. Alkol sütü idaresi reji. Tahir neydi"
+    },
+    {
+      "baslangic": 1709.73,
+      "bitis": 1713.25,
+      "metin": "kardeşlerim? Bir bölgenin sosyal ekonomik yapısı hakkında"
+    },
+    {
+      "baslangic": 1713.25,
+      "bitis": 1715.89,
+      "metin": "bilgi veren, nüfusu hakkında bilgi veren kayıt defteri"
+    },
+    {
+      "baslangic": 1715.89,
+      "bitis": 1719.93,
+      "metin": "değil mi? Tahir dört bölümden oluşur. Ismini vermeyeceğim."
+    },
+    {
+      "baslangic": 1719.93,
+      "bitis": 1722.65,
+      "metin": "Mesela başka bir yayının yaprak testinde bunun"
+    },
+    {
+      "baslangic": 1722.65,
+      "bitis": 1726.29,
+      "metin": "sorusunu göreceksiniz. Sadece kabaca bilin. İcmal,"
+    },
+    {
+      "baslangic": 1726.29,
+      "bitis": 1730.05,
+      "metin": "muvassal, cizye, avarıs. Tahirin dört tane bölümü vardır."
+    },
+    {
+      "baslangic": 1730.05,
+      "bitis": 1734.41,
+      "metin": "Işte icmal, muvassal hangi arazi kime verildi, hangi"
+    },
+    {
+      "baslangic": 1734.41,
+      "bitis": 1738.21,
+      "metin": "gürün geçitirdir. Kimden ne kadar cizya toplandı? Ne kadar"
+    },
+    {
+      "baslangic": 1738.21,
+      "bitis": 1742.81,
+      "metin": "avarısı toplandı? Dört tane başlı olduğunu bilin yeterli."
+    },
+    {
+      "baslangic": 1742.81,
+      "bitis": 1747.93,
+      "metin": "Çarşı pazarı denetlemiş. İhtisap denetleyen kişi kim?"
+    },
+    {
+      "baslangic": 1747.93,
+      "bitis": 1755.53,
+      "metin": "Muhtesip. Zabıta. Oldu mu? Gel kardeşim. İltizam, manikane,"
+    },
+    {
+      "baslangic": 1755.53,
+      "bitis": 1759.37,
+      "metin": "muadcele, emanet. Hepsini beraber anlatıyorum. Ihale"
+    },
+    {
+      "baslangic": 1759.37,
+      "bitis": 1764.05,
+      "metin": "sürü iltizam. Ihale alan kişi kimdi? Kimdi? Şuraya"
+    },
+    {
+      "baslangic": 1764.05,
+      "bitis": 1771.64,
+      "metin": "ekleyelim. Mültezimdi değil mi? Kardeşlerim. Ömür bu ihale"
+    },
+    {
+      "baslangic": 1771.64,
+      "bitis": 1776.4,
+      "metin": "olursa malikane. Burada verilen para neydi? Muhacceli. Ben"
+    },
+    {
+      "baslangic": 1776.4,
+      "bitis": 1778.96,
+      "metin": "bunları toprak sisteminde ve ülke yönetiminde anlatmıştım."
+    },
+    {
+      "baslangic": 1778.96,
+      "bitis": 1782.72,
+      "metin": "Şimdi dur. Emanet. Iki bin yirmi üçte şıklarda vardı."
+    },
+    {
+      "baslangic": 1782.72,
+      "bitis": 1787.76,
+      "metin": "Emanet şu. Ahmet Hoca git ihale yap derin adına. Ihale"
+    },
+    {
+      "baslangic": 1787.76,
+      "bitis": 1790.24,
+      "metin": "yapıyorum. Iltizam. Kimi bulmam lazım? Mültezim mi?"
+    },
+    {
+      "baslangic": 1790.24,
+      "bitis": 1797.44,
+      "metin": "Mültezim yok. Ihale yapıyorum. Ihaleye giren yok. Devlet diyor ki Ahmet'ciğim diyor. O zaman diyor biz sana maaş verelim."
+    },
+    {
+      "baslangic": 1797.44,
+      "bitis": 1805.08,
+      "metin": "Mültezin bulununcaya kadar diyor sen bu araziyi işlet diyor. Emaneten işlet. Anladın mı olayı?"
+    },
+    {
+      "baslangic": 1805.08,
+      "bitis": 1811.24,
+      "metin": "Aslında çok zorlarsak şey gibi oluyor. Tarımda süreklilik gibi. Bir daha söylüyorum. İltizam yapıyoruz."
+    },
+    {
+      "baslangic": 1811.24,
+      "bitis": 1817.24,
+      "metin": "Mültezin bulamadık. Arazi boş kalmasın diye devlet diyor ki sana maaş verdim. Benim adam orayı işlet."
+    },
+    {
+      "baslangic": 1817.24,
+      "bitis": 1822.24,
+      "metin": "Bunun adı emanet usulü. Olur mu gençler? Bir nevi aslında nedir"
+    },
+    {
+      "baslangic": 1822.24,
+      "bitis": 1828.28,
+      "metin": "bana göre? Eee şeyde ııı tarımda süreklilik. Çok önemli."
+    },
+    {
+      "baslangic": 1828.28,
+      "bitis": 1833.8,
+      "metin": "Kardeşlerim, iltizam kaldırılınca mültezimler çünkü çok halka"
+    },
+    {
+      "baslangic": 1833.8,
+      "bitis": 1836.92,
+      "metin": "zulme edecekler, fazla vergi toplayacaklar. Muhassılık"
+    },
+    {
+      "baslangic": 1836.92,
+      "bitis": 1840.52,
+      "metin": "meclisi kurulacak. Muhassılık meclisi. Muhassılık meclisi"
+    },
+    {
+      "baslangic": 1840.52,
+      "bitis": 1845.32,
+      "metin": "nedir? Müslümanların üyelerini seçtiği, Müslümanların"
+    },
+    {
+      "baslangic": 1845.32,
+      "bitis": 1849.28,
+      "metin": "yerel yürütüme katıldı, üye seçiyor. Bu mecliste hangi"
+    },
+    {
+      "baslangic": 1849.28,
+      "bitis": 1852.6,
+      "metin": "bölgeden ne kadar vergi toplayalım diyor. Bu vergiyi"
+    },
+    {
+      "baslangic": 1852.6,
+      "bitis": 1856.56,
+      "metin": "toplayan da muhasıl. Vergiyi belirleyen muhasılık meclisi"
+    },
+    {
+      "baslangic": 1856.56,
+      "bitis": 1859.96,
+      "metin": "vergiyi toplayan muhasıl. Hiç mi anlamadım? Iltizam"
+    },
+    {
+      "baslangic": 1859.96,
+      "bitis": 1863.24,
+      "metin": "kaldırınca, mültezim gidince devlet adına vergiyi kim"
+    },
+    {
+      "baslangic": 1863.24,
+      "bitis": 1866.96,
+      "metin": "toplamış? Muhasıl. Hasılattan geliyor. Mutlaka bir"
+    },
+    {
+      "baslangic": 1866.96,
+      "bitis": 1875.32,
+      "metin": "çıkacak. Menzil, Mekkari. Kardeşlerim, Mekkari taifesi,"
+    },
+    {
+      "baslangic": 1875.32,
+      "bitis": 1880.28,
+      "metin": "Mekkari taifesi. Mekkari Hadi Gari. Mal taşıyan Garambar"
+    },
+    {
+      "baslangic": 1880.28,
+      "bitis": 1884.32,
+      "metin": "Gamyoncular Derneği. Recep İbelik de var ya sana Kur'an'a el"
+    },
+    {
+      "baslangic": 1884.32,
+      "bitis": 1886.68,
+      "metin": "basıyor bunlar. Yeminle. Malını diyor oradan buraya"
+    },
+    {
+      "baslangic": 1886.68,
+      "bitis": 1890.04,
+      "metin": "hasarsız götüreceğim diyor. Bu görevi yapan kişi Mekkari."
+    },
+    {
+      "baslangic": 1890.04,
+      "bitis": 1893.44,
+      "metin": "Bunları yolda örgütleyen, bunların konaklamasını"
+    },
+    {
+      "baslangic": 1893.44,
+      "bitis": 1895.28,
+      "metin": "sağlayan, o yolların güvenliğini sağlayan"
+    },
+    {
+      "baslangic": 1895.28,
+      "bitis": 1898.44,
+      "metin": "Teşkilat da menzil. Bir nevi ne diyelim? Haberleşme"
+    },
+    {
+      "baslangic": 1898.44,
+      "bitis": 1901.32,
+      "metin": "ulaşım örgütü. Adı yaman menzil değil bu. Haberleşme"
+    },
+    {
+      "baslangic": 1901.32,
+      "bitis": 1906.52,
+      "metin": "ulaşım örgütü. Gençler çift tane tımar sisteminin diğer"
+    },
+    {
+      "baslangic": 1906.52,
+      "bitis": 1910.8,
+      "metin": "ismidir. Baş bakikulu yetkili bir arkadaşa benziyor değil mi?"
+    },
+    {
+      "baslangic": 1910.8,
+      "bitis": 1916.36,
+      "metin": "Öyle düşünün. Vergi müfettişi demektir. Bezirgan zengin"
+    },
+    {
+      "baslangic": 1916.36,
+      "bitis": 1921.28,
+      "metin": "tüccar demektir. Levanten iki kez yazmışım. Levanten"
+    },
+    {
+      "baslangic": 1921.28,
+      "bitis": 1925.8,
+      "metin": "İtalyan deniz tüccarın sahil kenarında yaşar, İtalyan"
+    },
+    {
+      "baslangic": 1925.8,
+      "bitis": 1929.92,
+      "metin": "tüccardır. Geldik loncaya. Ben aslında bunu Selçuklu'da"
+    },
+    {
+      "baslangic": 1929.92,
+      "bitis": 1934.6,
+      "metin": "anlatmıştım. Ahilik, Fütüvet burada lonca. Loncanın"
+    },
+    {
+      "baslangic": 1934.6,
+      "bitis": 1938.92,
+      "metin": "ahilikle farkı. Burada kardeşlerim Müslümanlar da"
+    },
+    {
+      "baslangic": 1938.92,
+      "bitis": 1945.72,
+      "metin": "var, gayrimüslimler de var. Bu bir. Ikincisi ahilik"
+    },
+    {
+      "baslangic": 1945.72,
+      "bitis": 1949.8,
+      "metin": "kek çatıdır. Lonca'da konfederasyon gibidir. Yani"
+    },
+    {
+      "baslangic": 1949.8,
+      "bitis": 1957.8,
+      "metin": "Her mesleğin ayrı bir teşkilatı da vardır. Mesela marangozlar odası, demirciler odası gibi. O yüzden bu biraz daha şubesel çalışır."
+    },
+    {
+      "baslangic": 1957.8,
+      "bitis": 1961.8,
+      "metin": "Dini ve mesleki eğitimi verilen yer loncadır. Halkın mesleki eğitimi aldığı yer loncadır."
+    },
+    {
+      "baslangic": 1961.8,
+      "bitis": 1968.16,
+      "metin": "kavramlara dikkat. Ehl-i hirfet. Ölsemi bunu üç dört yıl"
+    },
+    {
+      "baslangic": 1968.16,
+      "bitis": 1972.44,
+      "metin": "önce sordu. Lisansa sordu. Ön lisansın başına. AGS'nin"
+    },
+    {
+      "baslangic": 1972.44,
+      "bitis": 1976.76,
+      "metin": "başına diyelim inşallah. Tarımla uğraşmayıp zanaat"
+    },
+    {
+      "baslangic": 1976.76,
+      "bitis": 1981.36,
+      "metin": "sahibi olan kişiler ehl-i hirfettir. Ehl-i hiref, ehl-i"
+    },
+    {
+      "baslangic": 1981.36,
+      "bitis": 1985.48,
+      "metin": "hirfet aynı şey. Ayakkabıcı, kunduracı, marangoz. Bakın"
+    },
+    {
+      "baslangic": 1985.48,
+      "bitis": 1991.08,
+      "metin": "benim babam marangoz. Ehl-i hirfet. Peki dükkan açma"
+    },
+    {
+      "baslangic": 1991.08,
+      "bitis": 1996.2,
+      "metin": "ruhsatı? Neydi? Gedik. Bunu loncalar verir, kadı onaylar."
+    },
+    {
+      "baslangic": 1996.2,
+      "bitis": 1999.24,
+      "metin": "Çok güzel bir yorum sorusu geliyor. Iki bin on bir on iki"
+    },
+    {
+      "baslangic": 1999.24,
+      "bitis": 2003.24,
+      "metin": "sorusu. Gedik hakkı gençler verilirken bir şeyler dikkate"
+    },
+    {
+      "baslangic": 2003.24,
+      "bitis": 2007.28,
+      "metin": "alınır. Mesela herkese her yerde dükkan açma ruhsatı"
+    },
+    {
+      "baslangic": 2007.28,
+      "bitis": 2011.96,
+      "metin": "verilmez. Neden? Yine senin o sevmediğin Osmanlı bu konuda"
+    },
+    {
+      "baslangic": 2011.96,
+      "bitis": 2013.88,
+      "metin": "çok iyi. Türkiye'de ne oluyor? Bir adam bir iş"
+    },
+    {
+      "baslangic": 2013.88,
+      "bitis": 2017.92,
+      "metin": "tutturuyor. Herkes aynı işi yapıyor. Osmanlı böyle değil."
+    },
+    {
+      "baslangic": 2017.92,
+      "bitis": 2021.04,
+      "metin": "Ahmet Hoca, Isparta'yı dershane kuracağım değil mi?"
+    },
+    {
+      "baslangic": 2021.04,
+      "bitis": 2026.04,
+      "metin": "Atıyorum. Yo demirci dükkan açacağım demirci gedik. Diyor ki"
+    },
+    {
+      "baslangic": 2026.04,
+      "bitis": 2028.28,
+      "metin": "Ahmet Hoca bu caddede zaten yeteri kadar demirci var"
+    },
+    {
+      "baslangic": 2028.28,
+      "bitis": 2033.0,
+      "metin": "diyor. Sen diyor bu caddede açamazsın diyor. Demek ki"
+    },
+    {
+      "baslangic": 2033.0,
+      "bitis": 2036.28,
+      "metin": "gedik hakkı verirken ne dikkat alınıyor? Arz ve talep."
+    },
+    {
+      "baslangic": 2036.28,
+      "bitis": 2042.8,
+      "metin": "Unutmayın. Arz ve talep. Tavan fiyat tavan fiyat"
+    },
+    {
+      "baslangic": 2042.8,
+      "bitis": 2046.44,
+      "metin": "arkadaşlar. Oldu mu? Kermar'cının sabitlenmesi."
+    },
+    {
+      "baslangic": 2046.44,
+      "bitis": 2049.68,
+      "metin": "Halkı koruyan bir şeydir. Doları yollanan neyon geldiler?"
+    },
+    {
+      "baslangic": 2049.68,
+      "bitis": 2052.32,
+      "metin": "Ani fiyat artışlarını engelliler. Hiç ülkemize"
+    },
+    {
+      "baslangic": 2052.32,
+      "bitis": 2058.16,
+      "metin": "benzemiyor vallahi. Ehli hibre. Hibresi düzgün olan. Bakın"
+    },
+    {
+      "baslangic": 2058.16,
+      "bitis": 2061.92,
+      "metin": "buradan yakalayın. Ekmek üç yüz lira. Şey otuz lira. Kaç"
+    },
+    {
+      "baslangic": 2061.92,
+      "bitis": 2065.76,
+      "metin": "miligram? Üç yüz gram. Ekmek gerçekten otuz gram mı? Fiyatına"
+    },
+    {
+      "baslangic": 2065.76,
+      "bitis": 2071.16,
+      "metin": "uygun mu değil mi? Bunu teftiş eden kişiye hibre. O"
+    },
+    {
+      "baslangic": 2071.16,
+      "bitis": 2073.72,
+      "metin": "çarşı pazarı denetleyen kişiye ne ad verilir?"
+    },
+    {
+      "baslangic": 2073.72,
+      "bitis": 2077.8,
+      "metin": "muhtesip. Oldu mu kardeşlerim? Kafamıza yattı mı? Daha"
+    },
+    {
+      "baslangic": 2077.8,
+      "bitis": 2080.8,
+      "metin": "önceden anlatmıştım. Kapan neydi? Tek bir cins ürünün"
+    },
+    {
+      "baslangic": 2080.8,
+      "bitis": 2083.92,
+      "metin": "toplan satıldığı yerde. Kapan emini bunun sorumlusuydu."
+    },
+    {
+      "baslangic": 2083.92,
+      "bitis": 2086.16,
+      "metin": "Bunları zaten Selçuklarda biliyorsunuz."
+    },
+    {
+      "baslangic": 2086.16,
+      "bitis": 2090.12,
+      "metin": "Kardeşlerim şimdi tahtaya hazırlayacağım. Nereye geçeceğim?"
+    },
+    {
+      "baslangic": 2090.12,
+      "bitis": 2093.28,
+      "metin": "Belgilere geçeceğim. Az kaldı. Bir on dakikada belgeler"
+    },
+    {
+      "baslangic": 2093.28,
+      "bitis": 2096.44,
+      "metin": "işeceğiz. Bence kültür medyayetin en zor üç konusu"
+    },
+    {
+      "baslangic": 2096.44,
+      "bitis": 2099.04,
+      "metin": "var. Devlet yönetimi, ülke yönetimi, ordu toprak, aha"
+    },
+    {
+      "baslangic": 2099.04,
+      "bitis": 2102.68,
+      "metin": "bile bu. Oldu mu? Önemli bir konuydu. Ben bir tahtaya"
+    },
+    {
+      "baslangic": 2102.68,
+      "bitis": 2104.68,
+      "metin": "Evet kardeşlerim, tahtamı hazırladım."
+    },
+    {
+      "baslangic": 2104.68,
+      "bitis": 2106.68,
+      "metin": "Vergileri içeceğiz şimdi."
+    },
+    {
+      "baslangic": 2106.68,
+      "bitis": 2108.68,
+      "metin": "Yalnız vergilerin ilgili bir açıklama yapmak durumundayım."
+    },
+    {
+      "baslangic": 2108.68,
+      "bitis": 2110.68,
+      "metin": "2020'de yaşanan bir süreç de var bununla ilgili."
+    },
+    {
+      "baslangic": 2110.68,
+      "bitis": 2112.68,
+      "metin": "Eskiden kardeşlerim"
+    },
+    {
+      "baslangic": 2112.68,
+      "bitis": 2114.68,
+      "metin": "Harat, Cizya, Aşar, Ganime, Şehri"
+    },
+    {
+      "baslangic": 2114.68,
+      "bitis": 2116.68,
+      "metin": "geri kalan bütün vergiler örfü diyorduk."
+    },
+    {
+      "baslangic": 2116.68,
+      "bitis": 2118.68,
+      "metin": "MEP kitabı değişti."
+    },
+    {
+      "baslangic": 2118.68,
+      "bitis": 2120.68,
+      "metin": "MEP kitabı değişince"
+    },
+    {
+      "baslangic": 2120.68,
+      "bitis": 2122.68,
+      "metin": "2017'de"
+    },
+    {
+      "baslangic": 2122.68,
+      "bitis": 2124.68,
+      "metin": "bir anda"
+    },
+    {
+      "baslangic": 2124.68,
+      "bitis": 2126.68,
+      "metin": "Şehri vergi sayısı arttı."
+    },
+    {
+      "baslangic": 2126.68,
+      "bitis": 2128.68,
+      "metin": "Örfü oldular, adını koyamadıklarına"
+    },
+    {
+      "baslangic": 2128.68,
+      "bitis": 2130.68,
+      "metin": "diğer vergiler dedi MEP kitabı."
+    },
+    {
+      "baslangic": 2130.68,
+      "bitis": 2135.36,
+      "metin": "vergiler dedi web kitabı. Çok saçma. Yani ÖNC'me hangisi"
+    },
+    {
+      "baslangic": 2135.36,
+      "bitis": 2137.52,
+      "metin": "diğer vergilerdendir gibi soru kökü olabilir mi? Olamaz."
+    },
+    {
+      "baslangic": 2137.52,
+      "bitis": 2140.64,
+      "metin": "Değil mi? Ben yıllardır kitaplarımı açıklama yapıyorum"
+    },
+    {
+      "baslangic": 2140.64,
+      "bitis": 2144.68,
+      "metin": "ve eski usulde anlatmaya devam ediyorum. Bakın Tara, Cizya,"
+    },
+    {
+      "baslangic": 2144.68,
+      "bitis": 2150.76,
+      "metin": "Aşvergani ve Şehri diğer kısmı örfi. Bunu başka tarzı"
+    },
+    {
+      "baslangic": 2150.76,
+      "bitis": 2152.48,
+      "metin": "anlatan tüm öğretmen kardeşlerime de saygı"
+    },
+    {
+      "baslangic": 2152.48,
+      "bitis": 2155.68,
+      "metin": "duyuyorum. Ama iki mi yirmi iki de soru çıktı. Sizi"
+    },
+    {
+      "baslangic": 2155.68,
+      "bitis": 2160.0,
+      "metin": "uyarayım. Hangisi şehri vergidendir değildir. Bizim"
+    },
+    {
+      "baslangic": 2160.0,
+      "bitis": 2169.04,
+      "metin": "öğrenci bu duruyorken gitti anam işaretledi. E hoca anam"
+    },
+    {
+      "baslangic": 2169.04,
+      "bitis": 2171.56,
+      "metin": "demişti. Sonra hocamız da yayınmayın yaptı. Sonra hatalı"
+    },
+    {
+      "baslangic": 2171.56,
+      "bitis": 2174.08,
+      "metin": "çocuklara falan diye ama soru iptal olmadı kardeşler."
+    },
+    {
+      "baslangic": 2174.08,
+      "bitis": 2177.52,
+      "metin": "Söyleyeyim. O yüzden öyle sevmeyi biraz vergi konusu"
+    },
+    {
+      "baslangic": 2177.52,
+      "bitis": 2180.88,
+      "metin": "değişik. Sizden ricam o hoca bunu demiş, bu hoca bunu"
+    },
+    {
+      "baslangic": 2180.88,
+      "bitis": 2183.04,
+      "metin": "demiş, ben bunu demişim. Bunlara çok takılıp"
+    },
+    {
+      "baslangic": 2183.04,
+      "bitis": 2187.56,
+      "metin": "kalmayın. Biraz karambol bir konu. Ama kurallar var. Bir,"
+    },
+    {
+      "baslangic": 2187.56,
+      "bitis": 2192.04,
+      "metin": "Önce bunların şehri olduğuna ikna ol, ondan sonra soruya göre davran."
+    },
+    {
+      "baslangic": 2192.04,
+      "bitis": 2193.04,
+      "metin": "Anlatabildim mi?"
+    },
+    {
+      "baslangic": 2193.04,
+      "bitis": 2196.08,
+      "metin": "Ama önce bunların şehri olduğunu işaretle, senden ricam."
+    },
+    {
+      "baslangic": 2196.08,
+      "bitis": 2200.28,
+      "metin": "Beklediğim sonra da şehri örfeden ziyade tanımlarından soru gelebilir, bir de yeni"
+    },
+    {
+      "baslangic": 2200.28,
+      "bitis": 2201.28,
+      "metin": "nesil sorular gelebilir."
+    },
+    {
+      "baslangic": 2201.28,
+      "bitis": 2203.28,
+      "metin": "Birazdan sizlere ben onları yazacağım."
+    },
+    {
+      "baslangic": 2203.28,
+      "bitis": 2208.88,
+      "metin": "Kardeşlerim şehri vergiye geçmeden önce, ayni vergi nedir, nakdi vergi nedir?"
+    },
+    {
+      "baslangic": 2208.88,
+      "bitis": 2210.36,
+      "metin": "Öğrenelim bunları."
+    },
+    {
+      "baslangic": 2210.36,
+      "bitis": 2214.0,
+      "metin": "Nakdi vergi peşin alınan vergidir."
+    },
+    {
+      "baslangic": 2214.0,
+      "bitis": 2218.36,
+      "metin": "Ayni vergi, ürün üzerinden alınan, peşin olmayan vergidir."
+    },
+    {
+      "baslangic": 2218.86,
+      "bitis": 2221.42,
+      "metin": "Yani 10 kilo buğday, 10 kilo bulgur gibi düşünün."
+    },
+    {
+      "baslangic": 2221.94,
+      "bitis": 2223.48,
+      "metin": "Hatta size çok güzel bir mantık vereyim."
+    },
+    {
+      "baslangic": 2223.98,
+      "bitis": 2226.28,
+      "metin": "Osmanlı demir yolu yaparak,"
+    },
+    {
+      "baslangic": 2227.06,
+      "bitis": 2230.64,
+      "metin": "demir yolu yaparak ayni vergileri rahat taşımayı damaşlamıştır."
+    },
+    {
+      "baslangic": 2230.9,
+      "bitis": 2232.18,
+      "metin": "Ne alaka diyeceğim bir şey."
+    },
+    {
+      "baslangic": 2232.42,
+      "bitis": 2235.24,
+      "metin": "Demir yolu yaparak ayni vergileri"
+    },
+    {
+      "baslangic": 2235.5,
+      "bitis": 2237.04,
+      "metin": "rahat taşımayı damaşlamıştır."
+    },
+    {
+      "baslangic": 2238.06,
+      "bitis": 2240.88,
+      "metin": "Peşin vergi nakdi, peşin olmayan ayni."
+    },
+    {
+      "baslangic": 2241.14,
+      "bitis": 2241.64,
+      "metin": "Tamam mı?"
+    },
+    {
+      "baslangic": 2241.64,
+      "bitis": 2249.76,
+      "metin": "Haraç, kardeşlerim haraç nedir? Gayrimüslimlerden alınan ürün vergisidir."
+    },
+    {
+      "baslangic": 2249.76,
+      "bitis": 2262.64,
+      "metin": "Oranı bir bölü beş. Cizye, askerlik çağına gelen gayrimüslimlerden alınan güvenlik vergisi, askere gitmeme vergisi."
+    },
+    {
+      "baslangic": 2262.64,
+      "bitis": 2268.48,
+      "metin": "Bu ne olacak? Islahat fermanıyla tamamen kaldırılacak yani bedeli askerlik olacak."
+    },
+    {
+      "baslangic": 2268.48,
+      "bitis": 2271.96,
+      "metin": "haraç ve cizye artıyorsa gayrimüslim nüfus oranı ne"
+    },
+    {
+      "baslangic": 2271.96,
+      "bitis": 2276.28,
+      "metin": "olmuştur? Artmıştır. Fetiller hızlanmıştır. Aşar."
+    },
+    {
+      "baslangic": 2276.28,
+      "bitis": 2281.28,
+      "metin": "Kardeşlerim bunun diğer ismi öşür. Diğer ismi ondalık."
+    },
+    {
+      "baslangic": 2281.28,
+      "bitis": 2289.14,
+      "metin": "Müslümandan alınan ürün vergisidir. Bir bölü on. Oldu"
+    },
+    {
+      "baslangic": 2289.14,
+      "bitis": 2295.54,
+      "metin": "mu? O zaman soru yapalım. Buyurun efendim. Bir iki üç"
+    },
+    {
+      "baslangic": 2295.54,
+      "bitis": 2301.06,
+      "metin": "Al. Hangisi tarımsal üretime dayalıdır? Hangisi tarımsal"
+    },
+    {
+      "baslangic": 2301.06,
+      "bitis": 2305.74,
+      "metin": "üretime dayalıdır? Araç ve aşar. Cizya tarımla alakası"
+    },
+    {
+      "baslangic": 2305.74,
+      "bitis": 2314.14,
+      "metin": "yok. Ganimet beşte biri devletimizin buna Peygamber"
+    },
+    {
+      "baslangic": 2314.14,
+      "bitis": 2315.82,
+      "metin": "Efendimiz sallallahu aleyhi ve sellem başlıyor gençler."
+    },
+    {
+      "baslangic": 2315.82,
+      "bitis": 2320.74,
+      "metin": "Humus-i Şer derler. Beşte dörde kimindir askerin? Yalnız"
+    },
+    {
+      "baslangic": 2320.74,
+      "bitis": 2322.58,
+      "metin": "bu kesirler beni çok heyecanlandırdı. Yıllar"
+    },
+    {
+      "baslangic": 2322.58,
+      "bitis": 2327.66,
+      "metin": "sonra matematikten özürlüyüm. Beşte dördü anladınız siz beni"
+    },
+    {
+      "baslangic": 2327.66,
+      "bitis": 2331.62,
+      "metin": "halkın, askerin beşte birikimin devletin. Şimdi rica"
+    },
+    {
+      "baslangic": 2331.62,
+      "bitis": 2335.34,
+      "metin": "diyorum. MEP'in bir kitabında böyle anlatılıyor. Bir kitabında"
+    },
+    {
+      "baslangic": 2335.34,
+      "bitis": 2338.3,
+      "metin": "anan vergisini de buraya alıyor. Anlatabildim mi"
+    },
+    {
+      "baslangic": 2338.3,
+      "bitis": 2341.9,
+      "metin": "kardeşlerim? O yüzden benim gibi soruya göre davranacağız."
+    },
+    {
+      "baslangic": 2341.9,
+      "bitis": 2346.3,
+      "metin": "Önce bunların şehri olduğunu işaretleyeceğiz. Geldik örfü."
+    },
+    {
+      "baslangic": 2346.3,
+      "bitis": 2351.18,
+      "metin": "Çift tane. Çiftle başlayan şeyler serkancım her zaman"
+    },
+    {
+      "baslangic": 2351.18,
+      "bitis": 2355.86,
+      "metin": "tarımla alakalıdır. Çifthane. Bir çift öküzün turuna göre"
+    },
+    {
+      "baslangic": 2355.86,
+      "bitis": 2358.66,
+      "metin": "hesaplanan vergi. Samimiyetime söyleyeyim. Hoca kapa falan"
+    },
+    {
+      "baslangic": 2358.66,
+      "bitis": 2362.02,
+      "metin": "demeyin. Bir çift öküzün turuna göre hesaplanan vergi"
+    },
+    {
+      "baslangic": 2362.02,
+      "bitis": 2365.82,
+      "metin": "çifthanedir. Bizim alan sanamında böyle çıkmıştı. Bir"
+    },
+    {
+      "baslangic": 2365.82,
+      "bitis": 2371.7,
+      "metin": "çift öküzün. Evet. Soru da öküzü gördün mü? Neyi"
+    },
+    {
+      "baslangic": 2371.7,
+      "bitis": 2377.1,
+      "metin": "işaretle? Çifthaneyi. Çiftbozan toprağının sebepsiz"
+    },
+    {
+      "baslangic": 2377.1,
+      "bitis": 2380.38,
+      "metin": "yere boş bırakanından alınan vergi. O zaman kardeşlerim"
+    },
+    {
+      "baslangic": 2380.38,
+      "bitis": 2387.74,
+      "metin": "tarımla neyi sağlar? Sürekli soru cevapla. Celalisyonların"
+    },
+    {
+      "baslangic": 2387.74,
+      "bitis": 2391.82,
+      "metin": "sonucunda köylü toprağını terk ederek hangi vergi ödemek"
+    },
+    {
+      "baslangic": 2391.82,
+      "bitis": 2397.74,
+      "metin": "zorunda kalmıştır? Çift bozan. Tamam. Çift resmi Müslümanın"
+    },
+    {
+      "baslangic": 2397.74,
+      "bitis": 2403.82,
+      "metin": "arazi vergisi. Bak şimdi size bir şey öğreteyim. Devletin"
+    },
+    {
+      "baslangic": 2403.82,
+      "bitis": 2407.02,
+      "metin": "toprağını kullanan gayrimüslimin örediği vergi"
+    },
+    {
+      "baslangic": 2407.02,
+      "bitis": 2413.5,
+      "metin": "İspanç. O zaman soru geliyor. Antalya'nın Serik ilçesinde"
+    },
+    {
+      "baslangic": 2413.5,
+      "bitis": 2420.14,
+      "metin": "geçimini tarımla sağlayan koca yörük Ahmet Dede koca yörük"
+    },
+    {
+      "baslangic": 2420.14,
+      "bitis": 2428.86,
+      "metin": "Ahmet Dede bir çift resmi iki aşar üç haraç vergilerinden"
+    },
+    {
+      "baslangic": 2428.86,
+      "bitis": 2433.54,
+      "metin": "hangini ödemekle mükelleftir? Devletin arasında tarım"
+    },
+    {
+      "baslangic": 2433.54,
+      "bitis": 2436.94,
+      "metin": "yaptığım için çift resmi, Müslüman olduğum için aşağı"
+    },
+    {
+      "baslangic": 2436.94,
+      "bitis": 2442.18,
+      "metin": "ödeyeceğim. Araçın bende ilgisi yok. Geçiyorum. İstanbul'da"
+    },
+    {
+      "baslangic": 2442.18,
+      "bitis": 2446.74,
+      "metin": "Bozjiada'da devlete ayı küçük bir bahçede geçimini tarımla"
+    },
+    {
+      "baslangic": 2446.74,
+      "bitis": 2449.74,
+      "metin": "sağlayan Alexander nereden aklıma geldi bilmiyorum."
+    },
+    {
+      "baslangic": 2449.74,
+      "bitis": 2455.82,
+      "metin": "Alexander bir hangi vergi? Ürün olduğu için haraç. Iki"
+    },
+    {
+      "baslangic": 2455.82,
+      "bitis": 2458.86,
+      "metin": "arazi vergisi ispancı. Ödemekle mükelleftir."
+    },
+    {
+      "baslangic": 2458.86,
+      "bitis": 2462.38,
+      "metin": "Anlıyor musun beni? Yeni nesil sorular bu. Ya da diyor ki"
+    },
+    {
+      "baslangic": 2462.38,
+      "bitis": 2466.34,
+      "metin": "tarımsal üretime dayanılır değildir. Avarız,"
+    },
+    {
+      "baslangic": 2466.34,
+      "bitis": 2469.22,
+      "metin": "kardeşlerim, olağanüstü hallerde toplanan vergidir."
+    },
+    {
+      "baslangic": 2469.22,
+      "bitis": 2472.34,
+      "metin": "Değil mi? Herkes biliyor bunu. Herkes bunlara da ayrı ayrı"
+    },
+    {
+      "baslangic": 2472.34,
+      "bitis": 2476.42,
+      "metin": "çalışıyor. Bunlar da avarızdır. Tabii avarızın"
+    },
+    {
+      "baslangic": 2476.42,
+      "bitis": 2479.62,
+      "metin": "isimleri arkadaşlar. Avarız genel bir başlık. Sefere"
+    },
+    {
+      "baslangic": 2479.62,
+      "bitis": 2484.02,
+      "metin": "çıkarken imdat şey diyorsun. Imdat diyorsun. Sefere"
+    },
+    {
+      "baslangic": 2484.02,
+      "bitis": 2489.62,
+      "metin": "çıkarken topluyorsun. Imdadı sefereye. Ya da iane-i"
+    },
+    {
+      "baslangic": 2489.62,
+      "bitis": 2494.74,
+      "metin": "cihadiye sefere giderken. Sefer bitti. Bu sefer geri"
+    },
+    {
+      "baslangic": 2494.74,
+      "bitis": 2499.86,
+      "metin": "döneceksin ya. Barış zamanında barış zamanında hazariye"
+    },
+    {
+      "baslangic": 2499.86,
+      "bitis": 2502.78,
+      "metin": "vergisini topluyorsun. Kimden gelsin bu aklına biliyor musun?"
+    },
+    {
+      "baslangic": 2502.78,
+      "bitis": 2505.34,
+      "metin": "Hazarlardan. Hani barış hoşgörü ticaret hazarlarda"
+    },
+    {
+      "baslangic": 2505.34,
+      "bitis": 2508.26,
+      "metin": "değil miydi? Savaş bitince asker dönmesi için"
+    },
+    {
+      "baslangic": 2508.26,
+      "bitis": 2512.22,
+      "metin": "masrafları için para lazım. Barış zamanında toplanan"
+    },
+    {
+      "baslangic": 2512.22,
+      "bitis": 2516.42,
+      "metin": "hane reislerinden para neymiş? Hazariye. Kardeşlerim bir"
+    },
+    {
+      "baslangic": 2516.42,
+      "bitis": 2520.46,
+      "metin": "de bunu da öğreteyim. Kitapta yazmıyordur siz yazın. Sürsat"
+    },
+    {
+      "baslangic": 2520.46,
+      "bitis": 2525.26,
+      "metin": "bedeli. Osmanlı'da ordunun ihtiyacı için bölgelerden"
+    },
+    {
+      "baslangic": 2525.26,
+      "bitis": 2528.5,
+      "metin": "toplanan yiyecek içecek parası. Ordunun ihtiyacı için"
+    },
+    {
+      "baslangic": 2528.5,
+      "bitis": 2531.06,
+      "metin": "toplanan yiyecek içecek bedeli. Sürsat bedeli."
+    },
+    {
+      "baslangic": 2531.06,
+      "bitis": 2535.58,
+      "metin": "Avaris Olağanistan'da da toplanır. Seferiye, cihadiye,"
+    },
+    {
+      "baslangic": 2535.58,
+      "bitis": 2538.58,
+      "metin": "hazariye gibi. Oldu mu? Hadi yenilesin bir soru"
+    },
+    {
+      "baslangic": 2538.58,
+      "bitis": 2543.35,
+      "metin": "yapalım. Osmanlı'nın on sekindi yüzyılda ordusu"
+    },
+    {
+      "baslangic": 2543.35,
+      "bitis": 2547.31,
+      "metin": "Macaristan'a sefere gitmiş. Üç ay kaldıktan sonra ordu"
+    },
+    {
+      "baslangic": 2547.31,
+      "bitis": 2551.91,
+      "metin": "dönmek zorunda kalmış. Bu ordunun hangi vergileri"
+    },
+    {
+      "baslangic": 2551.91,
+      "bitis": 2555.31,
+      "metin": "tahsil etmesi beklenebilir? Sorunun güzelliğine bak."
+    },
+    {
+      "baslangic": 2555.31,
+      "bitis": 2561.23,
+      "metin": "Seferiye, cihadiye, avarız, dönerken hangisi? Hazeriye."
+    },
+    {
+      "baslangic": 2561.23,
+      "bitis": 2565.35,
+      "metin": "Bu kadar arkadaşlar. Oldu mu? Peki ÖSM'e bize bir tuzak"
+    },
+    {
+      "baslangic": 2565.35,
+      "bitis": 2568.51,
+      "metin": "kuruyor. Avarız herkesten mi alınır Müslümanlardan mı?"
+    },
+    {
+      "baslangic": 2568.51,
+      "bitis": 2571.75,
+      "metin": "Veya avarızdan gayri Müslümanlar muaf tutulur mu?"
+    },
+    {
+      "baslangic": 2571.75,
+      "bitis": 2576.87,
+      "metin": "Avarızdan gayri Müslümanlar muaf tutulmaz. Herkesten"
+    },
+    {
+      "baslangic": 2576.87,
+      "bitis": 2582.39,
+      "metin": "Tamam. Unutmayın bu sözümü. Lazım. Amediye, refikiye."
+    },
+    {
+      "baslangic": 2582.39,
+      "bitis": 2588.03,
+      "metin": "Çocuklar dört harfi bir gümrük sitesinden mal aldınız."
+    },
+    {
+      "baslangic": 2588.03,
+      "bitis": 2594.47,
+      "metin": "Kamu ismi. Oradan mal geldi. Amediye. Yurt dışından mal"
+    },
+    {
+      "baslangic": 2594.47,
+      "bitis": 2598.43,
+      "metin": "geldi. Amediye. Biz yurt dışına mal satarsak refikiye."
+    },
+    {
+      "baslangic": 2598.43,
+      "bitis": 2603.75,
+      "metin": "İtalat, ihracat. Oldu mu? Çarşı Pazarı Denetleme"
+    },
+    {
+      "baslangic": 2603.75,
+      "bitis": 2606.27,
+      "metin": "ihtisaptır. Ihtisap aynı zamanda esnaftan alınan"
+    },
+    {
+      "baslangic": 2606.27,
+      "bitis": 2613.47,
+      "metin": "vergidir. İzni Sefine Boğazlar'dan geçen gemi"
+    },
+    {
+      "baslangic": 2613.47,
+      "bitis": 2617.19,
+      "metin": "vergisidir. Harika bir soru. Sen İstanbul'u fethederek"
+    },
+    {
+      "baslangic": 2617.19,
+      "bitis": 2620.83,
+      "metin": "Boğazları hakim olarak hangi vergi gelirini elde etmeye"
+    },
+    {
+      "baslangic": 2620.83,
+      "bitis": 2624.79,
+      "metin": "başladın? Sefine. Mükemmel soru oldu bak. Boğazlardan"
+    },
+    {
+      "baslangic": 2624.79,
+      "bitis": 2628.47,
+      "metin": "geçiş vergisi. Dönüm kürekçi isminden beydik"
+    },
+    {
+      "baslangic": 2628.47,
+      "bitis": 2636.92,
+      "metin": "kardeşlerim Anam bir de Ağıl vardı. Onu da yazayım. Ağıl'ı"
+    },
+    {
+      "baslangic": 2636.92,
+      "bitis": 2641.64,
+      "metin": "yazmamışım değil mi? Anam Ağıl. Küçükbaş hayvan vergisinin"
+    },
+    {
+      "baslangic": 2641.64,
+      "bitis": 2647.24,
+      "metin": "adı Anam'dır. Ahır vergisinin adı Ağıl'dır. Barınak vergisi."
+    },
+    {
+      "baslangic": 2647.24,
+      "bitis": 2650.32,
+      "metin": "Anamı bazen şerî vergi olarak görürsen de heyecanlanmayın."
+    },
+    {
+      "baslangic": 2650.32,
+      "bitis": 2655.84,
+      "metin": "Açıklamasını baştan yaptım. Şimdi buyurun. Hazır mısınız?"
+    },
+    {
+      "baslangic": 2655.84,
+      "bitis": 2661.68,
+      "metin": "Gaziantep'in Araban ilçesinde geçimini kendi barınağında"
+    },
+    {
+      "baslangic": 2661.68,
+      "bitis": 2666.4,
+      "metin": "sağlayan küçükbaş hayvan besleyen Münevver teyze. Buyurun."
+    },
+    {
+      "baslangic": 2666.4,
+      "bitis": 2670.6,
+      "metin": "Hangi vergeli ödemekle mükelleftir? Barınak vergisi"
+    },
+    {
+      "baslangic": 2670.6,
+      "bitis": 2673.72,
+      "metin": "Ağıl, küçükbaş hayvan vergisi Anam. Cevap bir ve iki."
+    },
+    {
+      "baslangic": 2673.72,
+      "bitis": 2677.68,
+      "metin": "Anlatabildim mi gençler? Evet bunlar isminden belli."
+    },
+    {
+      "baslangic": 2677.68,
+      "bitis": 2685.36,
+      "metin": "Gelin Arus. Arus. Evlenen kızın ailesinden anlar. Kızın"
+    },
+    {
+      "baslangic": 2685.36,
+      "bitis": 2687.76,
+      "metin": "edek almaktan kurtuldu. Gel bunu kutlayalım. Ne vergisi?"
+    },
+    {
+      "baslangic": 2687.76,
+      "bitis": 2690.92,
+      "metin": "arus. Ya hocam burama geldi. Berkesi neyse vereceğim vallahi"
+    },
+    {
+      "baslangic": 2690.92,
+      "bitis": 2697.24,
+      "metin": "diyenler muhakkak vardır. Her şeyin hayırlısı. Bennak evli"
+    },
+    {
+      "baslangic": 2697.24,
+      "bitis": 2700.76,
+      "metin": "erkek Müslümandan. Tımar Dışı'nda geçimini de"
+    },
+    {
+      "baslangic": 2700.76,
+      "bitis": 2703.84,
+      "metin": "sağlayan evli erkek Müslüman çiftleri alınır gençler."
+    },
+    {
+      "baslangic": 2703.84,
+      "bitis": 2709.4,
+      "metin": "Mücerret bekar erkekleri alınır. Bekar erkek Müslüman"
+    },
+    {
+      "baslangic": 2709.4,
+      "bitis": 2716.28,
+      "metin": "mücerret evliyse bennak. Bağdı heva. Bak. Uyu düşür."
+    },
+    {
+      "baslangic": 2716.28,
+      "bitis": 2720.44,
+      "metin": "Kelimeyi yapıştır. Sertsizliler benzeşti, ünlü düştü, o buldu,"
+    },
+    {
+      "baslangic": 2720.44,
+      "bitis": 2725.52,
+      "metin": "bu oldu. Fıstıklı Şahıp bedava kelimesi. Kardeşlerim, badı"
+    },
+    {
+      "baslangic": 2725.52,
+      "bitis": 2728.44,
+      "metin": "heva bedava demektir. Bizi üniversite şöyle öğrettiler."
+    },
+    {
+      "baslangic": 2728.44,
+      "bitis": 2731.56,
+      "metin": "Boş yer alınan vergi ama kitaplara şöyle yazıyoruz. Bir"
+    },
+    {
+      "baslangic": 2731.56,
+      "bitis": 2733.8,
+      "metin": "numaralına zarar verdin de hangi vergi diyorsun? Badı"
+    },
+    {
+      "baslangic": 2733.8,
+      "bitis": 2739.48,
+      "metin": "heva. Baç Osmanlı'yla ilk toplanan vergi türüdür. İlk"
+    },
+    {
+      "baslangic": 2739.48,
+      "bitis": 2745.79,
+      "metin": "toplanan vergi türü. Çarşı pazar vergisi. Cerime hani"
+    },
+    {
+      "baslangic": 2745.79,
+      "bitis": 2750.79,
+      "metin": "İlahi var ya çocuklar, sınava yakın ilahilere cumalara ağırlık verelim. Oldu mu?"
+    },
+    {
+      "baslangic": 2750.79,
+      "bitis": 2757.79,
+      "metin": "Ey rahmetik bol padişah. Cürmüm ile geldim sana. Cereme ile geldim sana."
+    },
+    {
+      "baslangic": 2757.79,
+      "bitis": 2762.79,
+      "metin": "Günahımla, suçumla geldim sana. Cereme suçlulardan alınan vergidir. Oldu mu?"
+    },
+    {
+      "baslangic": 2762.79,
+      "bitis": 2765.79,
+      "metin": "Evet. Canavar çocuklar, heyecanlanmayın."
+    },
+    {
+      "baslangic": 2765.79,
+      "bitis": 2769.79,
+      "metin": "Hocam diyor Osmanlı canavar mı? Ay ben şok diyor. Bir dur."
+    },
+    {
+      "baslangic": 2769.79,
+      "bitis": 2773.79,
+      "metin": "Dobuz vergisi işte Balkanlarda. Kantar vergisi. Oldu mu?"
+    },
+    {
+      "baslangic": 2773.79,
+      "bitis": 2785.31,
+      "metin": "Gençler, daha Niyabet Rüsmü var mesela, Niyabet Rüsmü, o da yönetçilerin koyduğu vergidir, Niyabet Rüsmü, yönetçilerin koyduğu vergidir."
+    },
+    {
+      "baslangic": 2785.31,
+      "bitis": 2794.83,
+      "metin": "Evet, Soru Bankamları bununla ilgili güzel sorular koydum, inşallah bu videoyu izleyip o soruları çözerseniz arkadaşlar, vergilerden keyfinize bakarsınız."
+    },
+    {
+      "baslangic": 2794.83,
+      "bitis": 2796.83,
+      "metin": "Ekonomi bizi biraz yordu."
+    },
+    {
+      "baslangic": 2796.83,
+      "bitis": 2797.83,
+      "metin": "Yordu yordu."
+    },
+    {
+      "baslangic": 2797.83,
+      "bitis": 2800.83,
+      "metin": "Zaten ekonomi gençler bizi her anlamda yoruyor."
+    },
+    {
+      "baslangic": 2800.83,
+      "bitis": 2802.83,
+      "metin": "Ülkecede yoruyor."
+    },
+    {
+      "baslangic": 2802.83,
+      "bitis": 2804.83,
+      "metin": "Burada yorulmuşuz çok mu Allah'ını seversen?"
+    },
+    {
+      "baslangic": 2804.83,
+      "bitis": 2806.83,
+      "metin": "Evet bir sonraki videoda görüşmek üzere."
+    }
+  ]
+}

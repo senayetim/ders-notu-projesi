@@ -1,0 +1,2675 @@
+{
+  "ses_dosyasi": "yuklenenler\\Osmanlı XVII. yy. Siyasi Tarihi 2. Bölüm .mp3",
+  "model": "medium",
+  "cihaz": "cuda",
+  "terimler": "",
+  "ses_suresi_sn": 2465.9,
+  "islem_suresi_sn": 158.5,
+  "parcalar": [
+    {
+      "baslangic": 5.65,
+      "bitis": 7.65,
+      "metin": "Merhaba değerli öğrencilerim."
+    },
+    {
+      "baslangic": 7.65,
+      "bitis": 10.15,
+      "metin": "Az önce isyanları gördük arkadaşlar değil mi?"
+    },
+    {
+      "baslangic": 10.15,
+      "bitis": 12.65,
+      "metin": "Şimdi nereye başlıyoruz? Siyasi tarihe başlıyoruz."
+    },
+    {
+      "baslangic": 12.65,
+      "bitis": 14.15,
+      "metin": "Siyasi tarihe."
+    },
+    {
+      "baslangic": 14.15,
+      "bitis": 17.65,
+      "metin": "Arkadaşlar burada siyasi tarih deyince oyundu yılda."
+    },
+    {
+      "baslangic": 17.65,
+      "bitis": 19.15,
+      "metin": "Kimle savaştık?"
+    },
+    {
+      "baslangic": 19.15,
+      "bitis": 20.65,
+      "metin": "Şifremiz var."
+    },
+    {
+      "baslangic": 20.65,
+      "bitis": 22.15,
+      "metin": "Varilim."
+    },
+    {
+      "baslangic": 22.15,
+      "bitis": 25.12,
+      "metin": "Varilim."
+    },
+    {
+      "baslangic": 25.12,
+      "bitis": 27.62,
+      "metin": "Hocam varilim kimdir?"
+    },
+    {
+      "baslangic": 27.62,
+      "bitis": 28.62,
+      "metin": "Kardeşlerim."
+    },
+    {
+      "baslangic": 28.62,
+      "bitis": 29.62,
+      "metin": "Varilim."
+    },
+    {
+      "baslangic": 29.62,
+      "bitis": 31.12,
+      "metin": "Venedik."
+    },
+    {
+      "baslangic": 31.12,
+      "bitis": 32.62,
+      "metin": "Avusturya."
+    },
+    {
+      "baslangic": 32.62,
+      "bitis": 33.62,
+      "metin": "Rusya."
+    },
+    {
+      "baslangic": 33.62,
+      "bitis": 35.12,
+      "metin": "İran."
+    },
+    {
+      "baslangic": 35.12,
+      "bitis": 37.4,
+      "metin": "Leyslan ve Malta."
+    },
+    {
+      "baslangic": 38.08,
+      "bitis": 38.6,
+      "metin": "Bu kadar."
+    },
+    {
+      "baslangic": 39.64,
+      "bitis": 45.36,
+      "metin": "Venedik, Avusturya, Rusya, İran, Leyslan ve Malta."
+    },
+    {
+      "baslangic": 46.08,
+      "bitis": 47.52,
+      "metin": "Şimdi zeki bir öğrenci ne yapar?"
+    },
+    {
+      "baslangic": 47.68,
+      "bitis": 49.64,
+      "metin": "Hemen anlaşmaları ezberlemeye gitmez."
+    },
+    {
+      "baslangic": 50.64,
+      "bitis": 51.68,
+      "metin": "Önce genelden gider."
+    },
+    {
+      "baslangic": 52.68,
+      "bitis": 54.16,
+      "metin": "Venedik, Akdeniz'de değil mi kardeşim?"
+    },
+    {
+      "baslangic": 54.4,
+      "bitis": 55.56,
+      "metin": "Biz Venedik'le niye savaştık?"
+    },
+    {
+      "baslangic": 55.8,
+      "bitis": 56.44,
+      "metin": "Akdeniz için."
+    },
+    {
+      "baslangic": 57.52,
+      "bitis": 60.08,
+      "metin": "Avusturya, Macaristan, Belgrad için."
+    },
+    {
+      "baslangic": 60.72,
+      "bitis": 62.76,
+      "metin": "Rusya, daha doğrudan savaşmayacağız."
+    },
+    {
+      "baslangic": 62.76,
+      "bitis": 65.76,
+      "metin": "İran, Doğu Anadolu, değil mi?"
+    },
+    {
+      "baslangic": 65.76,
+      "bitis": 67.76,
+      "metin": "Leyslan'ı şimdi göstereceğim."
+    },
+    {
+      "baslangic": 67.76,
+      "bitis": 71.76,
+      "metin": "Malta ile zaten baş başa savaşmayacağız, o kutsal intifaka katılacak."
+    },
+    {
+      "baslangic": 71.76,
+      "bitis": 73.76,
+      "metin": "O yüzden zeki bir öğrenci ne yapar?"
+    },
+    {
+      "baslangic": 73.76,
+      "bitis": 81.76,
+      "metin": "Harita mantığını oturtursa hangi savaştan sonra ne olmuş veya savaşlar niye olmuş, bunu yorumlayabilir."
+    },
+    {
+      "baslangic": 81.76,
+      "bitis": 83.76,
+      "metin": "O yüzden ben size ne yapacağım arkadaşlar şimdi?"
+    },
+    {
+      "baslangic": 83.76,
+      "bitis": 86.76,
+      "metin": "Bir harita tur attıracağım şöyle, altını çizeceğim."
+    },
+    {
+      "baslangic": 86.76,
+      "bitis": 88.76,
+      "metin": "Sonra da hep beraber burada yazarak işeceğiz."
+    },
+    {
+      "baslangic": 88.76,
+      "bitis": 90.76,
+      "metin": "Anlatabildim mi?"
+    },
+    {
+      "baslangic": 90.76,
+      "bitis": 91.76,
+      "metin": "Hazır mıyız?"
+    },
+    {
+      "baslangic": 91.76,
+      "bitis": 98.96,
+      "metin": "Hadi o zaman, hadi o zaman. Gençler ben geldim. Hadi bakalım."
+    },
+    {
+      "baslangic": 98.96,
+      "bitis": 102.68,
+      "metin": "Duraklama. Biz kimle savaşıyoruz? Venedik'le değil mi?"
+    },
+    {
+      "baslangic": 102.68,
+      "bitis": 105.92,
+      "metin": "Barilimden gidelim. Kardeşlerim Venedik Akdeniz'de değil miydi?"
+    },
+    {
+      "baslangic": 105.92,
+      "bitis": 111.84,
+      "metin": "Akdeniz'deydi. Hemen bir mantık kuralım. Fatih, Taşoğuz,"
+    },
+    {
+      "baslangic": 111.84,
+      "bitis": 114.36,
+      "metin": "Eğriboz tersim kaza aldı. Venedik'e imtiyaz vermişti"
+    },
+    {
+      "baslangic": 114.36,
+      "bitis": 119.12,
+      "metin": "hatırlarsanız. Ama tersim kaza aldı. Kanun ne yaptı?"
+    },
+    {
+      "baslangic": 119.12,
+      "bitis": 124.48,
+      "metin": "Recep Haticeme sakız aldı. İşte Rodos, Cezayir, Pireveze,"
+    },
+    {
+      "baslangic": 124.48,
+      "bitis": 129.08,
+      "metin": "Hint Deniz Seferleri, Trablusgarp, Cerbe, Malta'da"
+    },
+    {
+      "baslangic": 129.08,
+      "bitis": 133.88,
+      "metin": "şehit düştük. En son sakızı aldık. Peki Kıbrıs'ı kim"
+    },
+    {
+      "baslangic": 133.88,
+      "bitis": 137.48,
+      "metin": "fethetti? Sokullu. Bak Rodos'u aldık, Kıbrıs'ı aldık doğru"
+    },
+    {
+      "baslangic": 137.48,
+      "bitis": 142.04,
+      "metin": "mu? Gel. Bak G harfi. Bir tek girit kaldı gençler ya."
+    },
+    {
+      "baslangic": 142.04,
+      "bitis": 145.32,
+      "metin": "Yazacağım şimdi. Biz Veledik'le niçin savaşacağız?"
+    },
+    {
+      "baslangic": 145.32,
+      "bitis": 148.92,
+      "metin": "Girit için. Ve küçükken bu senin yazılı sorundur."
+    },
+    {
+      "baslangic": 148.92,
+      "bitis": 159.0,
+      "metin": "24 yıl sürecek bu. Tabi. Sebeb şu, Venedik çünkü çakallık yapacak, bizim boğazları kapatacak, bizi ablukaya alacak."
+    },
+    {
+      "baslangic": 159.0,
+      "bitis": 164.6,
+      "metin": "Burayı ablukaya alınca donanmanın buradan çıkışı zor olacak. O yüzden biz burayı 24 yılda fethedeceğiz."
+    },
+    {
+      "baslangic": 164.6,
+      "bitis": 171.0,
+      "metin": "Demek ki Venedik Akdeniz'de olduğunu düşünürsen gidip saçma sapan Belgrad'ı orayı buraya işaretlemezsin."
+    },
+    {
+      "baslangic": 171.0,
+      "bitis": 176.84,
+      "metin": "Venedik'e niye savaşırsın? Alamadığımız tekrardan hangisiymiş, girit. Biz diğerden zaten yükselmedi almıştık."
+    },
+    {
+      "baslangic": 176.84,
+      "bitis": 182.04,
+      "metin": "O zaman son ferah edeceğim aday Girit olacak, Ege'nin fethi tamamlanacak. Az sonra."
+    },
+    {
+      "baslangic": 182.04,
+      "bitis": 188.92,
+      "metin": "Gel kardeşim. Hocam, İran'da niye savaştık? Hadi gönlümden koptu."
+    },
+    {
+      "baslangic": 188.92,
+      "bitis": 191.4,
+      "metin": "İran'da niye savaştık Allah'ını seversen? Al."
+    },
+    {
+      "baslangic": 191.4,
+      "bitis": 194.76,
+      "metin": "Gel bakayım İran. Gel, gel, gel."
+    },
+    {
+      "baslangic": 194.76,
+      "bitis": 203.62,
+      "metin": "Kardeşlerim, İran'da önce Ak Koyunlar vardı. Uzun Hasan."
+    },
+    {
+      "baslangic": 203.62,
+      "bitis": 205.94,
+      "metin": "Fatih hangi savaşı yaptı?"
+    },
+    {
+      "baslangic": 205.94,
+      "bitis": 208.42,
+      "metin": "Fatih hangi savaşı yaptı? Otlukbeli."
+    },
+    {
+      "baslangic": 208.42,
+      "bitis": 214.5,
+      "metin": "Değil mi? Bak burada. Erzincan Erzurum arası. Otukbeli, Uzun Hasan Daraşı oldu."
+    },
+    {
+      "baslangic": 214.5,
+      "bitis": 222.22,
+      "metin": "Sonra 1502'de Ak Koyunlar Safevi oldu. Hatta bunlar Şahkul İsyan'ı çıkarttı 2. Bayezid döneminde."
+    },
+    {
+      "baslangic": 222.22,
+      "bitis": 227.42,
+      "metin": "Değil mi? Sonra Yavuz Sultan Selim, nereye sefer yaptı gençler? Bana."
+    },
+    {
+      "baslangic": 227.42,
+      "bitis": 233.42,
+      "metin": "Çaldıran. Evet. Çaldıran seferi. Yavuz zamanı. Hatırlarsanız."
+    },
+    {
+      "baslangic": 233.42,
+      "bitis": 239.02,
+      "metin": "Sonra Karn-ı Zaman'da ilk yazıra anlaşmayı yaptık, Amasya anlaşması arkadaşlar."
+    },
+    {
+      "baslangic": 239.02,
+      "bitis": 242.22,
+      "metin": "Şimdi size soruyorum, biz bu İran'da niye savaşıyoruz?"
+    },
+    {
+      "baslangic": 242.22,
+      "bitis": 249.34,
+      "metin": "Doğu Anadolu'ya gemili olmak, şuradan geçen yon İpek yolu, beş şiirik, bu kadar."
+    },
+    {
+      "baslangic": 249.34,
+      "bitis": 253.58,
+      "metin": "Geriye Ferhat Paşa neydi, Nasuh Paşa neydi, Kasih Şirin neydi? Hepsi bu."
+    },
+    {
+      "baslangic": 253.58,
+      "bitis": 255.26,
+      "metin": "Oldu mu anlatacağım."
+    },
+    {
+      "baslangic": 255.26,
+      "bitis": 258.22,
+      "metin": "Peki kardeşlerim, biz kimle savaşacağız?"
+    },
+    {
+      "baslangic": 258.22,
+      "bitis": 261.22,
+      "metin": "Venezuela'yı anlattım, İran'ı anlattım."
+    },
+    {
+      "baslangic": 261.22,
+      "bitis": 269.58,
+      "metin": "Avusturya, Karn-ı Sultan Süleyman burayı fethetmedi mi Belgrad'ın Macaristan'ı?"
+    },
+    {
+      "baslangic": 269.58,
+      "bitis": 272.58,
+      "metin": "E ondan sonra Avusturya'yla komşu olduk, aramız bozuldu. Değil mi?"
+    },
+    {
+      "baslangic": 272.58,
+      "bitis": 276.58,
+      "metin": "İşte bu dönemde de Avusturya'ya çok önemli savaşlar yapacağız."
+    },
+    {
+      "baslangic": 276.58,
+      "bitis": 278.58,
+      "metin": "Haçova Savaşı yapacağız."
+    },
+    {
+      "baslangic": 278.58,
+      "bitis": 280.58,
+      "metin": "Kanije ve Estermon savunmasını yapacağız."
+    },
+    {
+      "baslangic": 280.58,
+      "bitis": 283.58,
+      "metin": "Kanije-Estermon kaleleri bakın, tam göbekte."
+    },
+    {
+      "baslangic": 283.58,
+      "bitis": 285.58,
+      "metin": "Umarım görüyorsunuz."
+    },
+    {
+      "baslangic": 285.58,
+      "bitis": 288.58,
+      "metin": "Sonra Zitvatoluk anlaşmasını yapacağız kardeşlerim."
+    },
+    {
+      "baslangic": 288.58,
+      "bitis": 290.58,
+      "metin": "Demek ki sayısalcı kardeşim."
+    },
+    {
+      "baslangic": 290.58,
+      "bitis": 294.58,
+      "metin": "Biz Avustura'ya niye savaşıyoruz? Gidip Akdeniz için savaşmıyoruz."
+    },
+    {
+      "baslangic": 294.58,
+      "bitis": 298.58,
+      "metin": "Belgrad, Macaristan, Orta Avrupa."
+    },
+    {
+      "baslangic": 298.58,
+      "bitis": 300.58,
+      "metin": "Anlatabildim mi arkadaşlar?"
+    },
+    {
+      "baslangic": 300.58,
+      "bitis": 303.58,
+      "metin": "Zitvatorum deyince ilk kez duymuş gibi davranacaksın."
+    },
+    {
+      "baslangic": 303.58,
+      "bitis": 306.58,
+      "metin": "Ama Ahmet Hoca'nın kitabını aldığında al, al."
+    },
+    {
+      "baslangic": 306.58,
+      "bitis": 309.58,
+      "metin": "Haritada zitvatoru göreceksin."
+    },
+    {
+      "baslangic": 309.58,
+      "bitis": 311.58,
+      "metin": "Kanisha, Estergon!"
+    },
+    {
+      "baslangic": 311.58,
+      "bitis": 313.58,
+      "metin": "Tiryaki Hasan Paşa'yı duyacaksın."
+    },
+    {
+      "baslangic": 313.58,
+      "bitis": 315.58,
+      "metin": "Sonra ne alaka diyeceksin böyle bir?"
+    },
+    {
+      "baslangic": 315.58,
+      "bitis": 318.58,
+      "metin": "Haritaya bakıp ağzının payını alacaksın."
+    },
+    {
+      "baslangic": 318.58,
+      "bitis": 320.98,
+      "metin": "Anlatabildim mi? Tamam mıyız?"
+    },
+    {
+      "baslangic": 320.98,
+      "bitis": 325.82,
+      "metin": "Evet, Orta Avrupa'da Avusturya'yla, Doğu Anadolu için İran'la,"
+    },
+    {
+      "baslangic": 325.82,
+      "bitis": 328.22,
+      "metin": "Kardeşlerim Akdeniz için Melik'le."
+    },
+    {
+      "baslangic": 328.22,
+      "bitis": 330.54,
+      "metin": "Ya o şeyi çok ciddi almayın, Leyslan."
+    },
+    {
+      "baslangic": 330.54,
+      "bitis": 333.38,
+      "metin": "Gel şimdi, Leyslan neresi biliyor musunuz arkadaşlar?"
+    },
+    {
+      "baslangic": 333.38,
+      "bitis": 335.98,
+      "metin": "Aha burası, burası, burası bak."
+    },
+    {
+      "baslangic": 335.98,
+      "bitis": 339.18,
+      "metin": "Hatta Hotin Sefer'e gideceğiz değil mi?"
+    },
+    {
+      "baslangic": 339.18,
+      "bitis": 341.18,
+      "metin": "Ya biz Leyslan'da niye savaşırız?"
+    },
+    {
+      "baslangic": 341.18,
+      "bitis": 346.78,
+      "metin": "Leyslan şurası olursa o Erdel, Eflak, Bodan'ı sıkıştırabilir."
+    },
+    {
+      "baslangic": 346.78,
+      "bitis": 348.38,
+      "metin": "Arkadaşlar değil mi?"
+    },
+    {
+      "baslangic": 348.38,
+      "bitis": 350.06,
+      "metin": "Bu bölge için savaşacağız."
+    },
+    {
+      "baslangic": 350.06,
+      "bitis": 353.06,
+      "metin": "Hatta Ahmet Can sana anlatacak, çocuklar diyecek,"
+    },
+    {
+      "baslangic": 353.06,
+      "bitis": 355.98,
+      "metin": "''Lehistan'a sefere gittik, Hotin'i yaptık, Bucaş'ı yaptık.''"
+    },
+    {
+      "baslangic": 355.98,
+      "bitis": 358.94,
+      "metin": "Sarık Tarancım heyecanlanma."
+    },
+    {
+      "baslangic": 358.94,
+      "bitis": 361.5,
+      "metin": "Gençler, Podolia, Ukrayna bizim oldu."
+    },
+    {
+      "baslangic": 361.5,
+      "bitis": 364.14,
+      "metin": "Ah, Ukrayna burası işte."
+    },
+    {
+      "baslangic": 364.14,
+      "bitis": 367.26,
+      "metin": "Peki biz daha önce bu kadar yukarı çıkmış mıydık?"
+    },
+    {
+      "baslangic": 367.26,
+      "bitis": 368.86,
+      "metin": "Hayır, birazdan anlatacağım."
+    },
+    {
+      "baslangic": 368.86,
+      "bitis": 372.42,
+      "metin": "Lehistan'ı mağlup edince Ukrayna'yı alacağız,"
+    },
+    {
+      "baslangic": 372.42,
+      "bitis": 374.66,
+      "metin": "Batı'day'ın genesidir olacak."
+    },
+    {
+      "baslangic": 374.66,
+      "bitis": 385.5,
+      "metin": "İran'ı mağlup edeceğiz, gel İran'ı mağlup edeceğiz, gel İran, kardeşim İran'ı mağlup edince bize nereye verecek biliyor musun?"
+    },
+    {
+      "baslangic": 385.5,
+      "bitis": 397.5,
+      "metin": "Burayı. Dağıstan, Gürcistan. Doğuda en geniş sınır olacak. Tamam. O yüzden doğuda ve batıda en geniş sınırlara duraklama dediğimde ikna olman gerekiyor."
+    },
+    {
+      "baslangic": 397.5,
+      "bitis": 400.5,
+      "metin": "Duraklamanın niye duraklama olduğunu da anlatacağım zaten."
+    },
+    {
+      "baslangic": 400.5,
+      "bitis": 401.5,
+      "metin": "Niye öğrendik?"
+    },
+    {
+      "baslangic": 401.5,
+      "bitis": 405.5,
+      "metin": "İran'la Doğu Anadolu, Şiilik, İpek yolu için."
+    },
+    {
+      "baslangic": 405.5,
+      "bitis": 408.5,
+      "metin": "Avusturya'yla Orta Avrupa, Belgrad, Macaristan, Viyana için."
+    },
+    {
+      "baslangic": 408.5,
+      "bitis": 410.5,
+      "metin": "Leistan neredeymiş?"
+    },
+    {
+      "baslangic": 410.5,
+      "bitis": 412.5,
+      "metin": "Karadeniz'in üstü."
+    },
+    {
+      "baslangic": 412.5,
+      "bitis": 414.5,
+      "metin": "Kırım'ın üstü gençler."
+    },
+    {
+      "baslangic": 414.5,
+      "bitis": 418.5,
+      "metin": "Bak burada bir yerde Hotin yazıyordu hatırlarsanız."
+    },
+    {
+      "baslangic": 418.5,
+      "bitis": 424.65,
+      "metin": "Evet, bak Hotin seferi genç Osman."
+    },
+    {
+      "baslangic": 424.65,
+      "bitis": 431.93,
+      "metin": "Çünkü Ukrayna burada, Erdele oraya buraya baskı kuracak. Hepsi bu."
+    },
+    {
+      "baslangic": 431.93,
+      "bitis": 437.05,
+      "metin": "Anlaşabildik mi? Venedik'te de Akdeniz için gir için savaşacağız arkadaşlar."
+    },
+    {
+      "baslangic": 437.05,
+      "bitis": 444.01,
+      "metin": "O zaman Bismillah diyorum başlıyorum mesai mi? Hadi Serkan başlasın bizim mesai."
+    },
+    {
+      "baslangic": 444.01,
+      "bitis": 450.73,
+      "metin": "Evet. İlk kiminle başlayalım kardeşlerim? Hadi Bismillah diyelim Venedik'te başlayalım."
+    },
+    {
+      "baslangic": 450.73,
+      "bitis": 458.54,
+      "metin": "Yine ihtiyaç halinde haritaya dönerim. Alı mı?"
+    },
+    {
+      "baslangic": 458.54,
+      "bitis": 467.64,
+      "metin": "Evet, Osmanlı-Venedik ilişkileri, dakika bir gol bir. Hemen aradan çıkartalım bunları."
+    },
+    {
+      "baslangic": 467.64,
+      "bitis": 472.12,
+      "metin": "Evet, kitaptaki tabloda farklı yerde olabilir ama ben bu ders böyle başladım gençler."
+    },
+    {
+      "baslangic": 472.12,
+      "bitis": 478.8,
+      "metin": "Bir, neresi için savaşıyoruz? Neresi için?"
+    },
+    {
+      "baslangic": 478.8,
+      "bitis": 485.84,
+      "metin": "Girit için, değil mi? Evet, girit için savaşıyoruz."
+    },
+    {
+      "baslangic": 485.84,
+      "bitis": 492.05,
+      "metin": "Kardeşlerim, tam 24 yıl sürüyor. Neden uzun sürdü?"
+    },
+    {
+      "baslangic": 492.05,
+      "bitis": 503.32,
+      "metin": "Neden uzun sürdü? Çünkü Venedik gençler boğazları ablukaya"
+    },
+    {
+      "baslangic": 503.32,
+      "bitis": 510.18,
+      "metin": "almış. Boğazları ablukaya almış çıkamıyoruz. Bin altı yüz"
+    },
+    {
+      "baslangic": 510.18,
+      "bitis": 513.62,
+      "metin": "elli beşte bir saldırmış, yetmiş tane gemi batırmış. Bir"
+    },
+    {
+      "baslangic": 513.62,
+      "bitis": 518.98,
+      "metin": "de kardeşlerim donanmamız eski gücünde değil. Hatta ne"
+    },
+    {
+      "baslangic": 518.98,
+      "bitis": 522.46,
+      "metin": "yapsak olmamış. Kadırga gemilerimiz vardı. Kanyona"
+    },
+    {
+      "baslangic": 522.46,
+      "bitis": 527.02,
+      "metin": "geçmeye falan çalışmışız. Hani velediye karşı. Onu da tam"
+    },
+    {
+      "baslangic": 527.02,
+      "bitis": 530.66,
+      "metin": "beceremeyeceğiz. Öyle bir dönemdeyiz bu şeyde. Sonuçta"
+    },
+    {
+      "baslangic": 530.66,
+      "bitis": 534.94,
+      "metin": "yirmi dört yılda fethedeceğiz gençler. Hatırlayın bakayım"
+    },
+    {
+      "baslangic": 534.94,
+      "bitis": 539.7,
+      "metin": "alınmayan tek ada hangisiydi? Giritti. O yüzden buyurun son"
+    },
+    {
+      "baslangic": 539.7,
+      "bitis": 549.65,
+      "metin": "alınan büyük ada girit olacak. Girit. Ve biz girit için şu"
+    },
+    {
+      "baslangic": 549.65,
+      "bitis": 553.29,
+      "metin": "cümleyi kuracağız. Ege Adaları'nın fethi ne olduğu"
+    },
+    {
+      "baslangic": 553.29,
+      "bitis": 570.45,
+      "metin": "Bu tamamlandı. Oldu mu? Bu kadar. Venedik'i hallettim. Hadi gelin. Osmanlı-Lehistan ilişkileri."
+    },
+    {
+      "baslangic": 570.45,
+      "bitis": 578.01,
+      "metin": "Evet, Osmanlı-Lehistan ilişkileri. Hocam bu nedir? Polonya arkadaşlar. Niye savaşıyoruz?"
+    },
+    {
+      "baslangic": 578.01,
+      "bitis": 583.97,
+      "metin": "Ukrayna Kazakları Erdel ve Macaristan topraklarına baskı için, Eflâ'a baskı yaptığı için."
+    },
+    {
+      "baslangic": 584.97,
+      "bitis": 595.93,
+      "metin": "İlk olarak 2. Osman sefere çıkıyor. 1618. Ne seferi? Hotin seferi."
+    },
+    {
+      "baslangic": 595.93,
+      "bitis": 603.46,
+      "metin": "2. Osman sefere çıkıyor. Demin de anlatmıştık."
+    },
+    {
+      "baslangic": 603.46,
+      "bitis": 606.82,
+      "metin": "Bu seferde yeniçerilerin disiplinsizliğini görüyor."
+    },
+    {
+      "baslangic": 606.82,
+      "bitis": 616.3,
+      "metin": "O yüzden kardeşlerim Hotin seferi yeniçerinin kaldırılma fikrinin oluştuğu seferdir."
+    },
+    {
+      "baslangic": 616.3,
+      "bitis": 617.86,
+      "metin": "Bu bir."
+    },
+    {
+      "baslangic": 617.86,
+      "bitis": 624.58,
+      "metin": "İkincisi Hotin anlaşması yapılacak, leistan bize vergi ödeyecek."
+    },
+    {
+      "baslangic": 624.58,
+      "bitis": 627.34,
+      "metin": "Vergiyi de cebimize atmıyoruz ha."
+    },
+    {
+      "baslangic": 627.34,
+      "bitis": 630.3,
+      "metin": "Kırma gönderiyoruz gariban Türk şehrini."
+    },
+    {
+      "baslangic": 630.3,
+      "bitis": 631.7,
+      "metin": "Oldu mu?"
+    },
+    {
+      "baslangic": 631.7,
+      "bitis": 633.46,
+      "metin": "Bu birincisi."
+    },
+    {
+      "baslangic": 633.46,
+      "bitis": 641.46,
+      "metin": "İkincisi kardeşlerim, padişah sırası çok önemli değil ama ben önemli olduğu için, bu olay önemli olduğu için yazıyorum."
+    },
+    {
+      "baslangic": 641.46,
+      "bitis": 648.46,
+      "metin": "Dördüncü Mehmet zamanında, siz dördüncü Mehmet diye çalışmanıza gerek yok yani, panik yapmayın."
+    },
+    {
+      "baslangic": 648.46,
+      "bitis": 653.46,
+      "metin": "Siz coğrafya bilin, anlaşmaların önemini bilin. Bu kadar."
+    },
+    {
+      "baslangic": 653.46,
+      "bitis": 657.46,
+      "metin": "Dördüncü Mehmet zamanında gideceğiz, denistanı mağlup edeceğiz."
+    },
+    {
+      "baslangic": 657.46,
+      "bitis": 662.3,
+      "metin": "1672'de hangi anlaşmayı yapacağız?"
+    },
+    {
+      "baslangic": 662.3,
+      "bitis": 664.3,
+      "metin": "Bucaş anlaşması."
+    },
+    {
+      "baslangic": 664.3,
+      "bitis": 672.74,
+      "metin": "Oldu mu? Bucaş."
+    },
+    {
+      "baslangic": 672.74,
+      "bitis": 675.54,
+      "metin": "Kardeşlerim bu anlaşmayla şöyle olacak."
+    },
+    {
+      "baslangic": 675.54,
+      "bitis": 684.1,
+      "metin": "Bir, Podolia, Ukrayna bizim."
+    },
+    {
+      "baslangic": 684.1,
+      "bitis": 688.98,
+      "metin": "Demin haritada gösterdim."
+    },
+    {
+      "baslangic": 688.98,
+      "bitis": 693.06,
+      "metin": "En tepesi Podolia-Ukrayna, yani Kırım'ın da üstü."
+    },
+    {
+      "baslangic": 693.06,
+      "bitis": 695.06,
+      "metin": "Biz daha önce bu kadar yukarı çıkmadık."
+    },
+    {
+      "baslangic": 695.06,
+      "bitis": 703.5,
+      "metin": "O zaman surprise. Batı'da en geniş sınırlara ulaştığım anlaşma."
+    },
+    {
+      "baslangic": 703.5,
+      "bitis": 709.66,
+      "metin": "Duraklama dolaşıyorum aynen. Çocuklar. Hatta benim lisede hocam vardı."
+    },
+    {
+      "baslangic": 709.66,
+      "bitis": 715.22,
+      "metin": "İsmi Fevzi Karabekir. İsme bak. Kazım Karabekir'le Fevzi Çakmak karışımı."
+    },
+    {
+      "baslangic": 715.22,
+      "bitis": 720.86,
+      "metin": "Tam bir Atatürkçü. Tok birisesi vardı. Yaşıyorsa Cenab-ı Allah hayırlı ömür versin."
+    },
+    {
+      "baslangic": 720.86,
+      "bitis": 722.86,
+      "metin": "vefat etse rahmet eylesin."
+    },
+    {
+      "baslangic": 722.86,
+      "bitis": 725.3,
+      "metin": "Hoca bize teneffüse selam verinde gençler mutlu olurduk."
+    },
+    {
+      "baslangic": 725.3,
+      "bitis": 727.3,
+      "metin": "Yani biz öyle bir nesildik."
+    },
+    {
+      "baslangic": 727.3,
+      "bitis": 730.1,
+      "metin": "Çok güzel notlar yazdırırdı, kolumuz kopardı."
+    },
+    {
+      "baslangic": 730.1,
+      "bitis": 733.42,
+      "metin": "Ne kadar iyi notlar yazdırdığını tarih bölümünü okuyunca anladım."
+    },
+    {
+      "baslangic": 733.42,
+      "bitis": 735.7,
+      "metin": "Öyle söyleyeyim, o derdi."
+    },
+    {
+      "baslangic": 735.7,
+      "bitis": 739.46,
+      "metin": "Osmanlı'nın topraklarına toprak kattığı son anlaşma diye."
+    },
+    {
+      "baslangic": 739.46,
+      "bitis": 742.58,
+      "metin": "Osmanlı'nın topraklarına toprak kattığı,"
+    },
+    {
+      "baslangic": 742.58,
+      "bitis": 748.94,
+      "metin": "kaybetmeden taş üstüne taş koyduğu son anlaşma bucaş."
+    },
+    {
+      "baslangic": 748.94,
+      "bitis": 757.27,
+      "metin": "Topraklarımıza toprak kattık."
+    },
+    {
+      "baslangic": 757.27,
+      "bitis": 763.39,
+      "metin": "oldu mu? Evet gençler burada aslında Leistan'ın vergisi de"
+    },
+    {
+      "baslangic": 763.39,
+      "bitis": 767.71,
+      "metin": "vardı ama vergi maddesi sonradan iptal oldu. Leistan'ın"
+    },
+    {
+      "baslangic": 767.71,
+      "bitis": 771.79,
+      "metin": "diyet meclisi vardı. Diyet meclisi bunu iptal etti"
+    },
+    {
+      "baslangic": 771.79,
+      "bitis": 775.39,
+      "metin": "bağımsızlığa aykırı diye. Sizden ricam, gerit için"
+    },
+    {
+      "baslangic": 775.39,
+      "bitis": 778.79,
+      "metin": "böylelikle Leistan'da ne yapmışız gençler? Hotin"
+    },
+    {
+      "baslangic": 778.79,
+      "bitis": 783.03,
+      "metin": "anlaşması, Hotin anlaşması ve Bucaş anlaşması. Bu kadar."
+    },
+    {
+      "baslangic": 783.03,
+      "bitis": 802.42,
+      "metin": "Şimdi nereye geldim? İran. Hadi bakalım. Serkan'ım nereye bakayım? Osmanlı-İran ilişkileri. Evet, doğru kameradayım değil mi? Tamam."
+    },
+    {
+      "baslangic": 802.42,
+      "bitis": 810.42,
+      "metin": "Gençler Osmanlı-İran ilişkileri. Yani mal mal ters çöne bakmak istemiyorum, o yüzden söylüyorum. Osmanlı-İran ilişkileri."
+    },
+    {
+      "baslangic": 810.42,
+      "bitis": 818.62,
+      "metin": "Sana bir jest yapıyorum, sevgili kardeşlerim, Fatih Sultan Mehmet, otluk beyle,"
+    },
+    {
+      "baslangic": 818.62,
+      "bitis": 821.86,
+      "metin": "kimle yapmıştı? Akkoyunlarla. Çok kısa yazdım."
+    },
+    {
+      "baslangic": 821.86,
+      "bitis": 825.74,
+      "metin": "Sonra Akkoyunlar kime dönüştü? Safaviler'e, değil mi?"
+    },
+    {
+      "baslangic": 825.74,
+      "bitis": 832.42,
+      "metin": "Yavuz Sultan Selim, Çaldıran Seferini yaptı. Kısa yazıyorum, değil mi?"
+    },
+    {
+      "baslangic": 832.42,
+      "bitis": 843.14,
+      "metin": "Karn-ı Sultan Süleyman ilk yazın anlaşmayı yaptı, 1555 Amasya, değil mi? Bunları hatırladık."
+    },
+    {
+      "baslangic": 843.14,
+      "bitis": 848.42,
+      "metin": "Ana sebepler neydi İran'la? Doğu Anadolu, Şiilik, İpek yolu."
+    },
+    {
+      "baslangic": 848.42,
+      "bitis": 859.78,
+      "metin": "Kardeşlerim, 3. Mehmed zamanında, pardon 3. Murat zamanında 1590 yılında bir savaş yapıyoruz, Meşale Savaşı."
+    },
+    {
+      "baslangic": 859.78,
+      "bitis": 863.82,
+      "metin": "Osmanlı askerleri gece ışık yaktığı için savaşın ismi"
+    },
+    {
+      "baslangic": 863.82,
+      "bitis": 867.14,
+      "metin": "meşalidir. MEP kazanım testinde geçiyor bu. O yüzden"
+    },
+    {
+      "baslangic": 867.14,
+      "bitis": 871.54,
+      "metin": "anlatıyorum. Biz bu savaşı kazanacağız. Hangi anlaşma"
+    },
+    {
+      "baslangic": 871.54,
+      "bitis": 879.82,
+      "metin": "yapacağız biliyor musunuz? Ferhat Paşa. Evet dakika bir,"
+    },
+    {
+      "baslangic": 879.82,
+      "bitis": 883.22,
+      "metin": "gol bir. Üçüncü Mehmet zamanında Ferhat Paşa"
+    },
+    {
+      "baslangic": 883.22,
+      "bitis": 886.22,
+      "metin": "anlaşmasını yapacağız. Kardeşlerim bu anlaşmaya göre"
+    },
+    {
+      "baslangic": 886.22,
+      "bitis": 899.18,
+      "metin": "dağıstan, Gürcistan bizde. Dağıstan ve Gürcistan bizde. O zaman"
+    },
+    {
+      "baslangic": 899.18,
+      "bitis": 911.2,
+      "metin": "topla bunu. Oh. Doğuda en geniş sınırlar. Oldu mu? Doğuda"
+    },
+    {
+      "baslangic": 911.2,
+      "bitis": 914.2,
+      "metin": "en geniş sınır neymiş arkadaşlar? Ferhat Paşa. Sonra"
+    },
+    {
+      "baslangic": 914.2,
+      "bitis": 919.0,
+      "metin": "ne oldu? Bir yandan bana Avusturya saldırdı, bir yandan"
+    },
+    {
+      "baslangic": 919.0,
+      "bitis": 924.08,
+      "metin": "celali isyanları çıktı. O zaman İran bundan faydalanır mı? Evet. Formülü"
+    },
+    {
+      "baslangic": 924.08,
+      "bitis": 928.4,
+      "metin": "ilinle şimdi. Doğu dengenistinleri gölgeçtir. Formülü ilinle."
+    },
+    {
+      "baslangic": 928.4,
+      "bitis": 954.68,
+      "metin": "Kardeşlerim, İran ve Celali yüzünden yanlış yazdım. Avusturya ve Celali yüzünden bunu"
+    },
+    {
+      "baslangic": 954.68,
+      "bitis": 961.28,
+      "metin": "fırsat bilen İran, toplayın bunu, durumu toplayın. Bize ne"
+    },
+    {
+      "baslangic": 961.28,
+      "bitis": 964.44,
+      "metin": "yapacak arkadaşlar? Üstünlük sağlayacak. Bin altı yüz"
+    },
+    {
+      "baslangic": 964.44,
+      "bitis": 970.24,
+      "metin": "on bir de hangi anlaşma yapacağız Nasuh Paşa? Gençler"
+    },
+    {
+      "baslangic": 970.24,
+      "bitis": 974.32,
+      "metin": "aldığımızı geri vereceğiz. O zaman buyurun. Doğuda ilk"
+    },
+    {
+      "baslangic": 974.32,
+      "bitis": 983.58,
+      "metin": "ciddi toprak kaybı. Yorum sorusu, niye toprak kaybettik?"
+    },
+    {
+      "baslangic": 983.58,
+      "bitis": 986.34,
+      "metin": "Batı'da Avusturya, işte Celal İstiyanları çıktı için."
+    },
+    {
+      "baslangic": 986.34,
+      "bitis": 989.86,
+      "metin": "Doğuda en genişsizdir Ferhat Paşa. Doğuda ilk toprak"
+    },
+    {
+      "baslangic": 989.86,
+      "bitis": 995.86,
+      "metin": "kaybı Nasuh Paşa. Tamam. Bir de işte Amasya vardı falan demeyin. Tekrar yaparak geldim."
+    },
+    {
+      "baslangic": 995.86,
+      "bitis": 1005.34,
+      "metin": "Tahtanın güzelliği bu. Gençler arkasından bin altı yüz on sekizde bir antlaşma daha yapacağız."
+    },
+    {
+      "baslangic": 1005.34,
+      "bitis": 1012.42,
+      "metin": "Serav Antlaşması. Hiç önemli değil. İran'la yapıldığını bilin. Neden? Tek maddesi var."
+    },
+    {
+      "baslangic": 1012.42,
+      "bitis": 1024.42,
+      "metin": "yüz deve ipek maddesi var. Şimdi asıl konuya geldik. Asıl konuya geldik. Evet, dördüncü Murat zamanında, İran'a devam ediyoruz gençler."
+    },
+    {
+      "baslangic": 1024.42,
+      "bitis": 1033.42,
+      "metin": "Bağdat Subaşı'sı öldürülmüş. Bağdat Subaşı'sı öldürünce İran tarafından Murat sefere çıkıyor."
+    },
+    {
+      "baslangic": 1033.42,
+      "bitis": 1039.82,
+      "metin": "O yüzden İran'la en uzun savaşlar bu dönemdedir."
+    },
+    {
+      "baslangic": 1039.82,
+      "bitis": 1046.28,
+      "metin": "Burada bir de komutan var. Bağdat'ın kapısını Genç Osman açtı."
+    },
+    {
+      "baslangic": 1046.28,
+      "bitis": 1051.4,
+      "metin": "Genç Osman maaşı. O bizim ikinci Osman değil çocuklar. Tabii komutan Osman'ı."
+    },
+    {
+      "baslangic": 1051.4,
+      "bitis": 1054.52,
+      "metin": "En uzun savaşlar Dördüncü Murat zamanında başlayacak."
+    },
+    {
+      "baslangic": 1054.52,
+      "bitis": 1059.56,
+      "metin": "Bağdat'ı İran ere geçirmişti. Murat gidecek, Bağdat'ı tekrar alacak."
+    },
+    {
+      "baslangic": 1059.56,
+      "bitis": 1065.16,
+      "metin": "O yüzden Dördüncü Murat'ın diğer ismi, ünvanı Bağdat Fatih'idir."
+    },
+    {
+      "baslangic": 1065.16,
+      "bitis": 1078.48,
+      "metin": "Hatta buna ithafen İstanbul'da revan ve başarı ithafen Bağdat köşkleri yapılacak."
+    },
+    {
+      "baslangic": 1078.48,
+      "bitis": 1082.92,
+      "metin": "Evet, yeni nesil soru geliyor."
+    },
+    {
+      "baslangic": 1082.92,
+      "bitis": 1089.68,
+      "metin": "Buyrun, revan ve Bağdat köşklerini resmeden bir minyatür hangi padişah dönemini işlemektedir?"
+    },
+    {
+      "baslangic": 1089.68,
+      "bitis": 1092.0,
+      "metin": "Dörcü Murat, oldu mu?"
+    },
+    {
+      "baslangic": 1092.0,
+      "bitis": 1101.76,
+      "metin": "Buyurun kardeşlerim, arkasından İran'la 1639'da herkesin küçükken duyduğu bir anlaşma yapacağız."
+    },
+    {
+      "baslangic": 1101.76,
+      "bitis": 1109.76,
+      "metin": "Ne anlaşması? Kasr-ı Şirin anlaşması. Evet, Kasr-ı Şirin."
+    },
+    {
+      "baslangic": 1109.76,
+      "bitis": 1129.47,
+      "metin": "Buyurun, içeriye şu, Bağdat Osmanlı'da, Azerbaycan, Rewan, İran'da, Zavros dağları sınır."
+    },
+    {
+      "baslangic": 1129.47,
+      "bitis": 1141.23,
+      "metin": "Zavros dağları sınır. Evet. Gençler, o zaman buyurun, günümüz Türk-Türk-İran sınırı."
+    },
+    {
+      "baslangic": 1141.23,
+      "bitis": 1148.23,
+      "metin": "Günümüz Türk-İran sınırı hangi anlaşmalıymış Karşı Çin'in."
+    },
+    {
+      "baslangic": 1148.23,
+      "bitis": 1150.23,
+      "metin": "Toparlayalım."
+    },
+    {
+      "baslangic": 1150.23,
+      "bitis": 1153.23,
+      "metin": "Otlukbeli, Akkoyun, Fatih."
+    },
+    {
+      "baslangic": 1153.23,
+      "bitis": 1156.23,
+      "metin": "Çaldıran Safaviler, Yavuz."
+    },
+    {
+      "baslangic": 1156.23,
+      "bitis": 1160.23,
+      "metin": "İran'la ilk gezel anlaşma Amasya, değil mi?"
+    },
+    {
+      "baslangic": 1160.23,
+      "bitis": 1164.23,
+      "metin": "3. Murat zamanında yapılan Doğu'da en geniş sınır Ferhat Paşa."
+    },
+    {
+      "baslangic": 1164.23,
+      "bitis": 1167.23,
+      "metin": "Doğu'da ilk toprak kaybı Nasuh Paşa."
+    },
+    {
+      "baslangic": 1167.23,
+      "bitis": 1170.79,
+      "metin": "Paşa, kimi yüzünden kaybettik? Avustura ve Celal Tehlikesi'nden"
+    },
+    {
+      "baslangic": 1170.79,
+      "bitis": 1175.75,
+      "metin": "dolayı. Bağdat Fatih'i kimmiş? Dörüncü Murat, Türk İransı'nda"
+    },
+    {
+      "baslangic": 1175.75,
+      "bitis": 1180.35,
+      "metin": "neymiş? Kası, Şirin. Leysa'na iki sefer yapmışsın. Hotin ve"
+    },
+    {
+      "baslangic": 1180.35,
+      "bitis": 1183.79,
+      "metin": "Bucaş. Hotin'i Yeniçeri'ye bağla. Bucaş'ı Engel'in"
+    },
+    {
+      "baslangic": 1183.79,
+      "bitis": 1187.51,
+      "metin": "sınırına bağla. Venedik'te hangi ad için yaptın? Girit."
+    },
+    {
+      "baslangic": 1187.51,
+      "bitis": 1190.11,
+      "metin": "Zaten bir tek oraya almamıştın. Doğru mu? Evet."
+    },
+    {
+      "baslangic": 1190.11,
+      "bitis": 1193.03,
+      "metin": "Şu ana kadar hiç duraklama gibi değil değil mi gençler?"
+    },
+    {
+      "baslangic": 1193.03,
+      "bitis": 1194.31,
+      "metin": "Yani durum iyi gibi."
+    },
+    {
+      "baslangic": 1195.59,
+      "bitis": 1199.17,
+      "metin": "Zaten duraklama gibi olması 1670'den sonra başlayacak."
+    },
+    {
+      "baslangic": 1199.43,
+      "bitis": 1200.71,
+      "metin": "1683,"
+    },
+    {
+      "baslangic": 1201.23,
+      "bitis": 1203.27,
+      "metin": "ikinci Viyana kuşatmasından sonra başlayacak."
+    },
+    {
+      "baslangic": 1203.53,
+      "bitis": 1204.29,
+      "metin": "O zaman,"
+    },
+    {
+      "baslangic": 1204.55,
+      "bitis": 1205.57,
+      "metin": "ben bir tahtayı sileyim,"
+    },
+    {
+      "baslangic": 1205.83,
+      "bitis": 1206.59,
+      "metin": "tahtamayı alayım,"
+    },
+    {
+      "baslangic": 1206.85,
+      "bitis": 1208.13,
+      "metin": "oradan devam edelim, oldu mu?"
+    },
+    {
+      "baslangic": 1208.39,
+      "bitis": 1208.89,
+      "metin": "Hadi bakalım."
+    },
+    {
+      "baslangic": 1209.15,
+      "bitis": 1210.69,
+      "metin": "Evet kardeşlerim, tahtamı hazırladım."
+    },
+    {
+      "baslangic": 1211.97,
+      "bitis": 1214.53,
+      "metin": "Avusturya biz Habsburglar diyorduk hatırlarsanız değil mi?"
+    },
+    {
+      "baslangic": 1214.79,
+      "bitis": 1215.81,
+      "metin": "Macaristan,"
+    },
+    {
+      "baslangic": 1216.07,
+      "bitis": 1216.57,
+      "metin": "Viyana,"
+    },
+    {
+      "baslangic": 1216.83,
+      "bitis": 1218.11,
+      "metin": "Belgrad, Orta Avrupa,"
+    },
+    {
+      "baslangic": 1218.37,
+      "bitis": 1219.15,
+      "metin": "Eflak, Bodan"
+    },
+    {
+      "baslangic": 1219.39,
+      "bitis": 1220.93,
+      "metin": "savaş sebebimizdi arkadaşlar."
+    },
+    {
+      "baslangic": 1221.71,
+      "bitis": 1222.47,
+      "metin": "Gelin böyle,"
+    },
+    {
+      "baslangic": 1222.47,
+      "bitis": 1226.47,
+      "metin": "Duraklamada ne oldu? Arkadaşlar şuradan başlayalım."
+    },
+    {
+      "baslangic": 1226.47,
+      "bitis": 1233.47,
+      "metin": "Üçüncü Mehmet hem detaylı hem pratik hem kronolojik gideceğiz."
+    },
+    {
+      "baslangic": 1233.47,
+      "bitis": 1237.47,
+      "metin": "Çok iddialı oldu. Hem detaylı hem pratik hem kronolojik."
+    },
+    {
+      "baslangic": 1237.47,
+      "bitis": 1242.47,
+      "metin": "Üçüncü Mehmet kardeşlerim Eğri Kalesi'ni fethetti 1595'te."
+    },
+    {
+      "baslangic": 1242.47,
+      "bitis": 1247.47,
+      "metin": "O yüzden üçüncü Mehmet'in adı Eğri Fatih'idir."
+    },
+    {
+      "baslangic": 1247.47,
+      "bitis": 1252.07,
+      "metin": "Zalım Mehmet hani sancaktan son gelen en çok kardeşini öldüren."
+    },
+    {
+      "baslangic": 1252.07,
+      "bitis": 1263.15,
+      "metin": "Üçüncü Mehmet Eğri Kalesi'ni fethedince bu bir yıl sonra 1596'da bir savaşa sebep oldu."
+    },
+    {
+      "baslangic": 1263.15,
+      "bitis": 1265.63,
+      "metin": "Hacchova Savaşı."
+    },
+    {
+      "baslangic": 1265.63,
+      "bitis": 1275.39,
+      "metin": "Bu bizim alan sorumuz gençler. Böyle anlatmama bakmayın valla."
+    },
+    {
+      "baslangic": 1275.39,
+      "bitis": 1279.71,
+      "metin": "Eğri Kalesi'nin fethi neye sebep olmuş? Avustura'yla Hacchova Savaşı, meydan savaşı."
+    },
+    {
+      "baslangic": 1279.71,
+      "bitis": 1282.59,
+      "metin": "Bu savaştan bir yorum sorusu bekliyorum."
+    },
+    {
+      "baslangic": 1282.59,
+      "bitis": 1300.98,
+      "metin": "Neden? Bu savaş sırasında sadrazam Sinan Paşa sayım yapmış arkadaşlar asker sayımı ve yayınladığı emirle asker kaçakların mallarına el koydurmuş."
+    },
+    {
+      "baslangic": 1300.98,
+      "bitis": 1307.22,
+      "metin": "Bu sefer ne olmuş? Mallarına el koyulan insanlar isyan çıkarmış."
+    },
+    {
+      "baslangic": 1307.22,
+      "bitis": 1312.5,
+      "metin": "Tabii. O yüzden böyle bir paragraf sorusu gelebilir. Bu yeniçeri sayımı değil. Genel bir asker sayımı."
+    },
+    {
+      "baslangic": 1312.5,
+      "bitis": 1319.5,
+      "metin": "Tamam mı? Asker sayımı yapılıyor bu savaş sırasında, asker kaçaklarının malına el konulunca, bu da neye sebep oluyor?"
+    },
+    {
+      "baslangic": 1319.5,
+      "bitis": 1323.5,
+      "metin": "Anadolu'da celali isyanlarının büyümesine sebep oluyor. Bu bir."
+    },
+    {
+      "baslangic": 1323.5,
+      "bitis": 1332.5,
+      "metin": "İkincisi, bu savaş sırasında büyük bir celali isyanı yaşanacak. Ne isyanı? Karayazıcı."
+    },
+    {
+      "baslangic": 1332.5,
+      "bitis": 1337.5,
+      "metin": "Karayazıcı buraya denk geliyor. Biz bu savaşta normalde çok başarılayız gençler."
+    },
+    {
+      "baslangic": 1337.5,
+      "bitis": 1341.94,
+      "metin": "Hatta padişah otağına üçüncü Mehmet sefere çıkıyor."
+    },
+    {
+      "baslangic": 1341.94,
+      "bitis": 1344.34,
+      "metin": "Şeyhülislam'ın gazıyla beraber."
+    },
+    {
+      "baslangic": 1344.34,
+      "bitis": 1348.78,
+      "metin": "Biliyorsunuz belki demişimdir ikinci Selim'den sonra padişahlar ordunun başına sefere"
+    },
+    {
+      "baslangic": 1348.78,
+      "bitis": 1349.78,
+      "metin": "çıkmayı bırakıyor."
+    },
+    {
+      "baslangic": 1349.78,
+      "bitis": 1350.78,
+      "metin": "İstanbul'u boş bırakmamak için."
+    },
+    {
+      "baslangic": 1350.78,
+      "bitis": 1357.42,
+      "metin": "Üçüncü Mehmet, şeyhülislam'ın gazıyla sefere çıkacak."
+    },
+    {
+      "baslangic": 1357.42,
+      "bitis": 1359.34,
+      "metin": "Bu büyük bir moral olacak arkadaşlar."
+    },
+    {
+      "baslangic": 1359.34,
+      "bitis": 1361.38,
+      "metin": "İşte eğri fatihi falan filan."
+    },
+    {
+      "baslangic": 1361.38,
+      "bitis": 1364.5,
+      "metin": "Padişah otağına kadar Avusturyalar yaklaşacaklar."
+    },
+    {
+      "baslangic": 1364.5,
+      "bitis": 1367.3,
+      "metin": "Savaşı kaybetme tehlikesi çok fazla."
+    },
+    {
+      "baslangic": 1367.3,
+      "bitis": 1374.3,
+      "metin": "Daha sonra bu Avusturyalı gerizekalılar galiba savaşı kazandık diye eğlenceye, partiye başlıyorlar."
+    },
+    {
+      "baslangic": 1374.3,
+      "bitis": 1376.3,
+      "metin": "Lıkır lıkır lıkır lıkır içiyorlar."
+    },
+    {
+      "baslangic": 1376.3,
+      "bitis": 1377.3,
+      "metin": "Bibayettir bu."
+    },
+    {
+      "baslangic": 1377.3,
+      "bitis": 1379.3,
+      "metin": "Sabah bir kalkmışlar ki."
+    },
+    {
+      "baslangic": 1379.3,
+      "bitis": 1380.3,
+      "metin": "Surprise!"
+    },
+    {
+      "baslangic": 1380.3,
+      "bitis": 1382.3,
+      "metin": "Atalan Üsküdar'a geçmiş."
+    },
+    {
+      "baslangic": 1382.3,
+      "bitis": 1384.3,
+      "metin": "Savaşı biz kazanmışız."
+    },
+    {
+      "baslangic": 1384.3,
+      "bitis": 1385.3,
+      "metin": "Oldu mu?"
+    },
+    {
+      "baslangic": 1385.3,
+      "bitis": 1388.3,
+      "metin": "Ben o yüzden gençler alkol kullanmıyorum ama alanları severim."
+    },
+    {
+      "baslangic": 1388.3,
+      "bitis": 1389.3,
+      "metin": "Niye?"
+    },
+    {
+      "baslangic": 1389.3,
+      "bitis": 1390.3,
+      "metin": "Bir bunlardan dolayı severim."
+    },
+    {
+      "baslangic": 1390.3,
+      "bitis": 1392.3,
+      "metin": "İki, çok vergi veriyorlar miniyetçiler."
+    },
+    {
+      "baslangic": 1392.3,
+      "bitis": 1396.66,
+      "metin": "yetiştiler. Üç, alkol içenler, adam akıl içenlerin sofrası"
+    },
+    {
+      "baslangic": 1396.66,
+      "bitis": 1399.5,
+      "metin": "lezzetlidir. Yani ikramı güzel olur. Yancıyım ben,"
+    },
+    {
+      "baslangic": 1399.5,
+      "bitis": 1402.94,
+      "metin": "meze yerim. Osman da bak ne güzel bunlar alkol almışlar."
+    },
+    {
+      "baslangic": 1402.94,
+      "bitis": 1407.06,
+      "metin": "Oh biz de savaşı almışız. Arkasından bunlar uyanıyorlar."
+    },
+    {
+      "baslangic": 1407.06,
+      "bitis": 1409.66,
+      "metin": "Ne oldu lan bize diyorlar? Bakıyorlar ki savaşta"
+    },
+    {
+      "baslangic": 1409.66,
+      "bitis": 1418.14,
+      "metin": "mağarup olmuşlar. O sinirle o sinirle kanije ve estergon"
+    },
+    {
+      "baslangic": 1418.14,
+      "bitis": 1422.34,
+      "metin": "kanelerini kuşatıyorlar. Haritada göstermiştim, kitabınıza"
+    },
+    {
+      "baslangic": 1422.34,
+      "bitis": 1428.06,
+      "metin": "da var. Orada da bir vatan evladı var çocuklar. Kanice ve"
+    },
+    {
+      "baslangic": 1428.06,
+      "bitis": 1432.82,
+      "metin": "Estergon'da vatan evladımız kimmiş? Tiryaki Hasan Paşa."
+    },
+    {
+      "baslangic": 1432.82,
+      "bitis": 1441.13,
+      "metin": "Yirmi beş bin kişilik Avusturya ordusu olduğu"
+    },
+    {
+      "baslangic": 1441.13,
+      "bitis": 1444.05,
+      "metin": "söyledi. Üç bin kişilik orduyla kaleyi onlara"
+    },
+    {
+      "baslangic": 1444.05,
+      "bitis": 1447.97,
+      "metin": "teslim etmemiş. En son takdini söyleyeyim Avusturya"
+    },
+    {
+      "baslangic": 1447.97,
+      "bitis": 1450.85,
+      "metin": "askerinin arasına mektup atmış. Osmanlı büyük bir"
+    },
+    {
+      "baslangic": 1450.85,
+      "bitis": 1453.97,
+      "metin": "orduyla geliyor falan filan diye. Öyle bir ordu falan yok."
+    },
+    {
+      "baslangic": 1453.97,
+      "bitis": 1458.05,
+      "metin": "Olsun. Vatanını savunmuş, kaleyi terk etmemiş. Hatta"
+    },
+    {
+      "baslangic": 1458.05,
+      "bitis": 1461.41,
+      "metin": "bundan dolayı vezir olacak gençler. Kalıcı Esterman bizde"
+    },
+    {
+      "baslangic": 1461.41,
+      "bitis": 1464.77,
+      "metin": "kaldı mı? Kaldı. Sonra kardeşlerim ne olmuş?"
+    },
+    {
+      "baslangic": 1464.77,
+      "bitis": 1470.37,
+      "metin": "Söyleyeyim. Bir yandan celali isyanı. Bakın bir yandan"
+    },
+    {
+      "baslangic": 1470.37,
+      "bitis": 1476.05,
+      "metin": "celali isyanı değil mi? Bir yandan İran, denklemi doğru"
+    },
+    {
+      "baslangic": 1476.05,
+      "bitis": 1480.45,
+      "metin": "kurun. Bir yandan celali bir yandan İran olursa Osmanlı"
+    },
+    {
+      "baslangic": 1480.45,
+      "bitis": 1485.17,
+      "metin": "zor olur. Osmanlı askeri başarısızlığı olmamasa rağmen"
+    },
+    {
+      "baslangic": 1485.17,
+      "bitis": 1492.41,
+      "metin": "bin altı yüz altıda bir antlaşma yapmış. Zitva Toruk"
+    },
+    {
+      "baslangic": 1492.41,
+      "bitis": 1498.45,
+      "metin": "Antlaşması. Lütfen buna dikkat edelim. Zitva Toruk. Bir"
+    },
+    {
+      "baslangic": 1498.45,
+      "bitis": 1501.25,
+      "metin": "de hatırlatma yapalım. Avusturya'yla kanuni hangi"
+    },
+    {
+      "baslangic": 1501.25,
+      "bitis": 1504.49,
+      "metin": "antlaşmayı yapmıştı? İbrahim Paşa İstanbul. Arşüdük"
+    },
+    {
+      "baslangic": 1504.49,
+      "bitis": 1508.81,
+      "metin": "eşittir. Ikinci adamdı. Sadrezam. Bir hatırlatma daha"
+    },
+    {
+      "baslangic": 1508.81,
+      "bitis": 1512.33,
+      "metin": "yapalım. Demin İran'a karşı niye başarısı olduk? Batı'da"
+    },
+    {
+      "baslangic": 1512.33,
+      "bitis": 1515.89,
+      "metin": "Avusturya Celali isyanları demiştim. Denklemi doğru"
+    },
+    {
+      "baslangic": 1515.89,
+      "bitis": 1518.89,
+      "metin": "kurun. Şimdi de Avusturya'ya karşı üstünümüzü kaybedeceğiz."
+    },
+    {
+      "baslangic": 1518.89,
+      "bitis": 1523.81,
+      "metin": "Sebep? Yine Celali isyanları, doğuda İran. Türkçe de şu."
+    },
+    {
+      "baslangic": 1523.81,
+      "bitis": 1527.45,
+      "metin": "Aynı anda Celali, aynı anda İran, aynı anda Avusturya'ya"
+    },
+    {
+      "baslangic": 1527.45,
+      "bitis": 1530.45,
+      "metin": "savaşıyoruz. Bu sebeplerden dolayı zitvatoru yapacağız"
+    },
+    {
+      "baslangic": 1530.45,
+      "bitis": 1538.73,
+      "metin": "gençler. Buna göre bir Avusturya Arşüdük'ü eşittir"
+    },
+    {
+      "baslangic": 1538.73,
+      "bitis": 1545.01,
+      "metin": "Osmanlı Padişahı. Aha. Eskiden kime denk sarıyordu? Onların"
+    },
+    {
+      "baslangic": 1545.01,
+      "bitis": 1548.25,
+      "metin": "birinci adamı bizim ikinci adamdı. Birebir oldu. Üstünlük"
+    },
+    {
+      "baslangic": 1548.25,
+      "bitis": 1564.71,
+      "metin": "kayboldu. Iki, Avusturya yıllık vergi vermeyecek. Üç, Kanije,"
+    },
+    {
+      "baslangic": 1564.71,
+      "bitis": 1575.95,
+      "metin": "Estergon bu kariler Osman'da. Dört, Avusturya kralına Sezar"
+    },
+    {
+      "baslangic": 1575.95,
+      "bitis": 1579.39,
+      "metin": "ünvanı verilecek. Manyak. Kendini hissetmek için böyle"
+    },
+    {
+      "baslangic": 1579.39,
+      "bitis": 1585.75,
+      "metin": "madde koymuş. Şimdi soru geliyor. Bir, iki, üç, hadi"
+    },
+    {
+      "baslangic": 1585.75,
+      "bitis": 1589.03,
+      "metin": "cevapla bakayım. Zitvator'un hükümlerinden hangileri?"
+    },
+    {
+      "baslangic": 1589.03,
+      "bitis": 1592.87,
+      "metin": "Osmanlı'nın Avusturya karşı siyasi üstünlüğü kaybettiğinin"
+    },
+    {
+      "baslangic": 1592.87,
+      "bitis": 1597.91,
+      "metin": "göstergesidir. Osmanlı'nın Avusturya karşı siyasi üstünlüğü"
+    },
+    {
+      "baslangic": 1597.91,
+      "bitis": 1601.75,
+      "metin": "kaybettiğinin göstergesidir. Aşütü geçittir Padişah'ı"
+    },
+    {
+      "baslangic": 1601.75,
+      "bitis": 1607.23,
+      "metin": "bildin mi? Bildin. Al bunu, al bunu. Neden? Bir devlet"
+    },
+    {
+      "baslangic": 1607.23,
+      "bitis": 1610.71,
+      "metin": "başka bir derete yıllık vergi ödüyorsa ona bağlıdır. Bu"
+    },
+    {
+      "baslangic": 1610.71,
+      "bitis": 1614.07,
+      "metin": "vergi iptalse ona bağlı değildir. Cevap bir ve iki"
+    },
+    {
+      "baslangic": 1614.07,
+      "bitis": 1618.15,
+      "metin": "olur. Kalelerin bizde kalması askeri üstünlüğümüzü gösterir."
+    },
+    {
+      "baslangic": 1618.15,
+      "bitis": 1622.47,
+      "metin": "Oldu mu kardeşlerim? Önce Eğri kalesini fethettik. Neye"
+    },
+    {
+      "baslangic": 1622.47,
+      "bitis": 1627.15,
+      "metin": "sebep olmuş? Haçova Savaşı. Haçova Savaşı olurken sayım"
+    },
+    {
+      "baslangic": 1627.15,
+      "bitis": 1631.79,
+      "metin": "yapmışız. Askerden kaçanların manlı el koymuşuz. Bu Anadolu"
+    },
+    {
+      "baslangic": 1631.79,
+      "bitis": 1634.79,
+      "metin": "isyanlarını arttırmış. Karayazı isyanı en büyük"
+    },
+    {
+      "baslangic": 1634.79,
+      "bitis": 1636.79,
+      "metin": "İsyan bu sırada çıkmış."
+    },
+    {
+      "baslangic": 1636.79,
+      "bitis": 1641.15,
+      "metin": "Haçovayı bir şekilde alkol sebebiyle kazandık rivayete göre."
+    },
+    {
+      "baslangic": 1641.15,
+      "bitis": 1646.23,
+      "metin": "Kanice-Estergun'u savunduk ama kardeşlerim bir yandan İran saldırıyor, bir yandan Celali."
+    },
+    {
+      "baslangic": 1646.23,
+      "bitis": 1647.75,
+      "metin": "Daha fazla dayanamayacağız."
+    },
+    {
+      "baslangic": 1647.75,
+      "bitis": 1649.75,
+      "metin": "Zitrotürk anlaşmasını yapacağız."
+    },
+    {
+      "baslangic": 1649.75,
+      "bitis": 1652.19,
+      "metin": "Toprak kaybı yok ama imaj kaybımız var mı?"
+    },
+    {
+      "baslangic": 1652.19,
+      "bitis": 1654.83,
+      "metin": "Var. Yani istediğimizi kaybedeceğiz."
+    },
+    {
+      "baslangic": 1654.83,
+      "bitis": 1663.82,
+      "metin": "Sonra gençler Uyvarı kalesini alacağız."
+    },
+    {
+      "baslangic": 1663.82,
+      "bitis": 1665.82,
+      "metin": "Kim alacak?"
+    },
+    {
+      "baslangic": 1665.82,
+      "bitis": 1675.62,
+      "metin": "Köprülü Fazıl Ahmet Paşa, adamı beş kere kovmuşlar tekrar gitmiş, beş kere kovmuşlar tekrar gitmiş."
+    },
+    {
+      "baslangic": 1675.62,
+      "bitis": 1682.14,
+      "metin": "Bu sefer kali alınca vav, Türk gibi güçlü galiba demişler. Avrupalar ağzını yaydıra yaydıra."
+    },
+    {
+      "baslangic": 1682.14,
+      "bitis": 1688.58,
+      "metin": "O yüzden gençler, Türk gibi güçlü ifadesi bizim alan sorumuzdur. İtirafta bulunayım."
+    },
+    {
+      "baslangic": 1688.58,
+      "bitis": 1695.34,
+      "metin": "Lisansta böyle bir soru beklemiyoruz ama hemen hemen her soru bankasında olduğu için sizleri bilgilendiriyoruz, oldu mu?"
+    },
+    {
+      "baslangic": 1695.34,
+      "bitis": 1704.58,
+      "metin": "Ve bu kuşatmanın ardından 1664'te bir antlaşma yapıyoruz, Vasfar Antlaşması."
+    },
+    {
+      "baslangic": 1704.58,
+      "bitis": 1716.91,
+      "metin": "Kardeşlerim bu anlaşmalara göre, Zitvat Oruk vardı burada Vasfar, Uyvar, Novingrad,"
+    },
+    {
+      "baslangic": 1716.91,
+      "bitis": 1724.02,
+      "metin": "bunlar kimde? Osman'da kalıyor. O zaman toparla."
+    },
+    {
+      "baslangic": 1724.02,
+      "bitis": 1726.94,
+      "metin": "Avusuri'den son kez kare alıyoruz arkadaşlar."
+    },
+    {
+      "baslangic": 1727.54,
+      "bitis": 1730.18,
+      "metin": "Avusuri'den son alınan kareler."
+    },
+    {
+      "baslangic": 1732.02,
+      "bitis": 1733.02,
+      "metin": "Oldu mu?"
+    },
+    {
+      "baslangic": 1734.7,
+      "bitis": 1736.74,
+      "metin": "Bakın hâlâ duraklama gibi bir şey yok."
+    },
+    {
+      "baslangic": 1737.34,
+      "bitis": 1739.66,
+      "metin": "İşte duraklamadaki olumsuzluklar şimdi başlayacak."
+    },
+    {
+      "baslangic": 1740.26,
+      "bitis": 1741.26,
+      "metin": "Hazır mısınız?"
+    },
+    {
+      "baslangic": 1741.26,
+      "bitis": 1742.54,
+      "metin": "Nereye kuşatıyoruz? Viyana'yı."
+    },
+    {
+      "baslangic": 1742.54,
+      "bitis": 1743.74,
+      "metin": "Serkan'ım buraya mı geçeyim?"
+    },
+    {
+      "baslangic": 1745.42,
+      "bitis": 1747.02,
+      "metin": "Evet, değerli kardeşlerim."
+    },
+    {
+      "baslangic": 1750.26,
+      "bitis": 1755.7,
+      "metin": "İkinci Viyana kuşatması."
+    },
+    {
+      "baslangic": 1756.66,
+      "bitis": 1757.66,
+      "metin": "Şöyle yapalım."
+    },
+    {
+      "baslangic": 1757.66,
+      "bitis": 1790.56,
+      "metin": "Evet, halay mendili. 1683 sebep, bundan olsun kardeşlerim sonuç. Oldu mu?"
+    },
+    {
+      "baslangic": 1790.56,
+      "bitis": 1795.56,
+      "metin": "Evet, siyasi tarih bitince bir özet yapacağım, merak etmeyin."
+    },
+    {
+      "baslangic": 1795.56,
+      "bitis": 1799.56,
+      "metin": "Anlaşmaları yazarak çalışın. Çok da gençler abanmayın. Neden biliyoruz mu?"
+    },
+    {
+      "baslangic": 1799.56,
+      "bitis": 1804.56,
+      "metin": "ÖSYM'e itiraf edeyim daha çok dağılmayı soruyor siyasi tarih bakımından."
+    },
+    {
+      "baslangic": 1804.56,
+      "bitis": 1809.04,
+      "metin": "Şu ana kadar gelen soru Kaseşir'in bir de Hotin'den dolayı yeni içerini kaldırma fikri."
+    },
+    {
+      "baslangic": 1809.04,
+      "bitis": 1810.04,
+      "metin": "Söyleyeyim size."
+    },
+    {
+      "baslangic": 1810.04,
+      "bitis": 1816.44,
+      "metin": "Ama bizim özellikle AGS'de soru sayımız az olunca böyle bir ÖSM Sente soru sorar."
+    },
+    {
+      "baslangic": 1816.44,
+      "bitis": 1820.12,
+      "metin": "Şıklarda duraklama da vardır, gerileme de vardır, dağılma ilgilendiren bir şeyler de vardır."
+    },
+    {
+      "baslangic": 1820.12,
+      "bitis": 1826.28,
+      "metin": "O yüzden bütün bakacağız ama şu Uyvar'ı hatırlamayınca evde depresyona girme yani yüzüstü yatma."
+    },
+    {
+      "baslangic": 1826.28,
+      "bitis": 1827.56,
+      "metin": "Ne olacak ya Uyvar?"
+    },
+    {
+      "baslangic": 1827.56,
+      "bitis": 1829.56,
+      "metin": "Bir kere bakarsın, öğrenirsin."
+    },
+    {
+      "baslangic": 1829.56,
+      "bitis": 1831.56,
+      "metin": "Gelin bakalım."
+    },
+    {
+      "baslangic": 1831.56,
+      "bitis": 1839.16,
+      "metin": "Avusturya Macarlara baskı yapınca, Macarlar kurtar beni baba deyip, o protestanlar Osmanlı'dan yardım istiyor."
+    },
+    {
+      "baslangic": 1839.16,
+      "bitis": 1845.84,
+      "metin": "Evet, Macar lideri Osmanlı'dan yardım istiyor arkadaşlar."
+    },
+    {
+      "baslangic": 1845.84,
+      "bitis": 1849.84,
+      "metin": "İmre Tökeli."
+    },
+    {
+      "baslangic": 1849.84,
+      "bitis": 1853.88,
+      "metin": "O sırada padişah kim? Dördüncü Mehmet."
+    },
+    {
+      "baslangic": 1853.88,
+      "bitis": 1874.22,
+      "metin": "Dördüncü Mehmet de Merzifonlu Kara Mustafa'ya diyor ki, Mustafa git oğlum diyor, git yanık kaleyi kuşat, Tebam'a yardımcı ol gel, şu diyor Hapsburglara yani Avusya'ya göz laver."
+    },
+    {
+      "baslangic": 1874.22,
+      "bitis": 1879.22,
+      "metin": "Mehmet Merzifon da çıkıyor yola, rivayete göre yolda fantezi kuruyor."
+    },
+    {
+      "baslangic": 1879.22,
+      "bitis": 1892.22,
+      "metin": "Nasıl bir fantezi? Ya diyor bu ne? Al ver, al ver falan. Bu devlete diyor bir kızıl elma lazım, bir zafer lazım. Tarihe geçmekte var Ahmet diyor. Bana söylüyor bunu."
+    },
+    {
+      "baslangic": 1892.22,
+      "bitis": 1905.22,
+      "metin": "Sen tut Yanıkkale'yi kuşatacakken Viyana'yı kuşat. Gaza gelmiş. Viyana'yı kuşatıyor. İyi hoş. Kuşatma üç adımdır. Kuşatırsın, halka duyuru yaparsın, teslim olmasını beklersin. Doğru mu?"
+    },
+    {
+      "baslangic": 1905.22,
+      "bitis": 1906.22,
+      "metin": "Doğru mu?"
+    },
+    {
+      "baslangic": 1906.22,
+      "bitis": 1911.22,
+      "metin": "Ya da Moğol gibiysen direkt top atarsın, bomba atarsın, yıkarsın."
+    },
+    {
+      "baslangic": 1911.22,
+      "bitis": 1913.22,
+      "metin": "Mersifonlu Kara Mustafa çok incel oldu."
+    },
+    {
+      "baslangic": 1913.22,
+      "bitis": 1915.22,
+      "metin": "Viyana'yı kuşatıyor."
+    },
+    {
+      "baslangic": 1915.22,
+      "bitis": 1919.22,
+      "metin": "Halka diyor ki, üç gün size süre veriyorum, teslim olun."
+    },
+    {
+      "baslangic": 1919.22,
+      "bitis": 1921.22,
+      "metin": "Büyük topları kullanmıyor."
+    },
+    {
+      "baslangic": 1921.22,
+      "bitis": 1923.22,
+      "metin": "Neden? Viyana'nın mimarisi bozulmamışsın diye."
+    },
+    {
+      "baslangic": 1923.22,
+      "bitis": 1925.22,
+      "metin": "Ne yapacaksın, bozsana."
+    },
+    {
+      "baslangic": 1925.22,
+      "bitis": 1927.22,
+      "metin": "Sonra diyor ki, Kırım Hanı'na"
+    },
+    {
+      "baslangic": 1927.22,
+      "bitis": 1929.22,
+      "metin": "Tuna'dan diyor, kimseyi geçirme."
+    },
+    {
+      "baslangic": 1929.22,
+      "bitis": 1932.22,
+      "metin": "Bak diyor, önemli ha diyor."
+    },
+    {
+      "baslangic": 1932.22,
+      "bitis": 1935.22,
+      "metin": "Kırım Han'ı da o sırada tribal infeksiyona yakalanmış."
+    },
+    {
+      "baslangic": 1935.22,
+      "bitis": 1938.22,
+      "metin": "Sen hep Eflat'la ilgileniyorsun, işin düşünce bana yazıyorsun."
+    },
+    {
+      "baslangic": 1938.22,
+      "bitis": 1940.22,
+      "metin": "Ya tribil sırası mı şimdi?"
+    },
+    {
+      "baslangic": 1940.22,
+      "bitis": 1942.22,
+      "metin": "Kırım Han da ihanet ediyor gençler."
+    },
+    {
+      "baslangic": 1942.22,
+      "bitis": 1944.22,
+      "metin": "Bizimki de zaman kaybediyor."
+    },
+    {
+      "baslangic": 1944.22,
+      "bitis": 1946.22,
+      "metin": "Leystan'dan geliyor yardımcıları,"
+    },
+    {
+      "baslangic": 1946.22,
+      "bitis": 1948.22,
+      "metin": "Leystan'ın kralı falan geliyor."
+    },
+    {
+      "baslangic": 1948.22,
+      "bitis": 1952.22,
+      "metin": "Zaman kaybedip büyük topları kullanmayınca biz bozguna uğruyoruz."
+    },
+    {
+      "baslangic": 1952.22,
+      "bitis": 1954.22,
+      "metin": "Evet, sonucu."
+    },
+    {
+      "baslangic": 1954.22,
+      "bitis": 1956.22,
+      "metin": "Gençler, Osmanlı"
+    },
+    {
+      "baslangic": 1956.22,
+      "bitis": 1958.22,
+      "metin": "bozguna uğradı."
+    },
+    {
+      "baslangic": 1958.22,
+      "bitis": 1968.38,
+      "metin": "Avrupa'dan"
+    },
+    {
+      "baslangic": 1968.38,
+      "bitis": 1977.06,
+      "metin": "geri çekilme süreci başladı. Oldu mu? Beş bin top orada kaldı."
+    },
+    {
+      "baslangic": 1977.06,
+      "bitis": 1982.26,
+      "metin": "Beş ton Türk kahvesi orada kalmış. Tabii. Ejdadın canını"
+    },
+    {
+      "baslangic": 1982.26,
+      "bitis": 1985.14,
+      "metin": "zor kurtarmış. Hatta Avrupalılar önce kahve şöyle"
+    },
+    {
+      "baslangic": 1985.14,
+      "bitis": 1987.74,
+      "metin": "bir yalayacaklar. Sonra Avrupa'dan mavi şişe diye"
+    },
+    {
+      "baslangic": 1987.74,
+      "bitis": 1990.1,
+      "metin": "fabrika kurulacak gençler. Tüm bu gereksiz bilgiler sizde"
+    },
+    {
+      "baslangic": 1990.1,
+      "bitis": 1993.02,
+      "metin": "kalır eminim. Seversiniz böyle şeyleri. Uzatmayayım."
+    },
+    {
+      "baslangic": 1993.02,
+      "bitis": 1995.9,
+      "metin": "Avrupa'dan geri çekilme başladı. Bozguna uğradık."
+    },
+    {
+      "baslangic": 1995.9,
+      "bitis": 2003.46,
+      "metin": "bize karşı Kutsal İttifak savaşları başladı. Bin altı yüz"
+    },
+    {
+      "baslangic": 2003.46,
+      "bitis": 2009.78,
+      "metin": "seksen üç bin altı yüz doksan dokuz. Tabii Merzifonlu"
+    },
+    {
+      "baslangic": 2009.78,
+      "bitis": 2012.26,
+      "metin": "Kara Mustafa idam edecek arkadaşlar. Hatta kellesi hâlâ"
+    },
+    {
+      "baslangic": 2012.26,
+      "bitis": 2016.42,
+      "metin": "müjede. Rahmetli bayağı dur, duruyor orada. Kutsal İttifak'ta"
+    },
+    {
+      "baslangic": 2016.42,
+      "bitis": 2021.46,
+      "metin": "kim var biliyor musun? Varelim, Venedik, Avusturya,"
+    },
+    {
+      "baslangic": 2021.46,
+      "bitis": 2027.62,
+      "metin": "Rusya, Leyslan, İran yok artık o kadar değil, Malta."
+    },
+    {
+      "baslangic": 2027.62,
+      "bitis": 2031.62,
+      "metin": "Küçük gençler kim? Malta. İşte tek başına gelemiyor, kalabalıkta geliyor."
+    },
+    {
+      "baslangic": 2031.62,
+      "bitis": 2038.62,
+      "metin": "Gençler biz bu savaşı kaybediyoruz. Biz bu savaşı kaybedince 16 yıl boyunca savaşıyoruz."
+    },
+    {
+      "baslangic": 2038.62,
+      "bitis": 2050.62,
+      "metin": "Araya İngiltere ve Hollanda giriyor ve çok önemli bir anlaşma yapıyoruz."
+    },
+    {
+      "baslangic": 2050.62,
+      "bitis": 2055.62,
+      "metin": "Anlaşmamızın adı ne? Karlofça antlaşması."
+    },
+    {
+      "baslangic": 2055.62,
+      "bitis": 2069.02,
+      "metin": "Önce şunu bir yorumlayalım. Ahmet Hocam Karlofça Anlaşması'na sevgili kardeşlerim Araya kim girmiş? Araya kim girmiş?"
+    },
+    {
+      "baslangic": 2069.02,
+      "bitis": 2077.66,
+      "metin": "İngiltere ve Hollanda. Yorumu şudur. Eskiden masaya biz otururduk, biz ne dersek o olurdu."
+    },
+    {
+      "baslangic": 2077.66,
+      "bitis": 2085.02,
+      "metin": "İlk kez Araya Avrupalı bir devletin ara bulucunu kabul etmişiz. Bu bizim diplomasi de zayıfladığımızı gösterir."
+    },
+    {
+      "baslangic": 2085.02,
+      "bitis": 2087.38,
+      "metin": "Anladınız mı olayı? Eskiden bunlara gerek yoktu çünkü."
+    },
+    {
+      "baslangic": 2087.38,
+      "bitis": 2092.1,
+      "metin": "İlk kez Avrupa'da devletin araya girmesini bir anlaşma yapıyoruz."
+    },
+    {
+      "baslangic": 2092.1,
+      "bitis": 2093.62,
+      "metin": "Niye bir şey anlaşma? Karlofça."
+    },
+    {
+      "baslangic": 2093.62,
+      "bitis": 2097.06,
+      "metin": "Şimdi bilgi yarışması yapıyorum. Bakayım harita kültürü oturdu mu?"
+    },
+    {
+      "baslangic": 2097.06,
+      "bitis": 2105.71,
+      "metin": "Bu anlaşmaya göre Begra tarih, Macar toprakları."
+    },
+    {
+      "baslangic": 2105.71,
+      "bitis": 2113.26,
+      "metin": "Bu anlaşmaya göre Podolia, Ukrayna."
+    },
+    {
+      "baslangic": 2113.26,
+      "bitis": 2121.15,
+      "metin": "Bu anlaşmaya göre, mora dalmatça kıyları."
+    },
+    {
+      "baslangic": 2121.15,
+      "bitis": 2124.15,
+      "metin": "Evet gençler, dolaylı tüm neşleri benden."
+    },
+    {
+      "baslangic": 2124.15,
+      "bitis": 2126.15,
+      "metin": "Özleler sizden."
+    },
+    {
+      "baslangic": 2126.15,
+      "bitis": 2127.15,
+      "metin": "Türkçeye bak."
+    },
+    {
+      "baslangic": 2127.15,
+      "bitis": 2130.43,
+      "metin": "Bacaristan'a Belgrad'a kim göz dikiyordu?"
+    },
+    {
+      "baslangic": 2130.43,
+      "bitis": 2131.43,
+      "metin": "Sakin olun."
+    },
+    {
+      "baslangic": 2131.43,
+      "bitis": 2133.43,
+      "metin": "Avusturya çocuklar."
+    },
+    {
+      "baslangic": 2133.43,
+      "bitis": 2140.36,
+      "metin": "Karnın kemikleri sızladı."
+    },
+    {
+      "baslangic": 2140.36,
+      "bitis": 2141.36,
+      "metin": "Bir Belgrad kaldı."
+    },
+    {
+      "baslangic": 2141.36,
+      "bitis": 2143.36,
+      "metin": "Podolia, Ukrayna en tepede değil miydi?"
+    },
+    {
+      "baslangic": 2143.36,
+      "bitis": 2145.36,
+      "metin": "Kimden aldık Serkan onu?"
+    },
+    {
+      "baslangic": 2145.36,
+      "bitis": 2146.36,
+      "metin": "Lehistan'dan aldık."
+    },
+    {
+      "baslangic": 2146.36,
+      "bitis": 2148.36,
+      "metin": "Geri kime verdik?"
+    },
+    {
+      "baslangic": 2148.36,
+      "bitis": 2149.36,
+      "metin": "Lehistan'a."
+    },
+    {
+      "baslangic": 2149.36,
+      "bitis": 2156.96,
+      "metin": "al. E Akderiz'e gezinip dolanan kimdi? Kimdi? Benedik. Burayı"
+    },
+    {
+      "baslangic": 2156.96,
+      "bitis": 2160.6,
+      "metin": "kime verdik? Benedik'e. Yani zeki bir öğrenci ne yapar?"
+    },
+    {
+      "baslangic": 2160.6,
+      "bitis": 2165.32,
+      "metin": "Haritada kimden nereye aldığımızı bilirse hangi bölgeyi kime"
+    },
+    {
+      "baslangic": 2165.32,
+      "bitis": 2168.6,
+      "metin": "kaybettiğimizi de sallasa tutar. Anlatabildim mi?"
+    },
+    {
+      "baslangic": 2168.6,
+      "bitis": 2171.4,
+      "metin": "Kardeşlerim şu verilen topraklar yaklaşık iki yüz"
+    },
+    {
+      "baslangic": 2171.4,
+      "bitis": 2174.84,
+      "metin": "seksen bin kilometre kare. Türkiye'nin yüzde kırkı kırk"
+    },
+    {
+      "baslangic": 2174.84,
+      "bitis": 2180.74,
+      "metin": "beşi kadar. O zaman buyurun. Batı'da ilk büyük"
+    },
+    {
+      "baslangic": 2180.74,
+      "bitis": 2189.28,
+      "metin": "toprak kaybı. Batı'da ilk büyük toprak kaybı. O zaman"
+    },
+    {
+      "baslangic": 2189.28,
+      "bitis": 2195.52,
+      "metin": "kardeşlerim ekonomi bozulur mu, bozulmaz mı? Peki gelin"
+    },
+    {
+      "baslangic": 2195.52,
+      "bitis": 2203.6,
+      "metin": "böyle. Ahmet hocam Rusya nereye aldı? Sürpriz. Rus'un"
+    },
+    {
+      "baslangic": 2203.6,
+      "bitis": 2209.52,
+      "metin": "imzası yok. Elçilerin imza ilgisi yok. Bir de biz"
+    },
+    {
+      "baslangic": 2209.52,
+      "bitis": 2212.12,
+      "metin": "Rusya'yı zaten en çok gerilemede göreceğiz. Peki"
+    },
+    {
+      "baslangic": 2212.12,
+      "bitis": 2214.64,
+      "metin": "Peki buradan neyi bileceğiz arkadaşlar? Neyi bileceğiz?"
+    },
+    {
+      "baslangic": 2214.64,
+      "bitis": 2229.78,
+      "metin": "Kardeşlerim, Rusya'yla Rus ile ilk antlaşma 1678'e sefere çıkıyoruz, 81'de yapıyoruz."
+    },
+    {
+      "baslangic": 2229.78,
+      "bitis": 2235.46,
+      "metin": "Bahçe Saray. Diğer ismi Çehir'in Antlaşması."
+    },
+    {
+      "baslangic": 2235.46,
+      "bitis": 2240.82,
+      "metin": "Rusya'yla ilk yazan antlaşmamız Bahçe Saray yani Çehir'in Antlaşması."
+    },
+    {
+      "baslangic": 2240.82,
+      "bitis": 2244.94,
+      "metin": "Fenerbahçe, Galatasaray'ı birleştirin ama içerik bakımından hiçbir önemi yok."
+    },
+    {
+      "baslangic": 2244.94,
+      "bitis": 2248.18,
+      "metin": "olması önemli. Burada da Rus elçilerinin imza yetkisi"
+    },
+    {
+      "baslangic": 2248.18,
+      "bitis": 2254.16,
+      "metin": "olmadığı için Rusya'yla gerilemede işleyeceğiz. Bin"
+    },
+    {
+      "baslangic": 2254.16,
+      "bitis": 2257.4,
+      "metin": "yedi yüz İslam anlaşmasını yapacağız. Hatta bu anlaşmada"
+    },
+    {
+      "baslangic": 2257.4,
+      "bitis": 2261.56,
+      "metin": "Rus köpeği tövbe yarabbim. Elçi bulunduracak. Azhak"
+    },
+    {
+      "baslangic": 2261.56,
+      "bitis": 2264.88,
+      "metin": "kalesini alıp Karadeniz'de güçlenecek. Ama ben size"
+    },
+    {
+      "baslangic": 2264.88,
+      "bitis": 2267.16,
+      "metin": "bunu anlatmadım. Bu gerilemede işleyeceğiz oldu"
+    },
+    {
+      "baslangic": 2267.16,
+      "bitis": 2270.68,
+      "metin": "mu? Karlofça'da kimin imzası yokmuş? Rus'un imzası"
+    },
+    {
+      "baslangic": 2270.68,
+      "bitis": 2274.72,
+      "metin": "yokmuş. Karlofça'nın önemi, batıda ilk büyük toprak"
+    },
+    {
+      "baslangic": 2274.72,
+      "bitis": 2279.04,
+      "metin": "kaybı. Değil mi? Duraklama bitti. Ne başladı? Gerileme"
+    },
+    {
+      "baslangic": 2279.04,
+      "bitis": 2285.28,
+      "metin": "başladı. Peki sekiz. O zaman Batı'nın üstünü kabul eder"
+    },
+    {
+      "baslangic": 2285.28,
+      "bitis": 2289.84,
+      "metin": "miyiz etmez miyiz? Eder miyiz etmez miyiz? Etmeyiz."
+    },
+    {
+      "baslangic": 2289.84,
+      "bitis": 2294.04,
+      "metin": "Gaza gelme. Daha bir şey yapmadık gençler. Bir tokat"
+    },
+    {
+      "baslangic": 2294.04,
+      "bitis": 2299.96,
+      "metin": "yedik sadece. Kurdun dişine kan bulandı. Köyün itleri"
+    },
+    {
+      "baslangic": 2299.96,
+      "bitis": 2304.24,
+      "metin": "kurdun etrafını sardığında kurt neyi düşürürmüş? Nasıl"
+    },
+    {
+      "baslangic": 2304.24,
+      "bitis": 2308.24,
+      "metin": "intikam alacağını. Bak, hazır TikTok videosu çektim. Berra"
+    },
+    {
+      "baslangic": 2308.24,
+      "bitis": 2313.0,
+      "metin": "arkadan bir fon müziği değil mi? Dolayısıyla intikam. Cüneyt"
+    },
+    {
+      "baslangic": 2313.0,
+      "bitis": 2316.0,
+      "metin": "Harpil rahmetliğin çok güzel bir sözü var. Beladan kaçın"
+    },
+    {
+      "baslangic": 2316.0,
+      "bitis": 2321.24,
+      "metin": "diyor. Bir kaçın, iki kaçın. Baktım bela mı geliyor? Siz ona"
+    },
+    {
+      "baslangic": 2321.24,
+      "bitis": 2325.0,
+      "metin": "bela olun diyor. Çok güzel bakın gençler. O zaman buyurun."
+    },
+    {
+      "baslangic": 2325.0,
+      "bitis": 2332.76,
+      "metin": "Kaybettiğimizi alma politikası. Kaybettiğimizi alma"
+    },
+    {
+      "baslangic": 2332.76,
+      "bitis": 2341.09,
+      "metin": "politikası. Anlaşıyor muyuz? Evet hadi o zaman gençler Ahmet"
+    },
+    {
+      "baslangic": 2341.09,
+      "bitis": 2343.61,
+      "metin": "Hoca'nın sizler için son bir tekrar yapsın. Sırf kendinizi"
+    },
+    {
+      "baslangic": 2343.61,
+      "bitis": 2349.53,
+      "metin": "iyi hissedin. Kardeşim İran'la en geniş sınır Ferhat Paşa,"
+    },
+    {
+      "baslangic": 2349.53,
+      "bitis": 2354.41,
+      "metin": "toprak kaybı Nasuh Paşa, boşanlaşma Serah, Türk İran"
+    },
+    {
+      "baslangic": 2354.41,
+      "bitis": 2359.77,
+      "metin": "sınırı Kasişirin. Kardeşim, Leyslan'a Yeniçer Hoca'nı"
+    },
+    {
+      "baslangic": 2359.77,
+      "bitis": 2367.09,
+      "metin": "kaldırma fikri Hotin, Batı'da en geniş sınır Bucaş. Kardeşim"
+    },
+    {
+      "baslangic": 2367.09,
+      "bitis": 2374.77,
+      "metin": "Venedik'le niçin savaştık? Girit. Kardeşim Avusturya'yla"
+    },
+    {
+      "baslangic": 2374.77,
+      "bitis": 2380.53,
+      "metin": "Eğri kalesini aldık. Neye sebep oldu? Haçova. Kazandık."
+    },
+    {
+      "baslangic": 2380.53,
+      "bitis": 2386.17,
+      "metin": "Neye sebep oldu? Kanije, Estergan kuşatması vermedik."
+    },
+    {
+      "baslangic": 2386.17,
+      "bitis": 2391.33,
+      "metin": "sonra İran ve Celalisyanları hangi anlaşmayı yaptık? Zitvat Oruk."
+    },
+    {
+      "baslangic": 2391.33,
+      "bitis": 2396.25,
+      "metin": "Üstünlüğümüzü kaybettik. Sonra Vasfar'ı aldık. Vasfar"
+    },
+    {
+      "baslangic": 2396.25,
+      "bitis": 2399.97,
+      "metin": "Antlaşması. Uyvar ve Novimrat'ı aldık. Sonra Viyana'yı"
+    },
+    {
+      "baslangic": 2399.97,
+      "bitis": 2404.61,
+      "metin": "kuşattık. Bela buradan başladı. Değil mi? En son Avrupa'lı"
+    },
+    {
+      "baslangic": 2404.61,
+      "bitis": 2407.41,
+      "metin": "ülkelerle hangi anlaşmayı yaptık? Karlofça. Batı'da"
+    },
+    {
+      "baslangic": 2407.41,
+      "bitis": 2410.93,
+      "metin": "ilk büyük toprak kayboldu. İlk kez Avrupalı birinin"
+    },
+    {
+      "baslangic": 2410.93,
+      "bitis": 2415.01,
+      "metin": "aracını kabul ettik değil mi? Dokuza gel. Dokuza. Şöyle"
+    },
+    {
+      "baslangic": 2415.01,
+      "bitis": 2423.49,
+      "metin": "böyle bir rahatlıklı mı senin? Kardeşlerim, bu anlaşmanın garantörü kim oldu? Avusturya."
+    },
+    {
+      "baslangic": 2423.49,
+      "bitis": 2430.09,
+      "metin": "Yani kefili kim oldu? Avusturya. O zaman son yorumlarımı yapıyorum. Sayısalcı kardeş,"
+    },
+    {
+      "baslangic": 2430.09,
+      "bitis": 2435.45,
+      "metin": "araya ilk kez Avrupa'yı kabul etmemiz, Avusturya'nın da garantör olması bizim"
+    },
+    {
+      "baslangic": 2435.45,
+      "bitis": 2441.21,
+      "metin": "diplomasi alanda zayıfladığımızı ne yapar gösterir. Ben varken nişan yüzüklerini"
+    },
+    {
+      "baslangic": 2441.21,
+      "bitis": 2446.13,
+      "metin": "Avusturya takmış, böyle düşündüm. Evet, kimin imzası yokmuş kardeşlerim? Rusya'nın."
+    },
+    {
+      "baslangic": 2446.13,
+      "bitis": 2448.13,
+      "metin": "Tekrarlarımı da yaptım."
+    },
+    {
+      "baslangic": 2448.13,
+      "bitis": 2450.13,
+      "metin": "Çok takılacak bir durum olduğunu düşünmüyorum."
+    },
+    {
+      "baslangic": 2450.13,
+      "bitis": 2455.13,
+      "metin": "Bir sonraki videoda sizlere çok güzel ne anlatacağım Allah'ın izniyle ıslahatler anlatacağım."
+    },
+    {
+      "baslangic": 2455.13,
+      "bitis": 2457.13,
+      "metin": "Ondan sonra da ödevlendireceğim."
+    },
+    {
+      "baslangic": 2457.13,
+      "bitis": 2458.13,
+      "metin": "Oldu mu?"
+    },
+    {
+      "baslangic": 2458.13,
+      "bitis": 2459.13,
+      "metin": "Like'lamayı unutmayın."
+    },
+    {
+      "baslangic": 2459.13,
+      "bitis": 2460.13,
+      "metin": "Görüşürüz."
+    }
+  ]
+}

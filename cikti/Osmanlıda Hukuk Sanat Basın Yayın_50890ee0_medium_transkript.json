@@ -1,0 +1,2205 @@
+{
+  "ses_dosyasi": "yuklenenler\\Osmanlıda Hukuk Sanat Basın Yayın.mp3",
+  "model": "medium",
+  "cihaz": "cuda",
+  "terimler": "",
+  "ses_suresi_sn": 1920.3,
+  "islem_suresi_sn": 137.0,
+  "parcalar": [
+    {
+      "baslangic": 5.55,
+      "bitis": 9.05,
+      "metin": "Evet değerli kardeşlerim, kültür medeniyet devam ediyor."
+    },
+    {
+      "baslangic": 9.05,
+      "bitis": 11.05,
+      "metin": "Dediğim gibi biraz önemli ve uzun bir konu."
+    },
+    {
+      "baslangic": 11.05,
+      "bitis": 13.55,
+      "metin": "Şimdi Osmanlı hukuk sistemini işleyeceğiz."
+    },
+    {
+      "baslangic": 13.55,
+      "bitis": 17.05,
+      "metin": "Hukuk sistemini bu yıl arkadaşlar kitabımıza da tablo olarak anlattım."
+    },
+    {
+      "baslangic": 17.05,
+      "bitis": 21.05,
+      "metin": "Hani o tabloyu tanımanız için akıl tahtlarına almaya karar verdim."
+    },
+    {
+      "baslangic": 21.05,
+      "bitis": 23.55,
+      "metin": "Genel akıl tahtları konu hantımıza pek kullanmıyorum."
+    },
+    {
+      "baslangic": 23.55,
+      "bitis": 27.05,
+      "metin": "Hani işin kolayına kaçmıyorum ama bu çok güzel olduğu için ve değerli toplu olduğu için"
+    },
+    {
+      "baslangic": 27.05,
+      "bitis": 28.55,
+      "metin": "buradan işleyelim hukuku."
+    },
+    {
+      "baslangic": 28.55,
+      "bitis": 31.55,
+      "metin": "Kitabımıza da tablo olarak mevcut 2026 basımında."
+    },
+    {
+      "baslangic": 31.55,
+      "bitis": 33.55,
+      "metin": "Sonra beyaz tahtaya geçeceğiz."
+    },
+    {
+      "baslangic": 33.55,
+      "bitis": 36.75,
+      "metin": "Osmanlı sanat, önemli basin ve yayın organları diyeceğiz."
+    },
+    {
+      "baslangic": 36.75,
+      "bitis": 38.03,
+      "metin": "Bu videomuz arkadaşlar."
+    },
+    {
+      "baslangic": 38.03,
+      "bitis": 42.67,
+      "metin": "Dediğim gibi hukuk, basin, yayın ve sanatla tamamlayacağız."
+    },
+    {
+      "baslangic": 42.67,
+      "bitis": 45.07,
+      "metin": "Hukuka daha çok önem verelim."
+    },
+    {
+      "baslangic": 45.07,
+      "bitis": 46.35,
+      "metin": "Hadi bismillahirrahmanirrahim."
+    },
+    {
+      "baslangic": 46.35,
+      "bitis": 49.55,
+      "metin": "Kardeşlerim Osmanlı hukuk istemi, tablomuzu gördünüz."
+    },
+    {
+      "baslangic": 49.55,
+      "bitis": 51.23,
+      "metin": "Gayet okunaklı ve düzendi."
+    },
+    {
+      "baslangic": 51.23,
+      "bitis": 58.11,
+      "metin": "Genel özellikler, kadrozellikleri, mahkeme türleri, terimler 19. yüzyıl ve mecelle."
+    },
+    {
+      "baslangic": 58.11,
+      "bitis": 60.03,
+      "metin": "Bunlar önemli konularımız."
+    },
+    {
+      "baslangic": 60.03,
+      "bitis": 61.87,
+      "metin": "Büyüterek içeceğim, merak etmeyin."
+    },
+    {
+      "baslangic": 61.87,
+      "bitis": 78.26,
+      "metin": "Evet, gene özellikler arkadaşlar. Buyurun. Osmanlı Devleti'nde, çok pardon çok büyüttük, Osmanlı Devleti'nde hukuk anlayışının oluşmasında hangi faktörler etkiledir?"
+    },
+    {
+      "baslangic": 78.26,
+      "bitis": 86.26,
+      "metin": "Buna benzer bir soru 2013'te çıktı. Yönetim anlayışında hangi faktörler etkiledir? O da 2012'de çıktı. Her zaman çıkabiliyor."
+    },
+    {
+      "baslangic": 86.26,
+      "bitis": 95.59,
+      "metin": "İslam kardeşlerim İslam evet şöyle yapalım. İslam, Türk"
+    },
+    {
+      "baslangic": 95.59,
+      "bitis": 100.35,
+      "metin": "töresi fethedilen bölgelerin kültürleri. İslam dini şeri"
+    },
+    {
+      "baslangic": 100.35,
+      "bitis": 104.79,
+      "metin": "hukuk. Töre, örfü hukuk. Bir de kardeşlerim biz fetheden"
+    },
+    {
+      "baslangic": 104.79,
+      "bitis": 107.75,
+      "metin": "yerleri de dikkate aldık. Hoşgörlüyüz. Onları zorla"
+    },
+    {
+      "baslangic": 107.75,
+      "bitis": 110.59,
+      "metin": "kendi mahkemize yargılamadık. Hukuk anlayışımıza bu"
+    },
+    {
+      "baslangic": 110.59,
+      "bitis": 116.43,
+      "metin": "etkilidir. Peki Osmanlı'da Osmanlı'da yüksek mahkeme"
+    },
+    {
+      "baslangic": 116.43,
+      "bitis": 120.27,
+      "metin": "neresidir kardeşlerim? Divan. Divanda davalara kim bakar?"
+    },
+    {
+      "baslangic": 120.27,
+      "bitis": 123.71,
+      "metin": "Sakın kadı demeyin. Kazasker bakar. Divanda kadı yoktur."
+    },
+    {
+      "baslangic": 123.71,
+      "bitis": 128.11,
+      "metin": "Okey. Gelin bakalım. Ilk yazılı kanun Türk tarihinde"
+    },
+    {
+      "baslangic": 128.11,
+      "bitis": 132.15,
+      "metin": "uygulardır arkadaşlar. Osmanlı tarihinde Fatih Sultan"
+    },
+    {
+      "baslangic": 132.15,
+      "bitis": 138.51,
+      "metin": "Mehmet'tir. Kanunnameyi Ali Osman. Onun dışında Osmanlı"
+    },
+    {
+      "baslangic": 138.51,
+      "bitis": 142.95,
+      "metin": "devletinde arkadaşlar kanun üstününü kabulü, tanzimat"
+    },
+    {
+      "baslangic": 142.95,
+      "bitis": 147.71,
+      "metin": "fermanıdır. Anayasal düzene geçiş, kanuni esasinin ilanıdır."
+    },
+    {
+      "baslangic": 147.71,
+      "bitis": 153.15,
+      "metin": "Onları meşrutiyetle göreceğiz. Evet. Ne anlattık? Hukukun"
+    },
+    {
+      "baslangic": 153.15,
+      "bitis": 156.51,
+      "metin": "oluşumunda Türk ııı töresi, İslam ve fethedilen bölgeler"
+    },
+    {
+      "baslangic": 156.51,
+      "bitis": 160.03,
+      "metin": "etkilidir. Yüksek divan neresiymiş? Yanlış söyledim."
+    },
+    {
+      "baslangic": 160.03,
+      "bitis": 163.47,
+      "metin": "Yüksek mahkeme neresiymiş? Divan. Kim bakarmış? Kazasker."
+    },
+    {
+      "baslangic": 163.47,
+      "bitis": 165.95,
+      "metin": "Bundan bahsettik. Kanun üstündü, tanzimat fermanı."
+    },
+    {
+      "baslangic": 165.95,
+      "bitis": 170.39,
+      "metin": "İlk yazılı kanunda neymiş? Fatih Sultan Mehmet kanunname"
+    },
+    {
+      "baslangic": 170.39,
+      "bitis": 173.47,
+      "metin": "Ali Osman. Şimdi benim en sevdiğim görevliye geldi"
+    },
+    {
+      "baslangic": 173.47,
+      "bitis": 177.91,
+      "metin": "kardeşlerim. Kadı. Görüyor musun bak? Oh. Şöyle büyüteyim"
+    },
+    {
+      "baslangic": 177.91,
+      "bitis": 181.87,
+      "metin": "kadıyı. Kadı bizim için tam bir soru bankası. Gerçekten"
+    },
+    {
+      "baslangic": 181.87,
+      "bitis": 185.31,
+      "metin": "bak. Önemli ııı çeşitli özellikler olan bir görevli."
+    },
+    {
+      "baslangic": 185.31,
+      "bitis": 187.99,
+      "metin": "Buyurun bismillahirrahmanirrahim. Kadı hangi"
+    },
+    {
+      "baslangic": 187.99,
+      "bitis": 191.27,
+      "metin": "okuldan mezundur? Medresede. Türkler eğitimi görür. Türk"
+    },
+    {
+      "baslangic": 191.27,
+      "bitis": 194.63,
+      "metin": "Müslümanlar. Hangi sınıftandır? A on bir C, B"
+    },
+    {
+      "baslangic": 194.63,
+      "bitis": 198.87,
+      "metin": "ilmiye. Ilmiyesidir bundandır. Peki çok önemli"
+    },
+    {
+      "baslangic": 198.87,
+      "bitis": 203.71,
+      "metin": "özellik. Kadı hazineden maaş almaz. Baktığı dosyadan maaş"
+    },
+    {
+      "baslangic": 203.71,
+      "bitis": 206.91,
+      "metin": "alır. Bir de zehametten hani orta dereceli memurlara verilen"
+    },
+    {
+      "baslangic": 206.91,
+      "bitis": 211.71,
+      "metin": "arazileri neydi? Zehamet. Türk kökenlidir. Meclise"
+    },
+    {
+      "baslangic": 211.71,
+      "bitis": 216.35,
+      "metin": "mezunudur. Ilmiyedir. Dikkat. Bir öğrenci kadıyı en kolay"
+    },
+    {
+      "baslangic": 216.35,
+      "bitis": 221.31,
+      "metin": "şöyle öğrenebilir. Kadı, hakim, kaymakam noter. Kadı,"
+    },
+    {
+      "baslangic": 221.31,
+      "bitis": 225.39,
+      "metin": "hakim, kaymakam noter gençler. Aynen bak. Hakim"
+    },
+    {
+      "baslangic": 225.39,
+      "bitis": 228.43,
+      "metin": "davalara baktığı için hangi yetkiyi kullanır? Yargı,"
+    },
+    {
+      "baslangic": 228.43,
+      "bitis": 234.39,
+      "metin": "dikkat. Kaymakam, kazaları idare eder. Tarihi zayıf"
+    },
+    {
+      "baslangic": 234.39,
+      "bitis": 237.63,
+      "metin": "kardeşim. Kazaları idare etmesi demek hangi yetki"
+    },
+    {
+      "baslangic": 237.63,
+      "bitis": 241.83,
+      "metin": "demektir? Yürütme. Kazaları idare etmesi demek hangi"
+    },
+    {
+      "baslangic": 241.83,
+      "bitis": 246.75,
+      "metin": "yetkiyidir? Yürütme. Bak sana mükemmel bir soru. Osman'da"
+    },
+    {
+      "baslangic": 246.75,
+      "bitis": 250.95,
+      "metin": "kadı, yasama, yargı, yürütme. Hangi yetkileri"
+    },
+    {
+      "baslangic": 250.95,
+      "bitis": 254.27,
+      "metin": "kullanır? Herkes yargı yapar. Benim öğrencim ne yapacak?"
+    },
+    {
+      "baslangic": 254.27,
+      "bitis": 259.15,
+      "metin": "boş bırakacak gibi duruyor. Ne yapacak? Yargı ve yürütme. Bir"
+    },
+    {
+      "baslangic": 259.15,
+      "bitis": 262.51,
+      "metin": "bölgeyi idare etmek hangi etkiymiş? Yürütme. Yasama"
+    },
+    {
+      "baslangic": 262.51,
+      "bitis": 265.11,
+      "metin": "padişahın ağzından çıkan kanunlar olur. O yüzden"
+    },
+    {
+      "baslangic": 265.11,
+      "bitis": 268.23,
+      "metin": "yürütme ve yargıyı kullanır. Oldu mu? Kazaları da"
+    },
+    {
+      "baslangic": 268.23,
+      "bitis": 273.83,
+      "metin": "yönetir. Noter. Her türlü onay. Kardeşlerim gedik hakkı"
+    },
+    {
+      "baslangic": 273.83,
+      "bitis": 276.19,
+      "metin": "neydi? Dükkan açma ruhsatı değil mi? Bunu kimden"
+    },
+    {
+      "baslangic": 276.19,
+      "bitis": 280.59,
+      "metin": "alıyorduk? Loncalardan. Bunu onaylayan kadıdır. Evlenme,"
+    },
+    {
+      "baslangic": 280.59,
+      "bitis": 284.71,
+      "metin": "boşanma, miras, mahkeme, çek, senet, tüm resmi işlerde kim"
+    },
+    {
+      "baslangic": 284.71,
+      "bitis": 290.59,
+      "metin": "vardır? Kadı vardır. Gelin buyurun. MEP kazanım tesisinde"
+    },
+    {
+      "baslangic": 290.59,
+      "bitis": 293.75,
+      "metin": "bile geçer. Belediyecilik hizmetlerinde kim vardır? Kadı"
+    },
+    {
+      "baslangic": 293.75,
+      "bitis": 298.71,
+      "metin": "vardır. Unutmayalım. Gençler vakıfları denetler. Vakıfları"
+    },
+    {
+      "baslangic": 298.71,
+      "bitis": 303.03,
+      "metin": "mütebeli heyeti üretir, kadı denetler. Ilk kadımız kim?"
+    },
+    {
+      "baslangic": 303.03,
+      "bitis": 307.07,
+      "metin": "Dursun Faki. Faki zaten ne demektir? Göreli ııı vakıf"
+    },
+    {
+      "baslangic": 307.07,
+      "bitis": 310.87,
+      "metin": "görevlisi. Evlenme, boşanma, mira sabah kar dedik. Arkadaşlar"
+    },
+    {
+      "baslangic": 310.87,
+      "bitis": 314.27,
+      "metin": "değil mi? Kardeşlerim ne alaka diyeceğim bir şey vergi"
+    },
+    {
+      "baslangic": 314.27,
+      "bitis": 317.63,
+      "metin": "toplar. Vergi oranlarını verirler. Özellikle kasaba"
+    },
+    {
+      "baslangic": 317.63,
+      "bitis": 320.67,
+      "metin": "gibi yerlerde adaletli bir vergi sistemi oluşturmaya"
+    },
+    {
+      "baslangic": 320.67,
+      "bitis": 323.75,
+      "metin": "çalışır. E bir de kardeşim kendisi orayı idare ettiği"
+    },
+    {
+      "baslangic": 323.75,
+      "bitis": 326.99,
+      "metin": "için kazalarda vergi toplama işine yardımcı olur. Vergi"
+    },
+    {
+      "baslangic": 326.99,
+      "bitis": 330.15,
+      "metin": "oranlarını verirler. Ilçede yaşıyorsun. Vergi ödemeyi"
+    },
+    {
+      "baslangic": 330.15,
+      "bitis": 331.75,
+      "metin": "nereye gidiyorsun? Kaymakam'la. Işte bu da"
+    },
+    {
+      "baslangic": 331.75,
+      "bitis": 336.99,
+      "metin": "kaymakam arkadaşlar. Ataması nereden yapılır? Divandan. Kim"
+    },
+    {
+      "baslangic": 336.99,
+      "bitis": 340.71,
+      "metin": "yapar? Kaz asker. Şimdi buradan bir mantık kuracağız."
+    },
+    {
+      "baslangic": 340.71,
+      "bitis": 344.59,
+      "metin": "Gençler eyaretleri kim yönetirdi? Beyler beyi,"
+    },
+    {
+      "baslangic": 344.59,
+      "bitis": 348.11,
+      "metin": "sancak beyi. Beyler beyi ve sancak beyine kadı atama"
+    },
+    {
+      "baslangic": 348.11,
+      "bitis": 352.59,
+      "metin": "görevi verilmez. Beyler beyi ve sancak beyine kadı atama"
+    },
+    {
+      "baslangic": 352.59,
+      "bitis": 355.47,
+      "metin": "görevi verilmez. Çünkü kadıyı beyler beyi ve sancak beyi"
+    },
+    {
+      "baslangic": 355.47,
+      "bitis": 357.99,
+      "metin": "atarsa yarın öbür gün kararlarına müdahil olmaya"
+    },
+    {
+      "baslangic": 357.99,
+      "bitis": 361.63,
+      "metin": "çalışır. O yüzden kadıya diyoruz ki sen merkeze"
+    },
+    {
+      "baslangic": 361.63,
+      "bitis": 364.71,
+      "metin": "bağlısın. Kimse itinlama. O yüzden ataması divandan"
+    },
+    {
+      "baslangic": 364.71,
+      "bitis": 369.99,
+      "metin": "yapılıyor. Dikkat. Aynı yerde uzun süre görev yapmaz. Bak"
+    },
+    {
+      "baslangic": 369.99,
+      "bitis": 372.03,
+      "metin": "günümüzde savcılar böyle değil mi çocuklar? Ben bu yüzden"
+    },
+    {
+      "baslangic": 372.03,
+      "bitis": 375.67,
+      "metin": "savcı olmadım. Yanına bak. Savcılar da beş yılda bir"
+    },
+    {
+      "baslangic": 375.67,
+      "bitis": 378.47,
+      "metin": "göç göç ödüyor diyorum. Işte taşınmıyorlar mı arkadaşlar?"
+    },
+    {
+      "baslangic": 378.47,
+      "bitis": 382.47,
+      "metin": "Niye? Çünkü halkla kaynaşabilir. Bizim halkımız"
+    },
+    {
+      "baslangic": 382.47,
+      "bitis": 385.95,
+      "metin": "ben milliyetçi bir insan olma rağmen bizim halkımız zengini"
+    },
+    {
+      "baslangic": 385.95,
+      "bitis": 391.11,
+      "metin": "sever. Makam mevkiyi sever. Kaymakam yani kadı"
+    },
+    {
+      "baslangic": 391.11,
+      "bitis": 393.59,
+      "metin": "kaynaşması halk onunla kaynaşır. Ya zorla kızını"
+    },
+    {
+      "baslangic": 393.59,
+      "bitis": 397.95,
+      "metin": "verir ya kız alır, bir akrabalık balık kurar. Türk cemiyali aynı"
+    },
+    {
+      "baslangic": 397.95,
+      "bitis": 400.75,
+      "metin": "yerde uzun süre görev yapmasın, kararlarında duygusal"
+    },
+    {
+      "baslangic": 400.75,
+      "bitis": 404.91,
+      "metin": "olmasın. Sizden beklediğim performans lisans, ön lisans,"
+    },
+    {
+      "baslangic": 404.91,
+      "bitis": 408.95,
+      "metin": "orta öğretim, AGS, hakimlik, kaymakamlık, engelli"
+    },
+    {
+      "baslangic": 408.95,
+      "bitis": 412.75,
+      "metin": "kaprisi. Buyurun kardeşlerim. Atamasını Beyler Bey,"
+    },
+    {
+      "baslangic": 412.75,
+      "bitis": 416.43,
+      "metin": "Sancak Bey'inin yapmaması. Aynı yerde uzun süre görev"
+    },
+    {
+      "baslangic": 416.43,
+      "bitis": 419.27,
+      "metin": "yapmaması neyi sağlamaya yöneliktir? Yargının"
+    },
+    {
+      "baslangic": 419.27,
+      "bitis": 421.15,
+      "metin": "bağımsızlığı. Bak durumu toplamışım, yargının"
+    },
+    {
+      "baslangic": 421.15,
+      "bitis": 426.47,
+      "metin": "bağımsın. Anlıyor musun? Oldu mu? Hadi gelin kadının bir de"
+    },
+    {
+      "baslangic": 426.47,
+      "bitis": 431.67,
+      "metin": "kardeşlerin rütbeleri vardır. En büyük kadı Taht Kadısı."
+    },
+    {
+      "baslangic": 431.67,
+      "bitis": 435.19,
+      "metin": "Bakın en büyük kadı Taht Kadısı. İstanbul'u yönetir."
+    },
+    {
+      "baslangic": 435.19,
+      "bitis": 438.55,
+      "metin": "Onun dışında kardeşlerin büyük şehirleri yöneten Mevleviyet"
+    },
+    {
+      "baslangic": 438.55,
+      "bitis": 442.39,
+      "metin": "Kadısı vardır. Eyalet Kadısı vardır. Sancak Kadısı"
+    },
+    {
+      "baslangic": 442.39,
+      "bitis": 449.27,
+      "metin": "vardır. Bir de kardeşlerim köy kadısı vardır. Oldu mu?"
+    },
+    {
+      "baslangic": 449.27,
+      "bitis": 453.51,
+      "metin": "Şu kaza olacak. Yazım hatası olmuş. Kaza ve köy. En"
+    },
+    {
+      "baslangic": 453.51,
+      "bitis": 457.23,
+      "metin": "büyüğü hangisiymiş peki? En büyüğü söyleyelim sizlere. En"
+    },
+    {
+      "baslangic": 457.23,
+      "bitis": 461.71,
+      "metin": "büyüğü kimmiş? Tak Kadısı. Buyurun zor bir soru. Kadı"
+    },
+    {
+      "baslangic": 461.71,
+      "bitis": 465.51,
+      "metin": "yetiştiren okullar, medreseyi bileceğiz. On dokuzuncu yılda"
+    },
+    {
+      "baslangic": 465.51,
+      "bitis": 469.35,
+      "metin": "mektebi nuvap, mektebi hukuku şahane. Bu da hakimlik"
+    },
+    {
+      "baslangic": 469.35,
+      "bitis": 473.11,
+      "metin": "kaymakalmıkta gelebilir. Söylüyorum. Lisans ön lisansta"
+    },
+    {
+      "baslangic": 473.11,
+      "bitis": 475.63,
+      "metin": "medrese gelebilir. Hakimlik ve kaymakalmıkta bunlar"
+    },
+    {
+      "baslangic": 475.63,
+      "bitis": 480.63,
+      "metin": "gelebilir. Oldu mu gençler? Evet. Kadı şöyle bütün görün."
+    },
+    {
+      "baslangic": 480.63,
+      "bitis": 486.75,
+      "metin": "Nasıl küçülttüm değil mi? Bak şöyle bütün görün. Gayet bütün özelliklerini"
+    },
+    {
+      "baslangic": 486.75,
+      "bitis": 493.35,
+      "metin": "tablolu hale getirdik. Geldik mahkeme türlerine. Evet size"
+    },
+    {
+      "baslangic": 493.35,
+      "bitis": 498.45,
+      "metin": "güveniyorum. Mahkeme türleri. Kardeşlerim Osman'da"
+    },
+    {
+      "baslangic": 498.45,
+      "bitis": 502.65,
+      "metin": "mahkeme türleri deyince şeri mahkeme, örfî mahkeme,"
+    },
+    {
+      "baslangic": 502.65,
+      "bitis": 505.69,
+      "metin": "azınlık mahkemesi. İslam dinine göre kurulan"
+    },
+    {
+      "baslangic": 505.69,
+      "bitis": 510.49,
+      "metin": "mahkemeler şeri artı töreye göre örfî, azınlıkların"
+    },
+    {
+      "baslangic": 510.49,
+      "bitis": 514.33,
+      "metin": "kendi mahkemesi var. Dikkat cemaat mahkemesi. Cami cemaat"
+    },
+    {
+      "baslangic": 514.33,
+      "bitis": 518.65,
+      "metin": "değil bu. Yahudi cemaati, Rum cemaati, Patrikhanenin"
+    },
+    {
+      "baslangic": 518.65,
+      "bitis": 523.57,
+      "metin": "mahkemesi var. Gençler o zaman dini mahkemeler varsa laik hukuk"
+    },
+    {
+      "baslangic": 523.57,
+      "bitis": 527.77,
+      "metin": "yok. Yani laiklik sadece İslam'la ilgili değil. Bunlar"
+    },
+    {
+      "baslangic": 527.77,
+      "bitis": 532.49,
+      "metin": "da dini mahkeme. Laiklik yok. Konsolosluk mahkemesi. Bakın"
+    },
+    {
+      "baslangic": 532.49,
+      "bitis": 535.97,
+      "metin": "sizi bir yere götüreyim. Karn-ı Sultan Süleyman zamanında"
+    },
+    {
+      "baslangic": 535.97,
+      "bitis": 538.93,
+      "metin": "Fransa'ya kapitülasyon vermedik mi? Verdik. Fransa'ya"
+    },
+    {
+      "baslangic": 538.93,
+      "bitis": 542.21,
+      "metin": "kapitülasyonlara göre kardeşlerim Fransız tüccarların"
+    },
+    {
+      "baslangic": 542.21,
+      "bitis": 545.69,
+      "metin": "davalarına Fransız yargıçları bakacaktı. Doğru mu? Nerede"
+    },
+    {
+      "baslangic": 545.69,
+      "bitis": 549.89,
+      "metin": "bakacak? Konsolosluk mahkemesi. O zaman Ahmet Hoca'nın hemen"
+    },
+    {
+      "baslangic": 549.89,
+      "bitis": 554.41,
+      "metin": "yazmış sana. Demiş ki sevgili kardeşlerim demiş konsolosluk"
+    },
+    {
+      "baslangic": 554.41,
+      "bitis": 556.33,
+      "metin": "mahkemesini soruda görünce nereye bağlayın?"
+    },
+    {
+      "baslangic": 556.33,
+      "bitis": 560.05,
+      "metin": "Kapitülasyonlara. O yüzden kapitülasyonların"
+    },
+    {
+      "baslangic": 560.05,
+      "bitis": 563.53,
+      "metin": "yaygınlaşmasıyla sayısında artış görülen mahkeme türü"
+    },
+    {
+      "baslangic": 563.53,
+      "bitis": 568.41,
+      "metin": "hangisiymiş? Konsolosluk. Önemli bildi. Oldu mu? O zaman"
+    },
+    {
+      "baslangic": 568.41,
+      "bitis": 571.69,
+      "metin": "zaman durumları toplayalım. Bu kadar mahkeme türü varsa"
+    },
+    {
+      "baslangic": 571.69,
+      "bitis": 576.57,
+      "metin": "hukukta birlik, hukukta laiklik, hukukta eşitlik yok."
+    },
+    {
+      "baslangic": 576.57,
+      "bitis": 581.85,
+      "metin": "Birlik, laiklik, eşitlik yok. Bunların hepsi Türkiye"
+    },
+    {
+      "baslangic": 581.85,
+      "bitis": 587.09,
+      "metin": "Cumhuriyeti'nde medeni kanunla gelecek. Oldu mu? Evet. Bunlar"
+    },
+    {
+      "baslangic": 587.09,
+      "bitis": 590.57,
+      "metin": "benim dediğim gibi önemli gördüğüm anekdotlar. Geldik"
+    },
+    {
+      "baslangic": 590.57,
+      "bitis": 597.37,
+      "metin": "terimlere arkadaşlar. Evet. En güzel terim Fatih Terim."
+    },
+    {
+      "baslangic": 597.37,
+      "bitis": 603.37,
+      "metin": "severiz. Buyurun. Şerihe sigil defteri. Allah nasip etti,"
+    },
+    {
+      "baslangic": 603.37,
+      "bitis": 606.77,
+      "metin": "güzel puan aldınız, atandınız. En güzel dönem şudur. Eee"
+    },
+    {
+      "baslangic": 606.77,
+      "bitis": 609.69,
+      "metin": "atandığınız kurumun sizden istediği belgeler vardır. Adli"
+    },
+    {
+      "baslangic": 609.69,
+      "bitis": 614.77,
+      "metin": "sigil kaydı. Şerihi sigil kaydı. Mahkeme kararlarının"
+    },
+    {
+      "baslangic": 614.77,
+      "bitis": 618.13,
+      "metin": "yazıldığı defterdir arkadaşlar. Oldu mu? Defterler"
+    },
+    {
+      "baslangic": 618.13,
+      "bitis": 622.49,
+      "metin": "artıyor. Divan kararları mühimmah. Arazi tımar kaydedersem"
+    },
+    {
+      "baslangic": 622.49,
+      "bitis": 625.21,
+      "metin": "hangi defterde? Tahir. Hatırlayın diye söylüyorum."
+    },
+    {
+      "baslangic": 625.21,
+      "bitis": 628.45,
+      "metin": "defterleri son konuda Kültür Belediyesi'nin son videosunda"
+    },
+    {
+      "baslangic": 628.45,
+      "bitis": 632.05,
+      "metin": "toparlayacağım. Eşkal ve esame defteri vardı Kapıkulu'ya"
+    },
+    {
+      "baslangic": 632.05,
+      "bitis": 635.45,
+      "metin": "alakalı değil mi? Mahkeme kararının yazı defter neymiş?"
+    },
+    {
+      "baslangic": 635.45,
+      "bitis": 641.93,
+      "metin": "Şerii sicil defteri. Tereke. Buyurun kardeşlerim. Ahmet"
+    },
+    {
+      "baslangic": 641.93,
+      "bitis": 645.29,
+      "metin": "hocam Tereke defterine ölen kişinin miras, borç,"
+    },
+    {
+      "baslangic": 645.29,
+      "bitis": 651.37,
+      "metin": "akrabalık, akraba, borç alacak verecek miras bilgilerin"
+    },
+    {
+      "baslangic": 651.37,
+      "bitis": 654.73,
+      "metin": "yazdığı genel defterdir. Tereke defteri. Kim yazar"
+    },
+    {
+      "baslangic": 654.73,
+      "bitis": 659.37,
+      "metin": "biliyor musunuz? Kassam. Kim yazarmış? Kassam. Kassam"
+    },
+    {
+      "baslangic": 659.37,
+      "bitis": 663.97,
+      "metin": "miras dağıtım görevcidir. Evet gençler terekeyi öğrendik mi?"
+    },
+    {
+      "baslangic": 663.97,
+      "bitis": 668.13,
+      "metin": "Şeriyeti siz öğrendik mi? Gelin bakalım. Gel gel gel."
+    },
+    {
+      "baslangic": 668.13,
+      "bitis": 673.37,
+      "metin": "Kadının yardımcıları Naip köylerde de havalara bakar."
+    },
+    {
+      "baslangic": 673.37,
+      "bitis": 679.93,
+      "metin": "Kassam miras dağıtımı, terek hedefleri, muhsır, kolluk"
+    },
+    {
+      "baslangic": 679.93,
+      "bitis": 682.25,
+      "metin": "kuvveti, tanığı getir, sanığı götür. Mübaşir gibi."
+    },
+    {
+      "baslangic": 682.25,
+      "bitis": 685.61,
+      "metin": "Oldu mu arkadaşlar? Bunlar mahkemede görev alır. Al sana"
+    },
+    {
+      "baslangic": 685.61,
+      "bitis": 689.49,
+      "metin": "yeni nesil bir soru. Osmanlı'da on yedinci yüzyılda"
+    },
+    {
+      "baslangic": 689.49,
+      "bitis": 693.37,
+      "metin": "herhangi bir mahkemeye giren vatandaşın hangisiyle"
+    },
+    {
+      "baslangic": 693.37,
+      "bitis": 695.89,
+      "metin": "karşılanması beklenmez? Şerii esici defteriyle"
+    },
+    {
+      "baslangic": 695.89,
+      "bitis": 699.29,
+      "metin": "karşılaşır. Muhtırla karşılaşır. Kassamla"
+    },
+    {
+      "baslangic": 699.29,
+      "bitis": 702.37,
+      "metin": "karşılaşır. Kadıyla karşılaşır. Oldu mu? Böyle sorular"
+    },
+    {
+      "baslangic": 702.37,
+      "bitis": 705.85,
+      "metin": "gelebilir. Sevgili kardeşlerim, cerideyim mi"
+    },
+    {
+      "baslangic": 705.85,
+      "bitis": 710.49,
+      "metin": "hakim? Mahkeme, ceride de yayın demek, mahkeme kararının"
+    },
+    {
+      "baslangic": 710.49,
+      "bitis": 715.01,
+      "metin": "yazıldı defter şeriyesiz cildir. Gazetelersem halka"
+    },
+    {
+      "baslangic": 715.01,
+      "bitis": 719.01,
+      "metin": "duyuruldu gazete, ceride-i mehakimdir. Bunun sorunmadığı"
+    },
+    {
+      "baslangic": 719.01,
+      "bitis": 722.49,
+      "metin": "yer kalmadı neredeyse yine soracak arkadaşlar. Kanuni"
+    },
+    {
+      "baslangic": 722.49,
+      "bitis": 726.49,
+      "metin": "kadimde köklü kanundur. Evet sizler için şöyle bir daha"
+    },
+    {
+      "baslangic": 726.49,
+      "bitis": 730.37,
+      "metin": "söylüyorum bakın terimler, mahkeme kararı şeriyesiz"
+    },
+    {
+      "baslangic": 730.37,
+      "bitis": 734.17,
+      "metin": "için, akrabalık miras diyorsam tereke, mahkeme"
+    },
+    {
+      "baslangic": 734.17,
+      "bitis": 737.37,
+      "metin": "kararının halka duyurulması ceride-i mehakim gazetesi."
+    },
+    {
+      "baslangic": 737.37,
+      "bitis": 742.13,
+      "metin": "Bunlar defter o gazete. Kadının yeryüzünde kimmiş? Naib,"
+    },
+    {
+      "baslangic": 742.13,
+      "bitis": 746.73,
+      "metin": "Kassam, Musr. Miras dağıtımından görevli kişi kimmiş? Kassam."
+    },
+    {
+      "baslangic": 746.73,
+      "bitis": 750.05,
+      "metin": "Oldu mu? Hadi hatırlayın bakayım. Hangi sırftı bunlar?"
+    },
+    {
+      "baslangic": 750.05,
+      "bitis": 754.89,
+      "metin": "İlmiye sınıfı arkadaşlar. Ceride-i Mehakim'de bahsettik."
+    },
+    {
+      "baslangic": 754.89,
+      "bitis": 758.13,
+      "metin": "Kanunu Kadim'de hani deriz ya Kadim dostum. Köklü kanun"
+    },
+    {
+      "baslangic": 758.13,
+      "bitis": 761.13,
+      "metin": "demek ki. Kardeşlerim normalde konu bitti ama ben"
+    },
+    {
+      "baslangic": 761.13,
+      "bitis": 764.29,
+      "metin": "eğitimde de böyle yapmıştım. Öğrenci bütününü"
+    },
+    {
+      "baslangic": 764.29,
+      "bitis": 767.41,
+      "metin": "orda zaman daha iyi anlıyor. Gelin buyrun. Dağılma da"
+    },
+    {
+      "baslangic": 767.41,
+      "bitis": 771.73,
+      "metin": "kısmen bahsedeceğiz ama şimdiden de bahsedelim. On dokuzuncu"
+    },
+    {
+      "baslangic": 771.73,
+      "bitis": 775.81,
+      "metin": "yüzyıl. Gördünüz mü? Müslüman ve gayrimüslenin beraber"
+    },
+    {
+      "baslangic": 775.81,
+      "bitis": 778.21,
+      "metin": "yargılandığı karma mahkemeleri vardı. Ticaret"
+    },
+    {
+      "baslangic": 778.21,
+      "bitis": 781.81,
+      "metin": "mahkemeleri kurulmuştur. Çok önemli. Batı tarizi ilk"
+    },
+    {
+      "baslangic": 781.81,
+      "bitis": 785.49,
+      "metin": "mahkeme. Nizamiye mahkemesi. Içinden hangi padişah diye"
+    },
+    {
+      "baslangic": 785.49,
+      "bitis": 788.29,
+      "metin": "bir kendini yiyip durma. Islahatlarda anlatacağım."
+    },
+    {
+      "baslangic": 788.29,
+      "bitis": 792.13,
+      "metin": "Şu an temel atıyorum. Nizamiye Batı tarizi ilk mahkeme."
+    },
+    {
+      "baslangic": 792.13,
+      "bitis": 798.17,
+      "metin": "Kaçıncı yüzyıl? On dokuz. Girin kardeşlerim. Şurayı devlet."
+    },
+    {
+      "baslangic": 798.17,
+      "bitis": 802.25,
+      "metin": "Danıştay. Günümüzde danıştay özeliği gösteren Osman'daki"
+    },
+    {
+      "baslangic": 802.25,
+      "bitis": 805.65,
+      "metin": "yargı kurma hangisiymiş? Şurayı devlet. D'de böyle"
+    },
+    {
+      "baslangic": 805.65,
+      "bitis": 812.49,
+      "metin": "bağlayın. Divanı ahkam adiye. Yargıtay. Adiye yargıtay."
+    },
+    {
+      "baslangic": 812.49,
+      "bitis": 818.69,
+      "metin": "Bağlayın. Divanı muhasebat. Muhasebe sayıştay. Sayı. Yani"
+    },
+    {
+      "baslangic": 818.69,
+      "bitis": 821.77,
+      "metin": "beklediğimi sorulan birisi şudur. Hangisi hukuk birimi"
+    },
+    {
+      "baslangic": 821.77,
+      "bitis": 825.13,
+      "metin": "değildir, yargı ile ilgili değildir veya günümüzde"
+    },
+    {
+      "baslangic": 825.13,
+      "bitis": 829.33,
+      "metin": "sayıştay özelliği gösteren Osman'daki kurum muhasebat,"
+    },
+    {
+      "baslangic": 829.33,
+      "bitis": 834.37,
+      "metin": "yargıtay özelliği gösteren kurum adliye. Oldu mu? Evet"
+    },
+    {
+      "baslangic": 834.37,
+      "bitis": 839.13,
+      "metin": "gençler geldik mecelleye. Mecelle öyle bir konu ki hem"
+    },
+    {
+      "baslangic": 839.13,
+      "bitis": 841.85,
+      "metin": "kendisi orijinal bir konu hem de inkılaplara kadar giden"
+    },
+    {
+      "baslangic": 841.85,
+      "bitis": 845.65,
+      "metin": "bir konu. Buyurun efendim size mükemmel bir mecelli"
+    },
+    {
+      "baslangic": 845.65,
+      "bitis": 849.13,
+      "metin": "anlatacağım inşallah. Ahmet Cevdet'in komisyon"
+    },
+    {
+      "baslangic": 849.13,
+      "bitis": 850.73,
+      "metin": "başkanlığını yaptı. Bir komisyon tarafından"
+    },
+    {
+      "baslangic": 850.73,
+      "bitis": 854.65,
+      "metin": "oluşturulan şeriyata dayalı medeni hukuk kitabıdır. Şeriyata"
+    },
+    {
+      "baslangic": 854.65,
+      "bitis": 858.93,
+      "metin": "dayalı medeni hukuk kitabıdır. Neye dayalıymış? Şeriyata"
+    },
+    {
+      "baslangic": 858.93,
+      "bitis": 862.69,
+      "metin": "dayalı. Kaçıncı yüzyıl? On dokuz. On dokuz yüzyıl"
+    },
+    {
+      "baslangic": 862.69,
+      "bitis": 867.05,
+      "metin": "şeriyata dayalı. Gaza gelme batı ile alakası yok. On dokuz"
+    },
+    {
+      "baslangic": 867.05,
+      "bitis": 871.49,
+      "metin": "ama şeriyata dayalı olduğu için alakası yok. Buyurun gençler"
+    },
+    {
+      "baslangic": 871.49,
+      "bitis": 875.41,
+      "metin": "şehri kurallar kavano hane getirildi. Ne var içerisinde?"
+    },
+    {
+      "baslangic": 875.41,
+      "bitis": 879.85,
+      "metin": "İcra, borç, iflas, mülk, kira var. Evlenme, boşama,"
+    },
+    {
+      "baslangic": 879.85,
+      "bitis": 883.29,
+      "metin": "miras yok. Medeni kanun olduğuna aldanma. Evlenme,"
+    },
+    {
+      "baslangic": 883.29,
+      "bitis": 888.13,
+      "metin": "boşanma miras yok. Ne varmış? İcra, borç, iflas, mal, mülk,"
+    },
+    {
+      "baslangic": 888.13,
+      "bitis": 893.73,
+      "metin": "kira bunlar var. Kardeşlerim evlenme boşanma yok. Herkes"
+    },
+    {
+      "baslangic": 893.73,
+      "bitis": 896.77,
+      "metin": "için değil, Müslümanlar için. Bunları ben uydurmuyorum."
+    },
+    {
+      "baslangic": 896.77,
+      "bitis": 899.85,
+      "metin": "ÖSYM'nin birçok sınavda sorduğu mecele soruların"
+    },
+    {
+      "baslangic": 899.85,
+      "bitis": 904.61,
+      "metin": "toplamıdır bu. Mecele sadece Müslümanlar için şeriyata"
+    },
+    {
+      "baslangic": 904.61,
+      "bitis": 908.69,
+      "metin": "dayanıldığından dolayı batıllaşma değil. Medeni"
+    },
+    {
+      "baslangic": 908.69,
+      "bitis": 912.53,
+      "metin": "kuk kitabı diyorsun, evlenme boşanmayı işaretlemiyorsun."
+    },
+    {
+      "baslangic": 912.53,
+      "bitis": 917.93,
+      "metin": "Batılı değil. Buyurun efendim. Bin dokuz yüz on yedi ne"
+    },
+    {
+      "baslangic": 917.93,
+      "bitis": 921.01,
+      "metin": "yayınlanmıştır? Aile kararnamesi. Neden? Çünkü"
+    },
+    {
+      "baslangic": 921.01,
+      "bitis": 925.01,
+      "metin": "mecelle bundan bahsetmediği için. Osmanlı evlenme boşanma"
+    },
+    {
+      "baslangic": 925.01,
+      "bitis": 928.05,
+      "metin": "miras konularını mecelle bahsetmediği için bin dokuz"
+    },
+    {
+      "baslangic": 928.05,
+      "bitis": 930.69,
+      "metin": "yüz on yedide aile kararnamesi yayınlayacak. Bu da çok"
+    },
+    {
+      "baslangic": 930.69,
+      "bitis": 936.41,
+      "metin": "olmayacak. On dokuz da geri kaldıracak. Evet. Meceleyi"
+    },
+    {
+      "baslangic": 936.41,
+      "bitis": 942.89,
+      "metin": "Gördük mü kardeşlerim? Gördük mü? Al sana mükemmel bir hukuk"
+    },
+    {
+      "baslangic": 942.89,
+      "bitis": 947.45,
+      "metin": "tablosu. Ne işledik gene özellik, kadı ve özellikleri,"
+    },
+    {
+      "baslangic": 947.45,
+      "bitis": 953.21,
+      "metin": "mahkeme türleri, terimler on dokuzuncu yüzyıl ve güzel bir"
+    },
+    {
+      "baslangic": 953.21,
+      "bitis": 956.49,
+      "metin": "şekilde mecele işi bir kardeşler. O zaman hemen"
+    },
+    {
+      "baslangic": 956.49,
+      "bitis": 959.69,
+      "metin": "nereye geçelim? Osmanlı sanata geçelim değil mi? Değil mi?"
+    },
+    {
+      "baslangic": 959.69,
+      "bitis": 963.57,
+      "metin": "Serkan'ım istersen bir şey yapalım hemen kalemlerimi de"
+    },
+    {
+      "baslangic": 963.57,
+      "bitis": 972.12,
+      "metin": "alayım. Evet kardeşlerim. Hukuktan nereye geçiyorum?"
+    },
+    {
+      "baslangic": 972.12,
+      "bitis": 976.44,
+      "metin": "Osmanlı'da sanata. Hadi bakalım. Osmanlı sanat"
+    },
+    {
+      "baslangic": 976.44,
+      "bitis": 979.76,
+      "metin": "deyince aklımıza ne gelecek? Çin'i sanatı. Çin'i sanatı"
+    },
+    {
+      "baslangic": 979.76,
+      "bitis": 984.24,
+      "metin": "neleri kardeşlerim? Evlerde annenin çeyizinden kalma bir"
+    },
+    {
+      "baslangic": 984.24,
+      "bitis": 988.0,
+      "metin": "vazosu vardır. Salonda olur. Zaten salon bizim küçüklüğümüzde"
+    },
+    {
+      "baslangic": 988.0,
+      "bitis": 990.76,
+      "metin": "müze gibiydi. Utanmasalar pasaporta girip çıkacaktık."
+    },
+    {
+      "baslangic": 990.76,
+      "bitis": 995.32,
+      "metin": "Bayramdan bayrama. Yaşı otuz beş esnede onlar bilir. O"
+    },
+    {
+      "baslangic": 995.32,
+      "bitis": 997.88,
+      "metin": "salonda annenizin bir tane vazosu vardır. Içinde desenler"
+    },
+    {
+      "baslangic": 997.88,
+      "bitis": 1002.04,
+      "metin": "vardır. Işte o Çin'i sanatı. Veya camilere gidin. Camilere"
+    },
+    {
+      "baslangic": 1002.04,
+      "bitis": 1005.28,
+      "metin": "sadece tuvaletini kullanmayın. Gidin dua edin. Elin yabancısı"
+    },
+    {
+      "baslangic": 1005.28,
+      "bitis": 1009.6,
+      "metin": "bile o mimari harikadan keyif alıyor. Inceleyin camili."
+    },
+    {
+      "baslangic": 1009.6,
+      "bitis": 1012.6,
+      "metin": "Camilerde fayanslarda görürsünüz. Olur mu gençler?"
+    },
+    {
+      "baslangic": 1012.6,
+      "bitis": 1017.08,
+      "metin": "Çin'i sanatı budur. Fırınlanmış toprak üzerine"
+    },
+    {
+      "baslangic": 1017.08,
+      "bitis": 1025.24,
+      "metin": "diye başlar. Üzerine çizilen desenlerdir. En ünlüsü İznik"
+    },
+    {
+      "baslangic": 1025.24,
+      "bitis": 1039.24,
+      "metin": "Yeşil Camidir örneği. Günümüzde her genç kızın çeyizinde olması gereken Kütahya gençler, Çinli sanatının en çok yoğun olduğu yerler."
+    },
+    {
+      "baslangic": 1039.24,
+      "bitis": 1049.24,
+      "metin": "Minyatür. Hatırlarsanız kitap resmiydi arkadaşlar. Minyatürden beklenen soru şu. Minyatürle uğraşan insanlara ne ad verilir? Nakkaş."
+    },
+    {
+      "baslangic": 1049.24,
+      "bitis": 1060.11,
+      "metin": "Benim beklediğim soruşu, buyurun, Levni, Nigari, Sinan"
+    },
+    {
+      "baslangic": 1060.11,
+      "bitis": 1068.83,
+      "metin": "Paşa, Levni, Nigari, Sinan Paşa, arkadaşlar eee"
+    },
+    {
+      "baslangic": 1068.83,
+      "bitis": 1072.79,
+      "metin": "mahtakçı Nasuh'un ve bunlar gibi öncülük ettiği sanat"
+    },
+    {
+      "baslangic": 1072.79,
+      "bitis": 1077.35,
+      "metin": "dalı diye soru gelecek. Levni, Nigari, Sinan Paşa, Nakkaş"
+    },
+    {
+      "baslangic": 1077.35,
+      "bitis": 1080.95,
+      "metin": "Osman, Nakkaş'ı bilerek vermezler. Öncülük ettiği"
+    },
+    {
+      "baslangic": 1080.95,
+      "bitis": 1086.27,
+      "metin": "sanat dılığı gelebilir. Minyatürk değerli kardeşlerim derinlik"
+    },
+    {
+      "baslangic": 1086.27,
+      "bitis": 1091.91,
+      "metin": "yoktur. Perspektif yoktur. Rütbeye göre cisimlendirme"
+    },
+    {
+      "baslangic": 1091.91,
+      "bitis": 1097.99,
+      "metin": "olur. Mesela satırzamsan seni büyük gösterirler. Yeni"
+    },
+    {
+      "baslangic": 1097.99,
+      "bitis": 1101.23,
+      "metin": "şeydeysen küçük gösterirler. Olur mu? Bir daha söylüyorum."
+    },
+    {
+      "baslangic": 1101.23,
+      "bitis": 1104.51,
+      "metin": "Neymli, Nigari, Sinan Paşa bunun öncüsüdür. Sizlerden"
+    },
+    {
+      "baslangic": 1104.51,
+      "bitis": 1112.95,
+      "metin": "ricam şu eseri iyi bilin. Surname Osmanlı'da şehzadelerin"
+    },
+    {
+      "baslangic": 1112.95,
+      "bitis": 1117.11,
+      "metin": "sünnetini anlatan, düğünlerini anlatan eserlerdir. Surname,"
+    },
+    {
+      "baslangic": 1117.11,
+      "bitis": 1123.07,
+      "metin": "hünername. Oldu mu? Düğün eğlence, surname, hünername de"
+    },
+    {
+      "baslangic": 1123.07,
+      "bitis": 1129.12,
+      "metin": "anlatır gençler. Burada matrakçı Nasuh, kanunun"
+    },
+    {
+      "baslangic": 1129.12,
+      "bitis": 1134.12,
+      "metin": "Macaristan seferini anlatır. Leyni Lale Devri'nin"
+    },
+    {
+      "baslangic": 1134.12,
+      "bitis": 1138.28,
+      "metin": "minyatürüdür. Kitapta bunları da yazdım sizler için. Evet."
+    },
+    {
+      "baslangic": 1138.28,
+      "bitis": 1143.84,
+      "metin": "Geldik Ebru sanatı. Gençler Ebru çok kolay. Al. Ebru çok"
+    },
+    {
+      "baslangic": 1143.84,
+      "bitis": 1151.27,
+      "metin": "kolay. Şu bir kova. Hop hop. Şöyle yapalım. İçine su"
+    },
+    {
+      "baslangic": 1151.27,
+      "bitis": 1156.19,
+      "metin": "koydun. Üstüne boya koydun. Kağıdı bandırıp çıkardın. Al"
+    },
+    {
+      "baslangic": 1156.19,
+      "bitis": 1159.63,
+      "metin": "sana Ebru. Çok bilimsel anlattım. Ebru'yla uğraşan"
+    },
+    {
+      "baslangic": 1159.63,
+      "bitis": 1162.11,
+      "metin": "insanlara ne adı verilir? Ebruzen. Şuna bak lan."
+    },
+    {
+      "baslangic": 1162.11,
+      "bitis": 1166.55,
+      "metin": "enesans tablosu gibi oldu vallahi. Değil mi? Ben tiyatroya"
+    },
+    {
+      "baslangic": 1166.55,
+      "bitis": 1173.11,
+      "metin": "bekliyorum arkadaşlar. Tiyatro. Osmanlı'da tiyatro salonunun"
+    },
+    {
+      "baslangic": 1173.11,
+      "bitis": 1180.16,
+      "metin": "adı Darülbelay. Tiyatronun kurusi de Güllagop."
+    },
+    {
+      "baslangic": 1180.16,
+      "bitis": 1186.56,
+      "metin": "Tanzimat döneminde. Güllagop. Bakın Türkiye Cumhuriyeti'de"
+    },
+    {
+      "baslangic": 1186.56,
+      "bitis": 1191.24,
+      "metin": "Muhsin Ertuğrul. Ertuğrul mu? Ertuğrul evet. Ertuğrul"
+    },
+    {
+      "baslangic": 1191.24,
+      "bitis": 1194.48,
+      "metin": "al mıydı? Ertuğrul herhalde. Güllagop burada. Türkiye'de"
+    },
+    {
+      "baslangic": 1194.48,
+      "bitis": 1198.32,
+      "metin": "Muhsin Ertuğrul. Kardeşlerim, tiyatro deyince bunlar"
+    },
+    {
+      "baslangic": 1198.32,
+      "bitis": 1203.72,
+      "metin": "kurucuları dar-ı bedayı bilin. Bir de ilk tiyatro oyunumuz"
+    },
+    {
+      "baslangic": 1203.72,
+      "bitis": 1213.16,
+      "metin": "Şinasi Şair Evlenmesi. İlk sergilenen tiyatro oyunu Vatan"
+    },
+    {
+      "baslangic": 1213.16,
+      "bitis": 1223.48,
+      "metin": "Yahut Silistri. Namık Kemal. Oldu mu? Evet. Vatan Yahut"
+    },
+    {
+      "baslangic": 1223.48,
+      "bitis": 1226.04,
+      "metin": "Silistri ilk sergilenen tiyatro oyunu. Mİngilçili"
+    },
+    {
+      "baslangic": 1226.04,
+      "bitis": 1229.04,
+      "metin": "hatta dönem dönem yasaklanan bir tiyatro oyunudur Osmanlı'da."
+    },
+    {
+      "baslangic": 1229.04,
+      "bitis": 1232.48,
+      "metin": "İlk tiyatro oyunun adı Şair Evlenmesi. Sergilenen,"
+    },
+    {
+      "baslangic": 1232.48,
+      "bitis": 1237.0,
+      "metin": "sergilenen vatan yavrusu liste kurucu Güllagop tiyatro"
+    },
+    {
+      "baslangic": 1237.0,
+      "bitis": 1240.44,
+      "metin": "salonu adı Darülbeday'ı. Tiyatro eğitimi. Kitab-ı"
+    },
+    {
+      "baslangic": 1240.44,
+      "bitis": 1243.68,
+      "metin": "sanatlar kardeşlerim. Bunu böyle yaptım. Bunlar kitab-ı"
+    },
+    {
+      "baslangic": 1243.68,
+      "bitis": 1248.16,
+      "metin": "sanat dalı oluyor. Güzel yazıdır. Hem duvarda"
+    },
+    {
+      "baslangic": 1248.16,
+      "bitis": 1253.04,
+      "metin": "mimardi olur. Bunun Osmanlı'da kurucusu Şeyh"
+    },
+    {
+      "baslangic": 1253.04,
+      "bitis": 1258.64,
+      "metin": "Hamdullah'tır. Hattatların kıblesi. Değil mi? Şeyh"
+    },
+    {
+      "baslangic": 1258.64,
+      "bitis": 1265.24,
+      "metin": "Hamdullah, Hafız Osman, Mustafa Rakım Efendi size bir kopya"
+    },
+    {
+      "baslangic": 1265.24,
+      "bitis": 1269.56,
+      "metin": "vereyim. Dindar adamlarsa hattattır. Öyleyse yeme böyle"
+    },
+    {
+      "baslangic": 1269.56,
+      "bitis": 1273.12,
+      "metin": "sordu. Şeyh Abdullah'ın, Hafız Osman, Mustafa Rakım"
+    },
+    {
+      "baslangic": 1273.12,
+      "bitis": 1275.64,
+      "metin": "Efendi'nin ismini bilmediği bir kişi daha katar. Heyecan"
+    },
+    {
+      "baslangic": 1275.64,
+      "bitis": 1278.84,
+      "metin": "olsun diye. Öncülük ettiği sanat dalı cevap hat sanatıydı."
+    },
+    {
+      "baslangic": 1278.84,
+      "bitis": 1287.32,
+      "metin": "Beklenen soru, Levni, Nigari, Sinan Paşa, Matratinasuh'un öncülük ettiği sanat dalı cevap minyatur."
+    },
+    {
+      "baslangic": 1287.32,
+      "bitis": 1288.56,
+      "metin": "Aldı mı?"
+    },
+    {
+      "baslangic": 1288.56,
+      "bitis": 1293.4,
+      "metin": "Kardeşlerim, müceliklik, siz bilmezsiniz, citleme sanatı."
+    },
+    {
+      "baslangic": 1293.4,
+      "bitis": 1299.96,
+      "metin": "Ben dedim gibi mahallede büyüdük, sobalı bir evde gençler, beş kardeşiz."
+    },
+    {
+      "baslangic": 1299.96,
+      "bitis": 1303.2,
+      "metin": "Eylül ayı babam için dert aydır."
+    },
+    {
+      "baslangic": 1303.2,
+      "bitis": 1307.28,
+      "metin": "Niye? Beş kardeşin okuyorsun, kitabını alıyorsun falan filan."
+    },
+    {
+      "baslangic": 1307.28,
+      "bitis": 1313.16,
+      "metin": "yani tek maaş, ilk dükkan işletiyoruz, marangoz, esnaf için kolay dönemler olmuyordu."
+    },
+    {
+      "baslangic": 1313.16,
+      "bitis": 1316.76,
+      "metin": "Hani esnafda gün gelir, ayı besler, ay gelir, günü besler derler."
+    },
+    {
+      "baslangic": 1316.76,
+      "bitis": 1322.68,
+      "metin": "Neyse, yeni defterler falan alınır, o gün akşam yemeği yenilir, soba yakılmıştır,"
+    },
+    {
+      "baslangic": 1322.68,
+      "bitis": 1323.96,
+      "metin": "bir de talaç sobası vardı."
+    },
+    {
+      "baslangic": 1323.96,
+      "bitis": 1327.96,
+      "metin": "Rahmetli annem çayı koyar, önlükler asıldır falan."
+    },
+    {
+      "baslangic": 1327.96,
+      "bitis": 1332.36,
+      "metin": "Hep beraber otururuz halıya, hadi benim kitapları bir ciddiyelim, senin gibi ciddiyelim."
+    },
+    {
+      "baslangic": 1332.36,
+      "bitis": 1334.36,
+      "metin": "Ablalarım pembe alır, benimki mavi olur."
+    },
+    {
+      "baslangic": 1334.36,
+      "bitis": 1339.0,
+      "metin": "Onları bir güzel ciddlerdik, bir de altı düz olsun diye halın altına koyar yatardık."
+    },
+    {
+      "baslangic": 1339.46,
+      "bitis": 1341.08,
+      "metin": "Sabah da o evese giderdik."
+    },
+    {
+      "baslangic": 1341.48,
+      "bitis": 1344.08,
+      "metin": "Hayatımızın en güzel organizasyonuymuş."
+    },
+    {
+      "baslangic": 1344.08,
+      "bitis": 1347.76,
+      "metin": "Hayatımızın en güzel dönemiymiş de gerçekten kıymetini bilememişiz."
+    },
+    {
+      "baslangic": 1347.88,
+      "bitis": 1350.18,
+      "metin": "Her seferinde aklıma gelir ciddleme."
+    },
+    {
+      "baslangic": 1350.68,
+      "bitis": 1351.68,
+      "metin": "Tesip."
+    },
+    {
+      "baslangic": 1352.3,
+      "bitis": 1356.36,
+      "metin": "Kardeşim, tesiple uğraşan insana müzehyp adı verilir."
+    },
+    {
+      "baslangic": 1358.62,
+      "bitis": 1362.66,
+      "metin": "Kardeşlerim, tesip demek müzehyp yani bu soru da şöyle gelecek."
+    },
+    {
+      "baslangic": 1363.12,
+      "bitis": 1365.44,
+      "metin": "Altınlama, yaldızlama."
+    },
+    {
+      "baslangic": 1365.44,
+      "bitis": 1375.44,
+      "metin": "Dini kitaplardaki sarı yaldızlar, müzeyyip, altınlama, yaldızlama, müstensih. Sizsiniz gençler. Evet, sizlere laf sokuyorum."
+    },
+    {
+      "baslangic": 1375.44,
+      "bitis": 1383.44,
+      "metin": "Canlı fotokopi, belgeleri çoğaltan kişi. Ya YouTube'ı izliyor, ders dotunu alıyor, bir de hala yazıyor."
+    },
+    {
+      "baslangic": 1383.44,
+      "bitis": 1391.44,
+      "metin": "Ne yazıp duruyorsun Allah'ını seversen? İşte sizin gibi. Belgeleri çoğaltan canlı fotokopi kimmiş? Müstensih. Oldu mu?"
+    },
+    {
+      "baslangic": 1391.44,
+      "bitis": 1396.52,
+      "metin": "Kardeşlerim, Osmanlı'nın bir de netçarlık vardır. Netçer de"
+    },
+    {
+      "baslangic": 1396.52,
+      "bitis": 1402.48,
+      "metin": "marangozluktur bine mi? Ahşap işçiliğidir. Musiki. Hocam"
+    },
+    {
+      "baslangic": 1402.48,
+      "bitis": 1412.08,
+      "metin": "burada kim var? Itri, Dede Efendi, değil mi? Gençler,"
+    },
+    {
+      "baslangic": 1412.08,
+      "bitis": 1420.71,
+      "metin": "Tamburi Cemil, kurucusu kim? Abdülkadir Maragi, Bülent"
+    },
+    {
+      "baslangic": 1420.71,
+      "bitis": 1423.47,
+      "metin": "Ersoy. Diyeceğim Bülent Beliboyacak. Bülent Ersoy"
+    },
+    {
+      "baslangic": 1423.47,
+      "bitis": 1426.43,
+      "metin": "değil tabii ki. Kurusu kim? Abdülkadir Marabi. Sevgili"
+    },
+    {
+      "baslangic": 1426.43,
+      "bitis": 1430.87,
+      "metin": "kardeşlerim burada da konservatuar eğitiminin Darül"
+    },
+    {
+      "baslangic": 1430.87,
+      "bitis": 1435.79,
+      "metin": "Erhan olduğunu şimdiden öğrenin. Oldu mu? Bir de ilk"
+    },
+    {
+      "baslangic": 1435.79,
+      "bitis": 1439.43,
+      "metin": "Mehter takımı Osman Bey'de görülür. Mızıkay Humayun Bando"
+    },
+    {
+      "baslangic": 1439.43,
+      "bitis": 1445.47,
+      "metin": "takımı 2. Mahmut dönemidir. Gibi gibi. Spor deyince turabi"
+    },
+    {
+      "baslangic": 1445.47,
+      "bitis": 1451.33,
+      "metin": "yokken Selim Sırrı Tarcan vardı. Bizim katıldığımız"
+    },
+    {
+      "baslangic": 1451.33,
+      "bitis": 1454.09,
+      "metin": "ilk olimpiyatlarda bin dokuz yüz on iki Stockholm"
+    },
+    {
+      "baslangic": 1454.09,
+      "bitis": 1458.57,
+      "metin": "olimpiyatlarıdır gençler. Stockholm olimpiyatlarıdır."
+    },
+    {
+      "baslangic": 1458.57,
+      "bitis": 1462.49,
+      "metin": "ÖSYM'in de en sevdiği konu resim. Hadi resim işleyelim."
+    },
+    {
+      "baslangic": 1462.49,
+      "bitis": 1470.27,
+      "metin": "Kardeşlerim ilk Portlesi'ni çizilen padişah. Padişah"
+    },
+    {
+      "baslangic": 1470.27,
+      "bitis": 1475.47,
+      "metin": "Sultan Mehmet Sinan Paşa gül koklayan adam değil mi? Sinan"
+    },
+    {
+      "baslangic": 1475.47,
+      "bitis": 1478.91,
+      "metin": "Paşa gül koklayan adam. İtalyan Beliniye çizilmişti"
+    },
+    {
+      "baslangic": 1478.91,
+      "bitis": 1484.91,
+      "metin": "hatırlarsanız. Kardeşlerim padişah posterlerini duvar"
+    },
+    {
+      "baslangic": 1484.91,
+      "bitis": 1492.19,
+      "metin": "arastıran kişi? Mahmut hangi Mahmut? Ikici Mahmut."
+    },
+    {
+      "baslangic": 1492.19,
+      "bitis": 1498.79,
+      "metin": "Kardeşlerim ilk resim sergisini ben açtım. Ben kimim? Şeker"
+    },
+    {
+      "baslangic": 1498.79,
+      "bitis": 1503.23,
+      "metin": "adamım yani. Şeker Ahmet. İlk resim sergisi. On dokuzuncu"
+    },
+    {
+      "baslangic": 1503.23,
+      "bitis": 1507.51,
+      "metin": "yüzyılda. Biliyorsunuz biliyorsunuz İslam'dan dolayı"
+    },
+    {
+      "baslangic": 1507.51,
+      "bitis": 1510.75,
+      "metin": "resim biraz geri planda kaldı değil mi? Ha tessip minyatür"
+    },
+    {
+      "baslangic": 1510.75,
+      "bitis": 1515.55,
+      "metin": "ön plandaydı. Resim sergisi deyince Şeker Ahmet ve tabii"
+    },
+    {
+      "baslangic": 1515.55,
+      "bitis": 1524.32,
+      "metin": "ki Osman Hamdi Bey'i bilmeden bu işler olmaz. Gençler mesela"
+    },
+    {
+      "baslangic": 1524.32,
+      "bitis": 1530.84,
+      "metin": "günümüzde fazıl say, piyanonun eee ne derler? En çok tanınan"
+    },
+    {
+      "baslangic": 1530.84,
+      "bitis": 1534.32,
+      "metin": "sanatçısı değil mi? Osman Hamdi de güzel sanatlara en"
+    },
+    {
+      "baslangic": 1534.32,
+      "bitis": 1544.76,
+      "metin": "çok emek veren kişi. Kendisi eee Saraya Atike yani müzecilerin"
+    },
+    {
+      "baslangic": 1544.76,
+      "bitis": 1549.76,
+      "metin": "müzeciliğin kurucusu, müdürü Sanayi Nefse Mekkebi'nin müdürü"
+    },
+    {
+      "baslangic": 1549.76,
+      "bitis": 1560.11,
+      "metin": "Güzel Sanatlar Okulu en ünlü eserleri silah taciri Kaplumbağ"
+    },
+    {
+      "baslangic": 1560.11,
+      "bitis": 1565.03,
+      "metin": "Terbiyecisi Kaplumbağ Terbiyecisi kısa yazıyorum"
+    },
+    {
+      "baslangic": 1565.03,
+      "bitis": 1569.95,
+      "metin": "kusuruma bakmayın. Gençler sorular işte. Kur'an okuyan kız,"
+    },
+    {
+      "baslangic": 1569.95,
+      "bitis": 1574.51,
+      "metin": "iki müzisyen kız, camdaki kız, mimoza kadın. Oldu mu?"
+    },
+    {
+      "baslangic": 1574.51,
+      "bitis": 1577.51,
+      "metin": "Balkondan bakan kız, tövbe yarabbim. Karı kızı görecek"
+    },
+    {
+      "baslangic": 1577.51,
+      "bitis": 1581.67,
+      "metin": "miyi işaretleyin? Osman'ım değil mi? Evet. Iki müzisyen"
+    },
+    {
+      "baslangic": 1581.67,
+      "bitis": 1587.83,
+      "metin": "kızdan başlıyorum. Gerisi sizde. Iki müzisyen kız,"
+    },
+    {
+      "baslangic": 1587.83,
+      "bitis": 1591.43,
+      "metin": "mimoza kadın, camdaki kız, hepsini işaretleyin. Oldu"
+    },
+    {
+      "baslangic": 1591.43,
+      "bitis": 1596.43,
+      "metin": "Evet, ÖSM hep resimli sordu arkadaşlar Osman Hamdi Bey üzerinden."
+    },
+    {
+      "baslangic": 1596.43,
+      "bitis": 1598.43,
+      "metin": "Tiyatro'yu pek sormadı inşallah sorar."
+    },
+    {
+      "baslangic": 1598.43,
+      "bitis": 1601.43,
+      "metin": "Kardeşlerim geldik basin yayına."
+    },
+    {
+      "baslangic": 1601.43,
+      "bitis": 1604.43,
+      "metin": "Bunu da lütfen yazarak çalışın olur mu basin yayına?"
+    },
+    {
+      "baslangic": 1604.43,
+      "bitis": 1612.17,
+      "metin": "Şimdi 2024'te kültür medyayet videosu 12 taneymiş benim."
+    },
+    {
+      "baslangic": 1612.17,
+      "bitis": 1615.17,
+      "metin": "12 video yani."
+    },
+    {
+      "baslangic": 1615.17,
+      "bitis": 1617.17,
+      "metin": "Ama üçte üç yaptık Allah'a şükür."
+    },
+    {
+      "baslangic": 1617.17,
+      "bitis": 1619.17,
+      "metin": "Yani çıkan her soruyu anlatmışız."
+    },
+    {
+      "baslangic": 1619.17,
+      "bitis": 1620.17,
+      "metin": "O beni mutlu etmişti."
+    },
+    {
+      "baslangic": 1620.17,
+      "bitis": 1626.45,
+      "metin": "Şimdi bu sene 2026 çekimlerinde bu kültür medyada 9-8 video indirmeye çalışıyorum."
+    },
+    {
+      "baslangic": 1626.45,
+      "bitis": 1627.65,
+      "metin": "Anlatabildim mi gençler?"
+    },
+    {
+      "baslangic": 1627.65,
+      "bitis": 1629.65,
+      "metin": "Ama benim için video sayısı önemli değil."
+    },
+    {
+      "baslangic": 1629.65,
+      "bitis": 1631.09,
+      "metin": "Verimlilik çok önemli."
+    },
+    {
+      "baslangic": 1631.09,
+      "bitis": 1633.09,
+      "metin": "Yani şunlara emek veriyoruz."
+    },
+    {
+      "baslangic": 1633.09,
+      "bitis": 1639.49,
+      "metin": "Benim gibi, şu sana belki çok kolay ciddi almadın ama bir gün müzeyip diye bir soru çıkar, patlar işte bu."
+    },
+    {
+      "baslangic": 1639.49,
+      "bitis": 1641.49,
+      "metin": "Böyle olur bu işler."
+    },
+    {
+      "baslangic": 1641.49,
+      "bitis": 1643.49,
+      "metin": "Buyurun, matbaa."
+    },
+    {
+      "baslangic": 1643.49,
+      "bitis": 1647.49,
+      "metin": "Osmanlı kardeşlerim ilk matbaa Islı Hatlar'da göreceğiz."
+    },
+    {
+      "baslangic": 1647.49,
+      "bitis": 1655.83,
+      "metin": "Özel matbaa, Türk matbaası dersem Lare Devri, Lare Devri, devlet matbaası dersem Üçün Selim."
+    },
+    {
+      "baslangic": 1655.83,
+      "bitis": 1660.43,
+      "metin": "Fıstı alttan anlatacağım. İbrahim Müteferrika ve Said Efendi'yi getirecek."
+    },
+    {
+      "baslangic": 1660.43,
+      "bitis": 1665.71,
+      "metin": "Matbaada basılan ilk eserde Van Koli Lugat'ı olacak."
+    },
+    {
+      "baslangic": 1665.71,
+      "bitis": 1673.16,
+      "metin": "Matbaada basılan ilk eserde ne olacakmış? Van Koli Lugat'ı. Aldı mı?"
+    },
+    {
+      "baslangic": 1673.16,
+      "bitis": 1681.62,
+      "metin": "Gel kardeşim takvim-i vakayı 1831 ilk resmi gazetedir. Resmi"
+    },
+    {
+      "baslangic": 1681.62,
+      "bitis": 1685.82,
+      "metin": "gazetenin ikinci Mahmut dönemi. Yen nesil soru geliyor. Otuz"
+    },
+    {
+      "baslangic": 1685.82,
+      "bitis": 1689.74,
+      "metin": "bire dikkat edin. Hangi yenilik hareketinin takvim vakayı"
+    },
+    {
+      "baslangic": 1689.74,
+      "bitis": 1692.42,
+      "metin": "aracıyla halka duyurulması beklenemez? Soru bankamı"
+    },
+    {
+      "baslangic": 1692.42,
+      "bitis": 1695.7,
+      "metin": "soruyoruz. Hangi yenilik hareketinin takvim vakayı"
+    },
+    {
+      "baslangic": 1695.7,
+      "bitis": 1698.42,
+      "metin": "aracıyla halka duyurulması beklenemez? Otuz birden"
+    },
+    {
+      "baslangic": 1698.42,
+      "bitis": 1702.86,
+      "metin": "sonrası beklenir. Tanzimat otuz dokuz beklenir, ıslat"
+    },
+    {
+      "baslangic": 1702.86,
+      "bitis": 1706.18,
+      "metin": "elli altı beklenir. Meşrutiyet yetmiş altı beklenir. Senet"
+    },
+    {
+      "baslangic": 1706.18,
+      "bitis": 1709.7,
+      "metin": "İttifak beklenemez. Bin sekiz yüz sekiz. Anlatabildim mi"
+    },
+    {
+      "baslangic": 1709.7,
+      "bitis": 1713.06,
+      "metin": "arkadaşlar? Yeni nesnes sorular bunlar işte. Resmi gazete."
+    },
+    {
+      "baslangic": 1713.06,
+      "bitis": 1718.86,
+      "metin": "Resmi diyorum. Cered-i havadis. Yarı resmi."
+    },
+    {
+      "baslangic": 1718.86,
+      "bitis": 1723.18,
+      "metin": "Masrafların yarısı hazineden karşılandığı için. Tercüman"
+    },
+    {
+      "baslangic": 1723.18,
+      "bitis": 1730.18,
+      "metin": "ahval ilk özel gazete. Evet ilk özel gazete gençler."
+    },
+    {
+      "baslangic": 1730.18,
+      "bitis": 1748.98,
+      "metin": "Mirat İlk Resmi Dergi, Tıbbiye İlk Türkçe Dergi, Mecmua-i Fünun İlk Bilim Dergisi, Diyoşen'de hiç sevmiyorum, herkes biliyor bunu zaten, Mizah Dergisi."
+    },
+    {
+      "baslangic": 1748.98,
+      "bitis": 1760.06,
+      "metin": "Evet, Mirat Resmi Dergi, Takvim Bakayı Resmi Gazete. Tıbbiye Türkçe İlk Bilim Dergisi, Mecmua-i Fünun da İlk Bilim Dergisi."
+    },
+    {
+      "baslangic": 1760.06,
+      "bitis": 1767.7,
+      "metin": "Kadınlarımız için gençler Fatma Aliye. Fatma Aliye. İlk"
+    },
+    {
+      "baslangic": 1767.7,
+      "bitis": 1773.62,
+      "metin": "roman yazarımız. Kadın roman yazarımız. Muhadderat. Fatma"
+    },
+    {
+      "baslangic": 1773.62,
+      "bitis": 1775.98,
+      "metin": "Aliye'nin eseridir arkadaşlar. Kadının geleceği anlamındadır."
+    },
+    {
+      "baslangic": 1775.98,
+      "bitis": 1780.18,
+      "metin": "Yine Şüküfe Zar. Geniş aile vardı. Şüküfe çok severdi"
+    },
+    {
+      "baslangic": 1780.18,
+      "bitis": 1783.42,
+      "metin": "ben onu. Aklıma gelir. Şüküfe Zar. Şüküfe Zar."
+    },
+    {
+      "baslangic": 1783.42,
+      "bitis": 1786.42,
+      "metin": "Çaycısından yazarına kadar tamamen kadınların"
+    },
+    {
+      "baslangic": 1786.42,
+      "bitis": 1791.58,
+      "metin": "oluşurduğu dergi. Demet'te de kitabımıza yazıyor. Haride"
+    },
+    {
+      "baslangic": 1791.58,
+      "bitis": 1795.5,
+      "metin": "Edip Adıvar'ın görev aldı dergi. Muhattirat Şükübezar,"
+    },
+    {
+      "baslangic": 1795.5,
+      "bitis": 1798.66,
+      "metin": "Demet, Fatmariye, ilk roman yazanımız gençler, kadınlarla"
+    },
+    {
+      "baslangic": 1798.66,
+      "bitis": 1801.94,
+      "metin": "alakalı. Celide İmimi Hakim az önce anlattık. Mahkeme"
+    },
+    {
+      "baslangic": 1801.94,
+      "bitis": 1806.34,
+      "metin": "kararının yazı yayınlandığı gazete. Tasvir Evkar,"
+    },
+    {
+      "baslangic": 1806.34,
+      "bitis": 1812.02,
+      "metin": "Mustafa Kemal'in ilk resimli biyografisi. Namık Kemal'in"
+    },
+    {
+      "baslangic": 1812.02,
+      "bitis": 1815.82,
+      "metin": "Batan Yavuz Silise vardı. Etkili olduğu gazete, ibret"
+    },
+    {
+      "baslangic": 1815.82,
+      "bitis": 1821.26,
+      "metin": "gazetesi gençler. Vakay Mısiri'ye Türkçe çıkartılan"
+    },
+    {
+      "baslangic": 1821.26,
+      "bitis": 1825.18,
+      "metin": "gazete, Mısır'da çıkartılmış. John Türkler'in yayın"
+    },
+    {
+      "baslangic": 1825.18,
+      "bitis": 1829.5,
+      "metin": "organları Meşfret ve mizan değil mi? Tasvir efkarı iki"
+    },
+    {
+      "baslangic": 1829.5,
+      "bitis": 1834.02,
+      "metin": "kere yazmışım gençler. Düstür, ikinci resmi dergi"
+    },
+    {
+      "baslangic": 1834.02,
+      "bitis": 1837.42,
+      "metin": "Lozan yayınlandı. Bakın bunun önemi Lozandır. Lozan'dan"
+    },
+    {
+      "baslangic": 1837.42,
+      "bitis": 1840.42,
+      "metin": "anlatıyorum zaten. Lozan'ın yayınlandığı düstürdür."
+    },
+    {
+      "baslangic": 1840.42,
+      "bitis": 1844.3,
+      "metin": "İlk tam ileride işleyeceğiz. Ileride de"
+    },
+    {
+      "baslangic": 1844.3,
+      "bitis": 1846.74,
+      "metin": "sıkılmayın bundan. Mustafa Kemal'in geldiklerine giderler"
+    },
+    {
+      "baslangic": 1846.74,
+      "bitis": 1851.02,
+      "metin": "sözü burada yayınlanacak. Artı baskı tekniği gelişmiş olan"
+    },
+    {
+      "baslangic": 1851.02,
+      "bitis": 1857.66,
+      "metin": "değil mi? Kitabınızda yazar. Volkan ve Serbesi'yi göreceğiz"
+    },
+    {
+      "baslangic": 1857.66,
+      "bitis": 1862.26,
+      "metin": "31 Mart'ı kışkırtan. Sırat-ı Müstakim de gençler. Mehmet"
+    },
+    {
+      "baslangic": 1862.26,
+      "bitis": 1866.58,
+      "metin": "Akif. Biraz sıkışık oldu ama buraya. Mehmet Akif'in"
+    },
+    {
+      "baslangic": 1866.58,
+      "bitis": 1869.62,
+      "metin": "baş yazarlığını yaptı. Sonradan Sevili Reşat'a"
+    },
+    {
+      "baslangic": 1869.62,
+      "bitis": 1872.62,
+      "metin": "dönecek. İslamcılık doğrusu yayın yapacak. Sırat-ı"
+    },
+    {
+      "baslangic": 1872.62,
+      "bitis": 1877.06,
+      "metin": "müstakim İslamcılık. Mehmet Akif. Namı Kemal İbret. Oldu"
+    },
+    {
+      "baslangic": 1877.06,
+      "bitis": 1881.82,
+      "metin": "mu? Mustafa Kemal geldikleri giderler. Eee rotatif baskı"
+    },
+    {
+      "baslangic": 1881.82,
+      "bitis": 1884.18,
+      "metin": "tekniğini kullanan İktam Gazetesi. Lozan'ın"
+    },
+    {
+      "baslangic": 1884.18,
+      "bitis": 1887.82,
+      "metin": "yayınlandığı dergi Düstür. Oldu mu? Mustafa Kemal'in"
+    },
+    {
+      "baslangic": 1887.82,
+      "bitis": 1891.62,
+      "metin": "resimli biyografisi, tasvir-i efkar. Mahkeme kararının"
+    },
+    {
+      "baslangic": 1891.62,
+      "bitis": 1896.02,
+      "metin": "yayınlandığı gazete Ceride-i Mahakim. Resmi dergi Mirat."
+    },
+    {
+      "baslangic": 1896.02,
+      "bitis": 1900.18,
+      "metin": "Resmi gazete takvimi Vakay. Arkadaşlar bunlar daha"
+    },
+    {
+      "baslangic": 1900.18,
+      "bitis": 1903.04,
+      "metin": "abartılabilir ama bu bir de sizi sıkar, söyleyeyim."
+    },
+    {
+      "baslangic": 1903.04,
+      "bitis": 1905.96,
+      "metin": "Onları bir gün de izberlemeyin. Akışına bırakın."
+    },
+    {
+      "baslangic": 1906.0,
+      "bitis": 1909.18,
+      "metin": "Yanlış yapışıkla döner bakarsınız. En güzel öğrenme yöntemi budur."
+    },
+    {
+      "baslangic": 1909.3,
+      "bitis": 1912.5,
+      "metin": "Evet, kültür bedimi bayağı belli kırdık arkadaşlar."
+    },
+    {
+      "baslangic": 1912.5,
+      "bitis": 1914.58,
+      "metin": "Bir sonraki videoda görüşmek üzere."
+    }
+  ]
+}

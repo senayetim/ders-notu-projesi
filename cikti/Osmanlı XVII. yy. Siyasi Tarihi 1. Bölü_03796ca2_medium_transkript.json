@@ -1,0 +1,1875 @@
+{
+  "ses_dosyasi": "yuklenenler\\Osmanlı XVII. yy. Siyasi Tarihi 1. Bölü.mp3",
+  "model": "medium",
+  "cihaz": "cuda",
+  "terimler": "",
+  "ses_suresi_sn": 1886.2,
+  "islem_suresi_sn": 118.1,
+  "parcalar": [
+    {
+      "baslangic": 5.58,
+      "bitis": 12.58,
+      "metin": "Merhabalar değerli kardeşlerim. Osmanlı... Çok hızlı girmiş olabilirim. Merhabalar değerli kardeşlerim. Biraz daha yavaş."
+    },
+    {
+      "baslangic": 12.58,
+      "bitis": 15.58,
+      "metin": "Osmanlı duraklama dönemiyle karşınızdayım arkadaşlar."
+    },
+    {
+      "baslangic": 15.58,
+      "bitis": 19.58,
+      "metin": "Özellikle sayısalcı arkadaşlar ve kardeşlerim şöyle bir uyarayım."
+    },
+    {
+      "baslangic": 19.58,
+      "bitis": 27.58,
+      "metin": "Arkadaşlar soru da 17. yüzyıl yazıyorsa, 1600 yıllardır duraklama dönemidir, yeni adı arayış yıllarıdır."
+    },
+    {
+      "baslangic": 27.58,
+      "bitis": 32.74,
+      "metin": "On sekiz yazıyorsa gerileme dönemidir. Yeni adı diplomasi"
+    },
+    {
+      "baslangic": 32.74,
+      "bitis": 37.66,
+      "metin": "yıllarıdır. On dokuz yazıyorsa dağılma dönemidir. Yeni adı"
+    },
+    {
+      "baslangic": 37.66,
+      "bitis": 41.62,
+      "metin": "en uzun yüzyıldır. Oldu mu? Duraklama, gerileme, dağılma."
+    },
+    {
+      "baslangic": 41.62,
+      "bitis": 44.5,
+      "metin": "Ahmet Hocam sorular nereden gelebilir duraklamada? Daha"
+    },
+    {
+      "baslangic": 44.5,
+      "bitis": 48.94,
+      "metin": "çok isyanlar, ıslahatler. Siyasi tarihi tabii ki"
+    },
+    {
+      "baslangic": 48.94,
+      "bitis": 50.9,
+      "metin": "işleyeceğiz ama arkadaşlar daha çok isyan ve ıslahatlere"
+    },
+    {
+      "baslangic": 50.9,
+      "bitis": 55.66,
+      "metin": "ağırlık vermenizi istiyorum. Şimdi gelin bakalım duraklama"
+    },
+    {
+      "baslangic": 55.66,
+      "bitis": 59.82,
+      "metin": "o dönemi padişahlarımız arkadaşlar. Tahta hazır olsun diye ben yazdım."
+    },
+    {
+      "baslangic": 59.82,
+      "bitis": 62.62,
+      "metin": "Yoksa ezberim zayıf olduğu için yazmadım. İspat diyebilirim."
+    },
+    {
+      "baslangic": 62.62,
+      "bitis": 69.62,
+      "metin": "Kim var? 3. Murat. 1574-1595. 3. Mehmet var. 1595-1603."
+    },
+    {
+      "baslangic": 69.62,
+      "bitis": 75.62,
+      "metin": "1. Ahmet var. 1603-1617. 1. Mustafa var. 1617-18."
+    },
+    {
+      "baslangic": 75.62,
+      "bitis": 82.62,
+      "metin": "Genç Osman var. 1822. Gel, tekrar Mustafa çıkıyor. 22-23. İşleyeceğiz."
+    },
+    {
+      "baslangic": 82.62,
+      "bitis": 92.22,
+      "metin": "Sonra 4. Murat, 23-40, 1. İbrahim, 40-48, 4. Mehmet, 48'den 87'ye kadar, sonra Süleyman, Ahmet, Mustafa."
+    },
+    {
+      "baslangic": 92.22,
+      "bitis": 94.22,
+      "metin": "Şimdi ben bunların niye anlattım?"
+    },
+    {
+      "baslangic": 94.22,
+      "bitis": 99.02,
+      "metin": "Bazı arkadaşlar ders çalışmayı bilmediği için hangi padişahda ne olmuş?"
+    },
+    {
+      "baslangic": 99.02,
+      "bitis": 103.82,
+      "metin": "Kardeşlerim hangi padişahda ne olmuş sorusu ıslahatlarda lazım."
+    },
+    {
+      "baslangic": 103.82,
+      "bitis": 105.82,
+      "metin": "Siyasi tarihte lazım değil."
+    },
+    {
+      "baslangic": 105.82,
+      "bitis": 107.82,
+      "metin": "Nasıl çalışacağım buna? Bu bunu yaptı, bu bunu yaptı."
+    },
+    {
+      "baslangic": 107.82,
+      "bitis": 111.02,
+      "metin": "O yüzden böyle bir çalışma tarzı yok. Bu bir."
+    },
+    {
+      "baslangic": 111.02,
+      "bitis": 116.94,
+      "metin": "Biz Osmanlı-Venedik, Osmanlı-İran diye genel ve anlaşmalar üzerinden gideceğiz. Oldu mu kardeşlerim?"
+    },
+    {
+      "baslangic": 116.94,
+      "bitis": 122.46,
+      "metin": "Padişah sırası ve çalışma tarzımız ıslı hatlarda bize gerekli."
+    },
+    {
+      "baslangic": 122.46,
+      "bitis": 124.7,
+      "metin": "Peki ben bunları niye yazdım?"
+    },
+    {
+      "baslangic": 124.7,
+      "bitis": 125.82,
+      "metin": "Bir, bunu anlatmak için."
+    },
+    {
+      "baslangic": 125.82,
+      "bitis": 130.22,
+      "metin": "İki, yaklaşık 12-13 tane padişah değişmiş. Doğru mu?"
+    },
+    {
+      "baslangic": 130.22,
+      "bitis": 135.34,
+      "metin": "O zaman değerli kardeşlerim, en çok cülus dağıtılan yüzyıl hangi dönemmiş?"
+    },
+    {
+      "baslangic": 135.34,
+      "bitis": 136.62,
+      "metin": "17. yüzyıl."
+    },
+    {
+      "baslangic": 136.62,
+      "bitis": 139.1,
+      "metin": "Peki bu hazineyi olumsuz ettiler mi? Etkiler."
+    },
+    {
+      "baslangic": 139.1,
+      "bitis": 145.46,
+      "metin": "Bu bir. Gel bakayım 1. Mustafa'yı gördük mü? Bak burada tahta"
+    },
+    {
+      "baslangic": 145.46,
+      "bitis": 152.42,
+      "metin": "çıkmış mı? Burada tahta çıkmış mı? O zaman duraklama"
+    },
+    {
+      "baslangic": 152.42,
+      "bitis": 155.86,
+      "metin": "döneminde iki kez tahta çıkan padişah kimmiş? 1. Mustafa."
+    },
+    {
+      "baslangic": 155.86,
+      "bitis": 160.66,
+      "metin": "Tarihte iki kez tahta çıkan kardeşlerim iki kez tahta"
+    },
+    {
+      "baslangic": 160.66,
+      "bitis": 167.73,
+      "metin": "çıkan iki yüz yirmi bir çarpı M. Al sana. Temel matematik"
+    },
+    {
+      "baslangic": 167.73,
+      "bitis": 174.45,
+      "metin": "ikinci Murat, ikinci Mehmet Fatih, birinci Mustafa. Bu kadar."
+    },
+    {
+      "baslangic": 174.45,
+      "bitis": 178.17,
+      "metin": "Hadi biraz daha rehberlik yapayım. Kardeşlerim"
+    },
+    {
+      "baslangic": 178.17,
+      "bitis": 182.09,
+      "metin": "isyanlar da göreceğiz. Bin altı yüz elli beş Vakayı Vak Vakıye"
+    },
+    {
+      "baslangic": 182.09,
+      "bitis": 185.97,
+      "metin": "Çınar Olayı. Bin altı yüz elli beş hangi padişaha"
+    },
+    {
+      "baslangic": 185.97,
+      "bitis": 191.97,
+      "metin": "denk geliyor? Mehmet. O zaman cevap verin. Vakayı Vak Vakıye"
+    },
+    {
+      "baslangic": 191.97,
+      "bitis": 194.17,
+      "metin": "Çınar Olayı hangi padişah da olacak? Dördücü Mehmet."
+    },
+    {
+      "baslangic": 194.17,
+      "bitis": 199.41,
+      "metin": "Bitmedi. En küçük yaşta padişah olan kişi. Genç Osman deme"
+    },
+    {
+      "baslangic": 199.41,
+      "bitis": 204.25,
+      "metin": "sakın. Dörcü Mehmet. Altı yedi yaşında tahta çıktı. Gel şimdi"
+    },
+    {
+      "baslangic": 204.25,
+      "bitis": 209.25,
+      "metin": "hiç duydunuz mu? Köprü'ler diye. Köprü'lüler Osmanlı'da"
+    },
+    {
+      "baslangic": 209.25,
+      "bitis": 213.13,
+      "metin": "başarılı bir satıza maalesef köprü'lüler daha çok kimin"
+    },
+    {
+      "baslangic": 213.13,
+      "bitis": 217.89,
+      "metin": "zamanda görev almışlardır? Dörcü Mehmet. Aldı mı? Evet iki"
+    },
+    {
+      "baslangic": 217.89,
+      "bitis": 221.25,
+      "metin": "kez tahta çıktı. En küçük padişah. En çok cülusla"
+    },
+    {
+      "baslangic": 221.25,
+      "bitis": 225.61,
+      "metin": "yüzyıl hangisiymiş? Duraklama. Kardeşlerim duraklamanın"
+    },
+    {
+      "baslangic": 225.61,
+      "bitis": 229.53,
+      "metin": "iç nedenleri dış nedenleri. Bunu şöyle işleyeceğiz. Hangisi"
+    },
+    {
+      "baslangic": 229.53,
+      "bitis": 231.69,
+      "metin": "duraklamanın iç nedenlerindendir? Değildir."
+    },
+    {
+      "baslangic": 231.69,
+      "bitis": 235.33,
+      "metin": "Kusura bakmayın da böyle sorular beklemeyin. Evet"
+    },
+    {
+      "baslangic": 235.33,
+      "bitis": 238.69,
+      "metin": "bunlar on B sırfının yazı sorusu olur. Biz şöyle"
+    },
+    {
+      "baslangic": 238.69,
+      "bitis": 242.57,
+      "metin": "sorular öğreteceğiz. Dirlik sisteminin bozulması devleti"
+    },
+    {
+      "baslangic": 242.57,
+      "bitis": 246.17,
+      "metin": "hangi alanlarda olumsuz ettiler? Dirlik sisteminin"
+    },
+    {
+      "baslangic": 246.17,
+      "bitis": 249.17,
+      "metin": "bozulmasının büyük kaçkına sebep olması. Bu tarz"
+    },
+    {
+      "baslangic": 249.17,
+      "bitis": 252.01,
+      "metin": "bağlantıları kuracağız. Oldu mu kardeşlerim? Hadi gelin."
+    },
+    {
+      "baslangic": 252.01,
+      "bitis": 255.77,
+      "metin": "Turaklamanın iç sebepleri, dış sebepleri. Önce nereden"
+    },
+    {
+      "baslangic": 255.77,
+      "bitis": 260.41,
+      "metin": "başlayalım? İç sebepleri. Kitapta bunun tablosu var."
+    },
+    {
+      "baslangic": 260.41,
+      "bitis": 263.97,
+      "metin": "Söyleyeyim. Ben bunu tablona anlatabilirdim arkadaşlar ama"
+    },
+    {
+      "baslangic": 263.97,
+      "bitis": 268.41,
+      "metin": "ben daha çok açık söylüyorum. Yani ders ders gibi olmalı,"
+    },
+    {
+      "baslangic": 268.41,
+      "bitis": 271.73,
+      "metin": "hoca hoca gibi olmalı, tahtıdan anlatmalı. Çok"
+    },
+    {
+      "baslangic": 271.73,
+      "bitis": 273.73,
+      "metin": "dijital şeyler hiç sevmiyorum. Elimden geldiği"
+    },
+    {
+      "baslangic": 273.73,
+      "bitis": 282.91,
+      "metin": "kadar. İçledenler. Bir. Merkezi yönetimin bozulması. Merkezi"
+    },
+    {
+      "baslangic": 282.91,
+      "bitis": 289.59,
+      "metin": "yönetimin bozulması. Ahmet hocam merkezi yönetim bozulması"
+    },
+    {
+      "baslangic": 289.59,
+      "bitis": 295.11,
+      "metin": "deyince benim öğrencim ne anlayacak? Merkezi anlayacak."
+    },
+    {
+      "baslangic": 295.11,
+      "bitis": 299.31,
+      "metin": "Bak merkeze otorite demiyorum. Merkezi yönetim. Bir. Ne"
+    },
+    {
+      "baslangic": 299.31,
+      "bitis": 303.35,
+      "metin": "anlayacağız arkadaşlar biliyor musun? Sancak gitti ne geldi?"
+    },
+    {
+      "baslangic": 303.35,
+      "bitis": 310.55,
+      "metin": "kafe sistemi. Deneyipsiz padişahlar. Iki, çocuk"
+    },
+    {
+      "baslangic": 310.55,
+      "bitis": 314.15,
+      "metin": "padişahların iktidara katılması. Iktidara gelmesi."
+    },
+    {
+      "baslangic": 314.15,
+      "bitis": 317.99,
+      "metin": "Evet. E hocam Ekme Reçet yok mu? Var kardeşim ama. Gün"
+    },
+    {
+      "baslangic": 317.99,
+      "bitis": 321.47,
+      "metin": "gelmiş en yaşlı çocuk altı yaşındaymış yani. E çocuk"
+    },
+    {
+      "baslangic": 321.47,
+      "bitis": 326.75,
+      "metin": "padişah olursa kimin lafını dinler? Annesinin. Saray"
+    },
+    {
+      "baslangic": 326.75,
+      "bitis": 333.41,
+      "metin": "kadınları. E bir de gençler sadrazam karidesinin giderek"
+    },
+    {
+      "baslangic": 333.41,
+      "bitis": 338.57,
+      "metin": "düşmesi yeteneksiz devlet adamları bunlar merkezi yönetimi"
+    },
+    {
+      "baslangic": 338.57,
+      "bitis": 346.11,
+      "metin": "bozar. Oldu mu? Önce bunlar işaretledi. Iki, eyalet"
+    },
+    {
+      "baslangic": 346.11,
+      "bitis": 354.08,
+      "metin": "yönetiminin bozulması. Kardeşlerim eyalet yönetimi"
+    },
+    {
+      "baslangic": 354.08,
+      "bitis": 360.44,
+      "metin": "bozulması deyince neyi anlayın? Tımarın bozulmasını"
+    },
+    {
+      "baslangic": 360.44,
+      "bitis": 370.02,
+      "metin": "anlayın değil mi? Rüşvet, kötü idare, liyakatsızlık ve"
+    },
+    {
+      "baslangic": 370.02,
+      "bitis": 373.9,
+      "metin": "benzeri sebepler işaretleyin. Bu arada kültür medeniyet"
+    },
+    {
+      "baslangic": 373.9,
+      "bitis": 377.82,
+      "metin": "çalışmadan duraklamaya çalışılmaz. Biz burada tımarı"
+    },
+    {
+      "baslangic": 377.82,
+      "bitis": 380.74,
+      "metin": "beş dakika konuşmayacağız. Tabii ki mantığı vereceğiz ama"
+    },
+    {
+      "baslangic": 380.74,
+      "bitis": 383.26,
+      "metin": "burada gençler kültür medya bilgilerimizi kullanacağız"
+    },
+    {
+      "baslangic": 383.26,
+      "bitis": 388.58,
+      "metin": "yani söyleyeyim. Üç değerli kardeşlerim ordunun"
+    },
+    {
+      "baslangic": 388.58,
+      "bitis": 396.55,
+      "metin": "bozulması. Ahmet Hocam bizim ordu nasıl bozuldu? Tımarın"
+    },
+    {
+      "baslangic": 396.55,
+      "bitis": 401.71,
+      "metin": "bozulması değerli kardeşlerim orduyu bozar. Neden? Oradan"
+    },
+    {
+      "baslangic": 401.71,
+      "bitis": 407.03,
+      "metin": "yetişen ordumuzun adı neydi? Cebelu Cebelu sayısı azaldıkça"
+    },
+    {
+      "baslangic": 407.03,
+      "bitis": 413.79,
+      "metin": "eyalet ordusunun sayısı ne olur? Azalır. Bitmedi. Odi,"
+    },
+    {
+      "baslangic": 413.79,
+      "bitis": 421.04,
+      "metin": "doyi. Hocam bu ne? Devşirme sisteminin bozulması. Ocak"
+    },
+    {
+      "baslangic": 421.04,
+      "bitis": 426.04,
+      "metin": "devlet içindir yerine. Devlet ocak içindir anlayışı. Devlet"
+    },
+    {
+      "baslangic": 426.04,
+      "bitis": 429.24,
+      "metin": "ocak içindir, kötü bir ifade arkadaşlar. Devşirmenin"
+    },
+    {
+      "baslangic": 429.24,
+      "bitis": 436.98,
+      "metin": "bozulması. Donanmanın ihmali. Zaten bizim donanmanın sağ"
+    },
+    {
+      "baslangic": 436.98,
+      "bitis": 441.18,
+      "metin": "olsun son şey neydi gençler? Prevezeydi yani. O gün bugündür"
+    },
+    {
+      "baslangic": 441.18,
+      "bitis": 446.18,
+      "metin": "donanmayı pek göremiyoruz. Donanmanın bozulması"
+    },
+    {
+      "baslangic": 446.18,
+      "bitis": 450.66,
+      "metin": "arkadaşlar. Bunlar orduyu bozar. Gelin kardeşlerim dört"
+    },
+    {
+      "baslangic": 450.66,
+      "bitis": 461.34,
+      "metin": "eğitimin bozulması. Ahmet Hoca'm eğitimi ne bozar?"
+    },
+    {
+      "baslangic": 461.34,
+      "bitis": 481.27,
+      "metin": "medreselerin yozlaşması. Kardeşlerim Beşik ulemalı nedir Beşik ulemalı? Alimin oğlu alimdir. Yani küçük çocuklardan mesleğinin baştan verilmesi arkadaşlar."
+    },
+    {
+      "baslangic": 481.27,
+      "bitis": 499.54,
+      "metin": "O zaman bu hangi sınıfı bozar? İlmiye sınıfı. Oldu mu? Tabii bunun bir sebebi daha var. Posif bilimlerin ihmali. Anlaşıldı mı?"
+    },
+    {
+      "baslangic": 499.54,
+      "bitis": 515.38,
+      "metin": "Kardeşlerim eğitimi bozar. Beş, ekonominin bozulması. Hadise"
+    },
+    {
+      "baslangic": 515.38,
+      "bitis": 518.82,
+      "metin": "güveniyorum. Yani bunu da yanlış yaparsanız çok güzelim."
+    },
+    {
+      "baslangic": 518.82,
+      "bitis": 522.9,
+      "metin": "Türkiye Cumhuriyeti bülküde yaşayıp ekonominin bozulmasını"
+    },
+    {
+      "baslangic": 522.9,
+      "bitis": 524.74,
+      "metin": "yanlış yapıyorsan çok zengisin demektir. Yani"
+    },
+    {
+      "baslangic": 524.74,
+      "bitis": 528.7,
+      "metin": "söyleyeyim. Buyurun. Arkadaşlar ummadığınız yerden"
+    },
+    {
+      "baslangic": 528.7,
+      "bitis": 534.46,
+      "metin": "gelsin. Uzun süren savaşlar ekonomiyi bozar. Tımarın"
+    },
+    {
+      "baslangic": 534.46,
+      "bitis": 538.66,
+      "metin": "bozulması ekonomiyi bozar. Peki, sık padişah"
+    },
+    {
+      "baslangic": 538.66,
+      "bitis": 544.54,
+      "metin": "değişikliği ekonomiyi bozar. Kapitülasyonlar ekonomiyi bozar."
+    },
+    {
+      "baslangic": 544.54,
+      "bitis": 551.26,
+      "metin": "Doğru mu? Kardeşlerim saray masrafları ekonomiyi bozar."
+    },
+    {
+      "baslangic": 551.26,
+      "bitis": 560.98,
+      "metin": "Toprak kayıpları ekonomiyi bozar. Gaza gelme. Gaza gelme."
+    },
+    {
+      "baslangic": 560.98,
+      "bitis": 567.2,
+      "metin": "Toprak kayıpları bozar. Dış borçlanma bozar. Ama onlar"
+    },
+    {
+      "baslangic": 567.2,
+      "bitis": 571.16,
+      "metin": "kardeşlerim dağılmada. O yüzden uzun savaşlar, tımarın"
+    },
+    {
+      "baslangic": 571.16,
+      "bitis": 575.0,
+      "metin": "bozulması, cürüs, sık padişah değişikliği, kapitülasyonlar,"
+    },
+    {
+      "baslangic": 575.0,
+      "bitis": 580.12,
+      "metin": "gümrük yerlerimizin azalması, ipek ve baharatın önemini bir"
+    },
+    {
+      "baslangic": 580.12,
+      "bitis": 587.98,
+      "metin": "nevi kaybetmesi, ekonomiyi bozar. Altı, toplum yapısının"
+    },
+    {
+      "baslangic": 587.98,
+      "bitis": 598.7,
+      "metin": "bozulması. Beraber bozalım arkadaşlar. Evet. Toplumu nasıl"
+    },
+    {
+      "baslangic": 598.7,
+      "bitis": 602.42,
+      "metin": "bozuyoruz? Bir soru yazacağım, soruyu öğreteceğim"
+    },
+    {
+      "baslangic": 602.42,
+      "bitis": 607.86,
+      "metin": "sizlere tamam mı? Bana eşik edin. Ya Allah köylerin"
+    },
+    {
+      "baslangic": 607.86,
+      "bitis": 623.16,
+      "metin": "boşalması? Durum sorusu olsun. Tımarın bozulması şehirlerde"
+    },
+    {
+      "baslangic": 623.16,
+      "bitis": 636.26,
+      "metin": "işsizliğin artması. Soru şu. Oluş sırası. Oluş sırası. Önce"
+    },
+    {
+      "baslangic": 636.26,
+      "bitis": 641.3,
+      "metin": "kardeşlerim tımar bozulur. Tımar bozulunca köyler boşalır."
+    },
+    {
+      "baslangic": 641.3,
+      "bitis": 645.3,
+      "metin": "Arkasından şehirde işsizlik ne olur? Artar."
+    },
+    {
+      "baslangic": 645.3,
+      "bitis": 648.3,
+      "metin": "Toplum yapısında olur? Bozulur."
+    },
+    {
+      "baslangic": 648.3,
+      "bitis": 650.3,
+      "metin": "Anlatabildim mi?"
+    },
+    {
+      "baslangic": 650.3,
+      "bitis": 653.3,
+      "metin": "Önce tımarı boz, sonra köyleri boşalır."
+    },
+    {
+      "baslangic": 653.3,
+      "bitis": 655.3,
+      "metin": "Şehirlerde işsizlik artar."
+    },
+    {
+      "baslangic": 655.3,
+      "bitis": 659.3,
+      "metin": "İşte bu köylerin boşalması, biz bunu isyanlarda göreceğiz."
+    },
+    {
+      "baslangic": 659.3,
+      "bitis": 662.3,
+      "metin": "2024 sorusu. Bunun adı Büyük Kaçkun."
+    },
+    {
+      "baslangic": 662.3,
+      "bitis": 664.3,
+      "metin": "Büyük Kaçış."
+    },
+    {
+      "baslangic": 664.3,
+      "bitis": 670.06,
+      "metin": "Evet benim 300 soruda tekrar kitabın da sorusuydu bu aynı zamanda."
+    },
+    {
+      "baslangic": 670.06,
+      "bitis": 672.06,
+      "metin": "O zaman size bir soru daha gelsin."
+    },
+    {
+      "baslangic": 672.06,
+      "bitis": 682.06,
+      "metin": "Bakın size güvenmediğim için, meydan ilken sonra güveneceğim de şu an size güvenmediğim için sebeplerini söyleyip geçmedim."
+    },
+    {
+      "baslangic": 682.06,
+      "bitis": 685.06,
+      "metin": "Hangi ana sebebin, hangi uzantıları var?"
+    },
+    {
+      "baslangic": 685.06,
+      "bitis": 687.06,
+      "metin": "Anlatabildim mi gençler?"
+    },
+    {
+      "baslangic": 687.06,
+      "bitis": 689.06,
+      "metin": "O yüzden buralara bağlamak istedim."
+    },
+    {
+      "baslangic": 689.06,
+      "bitis": 691.06,
+      "metin": "Bence güzel de bağladım."
+    },
+    {
+      "baslangic": 691.06,
+      "bitis": 695.06,
+      "metin": "Şu soruyu cevaplıyorsan sen bir yılansındır, olumlu anlamda."
+    },
+    {
+      "baslangic": 695.06,
+      "bitis": 704.55,
+      "metin": "kapesi ilanı. Soru şu. Dirlik sisteminin bozulması. Dirlik"
+    },
+    {
+      "baslangic": 704.55,
+      "bitis": 715.13,
+      "metin": "sisteminin bozulması. Bir eyalet ordusunun zayıflaması."
+    },
+    {
+      "baslangic": 715.13,
+      "bitis": 723.88,
+      "metin": "Iki taşla idaresinin bozulması. Eyalet ordusunu"
+    },
+    {
+      "baslangic": 723.88,
+      "bitis": 729.32,
+      "metin": "zayıflaması. Taşla idaresinin bozulması. Evet ekonominin"
+    },
+    {
+      "baslangic": 729.32,
+      "bitis": 733.36,
+      "metin": "olumsuz etkilenmesi. Gelişmelerinden hangilerine"
+    },
+    {
+      "baslangic": 733.36,
+      "bitis": 737.32,
+      "metin": "neden olur? Gelişmelerinden hangilerine neden olur? Dirlik"
+    },
+    {
+      "baslangic": 737.32,
+      "bitis": 742.12,
+      "metin": "sisteminin bozulması, eyalet ordusunu zayıflaması, tahşya"
+    },
+    {
+      "baslangic": 742.12,
+      "bitis": 744.76,
+      "metin": "idaresinin bozulması, ekonominin olumsuz"
+    },
+    {
+      "baslangic": 744.76,
+      "bitis": 748.72,
+      "metin": "etkilenmesi, gelişmelerinden hangilerine neden olur? Cevap"
+    },
+    {
+      "baslangic": 748.72,
+      "bitis": 752.16,
+      "metin": "Edirne. Çünkü unutmayın, tımardan yetişen ordu hangi"
+    },
+    {
+      "baslangic": 752.16,
+      "bitis": 755.4,
+      "metin": "ordudur gençler? Eyalet ordusu. Oldu mu kardeşlerim?"
+    },
+    {
+      "baslangic": 755.4,
+      "bitis": 759.44,
+      "metin": "Evet. Cevap bir iki üç. Dirlik deriz, tımar deriz,"
+    },
+    {
+      "baslangic": 759.44,
+      "bitis": 762.12,
+      "metin": "aynı şeyleri düşünün. Anlatabildim mi? Sen bunu"
+    },
+    {
+      "baslangic": 762.12,
+      "bitis": 765.28,
+      "metin": "çözülsen konuyu kavramasın demektir. O zaman bir soru"
+    },
+    {
+      "baslangic": 765.28,
+      "bitis": 769.68,
+      "metin": "daha. Tımar'ın bozulması hangi alanda olums ettiler? Eyalet"
+    },
+    {
+      "baslangic": 769.68,
+      "bitis": 775.6,
+      "metin": "yönetimi, ordu, ekonomi, değil mi? Ekonomi ve toplum"
+    },
+    {
+      "baslangic": 775.6,
+      "bitis": 782.0,
+      "metin": "yapısı. Birçok şey tımara bağlı. Eyalet, ordu, ekonomi"
+    },
+    {
+      "baslangic": 782.0,
+      "bitis": 784.56,
+      "metin": "ve neye bağlıymış? Geçişler toplum yapısına bağlı."
+    },
+    {
+      "baslangic": 784.56,
+      "bitis": 787.44,
+      "metin": "Arkadaşlar tımar'ın bozulması merkezi otoriteyi"
+    },
+    {
+      "baslangic": 787.44,
+      "bitis": 790.92,
+      "metin": "zayıflatır. Merkezi yönetimi bozmaz. Farklı şeyler bunlar."
+    },
+    {
+      "baslangic": 790.92,
+      "bitis": 794.84,
+      "metin": "Merkezi yönetimden kasıt Padişah Saray Divan. Lütfen böyle düşünün."
+    },
+    {
+      "baslangic": 794.84,
+      "bitis": 799.92,
+      "metin": "Oldu mu? Iki sene önce öğrencim vardı. Ya eğitimin bozulmasını"
+    },
+    {
+      "baslangic": 799.92,
+      "bitis": 802.88,
+      "metin": "ne yaptı ne etti tımarın bozulmasına bağladı. Yani bir"
+    },
+    {
+      "baslangic": 802.88,
+      "bitis": 806.12,
+      "metin": "şey bilmesen ben bile ikna olacağım. Böyle inatlaşmayın."
+    },
+    {
+      "baslangic": 806.12,
+      "bitis": 809.16,
+      "metin": "Yoksa benim ne yapacağım? Sen nasıl doğru yapıyorsan öyle"
+    },
+    {
+      "baslangic": 809.16,
+      "bitis": 812.8,
+      "metin": "yap. Ama kardeşim yıllardır bu işin doğrusu bu yani. Evet"
+    },
+    {
+      "baslangic": 812.8,
+      "bitis": 822.3,
+      "metin": "soruyu çizdi şey silelim. Geldik dış sebepleri."
+    },
+    {
+      "baslangic": 822.3,
+      "bitis": 833.06,
+      "metin": "Kardeşlerim dış sebeplerden birisi, buyurun, doğal sınırları"
+    },
+    {
+      "baslangic": 833.06,
+      "bitis": 839.59,
+      "metin": "aşmadık. Serkan'ım birazdan akıl tahtada bunu bir"
+    },
+    {
+      "baslangic": 839.59,
+      "bitis": 842.63,
+      "metin": "göstereceğim. Arkadaşlar doğal sınırı anlatacağım size."
+    },
+    {
+      "baslangic": 842.63,
+      "bitis": 851.68,
+      "metin": "Rahat olun. Ikincisi Avrupa'nın zikileşmesi. Ahmet"
+    },
+    {
+      "baslangic": 851.68,
+      "bitis": 861.35,
+      "metin": "Hocam Avrupa nasıl zikileşti? Gençler normalde KPS"
+    },
+    {
+      "baslangic": 861.35,
+      "bitis": 891.35,
+      "metin": "Müfettah hatmında değil artık ama beni izleyen çok öğrenci var TTH'de de hem de gerek oluyor tamamlayıcı konu gibi özellikle yakın çağ bize çok gerek oluyor Osman'ı dağılmayı iyi öğrenmeniz için ben size birkaç video sonra yeni çağa yakın çağa çok güzel özetleyeceğim oldu mu arkadaşlar şimdi biliyormuş gibi davranın edebiyat güzel sanatta görülen gelişme renesans renesans dini değişim neydi reform papaya karşı işte kardeşlerim"
+    },
+    {
+      "baslangic": 891.35,
+      "bitis": 895.35,
+      "metin": "rölesans deformla Avrupa gerizekalıktan kurtuldu."
+    },
+    {
+      "baslangic": 895.35,
+      "bitis": 901.19,
+      "metin": "Skolahsik düşünce yıkıldı. Skolahsik demek her şeyi incile"
+    },
+    {
+      "baslangic": 901.19,
+      "bitis": 903.83,
+      "metin": "göre yorumlayan, özgür düşünceyi reddeden düşünce,"
+    },
+    {
+      "baslangic": 903.83,
+      "bitis": 909.47,
+      "metin": "doğmatizm, sorgulatmayan. Bak aynı tarihlerde Avrupa gerizekalıktan"
+    },
+    {
+      "baslangic": 909.47,
+      "bitis": 912.87,
+      "metin": "kurtuluyor, bizimkiler de bu uğursuz geldi diye rasathaneyi"
+    },
+    {
+      "baslangic": 912.87,
+      "bitis": 916.55,
+      "metin": "yıktırıyor. Bizimkiler de polis binleri imar ediyor."
+    },
+    {
+      "baslangic": 916.55,
+      "bitis": 922.51,
+      "metin": "Bizimkiler de alimin oğlu alimdir diyor. Her şeyin yarısından"
+    },
+    {
+      "baslangic": 922.51,
+      "bitis": 926.15,
+      "metin": "korkacaksın. Yarım imamdan, yarım Atatürkçü'den, yarım"
+    },
+    {
+      "baslangic": 926.15,
+      "bitis": 931.31,
+      "metin": "milliyetçiden, yarım doktordan. Korkacağım vallahi. Ulan"
+    },
+    {
+      "baslangic": 931.31,
+      "bitis": 936.03,
+      "metin": "geri zekalı. Bizim Farabi, Biruni, Gazali, İblisina,"
+    },
+    {
+      "baslangic": 936.03,
+      "bitis": 938.99,
+      "metin": "bunlar Robert Kolej'den mezun olmadı ya. Bizim Allah'a"
+    },
+    {
+      "baslangic": 938.99,
+      "bitis": 941.35,
+      "metin": "şükür dinimiz, kültürümüz, bilimi, arkadaşlar"
+    },
+    {
+      "baslangic": 941.35,
+      "bitis": 944.51,
+      "metin": "destekleyen bir kültür. Ama o kadar yanlışlar yapmışlar ki"
+    },
+    {
+      "baslangic": 944.51,
+      "bitis": 948.43,
+      "metin": "işte günümüzdeki kopukluk ortaya çıkmış. Neyse. Gel bakalım."
+    },
+    {
+      "baslangic": 948.43,
+      "bitis": 961.81,
+      "metin": "Üç. Avrupa'nın zenginleşmesi. Avrupa'nın zenginleşmesi"
+    },
+    {
+      "baslangic": 961.81,
+      "bitis": 966.25,
+      "metin": "kardeşlerim Avrupa parayı nereden buldu? Coğrafi"
+    },
+    {
+      "baslangic": 966.25,
+      "bitis": 971.55,
+      "metin": "keşiflerden. Yeni yollar, yeni kıtalar keşfettiler. Altın"
+    },
+    {
+      "baslangic": 971.55,
+      "bitis": 974.59,
+      "metin": "gümüş yataklarına ulaştılar. Hangi anlayış ortaya"
+    },
+    {
+      "baslangic": 974.59,
+      "bitis": 979.87,
+      "metin": "çıktı? Merkantirizm kültür medeniyette anlatmıştım. Ne"
+    },
+    {
+      "baslangic": 979.87,
+      "bitis": 983.79,
+      "metin": "kadar altının madenim var, o kadar iyi. Avrupa'da bu."
+    },
+    {
+      "baslangic": 983.79,
+      "bitis": 989.19,
+      "metin": "Dördüncüsü de kardeşlerim Osmanlı'ya karşı kutsal"
+    },
+    {
+      "baslangic": 989.19,
+      "bitis": 995.32,
+      "metin": "ittifakın kurulması yani haçlı ruhunun yeniden"
+    },
+    {
+      "baslangic": 995.32,
+      "bitis": 1004.56,
+      "metin": "canlanması. Haçlı ruhunun yeniden canlanması. Anlaşıldı"
+    },
+    {
+      "baslangic": 1004.56,
+      "bitis": 1009.36,
+      "metin": "mı? Evet. Hangisi it sebebleri de sebeptir bizi ırkla"
+    },
+    {
+      "baslangic": 1009.36,
+      "bitis": 1014.0,
+      "metin": "alamaz arkadaşlar. Biz daha detaylı çalışalım. Hangisi"
+    },
+    {
+      "baslangic": 1014.0,
+      "bitis": 1018.32,
+      "metin": "tımarın bozulmasına bağlı olarak ortaya çıkmıştır. Hangisi"
+    },
+    {
+      "baslangic": 1018.32,
+      "bitis": 1021.44,
+      "metin": "medyasenin bozulmasına etkili olmuştur? Oldu mu? Böyle sorular"
+    },
+    {
+      "baslangic": 1021.44,
+      "bitis": 1024.52,
+      "metin": "gelebilir. Arkadaşlar doğal sınırı Serkan'ım haritanı"
+    },
+    {
+      "baslangic": 1024.52,
+      "bitis": 1027.8,
+      "metin": "anlatayım ben. Gençler doğal sınır nedir? Doğal sınır"
+    },
+    {
+      "baslangic": 1027.8,
+      "bitis": 1033.04,
+      "metin": "nedir? Onu söyleyeyim. Osmanlı Devleti yükselme"
+    },
+    {
+      "baslangic": 1033.04,
+      "bitis": 1036.32,
+      "metin": "döneminde sınırları bayağı bir genişletecek. Mısır,"
+    },
+    {
+      "baslangic": 1036.32,
+      "bitis": 1039.64,
+      "metin": "Travdus, Karthus'a hakim olacak değil mi? Işte Viyana'ya"
+    },
+    {
+      "baslangic": 1039.64,
+      "bitis": 1042.2,
+      "metin": "kadar gideceğiz neredeyse arkadaşlar ama bir yerden"
+    },
+    {
+      "baslangic": 1042.2,
+      "bitis": 1045.84,
+      "metin": "sonra duraklamak gerekiyor. Hocam o duraklamak nedir?"
+    },
+    {
+      "baslangic": 1045.84,
+      "bitis": 1049.16,
+      "metin": "Buyurun onu da bir güzel ben sizlere haritayla canlı canlı"
+    },
+    {
+      "baslangic": 1049.16,
+      "bitis": 1051.24,
+      "metin": "göndermek istiyorum. Şey göndermek istiyorum, göstermek"
+    },
+    {
+      "baslangic": 1051.24,
+      "bitis": 1054.2,
+      "metin": "istiyorum. Hayatınızda tekrar böyle bir giriş yapıyorum."
+    },
+    {
+      "baslangic": 1054.2,
+      "bitis": 1059.28,
+      "metin": "Hadi gelin. Doğa sınır. Bak kardeşim, mükemmel bir harita."
+    },
+    {
+      "baslangic": 1059.28,
+      "bitis": 1063.92,
+      "metin": "Bu arada siyasi tarihi de böyle içeceğiz. Göstereceğim,"
+    },
+    {
+      "baslangic": 1063.92,
+      "bitis": 1067.56,
+      "metin": "yazacağım. Göstereceğim, yazacağım. Tabii. Buyurun"
+    },
+    {
+      "baslangic": 1067.56,
+      "bitis": 1071.56,
+      "metin": "efendim. Osmanlı kardeşlerim Macaristan'a kanun zamanında"
+    },
+    {
+      "baslangic": 1071.56,
+      "bitis": 1075.48,
+      "metin": "hakim oldu ya. Sarışinyal'ler kanuni. Unutmayın. Balkanlar"
+    },
+    {
+      "baslangic": 1075.48,
+      "bitis": 1079.56,
+      "metin": "kimdi? Patitti. Arkadaşlar biz Viyana'ya kadar geldik. Viyana'yı"
+    },
+    {
+      "baslangic": 1079.56,
+      "bitis": 1089.88,
+      "metin": "geçemiyoruz. Güçlü devletlere komşuyuz. Bir. Iki. Iki. Gel"
+    },
+    {
+      "baslangic": 1089.88,
+      "bitis": 1095.9,
+      "metin": "bakayım gel gel. İran'ın dağlarını geçemiyoruz. Dağ."
+    },
+    {
+      "baslangic": 1095.9,
+      "bitis": 1105.26,
+      "metin": "Doğal sınır. Üç. Gel gel gel. Gençler Afrika'nın çöllerini"
+    },
+    {
+      "baslangic": 1105.26,
+      "bitis": 1115.47,
+      "metin": "geçemiyoruz. Doğal sınır. Gel. Dört. Evet herkes buraya"
+    },
+    {
+      "baslangic": 1115.47,
+      "bitis": 1120.15,
+      "metin": "baksın. Afrika'nın çödeni geçemedim. Burası gençler"
+    },
+    {
+      "baslangic": 1120.15,
+      "bitis": 1124.47,
+      "metin": "Atlas Okyanusu. Biz Trablus Karbu aldık. Sokulu zamanında da"
+    },
+    {
+      "baslangic": 1124.47,
+      "bitis": 1128.19,
+      "metin": "Cezayir'in Cezayir'in fası da Himayir ince Cezayir"
+    },
+    {
+      "baslangic": 1128.19,
+      "bitis": 1131.31,
+      "metin": "vefası. Şurası Atlas Okyanusu. Bu da Cebeli Tarık"
+    },
+    {
+      "baslangic": 1131.31,
+      "bitis": 1135.75,
+      "metin": "Boğazı. Ya biz okyanusa kadar geliştirdik. Aşamıyoruz."
+    },
+    {
+      "baslangic": 1135.75,
+      "bitis": 1140.51,
+      "metin": "çöl, okyanus, dağ, güçlü devletlere komşu olmak."
+    },
+    {
+      "baslangic": 1140.51,
+      "bitis": 1144.11,
+      "metin": "İşte biz buna ne diyoruz arkadaşlar? Doğasıdır. Anladınız mı?"
+    },
+    {
+      "baslangic": 1144.11,
+      "bitis": 1146.91,
+      "metin": "Artık bir yere durmak zorundayız. Elimi atmışken"
+    },
+    {
+      "baslangic": 1146.91,
+      "bitis": 1152.19,
+      "metin": "tekrarlayayım. Orta Doğu'yu görünce Yavuz, Sarışın, Avrupa'yı"
+    },
+    {
+      "baslangic": 1152.19,
+      "bitis": 1155.39,
+      "metin": "görünce kanuni, Balkanlar ve Karadeniz'i görünce kimi"
+    },
+    {
+      "baslangic": 1155.39,
+      "bitis": 1158.83,
+      "metin": "şaritliyordunuz arkadaşlar? Fatih. Oldu mu? Serkan'ım ben"
+    },
+    {
+      "baslangic": 1158.83,
+      "bitis": 1161.55,
+      "metin": "geçeceğim tekrar oraya. Evet gençler harita sizlere"
+    },
+    {
+      "baslangic": 1161.55,
+      "bitis": 1165.71,
+      "metin": "emanet. Harita sizlere emanet. Şimdi duraklamanız"
+    },
+    {
+      "baslangic": 1165.71,
+      "bitis": 1168.95,
+      "metin": "işledenlerini gördük. Duraklamanın dış dedenlerini"
+    },
+    {
+      "baslangic": 1168.95,
+      "bitis": 1173.03,
+      "metin": "gördük. Değil mi? Bunlar içimize sinmiştir. Ocak devlet"
+    },
+    {
+      "baslangic": 1173.03,
+      "bitis": 1175.91,
+      "metin": "içindir, devlet ocak içindir. Bunlar kitamıza tablo halinde"
+    },
+    {
+      "baslangic": 1175.91,
+      "bitis": 1179.75,
+      "metin": "var. Sizlerden ricam, sizlerden ricam, öncülü ve"
+    },
+    {
+      "baslangic": 1179.75,
+      "bitis": 1182.47,
+      "metin": "yorumlu sorularda lütfen benim tarzımı uygulanınız"
+    },
+    {
+      "baslangic": 1182.47,
+      "bitis": 1187.79,
+      "metin": "arkadaşlar. Peki geldik isyanlara. Işte bu çok önemli."
+    },
+    {
+      "baslangic": 1187.79,
+      "bitis": 1191.63,
+      "metin": "Gerçekten bakın. İstanbul, eyalet celali. Sohbet"
+    },
+    {
+      "baslangic": 1191.63,
+      "bitis": 1197.35,
+      "metin": "diyorum. Çalışmayan bir KPS canlısına soruyorum. Diyorum"
+    },
+    {
+      "baslangic": 1197.35,
+      "bitis": 1199.47,
+      "metin": "ki Celal'i isyanları kim çıkarttı? Hemen Yeniçer'i"
+    },
+    {
+      "baslangic": 1199.47,
+      "bitis": 1203.75,
+      "metin": "işaretliyor. Çünkü çalışmadığı için. Halbuki Yeniçer'in"
+    },
+    {
+      "baslangic": 1203.75,
+      "bitis": 1207.07,
+      "metin": "Antep'te Diyarbakır'da ne işi var? Yeniçer'i nerede?"
+    },
+    {
+      "baslangic": 1207.07,
+      "bitis": 1210.43,
+      "metin": "İstanbul'da. O yüzden hiçbir şey bilmiyor musun? Kolaydan"
+    },
+    {
+      "baslangic": 1210.43,
+      "bitis": 1214.03,
+      "metin": "zora gidiyorum. İstanbul isyanlarına baş yol Yeniçer'idir."
+    },
+    {
+      "baslangic": 1214.03,
+      "bitis": 1217.07,
+      "metin": "Celal isyanların baş yolu tımarın bozulmasıdır."
+    },
+    {
+      "baslangic": 1217.07,
+      "bitis": 1222.39,
+      "metin": "Işliyoruz buyurun. Gençler İstanbul isyanları. Bunun diğer"
+    },
+    {
+      "baslangic": 1222.39,
+      "bitis": 1229.03,
+      "metin": "ismi diğer ismi merkez isyanları. Ahmet hocam bu"
+    },
+    {
+      "baslangic": 1229.03,
+      "bitis": 1234.19,
+      "metin": "isyanlar nasıl çıktı? Kardeşlerim bu isyanda başrolde"
+    },
+    {
+      "baslangic": 1234.19,
+      "bitis": 1240.98,
+      "metin": "kim var? Kapıkulu yani yeniçeriler var. Peki Ahmet"
+    },
+    {
+      "baslangic": 1240.98,
+      "bitis": 1245.38,
+      "metin": "hocam yeniçeriler neden isyan çıkartır? Bir bunların"
+    },
+    {
+      "baslangic": 1245.38,
+      "bitis": 1252.78,
+      "metin": "dinleri imanları para. Para derken arkadaşlar maaşların"
+    },
+    {
+      "baslangic": 1252.78,
+      "bitis": 1259.7,
+      "metin": "geç ödenmesi. Maaş geç. Ya da ayarı düşük paral ödenmesi."
+    },
+    {
+      "baslangic": 1259.7,
+      "bitis": 1265.54,
+      "metin": "Tahşiş. Paranın ayarını düşürmek neydi? Tahşiş. Bu ne"
+    },
+    {
+      "baslangic": 1265.54,
+      "bitis": 1267.66,
+      "metin": "demekti biliyor musunuz? Altına gümüş gümüşe bakır"
+    },
+    {
+      "baslangic": 1267.66,
+      "bitis": 1273.34,
+      "metin": "kattık. Zayıf akçe kırık akçe. Tahşiş. Ya da sıp"
+    },
+    {
+      "baslangic": 1273.34,
+      "bitis": 1280.42,
+      "metin": "padişah değiştirip ne almak? Cübüs. Bunların bir diğer"
+    },
+    {
+      "baslangic": 1280.42,
+      "bitis": 1283.66,
+      "metin": "meselesi kardeşlerim ıslahatlara karşı olmaları."
+    },
+    {
+      "baslangic": 1283.66,
+      "bitis": 1289.63,
+      "metin": "Eski kafam bunlar. Islahatlara karşı olunca da"
+    },
+    {
+      "baslangic": 1289.63,
+      "bitis": 1298.72,
+      "metin": "kimle işbirliği yapacaklar? Ulema ile. Ulema alim demektir"
+    },
+    {
+      "baslangic": 1298.72,
+      "bitis": 1301.4,
+      "metin": "ama duraklama döneminden itibaren ulema kelimesini"
+    },
+    {
+      "baslangic": 1301.4,
+      "bitis": 1306.8,
+      "metin": "olumsuz kullanın. Oldu mu? Gel kardeşim para dedik ıslahata"
+    },
+    {
+      "baslangic": 1306.8,
+      "bitis": 1312.2,
+      "metin": "karşıladık arkadaşlar. Sevgili sınıfım. Yeniçerilerin ulemani"
+    },
+    {
+      "baslangic": 1312.2,
+      "bitis": 1316.2,
+      "metin": "işbirliği yapması bir sebep dedik. Değil mi? Bu isyandanın"
+    },
+    {
+      "baslangic": 1316.2,
+      "bitis": 1321.64,
+      "metin": "sebeplerinden birisi yine ne olacak? Ocak devlet içindir"
+    },
+    {
+      "baslangic": 1321.64,
+      "bitis": 1327.08,
+      "metin": "yerine. Devlet ocak içindir. Merkezi otoritenin"
+    },
+    {
+      "baslangic": 1327.08,
+      "bitis": 1333.28,
+      "metin": "zayıflaması. Bunlar işaret değil. Peki en önemli isyan"
+    },
+    {
+      "baslangic": 1333.28,
+      "bitis": 1347.1,
+      "metin": "hangisi? Bir genç Osman'ın ölümü. Kardeşlerim genç Osman'ı"
+    },
+    {
+      "baslangic": 1347.1,
+      "bitis": 1351.5,
+      "metin": "şeyde göreceğiz ııı siyasi tarihte bin altı yüz on sekizde"
+    },
+    {
+      "baslangic": 1351.5,
+      "bitis": 1355.38,
+      "metin": "Hotin seferine gidiyor. Üç sıfır kazanacağımız maçı bir"
+    },
+    {
+      "baslangic": 1355.38,
+      "bitis": 1359.26,
+      "metin": "sıfır zor kazanıyoruz. Hanımına diyor ki hatun diyor"
+    },
+    {
+      "baslangic": 1359.26,
+      "bitis": 1361.58,
+      "metin": "ben bir daha bunlarla bir yere gitmem yeniçerilerle."
+    },
+    {
+      "baslangic": 1361.58,
+      "bitis": 1364.66,
+      "metin": "Şımarık bunlar diyor. Ben bunları kaldıracağım diyor ya."
+    },
+    {
+      "baslangic": 1364.66,
+      "bitis": 1369.3,
+      "metin": "Türklerden oluşan milli bir ordu kuracağım. Hanımı da"
+    },
+    {
+      "baslangic": 1369.3,
+      "bitis": 1372.66,
+      "metin": "Gidiyor günlere matinlere, benim kocam böyle böyle yapacak, şöyle şöyle yapacak diye."
+    },
+    {
+      "baslangic": 1372.66,
+      "bitis": 1374.82,
+      "metin": "Sen git babasına da anlat, kayınbabasına."
+    },
+    {
+      "baslangic": 1374.82,
+      "bitis": 1377.62,
+      "metin": "Kayınbabası da Şeyhülislam, ulema."
+    },
+    {
+      "baslangic": 1377.62,
+      "bitis": 1385.22,
+      "metin": "Bu olay büyüyor, Yeniçeril'in kulağına gidiyor, Kapıkule zindanlarında genç Osman katlediliyor."
+    },
+    {
+      "baslangic": 1385.22,
+      "bitis": 1387.7,
+      "metin": "Tarihi bir karadeki olarak geçiyor gençler."
+    },
+    {
+      "baslangic": 1387.7,
+      "bitis": 1389.86,
+      "metin": "Oldu mu? Genç Osman'ın ölümü."
+    },
+    {
+      "baslangic": 1389.86,
+      "bitis": 1390.74,
+      "metin": "Bu bir."
+    },
+    {
+      "baslangic": 1390.74,
+      "bitis": 1395.7,
+      "metin": "İkincisi, birkaç yıl önce lisansa çıktı, darısı ön lisansın başına."
+    },
+    {
+      "baslangic": 1395.7,
+      "bitis": 1412.94,
+      "metin": "bin altı yüz elli beş gençler, vakayı, vakvakiye, iyi dinleyin"
+    },
+    {
+      "baslangic": 1412.94,
+      "bitis": 1417.26,
+      "metin": "bunu. Buna ben ıslatla bir daha değineceğim. Dördüncü Mehmet"
+    },
+    {
+      "baslangic": 1417.26,
+      "bitis": 1423.92,
+      "metin": "zamanında daha küçük padişah ya bu. Yeniçeriler diyor ki,"
+    },
+    {
+      "baslangic": 1423.92,
+      "bitis": 1428.24,
+      "metin": "otuz beş tane devlet adamının kellesini isteriz. Otuz beş"
+    },
+    {
+      "baslangic": 1428.24,
+      "bitis": 1431.28,
+      "metin": "devlet adamının gençler kellesini istiyorlar. Mehmet"
+    },
+    {
+      "baslangic": 1431.28,
+      "bitis": 1436.56,
+      "metin": "mecburen kabul ediyor. Bu kişiler ayaklarından ağaca"
+    },
+    {
+      "baslangic": 1436.56,
+      "bitis": 1440.28,
+      "metin": "yaslıyorlar. Kafalar yerde. Tak tak kafaları vuruluyor."
+    },
+    {
+      "baslangic": 1440.28,
+      "bitis": 1445.8,
+      "metin": "Çınar ağacını astıkları için bu olayın ismi Çınar Olayı'ydır."
+    },
+    {
+      "baslangic": 1445.8,
+      "bitis": 1453.04,
+      "metin": "Oldu mu? Sizden ricam sakın ha sakın sakın ha sakın taht"
+    },
+    {
+      "baslangic": 1453.04,
+      "bitis": 1464.41,
+      "metin": "değiştirmeyi bu isyanda taht değişikliği yok. Anlaşıldı"
+    },
+    {
+      "baslangic": 1464.41,
+      "bitis": 1468.53,
+      "metin": "mı? Gelin kardeşlerim. Taht değişikliği yok. Vakayı"
+    },
+    {
+      "baslangic": 1468.53,
+      "bitis": 1471.97,
+      "metin": "vak vakiyedik. Bu zamanlarda akışlar. Dörüncü Murat"
+    },
+    {
+      "baslangic": 1471.97,
+      "bitis": 1475.69,
+      "metin": "zamanlar var aslında bir tane. Iıı Hafız Ahmet Paşa'nın"
+    },
+    {
+      "baslangic": 1475.69,
+      "bitis": 1479.81,
+      "metin": "öldürülmesi var gibi. O yüzden Vakai, Vakbakiye ve Genç"
+    },
+    {
+      "baslangic": 1479.81,
+      "bitis": 1483.73,
+      "metin": "Osman'ın önemi en büyük İstanbul isyanıdır. Umarım"
+    },
+    {
+      "baslangic": 1483.73,
+      "bitis": 1486.93,
+      "metin": "mantılı kavramışsındır. Paraya bağlayın, maaşın geç"
+    },
+    {
+      "baslangic": 1486.93,
+      "bitis": 1490.45,
+      "metin": "ödenmesi, ayarı düşük paralil ödenmesi, tahşiş, sık"
+    },
+    {
+      "baslangic": 1490.45,
+      "bitis": 1493.45,
+      "metin": "padişah değiştirip cürüs alma, ıslatlara karşı olup"
+    },
+    {
+      "baslangic": 1493.45,
+      "bitis": 1496.77,
+      "metin": "unimali işbirliği yapma, ocak devlet içindir. Yani ocak"
+    },
+    {
+      "baslangic": 1496.77,
+      "bitis": 1500.29,
+      "metin": "devletin kulu köpeğidir. Anlayışından devlet"
+    },
+    {
+      "baslangic": 1500.29,
+      "bitis": 1503.81,
+      "metin": "affedersin bizim köpeğimizi demeye başlamışlar. Tabii bunda"
+    },
+    {
+      "baslangic": 1503.81,
+      "bitis": 1506.49,
+      "metin": "şey de var. Kapıkulu sayısı giderek de artıyor. Onu"
+    },
+    {
+      "baslangic": 1506.49,
+      "bitis": 1509.13,
+      "metin": "anlatacağım ben size. Eee güç olarak arkadaşlar."
+    },
+    {
+      "baslangic": 1509.13,
+      "bitis": 1512.21,
+      "metin": "Idealileri zor oluyor. Arkadaşlar eyaret isyanları"
+    },
+    {
+      "baslangic": 1512.21,
+      "bitis": 1517.37,
+      "metin": "genelde özerk eyaretlerde görülür bu. Merkezi"
+    },
+    {
+      "baslangic": 1517.37,
+      "bitis": 1524.3,
+      "metin": "otoritenin zayıflaması. Değil mi? Işte rüşvet, Yemen,"
+    },
+    {
+      "baslangic": 1524.3,
+      "bitis": 1527.46,
+      "metin": "Bağdat, Habeşistan, Eflak, Boğdan gibi yerlerde görülür."
+    },
+    {
+      "baslangic": 1527.46,
+      "bitis": 1535.34,
+      "metin": "rüşvet, iltimas, iltimas torpil demek, ağır vergiler sebeptir"
+    },
+    {
+      "baslangic": 1535.34,
+      "bitis": 1538.38,
+      "metin": "ve benzeri şeyler. Merkez otoriteri zayıflaması dahil."
+    },
+    {
+      "baslangic": 1538.38,
+      "bitis": 1541.42,
+      "metin": "Sizden ricam, sakın Fransiz'den getirdiği minyetçik akımı"
+    },
+    {
+      "baslangic": 1541.42,
+      "bitis": 1546.22,
+      "metin": "demeyin. Daha minyetçik akımı yok. Ihtilal olmadı. En"
+    },
+    {
+      "baslangic": 1546.22,
+      "bitis": 1555.35,
+      "metin": "önemlisi Celal'i. Diğer ismi Anadolu isyanlarıdır. Boz"
+    },
+    {
+      "baslangic": 1555.35,
+      "bitis": 1558.59,
+      "metin": "oklu Celal'den gelir ismi. Kardeşlerim sebeplerinden"
+    },
+    {
+      "baslangic": 1558.59,
+      "bitis": 1566.51,
+      "metin": "birisi şudur. İran savaşları. Ne alaka diyeceksin? İran"
+    },
+    {
+      "baslangic": 1566.51,
+      "bitis": 1570.27,
+      "metin": "savaşları olunca tarım alanları zarar görüyor. Tarım"
+    },
+    {
+      "baslangic": 1570.27,
+      "bitis": 1575.31,
+      "metin": "alanları savaş alan oluyor. Zarar görüyor. İran savaşları"
+    },
+    {
+      "baslangic": 1575.31,
+      "bitis": 1581.51,
+      "metin": "olunca kardeşlerim dikkat zırt pırt avarız toplanıyor."
+    },
+    {
+      "baslangic": 1581.51,
+      "bitis": 1585.27,
+      "metin": "Avarız sürekli hale geliyor. Olağanüstelere toplanan vergi"
+    },
+    {
+      "baslangic": 1585.27,
+      "bitis": 1592.23,
+      "metin": "neydi? Avaris. Lütfen buraya bağlayın. Iki, tımarın"
+    },
+    {
+      "baslangic": 1592.23,
+      "bitis": 1605.24,
+      "metin": "bozulması. Tımarın bozulması. Ahmet hocam tımar neden bozuldu?"
+    },
+    {
+      "baslangic": 1605.24,
+      "bitis": 1611.76,
+      "metin": "Konuşalım bunu arkadaşlar. Çünkü çünkü bir, iltizam"
+    },
+    {
+      "baslangic": 1611.76,
+      "bitis": 1621.21,
+      "metin": "yayıldı. Bak, iltizam neydi? Ihale. Devlet nakit para"
+    },
+    {
+      "baslangic": 1621.21,
+      "bitis": 1624.65,
+      "metin": "ihtiyacı duydukça tımarı iltizama verdi. Oldu mu?"
+    },
+    {
+      "baslangic": 1624.65,
+      "bitis": 1628.41,
+      "metin": "İltizam. İltizam yayıldıkça da tımar bozulmaya devam etti."
+    },
+    {
+      "baslangic": 1628.41,
+      "bitis": 1631.89,
+      "metin": "Hem sebep hem sonuç gibi. İltizam yayıldıkça tımar"
+    },
+    {
+      "baslangic": 1631.89,
+      "bitis": 1635.53,
+      "metin": "bozuldu, tımar bozuldukça iltizam yayıldı. Tımar niye"
+    },
+    {
+      "baslangic": 1635.53,
+      "bitis": 1643.17,
+      "metin": "bozuldu? Usule aykırı dağıtım nüfus artışı gençler artık"
+    },
+    {
+      "baslangic": 1643.17,
+      "bitis": 1649.02,
+      "metin": "baş edemiyoruz. Köylünün toprağını terk etmesi dikkat"
+    },
+    {
+      "baslangic": 1649.02,
+      "bitis": 1656.7,
+      "metin": "ne alaka diyeceğim bir şey Avrupa'da ateşli silahlar ne"
+    },
+    {
+      "baslangic": 1656.7,
+      "bitis": 1663.93,
+      "metin": "alaka? Avrupa'da profesyonel ordular ne alaka? Sımardan"
+    },
+    {
+      "baslangic": 1663.93,
+      "bitis": 1667.81,
+      "metin": "yetişen ordunun adı neydi? Eyalet ordusu Cebeli. Adam"
+    },
+    {
+      "baslangic": 1667.81,
+      "bitis": 1671.73,
+      "metin": "yara asker yarı çifti değil mi? Avrupalı profesyonel ordular"
+    },
+    {
+      "baslangic": 1671.73,
+      "bitis": 1673.89,
+      "metin": "kurulunca Rambo gibi, Raki gibi, bizim özel"
+    },
+    {
+      "baslangic": 1673.89,
+      "bitis": 1677.89,
+      "metin": "harekatçılar gibi e bizim yara asker yarı çifti olan"
+    },
+    {
+      "baslangic": 1677.89,
+      "bitis": 1682.41,
+      "metin": "cebalı onlar rekabet edemez. Avrupa'da profesyonel ordular"
+    },
+    {
+      "baslangic": 1682.41,
+      "bitis": 1686.21,
+      "metin": "ateşi silahlar kullanınca bizim oradaki yetişen askerimiz"
+    },
+    {
+      "baslangic": 1686.21,
+      "bitis": 1690.65,
+      "metin": "rekabet edemiyor. Zaten para da lazım. Tımar gözden düşüyor."
+    },
+    {
+      "baslangic": 1690.65,
+      "bitis": 1694.97,
+      "metin": "Anlatabildim mi? Bunlar tımarı bozar kardeşlerim. Peki"
+    },
+    {
+      "baslangic": 1694.97,
+      "bitis": 1700.69,
+      "metin": "tımar bozuldukça ne olur? Işsizlik artar. Güvenlik ne"
+    },
+    {
+      "baslangic": 1700.69,
+      "bitis": 1711.34,
+      "metin": "olur? Düşer. Üretim ne olur? Azalır. Gençler işsizlik,"
+    },
+    {
+      "baslangic": 1711.34,
+      "bitis": 1716.02,
+      "metin": "güvenlik, üretimin azalması. Arkadaşlar o zaman isyanlar"
+    },
+    {
+      "baslangic": 1716.02,
+      "bitis": 1721.3,
+      "metin": "çıkar mı? Çıkar. O zaman köylü toprağını ne yapar? Terk"
+    },
+    {
+      "baslangic": 1721.3,
+      "bitis": 1730.44,
+      "metin": "eder. Terk edince ne olur? Surprise. Büyük kaç gün? Büyük"
+    },
+    {
+      "baslangic": 1730.44,
+      "bitis": 1734.32,
+      "metin": "kaçış? Iki bin yirmi dört lisan sorusu. Tımar bozulduğu için"
+    },
+    {
+      "baslangic": 1734.32,
+      "bitis": 1739.2,
+      "metin": "büyük kaç. Mantığı kurduk mu? Bozunma sebepleri? Sonuçları"
+    },
+    {
+      "baslangic": 1739.2,
+      "bitis": 1741.92,
+      "metin": "işsizlik artar, güvenlik bozulur, üretim düşer,"
+    },
+    {
+      "baslangic": 1741.92,
+      "bitis": 1745.52,
+      "metin": "isyanlar çıkar. Büyük kaç gün olur değil mi? Vergi"
+    },
+    {
+      "baslangic": 1745.52,
+      "bitis": 1749.64,
+      "metin": "gerilerimiz ne olur? Hazalır. Ekonomi olumsuz"
+    },
+    {
+      "baslangic": 1749.64,
+      "bitis": 1756.48,
+      "metin": "etkilenir. Elhamdülillah sizlerle görün, kusura"
+    },
+    {
+      "baslangic": 1756.48,
+      "bitis": 1759.2,
+      "metin": "bakmayın. Evet, büyük kaç gün öğrendik mi gençler?"
+    },
+    {
+      "baslangic": 1759.2,
+      "bitis": 1763.2,
+      "metin": "büyük kaçış. Bu büyük kaçış sırasında isyanlara başka kim"
+    },
+    {
+      "baslangic": 1763.2,
+      "bitis": 1769.16,
+      "metin": "destek verir? Suhteler. Medrese bitirip Beşik Ülemalı'ndan"
+    },
+    {
+      "baslangic": 1769.16,
+      "bitis": 1772.16,
+      "metin": "dolayı işe güce katılamayanlar suhteler de isyan"
+    },
+    {
+      "baslangic": 1772.16,
+      "bitis": 1776.32,
+      "metin": "çıkartacak. Peki Celal isyanlarındaki en büyük"
+    },
+    {
+      "baslangic": 1776.32,
+      "bitis": 1785.8,
+      "metin": "isyanlarımız hangisi? Karayazıcı. Gençler en büyük"
+    },
+    {
+      "baslangic": 1785.8,
+      "bitis": 1790.56,
+      "metin": "isyandır. Siyasi tarihte Haçova Savaşı'nda çıkacak bu."
+    },
+    {
+      "baslangic": 1790.56,
+      "bitis": 1804.86,
+      "metin": "Karayazıcı, Deli Hasan, Tavil Ahmet, Kalenderoğlu bunlar"
+    },
+    {
+      "baslangic": 1804.86,
+      "bitis": 1807.42,
+      "metin": "en büyüğü Celal İsyanlarının. Karayazısı en büyük"
+    },
+    {
+      "baslangic": 1807.42,
+      "bitis": 1810.82,
+      "metin": "orada. Bir de gençler Abaza Mehmet Paşa, Vardar Ali Paşa"
+    },
+    {
+      "baslangic": 1810.82,
+      "bitis": 1814.46,
+      "metin": "gibi eyalet isyanları vardır. Size bir şey öğreteyim. Bu"
+    },
+    {
+      "baslangic": 1814.46,
+      "bitis": 1818.14,
+      "metin": "yorum sonra da bir gün çıkacak. Osmanlı isyan çıkartan"
+    },
+    {
+      "baslangic": 1818.14,
+      "bitis": 1822.54,
+      "metin": "eyaletteki görevleri daha üst görevlere getirmiştir."
+    },
+    {
+      "baslangic": 1822.54,
+      "bitis": 1825.82,
+      "metin": "Mesela Abaza Mehmet Paşa isyan çıkarıyor. Adamı daha"
+    },
+    {
+      "baslangic": 1825.82,
+      "bitis": 1828.02,
+      "metin": "göreve getiriyoruz veya bir yere atıyoruz. Niye biliyor musun?"
+    },
+    {
+      "baslangic": 1828.02,
+      "bitis": 1832.54,
+      "metin": "Onu gönülleyip isyanı bastırmak için. İsyan"
+    },
+    {
+      "baslangic": 1832.54,
+      "bitis": 1836.1,
+      "metin": "çıkartanları başka görevlere atıyarak uzlaşmayı düşmüş"
+    },
+    {
+      "baslangic": 1836.1,
+      "bitis": 1839.62,
+      "metin": "Osmanlı. Hani gazını alsın, bana bağlı yaşasın. Böyle bir"
+    },
+    {
+      "baslangic": 1839.62,
+      "bitis": 1842.5,
+      "metin": "taktiği var. Evet gençler, rica ediyorum, hiçbir şey"
+    },
+    {
+      "baslangic": 1842.5,
+      "bitis": 1846.5,
+      "metin": "bilmiyor musun? İstanbul'u Yeniçeri'ye bağla. Celali'ye"
+    },
+    {
+      "baslangic": 1846.5,
+      "bitis": 1849.86,
+      "metin": "tımarın bozulması, iltizamın yayılması, İran"
+    },
+    {
+      "baslangic": 1849.86,
+      "bitis": 1853.34,
+      "metin": "savaşları buraya bağla. Emin ol tüm soruları çözersin."
+    },
+    {
+      "baslangic": 1853.34,
+      "bitis": 1860.14,
+      "metin": "Bu isyanlar, rejime karşı değil, hanedanlığa karşı değil, kişilere karşı arkadaşlar."
+    },
+    {
+      "baslangic": 1860.14,
+      "bitis": 1868.78,
+      "metin": "Peki son soru, bir yandan Celal'i olursa, bir yandan İran'la savaşırsak, bir yandan Avusturya'ya savaşırsak başarılma şansımız var mı?"
+    },
+    {
+      "baslangic": 1868.78,
+      "bitis": 1876.54,
+      "metin": "Yok. O zaman Osmanlı'nın Avusturya ve İran'a karşı başarısız olmasında bu isyanlar etkili midir?"
+    },
+    {
+      "baslangic": 1876.54,
+      "bitis": 1880.14,
+      "metin": "Evet, işleyeceğiz. Hadi bakalım, diğer videoda görüşürüz."
+    }
+  ]
+}

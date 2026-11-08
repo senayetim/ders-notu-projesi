@@ -1,0 +1,201 @@
+{
+  "sorular": [
+    {
+      "soru": "18. yüzyılda Avrupa devletlerinin amaca ulaşmak için her türlü yolu mubah sayan siyaset anlayışına ne ad verilmiştir?",
+      "secenekler": [
+        "Merkantilizm",
+        "Makyavelizm",
+        "Feodalizm",
+        "Panslavizm"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Ders metninde Avrupa devletlerinin kendi çıkarları ve amaçları uğruna her türlü tedbire başvurması Makyavelizm olarak tanımlanmıştır.",
+      "kaynak_sn": 572.86
+    },
+    {
+      "soru": "Prens Potemkin tarafından hazırlanan ve İstanbul merkezli bir Rus devleti kurarak Bizans'ı yeniden canlandırmayı hedefleyen proje aşağıdakilerden hangisidir?",
+      "secenekler": [
+        "Dakya Projesi",
+        "Grek Projesi",
+        "Panslavizm Projesi",
+        "Makro Projesi"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Rus prensi Potemkin tarafından Doğu Sistemi'nin en büyük planı olarak hazırlanan ve Bizans'ı canlandırmayı amaçlayan tasarım Grek projesidir.",
+      "kaynak_sn": 927.71
+    },
+    {
+      "soru": "Osmanlı Devleti'nin 1711 Purut Antlaşması ile Azak Kalesi'ni geri alması aşağıdaki hangi duruma yol açmıştır?",
+      "secenekler": [
+        "Lale Devri'nin sona ermesine",
+        "Fransa'ya daimi kapitülasyon verilmesine",
+        "Karlofça ve İstanbul antlaşmalarıyla kaybedilen toprakları geri alma umudunun doğmasına",
+        "Osmanlı Devleti'nin dağılma dönemine girmesine"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Purut Antlaşması ile Azak Kalesi'nin geri alınması, Karlofça ve İstanbul antlaşmalarıyla kaybedilen yerlerin geri alınabileceği umudunu doğurmuştur.",
+      "kaynak_sn": 1724.49
+    },
+    {
+      "soru": "Osmanlı Devleti hangi antlaşma ile Batı'nın üstünlüğünü ilk defa kabul etmiş ve Lale Devri'ne girmiştir?",
+      "secenekler": [
+        "1711 Purut Antlaşması",
+        "1739 Belgrad Antlaşması",
+        "1718 Pasarofça Antlaşması",
+        "1774 Küçük Kaynarca Antlaşması"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Osmanlı Devleti 1718 Pasarofça Antlaşması ile ilk kez Batı'nın üstünlüğünü kabul etmiş ve III. Ahmet döneminde Lale Devri'ne geçmiştir.",
+      "kaynak_sn": 2014.38
+    },
+    {
+      "soru": "1736-1739 savaşları sonucunda imzalanan Belgrad Antlaşması'nda arabuluculuk yaptığı için kapitülasyonları I. Mahmut tarafından sürekli (daimi) hale getirilen devlet hangisidir?",
+      "secenekler": [
+        "İngiltere",
+        "Rusya",
+        "Avusturya",
+        "Fransa"
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "Fransa, Belgrad Antlaşması'nın imzalanmasında arabuluculuk yaptığı için 1740 yılında I. Mahmut tarafından kapitülasyonları daimi hale getirilmiştir.",
+      "kaynak_sn": 2102.66
+    },
+    {
+      "soru": "1774 Küçük Kaynarca Antlaşması'nın sonuçları ve özellikleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "secenekler": [
+        "Kırım bağımsız olmuş ve ilk defa tamamı Müslüman bir bölge kaybedilmiştir.",
+        "Osmanlı tarihinde ilk kez savaş tazminatı ödenmiştir.",
+        "Halifelik makamı ilk kez bir antlaşma metninde siyasi bir güç olarak yer almıştır.",
+        "Kırım'ın kesin olarak Rusya'ya ait olduğu kabul edilmiştir."
+      ],
+      "dogru_indeks": 3,
+      "aciklama": "Kırım'ın Rusya'ya ait olduğu Küçük Kaynarca'da değil, 1792 Yaş Antlaşması ile kabul edilmiştir. Küçük Kaynarca Antlaşması ile Kırım bağımsız olmuştur.",
+      "kaynak_sn": 2500.83
+    },
+    {
+      "soru": "1787-1792 Osmanlı-Rus ve Avusturya Savaşları sırasında, Fransız İhtilali'nin etkisiyle savaştan çekilen ve 1791 Ziştovi Antlaşması'nı imzalayan devlet hangisidir?",
+      "secenekler": [
+        "Avusturya",
+        "Prusya",
+        "İngiltere",
+        "Venedik"
+      ],
+      "dogru_indeks": 0,
+      "aciklama": "Fransız İhtilali'nin yaydığı milliyetçilik akımından etkilenen Avusturya, 1791 Ziştovi Antlaşması ile savaştan çekilmiştir.",
+      "kaynak_sn": 2965.33
+    },
+    {
+      "soru": "1798'de Fransa'nın Mısır'ı işgali üzerine Akka Kalesi önlerinde Napolyon'u durduran komutan ve kurduğu ordu aşağıdakilerden hangisinde doğru eşleştirilmiştir?",
+      "secenekler": [
+        "Baltacı Mehmet Paşa - Humbaracı Ocağı",
+        "Cezzar Ahmet Paşa - Nizam-ı Cedid",
+        "Koca Ragıp Paşa - Sekban-ı Cedid",
+        "Gazi Hasan Paşa - Eşkinci Ocağı"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Cezzar Ahmet Paşa, Akka'da Nizam-ı Cedid ordusuyla Fransız imparatoru Napolyon'u durdurmayı başarmıştır.",
+      "kaynak_sn": 3201.89
+    },
+    {
+      "soru": "Osmanlı Devleti Fransa'nın Mısır'ı işgali karşısında ilk defa hangi diplomatik stratejiyi uygulayarak İngiltere ve Rusya'dan yardım istemiştir?",
+      "secenekler": [
+        "İstimalet Politikası",
+        "Denge Politikası",
+        "Panslavizm Politikası",
+        "Makyavelist Fetih Politikası"
+      ],
+      "dogru_indeks": 1,
+      "aciklama": "Osmanlı Devleti, Fransa'ya karşı İngiltere ve Rusya'yı yanına alarak tarihinde ilk defa denge politikası uygulamıştır.",
+      "kaynak_sn": 3298.77
+    },
+    {
+      "soru": "1788'de Rusların Özi Kalesi'ni kuşatıp 25 bin insanı katletmesi haberini aldıktan sonra felç geçiren Osmanlı padişahı kimdir?",
+      "secenekler": [
+        "III. Ahmet",
+        "I. Mahmut",
+        "I. Abdülhamid",
+        "III. Mustafa"
+      ],
+      "dogru_indeks": 2,
+      "aciklama": "Özi katliamı haberindeki acı rakamı öğrendikten sonra I. Abdülhamid felç geçirmiş ve vefat etmiştir.",
+      "kaynak_sn": 4011.82
+    }
+  ],
+  "kartlar": [
+    {
+      "on": "Makyavelizm nedir?",
+      "arka": "Amaca ulaşmak için her türlü yolu ve tedbiri mubah gören siyaset anlayışıdır.",
+      "kaynak_sn": 572.86
+    },
+    {
+      "on": "Dakya Projesi nedir?",
+      "arka": "Avusturya ve Rusya'nın Eflak-Boğdan'da kendi kontrollerinde ortak bir devlet kurma planıdır.",
+      "kaynak_sn": 899.07
+    },
+    {
+      "on": "Grek Projesi nedir?",
+      "arka": "Rus prensi Potemkin'in İstanbul merkezli bir Rus devleti kurarak Bizans'ı canlandırma planıdır.",
+      "kaynak_sn": 927.71
+    },
+    {
+      "on": "Panslavizm nedir?",
+      "arka": "Slav topluluklarını tek bir bayrak altında birleştirme politikasıdır.",
+      "kaynak_sn": 350.42
+    },
+    {
+      "on": "Demirbaş Şarl (XII. Charles) kimdir?",
+      "arka": "Rusya'ya yenilip Osmanlı'ya sığınarak Purut Savaşı'nın çıkmasına sebep olan İsveç Kralı.",
+      "kaynak_sn": 1049.16
+    },
+    {
+      "on": "1711 Purut Antlaşması'nın önemi nedir?",
+      "arka": "Karlofça ve İstanbul antlaşmalarıyla kaybedilen toprakları geri alma umudunu doğurmuştur.",
+      "kaynak_sn": 1724.49
+    },
+    {
+      "on": "1718 Pasarofça Antlaşması'nın önemi nedir?",
+      "arka": "Osmanlı'nın Batı'nın üstünlüğünü ilk kez kabul etmesi ve Lale Devri'ne girmesidir.",
+      "kaynak_sn": 2023.18
+    },
+    {
+      "on": "Fransızlara verilen kapitülasyonları daimi hale getiren padişah kimdir?",
+      "arka": "I. Mahmut (Belgrad Antlaşması'ndaki arabuluculukları sebebiyle 1740'ta yapmıştır).",
+      "kaynak_sn": 2102.66
+    },
+    {
+      "on": "Tamamı Müslüman olan ve Osmanlı elinden çıkan ilk toprak neresidir?",
+      "arka": "1774 Küçük Kaynarca Antlaşması ile bağımsız olan Kırım.",
+      "kaynak_sn": 2500.83
+    },
+    {
+      "on": "Osmanlı tarihinde ilk kez hangi antlaşma ile savaş tazminatı ödenmiştir?",
+      "arka": "1774 Küçük Kaynarca Antlaşması (Rusya'ya ödenmiştir).",
+      "kaynak_sn": 2787.98
+    },
+    {
+      "on": "Halifelik yetkisi ilk kez hangi antlaşmada siyasi bir güç olarak kullanılmıştır?",
+      "arka": "1774 Küçük Kaynarca Antlaşması.",
+      "kaynak_sn": 2614.27
+    },
+    {
+      "on": "Kırım'ın Rusya'ya ait olduğu kesin olarak hangi antlaşma ile kabul edilmiştir?",
+      "arka": "1792 Yaş Antlaşması.",
+      "kaynak_sn": 3051.09
+    },
+    {
+      "on": "Akka Kuşatması'nda Napolyon'u mağlup eden Osmanlı komutanı kimdir?",
+      "arka": "Cezzar Ahmet Paşa.",
+      "kaynak_sn": 3201.89
+    },
+    {
+      "on": "Nizam-ı Cedid ordusunun kazandığı ilk ve tek zafer hangisidir?",
+      "arka": "Akka'da Fransız ordusunun (Napolyon) durdurulması.",
+      "kaynak_sn": 3215.13
+    },
+    {
+      "on": "18. yüzyılda 'Düveli Muazzama' olarak adlandırılan büyük devletler hangileridir?",
+      "arka": "İngiltere, Fransa, Rusya, Avusturya ve Prusya.",
+      "kaynak_sn": 3748.12
+    }
+  ]
+}

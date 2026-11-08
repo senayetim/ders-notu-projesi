@@ -1,0 +1,875 @@
+{
+  "ses_dosyasi": "yuklenenler\\Osmanlıda Bilim İnsanları.mp3",
+  "model": "medium",
+  "cihaz": "cuda",
+  "terimler": "",
+  "ses_suresi_sn": 813.3,
+  "islem_suresi_sn": 87.0,
+  "parcalar": [
+    {
+      "baslangic": 5.58,
+      "bitis": 9.06,
+      "metin": "Evet değerli kardeşlerim, Osmanlı'da bilim insanı ile karşınızdayım."
+    },
+    {
+      "baslangic": 9.06,
+      "bitis": 12.02,
+      "metin": "Benim nazarımda aslında hepiniz birer bilim insanısınızdır. Neden?"
+    },
+    {
+      "baslangic": 12.02,
+      "bitis": 19.86,
+      "metin": "Çünkü KPS, AGS, ne bileyim, hakimlik kaymak alınma sınanlarında gerçekten söylüyorum normal bir insanı yapacağı bir şey değil."
+    },
+    {
+      "baslangic": 19.86,
+      "bitis": 23.9,
+      "metin": "Benim gözümden o yüzden hepiniz birer filozofsunuz yani söyleyeyim."
+    },
+    {
+      "baslangic": 23.9,
+      "bitis": 30.46,
+      "metin": "Emek emek, ilmek ilmek, çalışan, notlar alan, sorular çözen insanlarsınız arkadaşlar."
+    },
+    {
+      "baslangic": 30.46,
+      "bitis": 35.74,
+      "metin": "Şimdi Osmanlı'da bilim insanları deyince bu konu normalde sıkıcı bir konu kabul ediyorum."
+    },
+    {
+      "baslangic": 35.74,
+      "bitis": 39.82,
+      "metin": "Ben sizleri çok yoğurmadan şöyle özet özet anlatacağım."
+    },
+    {
+      "baslangic": 39.82,
+      "bitis": 42.46,
+      "metin": "Yanlış yaptıkça notlarınıza bakın tamam mı arkadaşlar?"
+    },
+    {
+      "baslangic": 42.46,
+      "bitis": 45.02,
+      "metin": "Yani bu konuya Wikipedia'dan da çalışan arkadaşlar var."
+    },
+    {
+      "baslangic": 45.02,
+      "bitis": 48.38,
+      "metin": "Şu şunun eseri, bu bunun eseri diye bunlara gerek yok."
+    },
+    {
+      "baslangic": 48.38,
+      "bitis": 49.34,
+      "metin": "Hadi buyurun."
+    },
+    {
+      "baslangic": 49.34,
+      "bitis": 51.18,
+      "metin": "Kadızade-i Rumi."
+    },
+    {
+      "baslangic": 51.18,
+      "bitis": 54.3,
+      "metin": "Önce matematik asrımından başlayalım."
+    },
+    {
+      "baslangic": 54.3,
+      "bitis": 56.38,
+      "metin": "Kadızade-i Rumi."
+    },
+    {
+      "baslangic": 56.38,
+      "bitis": 60.06,
+      "metin": "Osmanlı'da ilk bilim insanıdır gençler."
+    },
+    {
+      "baslangic": 60.06,
+      "bitis": 69.17,
+      "metin": "tarihi özelliği Ali Kuşçu'nun da hocası. Evet. Ali Kuşçu'nun"
+    },
+    {
+      "baslangic": 69.17,
+      "bitis": 74.61,
+      "metin": "nesiymiş? Hocası. Ali Kuşçu'yı bilelim. Kardeşlerim Ali Kuşçu"
+    },
+    {
+      "baslangic": 74.61,
+      "bitis": 81.86,
+      "metin": "Semerkant'tan geldi. Ali Kuşçu otluk beri savaşında aracı oldu."
+    },
+    {
+      "baslangic": 81.86,
+      "bitis": 87.62,
+      "metin": "Uzun Hasan'la Fatih arasında değil mi? Sahne Seman'da görev"
+    },
+    {
+      "baslangic": 87.62,
+      "bitis": 95.46,
+      "metin": "aldı. Ayasofya'da görev aldı. Kardeşlerim Muhammediye eserini"
+    },
+    {
+      "baslangic": 95.46,
+      "bitis": 106.72,
+      "metin": "Fatih Sultan Mehmed'e sundu. Ay haritasını çizdi. Ay"
+    },
+    {
+      "baslangic": 106.72,
+      "bitis": 109.12,
+      "metin": "haritası. Ay'da gezegene atı verilen bilim insanların"
+    },
+    {
+      "baslangic": 109.12,
+      "bitis": 113.8,
+      "metin": "birisi Ali Kuşu'dur. Ali Kuşu deyince en ünlü eserlerinden"
+    },
+    {
+      "baslangic": 113.8,
+      "bitis": 122.82,
+      "metin": "birisi Risale Tülfetiyye. Risale Tülfetiyye. Hocam bu"
+    },
+    {
+      "baslangic": 122.82,
+      "bitis": 131.52,
+      "metin": "eser ne? Kalemi değiştirelim gençler. Hocam bu eser ne?"
+    },
+    {
+      "baslangic": 131.52,
+      "bitis": 138.38,
+      "metin": "Arkadaşlar bu eser Ali Kuşçıya ait. Burada Eksen Eyikliğine"
+    },
+    {
+      "baslangic": 138.38,
+      "bitis": 144.42,
+      "metin": "doğru hesaplamış büyük oranda. Ve bu İTÜ'nün temeli olan"
+    },
+    {
+      "baslangic": 144.42,
+      "bitis": 147.66,
+      "metin": "İstanbul Teknik Mühendisi temeli olan İstanbul"
+    },
+    {
+      "baslangic": 147.66,
+      "bitis": 151.34,
+      "metin": "Mühendisi hanesinde kısa yazıyorum. Ders kitap olarak"
+    },
+    {
+      "baslangic": 151.34,
+      "bitis": 155.02,
+      "metin": "okutulmuş. Risale-i Türk Fethi'ye. Çok bilgi verici"
+    },
+    {
+      "baslangic": 155.02,
+      "bitis": 158.38,
+      "metin": "konuştum. İstanbul Teknik Üniversitesi'nin temeli hangi"
+    },
+    {
+      "baslangic": 158.38,
+      "bitis": 161.46,
+      "metin": "yok olunmuş. İstanbul mühendishanesi. Eksel Eklini"
+    },
+    {
+      "baslangic": 161.46,
+      "bitis": 164.9,
+      "metin": "kim hesaplamış? Ali Koşçuk. Hangi eseri? Risale-i Tülfetiye."
+    },
+    {
+      "baslangic": 164.9,
+      "bitis": 168.46,
+      "metin": "Fatih Sultan Mehmet Eğil sunmuş. Muhammediye eserine"
+    },
+    {
+      "baslangic": 168.46,
+      "bitis": 173.58,
+      "metin": "sormuş. Ay aritazını çizen kimmiş? Ali Koşçuk. Peki"
+    },
+    {
+      "baslangic": 173.58,
+      "bitis": 177.34,
+      "metin": "Takettin Mehmet kim arkadaşlar? O da üçüncü Murat"
+    },
+    {
+      "baslangic": 177.34,
+      "bitis": 185.11,
+      "metin": "zamanında ilk rasathaneyi yapan kişi. Hatta bu bize"
+    },
+    {
+      "baslangic": 185.11,
+      "bitis": 186.95,
+      "metin": "uğursuz geldi diye rasathaneyi yıkmak"
+    },
+    {
+      "baslangic": 186.95,
+      "bitis": 191.27,
+      "metin": "isteyecekler o dönemde. Ilk rasathane Osmanlı'da Takültün"
+    },
+    {
+      "baslangic": 191.27,
+      "bitis": 195.59,
+      "metin": "Mehmet, Anadolu Selçuklular'da Kırşehir'de Caca Bey, Timur"
+    },
+    {
+      "baslangic": 195.59,
+      "bitis": 199.31,
+      "metin": "Devleti'nde Ulu Bey, üçünlü ortak ve zelil rasathanedir."
+    },
+    {
+      "baslangic": 199.31,
+      "bitis": 202.91,
+      "metin": "Hazerfen Lagari, kardeşlerim bunlar on yedinci yüzyıl"
+    },
+    {
+      "baslangic": 202.91,
+      "bitis": 207.55,
+      "metin": "uçucu bunlar. Hazerfen bin fendi anlamına gelir."
+    },
+    {
+      "baslangic": 207.55,
+      "bitis": 211.31,
+      "metin": "Kitabınızda yazar bin fendi anlamında. Kardeşlerim"
+    },
+    {
+      "baslangic": 211.31,
+      "bitis": 219.34,
+      "metin": "kanatlı uçan, lagari, roketli uça. Hatta rivayete göre"
+    },
+    {
+      "baslangic": 219.34,
+      "bitis": 222.18,
+      "metin": "Dörcü Murat'ın kızının doğum gününde, kıza aşık oldu"
+    },
+    {
+      "baslangic": 222.18,
+      "bitis": 226.34,
+      "metin": "söylenir. Erkekler kızın doğum günde kanat takıp şey roket"
+    },
+    {
+      "baslangic": 226.34,
+      "bitis": 230.02,
+      "metin": "takıp uçmuş. Çitayı çok yukarı çıkarmış yani öyle."
+    },
+    {
+      "baslangic": 230.02,
+      "bitis": 236.5,
+      "metin": "Roketli, kanatlı. Matrakçı nasuhu arkadaşlar. Dört tane"
+    },
+    {
+      "baslangic": 236.5,
+      "bitis": 241.02,
+      "metin": "mey söylüyorum size. Matrakçı nasuh, matematik, minyatür,"
+    },
+    {
+      "baslangic": 241.02,
+      "bitis": 245.54,
+      "metin": "Muhteşem Yüzyıl. Matyakçı Nasu, matematik, minyatür,"
+    },
+    {
+      "baslangic": 245.54,
+      "bitis": 247.98,
+      "metin": "muhteşem Yüzyıl. Minyatür çalışmaları da var,"
+    },
+    {
+      "baslangic": 247.98,
+      "bitis": 249.98,
+      "metin": "matematik çalışması da var, kanun dönümünde yaşamış"
+    },
+    {
+      "baslangic": 249.98,
+      "bitis": 254.54,
+      "metin": "özellikle. Kardeşlerim bunları matematik oldu mu? Buraya Molla"
+    },
+    {
+      "baslangic": 254.54,
+      "bitis": 256.58,
+      "metin": "Lütfü'yü falan da ekleyebilirsin ama dediğim gibi"
+    },
+    {
+      "baslangic": 256.58,
+      "bitis": 259.14,
+      "metin": "ÖSYM'nin sorduğu sorular belli. İbn-i Sinay'ı soruyor."
+    },
+    {
+      "baslangic": 259.14,
+      "bitis": 263.86,
+      "metin": "İlk Türk İslam'da. Farabi'yi soruyor. Burada Akşemsettin'i"
+    },
+    {
+      "baslangic": 263.86,
+      "bitis": 267.22,
+      "metin": "soruyor. Genel kültürde İbn-i Haldun'un mukaddemesini"
+    },
+    {
+      "baslangic": 267.22,
+      "bitis": 272.74,
+      "metin": "soruyor, mukaddemi, değil mi? Gibi. Geldik coğrafyaya. Bak"
+    },
+    {
+      "baslangic": 272.74,
+      "bitis": 277.38,
+      "metin": "Engin Araydin yok. Mehmet Eğit yok. Bayram Eray yok. Asıl"
+    },
+    {
+      "baslangic": 277.38,
+      "bitis": 281.3,
+      "metin": "filozof coğrafyası bunlar. Değil mi gençler? Gelin. Piri"
+    },
+    {
+      "baslangic": 281.3,
+      "bitis": 287.86,
+      "metin": "Reis. Arkadaşlar Karnülü zamanında görev aldı. Ona"
+    },
+    {
+      "baslangic": 287.86,
+      "bitis": 295.06,
+      "metin": "eserini sundu. Kitabül Bahriye. Sonacığıma hepimiz"
+    },
+    {
+      "baslangic": 295.06,
+      "bitis": 298.82,
+      "metin": "niye kotlamıştık? Hadım Süleyman, Piri Reis, Murat"
+    },
+    {
+      "baslangic": 298.82,
+      "bitis": 302.06,
+      "metin": "Seydi Ali Reis. Neyi kotlamıştık? Hint Deniz Seferleri'ni"
+    },
+    {
+      "baslangic": 302.06,
+      "bitis": 305.58,
+      "metin": "hatırlarsanız. Ikinci Hint Deniz Seferi'nin Kaptan Deryası"
+    },
+    {
+      "baslangic": 305.58,
+      "bitis": 309.38,
+      "metin": "Pir Reis'tir. Kellesini sonacak. Başarısı olduğu için."
+    },
+    {
+      "baslangic": 309.38,
+      "bitis": 314.5,
+      "metin": "Seydi Ali Reis. O da dörüncü Hint Deniz Seferi'ne"
+    },
+    {
+      "baslangic": 314.5,
+      "bitis": 325.59,
+      "metin": "katılmıştır. Kardeşlerim. Eseri Miratül Memalik ve Kitabı"
+    },
+    {
+      "baslangic": 325.59,
+      "bitis": 331.09,
+      "metin": "Muhit. Şimdi bir de harita kültürünü üreteyim ben size."
+    },
+    {
+      "baslangic": 331.09,
+      "bitis": 346.05,
+      "metin": "Dünya haritasını çizen Piri Reis'tir. Dünya haritası dersem Piri Reis, ay haritası dersem Ali Kuşçu, Türk dünyası haritası dersem Kaşgarlı Mahmut, değil mi?"
+    },
+    {
+      "baslangic": 346.05,
+      "bitis": 355.05,
+      "metin": "Türk dünyası Kaşgarlı Mahmut, ay haritası Ali Kuşçu. Kardeşlerim, dünya haritası dersem kimmiş? Piri Reis."
+    },
+    {
+      "baslangic": 355.05,
+      "bitis": 360.05,
+      "metin": "Pir Reis mi? Seyyid-i Ali Reis'i arkadaşlar. Hint deniz sefene katılan kaptan deryalardır."
+    },
+    {
+      "baslangic": 360.05,
+      "bitis": 365.05,
+      "metin": "Mirat-ül Memalik, kitabı Muhit, Seyyid-i Ali Reis'e aittir."
+    },
+    {
+      "baslangic": 365.05,
+      "bitis": 371.05,
+      "metin": "Katip Çelebi, kardeşlerim, Hacı Halif olarak bilinir."
+    },
+    {
+      "baslangic": 371.05,
+      "bitis": 376.06,
+      "metin": "Ben bunu K.C.F. diye kodluyorum. Siz de böyle kodluyun."
+    },
+    {
+      "baslangic": 376.06,
+      "bitis": 379.06,
+      "metin": "Bak K.C.F. Hocam ne demek bu?"
+    },
+    {
+      "baslangic": 379.06,
+      "bitis": 393.52,
+      "metin": "Keşf-i Zünnün. Aldı mı? Cihan Nüma Fezzeke. Aldı mı? Peki"
+    },
+    {
+      "baslangic": 393.52,
+      "bitis": 397.36,
+      "metin": "kağıtip Çelebi deyince neyi bileceğiz arkadaşlar? Dördüncü"
+    },
+    {
+      "baslangic": 397.36,
+      "bitis": 401.44,
+      "metin": "Murat döneminde on yedinci yüzyılda raporlar yazacak."
+    },
+    {
+      "baslangic": 401.44,
+      "bitis": 408.77,
+      "metin": "Değil mi? Bunu duraklama döneme zaten söylerim. Mizan-ı"
+    },
+    {
+      "baslangic": 408.77,
+      "bitis": 411.53,
+      "metin": "Hak diye arkadaşlar raporlar yazacak. Düstür amel,"
+    },
+    {
+      "baslangic": 411.53,
+      "bitis": 417.73,
+      "metin": "İsrail Halal. Düstür amel İsrail Halal. Önemli raporları."
+    },
+    {
+      "baslangic": 417.73,
+      "bitis": 424.13,
+      "metin": "Öğrenin bunu. Rapor demez soru da laiha der. Ne dermiş?"
+    },
+    {
+      "baslangic": 424.13,
+      "bitis": 429.41,
+      "metin": "Laiha. Islahatları göreceğiz zaten. Evliya Çelebi gençler"
+    },
+    {
+      "baslangic": 429.41,
+      "bitis": 436.08,
+      "metin": "Seyahatname. Değil mi? Gelin kardeşlerim tarihe gelin."
+    },
+    {
+      "baslangic": 436.08,
+      "bitis": 443.72,
+      "metin": "Tarih yazıcılığın teşkilatının adı Şeyhnameciliktir. Bakın"
+    },
+    {
+      "baslangic": 443.72,
+      "bitis": 447.68,
+      "metin": "fir devsinin şehnamesi var. Değil mi? Şehnamecilik tarih"
+    },
+    {
+      "baslangic": 447.68,
+      "bitis": 450.92,
+      "metin": "yazıcılığı teşkilatı. Türk Tarih Kurumu'dur. Tarih yazan"
+    },
+    {
+      "baslangic": 450.92,
+      "bitis": 457.73,
+      "metin": "kişi yeni ad verilir. Vakani Viz. Ataması yapılan ilk resmi"
+    },
+    {
+      "baslangic": 457.73,
+      "bitis": 466.86,
+      "metin": "tarihçi Naima. Ataması yapılan son resmi tarihçi Abdurrahman"
+    },
+    {
+      "baslangic": 466.86,
+      "bitis": 471.58,
+      "metin": "Şeref. En önemli zatlardan biri kim? Ahmet Ceydet. Gençler."
+    },
+    {
+      "baslangic": 471.58,
+      "bitis": 477.62,
+      "metin": "Kendisi Adalet Bakanlığı yapacak. Adalet Bakanlığı."
+    },
+    {
+      "baslangic": 477.62,
+      "bitis": 481.3,
+      "metin": "Mecelleyi hazırlayan komisyon başkanı olacak değil mi?"
+    },
+    {
+      "baslangic": 481.3,
+      "bitis": 493.3,
+      "metin": "Tezakir, kısası enbiyâ, tarihi Cevdet, önemli eserleridir."
+    },
+    {
+      "baslangic": 493.3,
+      "bitis": 496.74,
+      "metin": "Kızı Fatma Ali'yedir bunun hatırlarsanız. Roman yazarı."
+    },
+    {
+      "baslangic": 496.74,
+      "bitis": 499.54,
+      "metin": "Ahmet Cevdet mecelerinde yazar olması bakımından önemli"
+    },
+    {
+      "baslangic": 499.54,
+      "bitis": 503.7,
+      "metin": "arkadaşlar. Naima ilk resmi tarihçimiz. Tursun Bey,"
+    },
+    {
+      "baslangic": 503.7,
+      "bitis": 509.28,
+      "metin": "Hoca Saadettin bunlar da tariçtir arkadaşlar. İdris-i Bitlisi, Hoşt-Moşt,"
+    },
+    {
+      "baslangic": 509.28,
+      "bitis": 516.26,
+      "metin": "Heşt, Behişt eserinin yazarıdır. Yavuz döneminde Doğu danışmanıdır."
+    },
+    {
+      "baslangic": 516.26,
+      "bitis": 530.48,
+      "metin": "Değil mi? Evet, burayı gördük mü? Gördük. Hemen devam ediyoruz"
+    },
+    {
+      "baslangic": 530.48,
+      "bitis": 535.2,
+      "metin": "kardeşlerim. Abdurrahman Şeref son tariçtir. Gel böyle tıp"
+    },
+    {
+      "baslangic": 535.2,
+      "bitis": 538.28,
+      "metin": "alanında. Bu arada kısa bir deprem yaşadık. Gelmiş geçmiş"
+    },
+    {
+      "baslangic": 538.28,
+      "bitis": 544.32,
+      "metin": "olsun. Devam ediyoruz. Tıp deyince sabıncı oğlu Şerafettin."
+    },
+    {
+      "baslangic": 544.32,
+      "bitis": 552.27,
+      "metin": "Kardeşlerim sabıncı oğlu Şerafettin kimdir? Plastik"
+    },
+    {
+      "baslangic": 552.27,
+      "bitis": 561.78,
+      "metin": "ceravıdır. Kızlar yanlış alamayın ama. Dolgu, botoks,"
+    },
+    {
+      "baslangic": 561.78,
+      "bitis": 567.46,
+      "metin": "gerdirme, çene operasyonu. Acide Pekka'nın ilk esnetini"
+    },
+    {
+      "baslangic": 567.46,
+      "bitis": 570.34,
+      "metin": "yapan kimdir? Sabıncı oğlu Şerafettin'dir. Evet,"
+    },
+    {
+      "baslangic": 570.34,
+      "bitis": 573.06,
+      "metin": "acideciğim bunu duysa biraz daha gerilebilir. Gelin"
+    },
+    {
+      "baslangic": 573.06,
+      "bitis": 581.15,
+      "metin": "böyle arkadaşlar kitab-ı cerrahi ilk Türkçe tıp"
+    },
+    {
+      "baslangic": 581.15,
+      "bitis": 586.22,
+      "metin": "kitabınız. Aynı zamanda kardeşlerim yaptığı"
+    },
+    {
+      "baslangic": 586.22,
+      "bitis": 588.42,
+      "metin": "çalışmaları deney kitabı haneye getiriyor. Tam bir"
+    },
+    {
+      "baslangic": 588.42,
+      "bitis": 592.5,
+      "metin": "psikopat. Kendini ilana sokturmuş, yılandan panzehir"
+    },
+    {
+      "baslangic": 592.5,
+      "bitis": 594.66,
+      "metin": "üretmiş, kendini tedavi etmiş. Hani insanlar"
+    },
+    {
+      "baslangic": 594.66,
+      "bitis": 597.54,
+      "metin": "günümüzde laboratuvarda fareyi mareyi kullanır ya, bu"
+    },
+    {
+      "baslangic": 597.54,
+      "bitis": 602.86,
+      "metin": "kendini kullanmış. Kuruluş devrinde. Celalettin Hızır"
+    },
+    {
+      "baslangic": 602.86,
+      "bitis": 608.38,
+      "metin": "ilk tabiptir arkadaşlar. Altıncı zade ürolojidir."
+    },
+    {
+      "baslangic": 608.38,
+      "bitis": 613.38,
+      "metin": "Kabacemin'in Ahi Çelebi Böbrek Taşı'yla ilgili çalışma yapmıştır."
+    },
+    {
+      "baslangic": 613.38,
+      "bitis": 619.27,
+      "metin": "Akşemsettin. Fatih'in hocalarından. Kimdi Fatih'in hocaları?"
+    },
+    {
+      "baslangic": 619.27,
+      "bitis": 623.27,
+      "metin": "Molla Gurani, Molla Ayas, Hüsrev Paşa, Molla Hüsrev."
+    },
+    {
+      "baslangic": 623.27,
+      "bitis": 627.27,
+      "metin": "Akşemsettin. Kardeşlerim, ne yapıyor Akşemsettin?"
+    },
+    {
+      "baslangic": 627.27,
+      "bitis": 630.27,
+      "metin": "Mikropla ilgili çalışmalar yapıyor."
+    },
+    {
+      "baslangic": 630.27,
+      "bitis": 633.27,
+      "metin": "En ünlü eseri Madde Tülhayat."
+    },
+    {
+      "baslangic": 633.27,
+      "bitis": 636.27,
+      "metin": "Çıkarsa bu çıkar."
+    },
+    {
+      "baslangic": 636.27,
+      "bitis": 638.27,
+      "metin": "Fatih'in de hocası."
+    },
+    {
+      "baslangic": 638.27,
+      "bitis": 644.87,
+      "metin": "Geldik müminlere. Molla Fenari ilk Şeyhülislam. Bazı"
+    },
+    {
+      "baslangic": 644.87,
+      "bitis": 647.15,
+      "metin": "kaynaklarda birinci Mehmet bazı kaynaklarda ikinci Murat"
+    },
+    {
+      "baslangic": 647.15,
+      "bitis": 651.71,
+      "metin": "olduğu söylenir. Ebu Suud Efendi Kaan'ı dönemidir. En uzun"
+    },
+    {
+      "baslangic": 651.71,
+      "bitis": 655.07,
+      "metin": "süre Şeyhülislamlık yapan kişidir. Gençler bunlar da"
+    },
+    {
+      "baslangic": 655.07,
+      "bitis": 661.58,
+      "metin": "genel bilgilerimiz. İlk müderis Davudi Kayseri, ilk"
+    },
+    {
+      "baslangic": 661.58,
+      "bitis": 668.94,
+      "metin": "kadımız Dursun Faki. Koçubey Risalesi duraklama döneminde"
+    },
+    {
+      "baslangic": 668.94,
+      "bitis": 671.1,
+      "metin": "arkadaşlar rapor olarak sunacak. Dördüncü Murat ve"
+    },
+    {
+      "baslangic": 671.1,
+      "bitis": 676.5,
+      "metin": "birinci İbrahim'e aksaklıklara yazacak. Yanyalı Esat'ı Lale"
+    },
+    {
+      "baslangic": 676.5,
+      "bitis": 680.34,
+      "metin": "Devrin'de yaşayacağız. Lale Devrin'in fikir insanıdır."
+    },
+    {
+      "baslangic": 680.34,
+      "bitis": 685.46,
+      "metin": "Hatta hatta muallim saris olarak bilir. Üçüncü"
+    },
+    {
+      "baslangic": 685.46,
+      "bitis": 689.74,
+      "metin": "öğretmen. Aristo birinci öğretmen. Farabi muallim"
+    },
+    {
+      "baslangic": 689.74,
+      "bitis": 694.54,
+      "metin": "Sani ikinci öğretmen. Bu da muallim saris. İbrahim"
+    },
+    {
+      "baslangic": 694.54,
+      "bitis": 699.04,
+      "metin": "Müteferika neyi getirecek arkadaşlar? Matbaayı. Evet"
+    },
+    {
+      "baslangic": 699.04,
+      "bitis": 702.12,
+      "metin": "Evet kardeşlerim yani dediğim gibi sabuncu olun şerafetine"
+    },
+    {
+      "baslangic": 702.12,
+      "bitis": 706.56,
+      "metin": "dikkat edin. Kızlar öğrendin değil mi? Tarihte yazıcılık"
+    },
+    {
+      "baslangic": 706.56,
+      "bitis": 710.12,
+      "metin": "vakanüviz, teşkilatın adı Şehna Meclik, Ahmet Cevdet'in"
+    },
+    {
+      "baslangic": 710.12,
+      "bitis": 712.52,
+      "metin": "mecellenin yazarı olduğunu bilelim sizlerden ricam."
+    },
+    {
+      "baslangic": 712.52,
+      "bitis": 716.64,
+      "metin": "İlk resmi tarihçi Naima, İdrisi Bitlisi Doğu Danışmanı"
+    },
+    {
+      "baslangic": 716.64,
+      "bitis": 720.96,
+      "metin": "Yavuz döneminde, Peşt Beşt, Abdurrahman Şeref son tarihçi"
+    },
+    {
+      "baslangic": 720.96,
+      "bitis": 725.44,
+      "metin": "bunları bilelim arkadaşlar. Onun dışında Katip Çelebi çok"
+    },
+    {
+      "baslangic": 725.44,
+      "bitis": 731.44,
+      "metin": "önemli. Keşf-i Zü'nün, Cihannüma, Fezzeke, Düstür, Amel, İsrail, Halel gibi eserleri var."
+    },
+    {
+      "baslangic": 731.44,
+      "bitis": 737.44,
+      "metin": "Raporları yazacak. Pir Reis ve Seyredil Reis'in Hint Deniz Seferi'nin katında zaten biliyordunuz."
+    },
+    {
+      "baslangic": 737.44,
+      "bitis": 742.44,
+      "metin": "Eserleri bilelim. Bu kısımda da Ali Kuşçu, Takültü Mehmet bence daha önemli gibi."
+    },
+    {
+      "baslangic": 742.44,
+      "bitis": 747.44,
+      "metin": "Evet, umarım çok sıkılmamışsındır arkadaşlar. Zaten kısa bir video oldu. Kültür"
+    },
+    {
+      "baslangic": 747.44,
+      "bitis": 753.44,
+      "metin": "medeniyetten en az iki yüz soru ödeminiz var. Hiç abartmıyorum. İki yüz soru."
+    },
+    {
+      "baslangic": 753.44,
+      "bitis": 756.64,
+      "metin": "Çözdükçe oturur arkadaşlar. Bakın çözdükçe oturur."
+    },
+    {
+      "baslangic": 756.64,
+      "bitis": 758.16,
+      "metin": "Kimse bir anda emin olamaz."
+    },
+    {
+      "baslangic": 758.16,
+      "bitis": 762.8,
+      "metin": "Çöz, haa Ahmet Ali'nin anlatmıştı diyeceksin bak, bu konuda eminim Allah'ın izniyle."
+    },
+    {
+      "baslangic": 762.8,
+      "bitis": 766.96,
+      "metin": "Çöz, 200 soru sonra filozof olacaksın, yılan olacaksın yılan."
+    },
+    {
+      "baslangic": 766.96,
+      "bitis": 770.72,
+      "metin": "Ama şunu yapma, 200 sorunu çözüp cevaplarına bakma."
+    },
+    {
+      "baslangic": 770.72,
+      "bitis": 774.0,
+      "metin": "İlk testi çöz, cevabına bak. Yanlışını anla, ikinci testi öyle geç."
+    },
+    {
+      "baslangic": 774.0,
+      "bitis": 775.04,
+      "metin": "Anlatabildim mi?"
+    },
+    {
+      "baslangic": 775.04,
+      "bitis": 778.24,
+      "metin": "Bir de ben bugün 4 video izleyeceğim, böyle ders çalışılmaz."
+    },
+    {
+      "baslangic": 778.24,
+      "bitis": 780.8,
+      "metin": "Bakın ben tek tek başlıklarını yazıyorum videoların."
+    },
+    {
+      "baslangic": 780.8,
+      "bitis": 782.72,
+      "metin": "Konu konu çalışılır."
+    },
+    {
+      "baslangic": 782.72,
+      "bitis": 786.72,
+      "metin": "Bugün 4 video dersin, o videonun yarısı kültür müdürlüğü, yarısı duraklamadır."
+    },
+    {
+      "baslangic": 786.72,
+      "bitis": 787.72,
+      "metin": "Karma karışık olur."
+    },
+    {
+      "baslangic": 787.72,
+      "bitis": 788.72,
+      "metin": "Lütfen bölüm bölüm gidelim."
+    },
+    {
+      "baslangic": 788.72,
+      "bitis": 789.72,
+      "metin": "Oldu mu arkadaşlar?"
+    },
+    {
+      "baslangic": 789.72,
+      "bitis": 790.72,
+      "metin": "Bölüm bölüm gidelim."
+    },
+    {
+      "baslangic": 790.72,
+      "bitis": 793.72,
+      "metin": "Ders dotumuzda bunlar gayet güzel."
+    },
+    {
+      "baslangic": 793.72,
+      "bitis": 794.72,
+      "metin": "Yazarak çok vakit geçirmeyelim."
+    },
+    {
+      "baslangic": 794.72,
+      "bitis": 795.72,
+      "metin": "Ben sizler için söylüyorum."
+    },
+    {
+      "baslangic": 795.72,
+      "bitis": 800.72,
+      "metin": "Birçok derse çalışıyorsanız yazmaya ayırdığın vaktin %50'lik soru bankasına ayırdığında"
+    },
+    {
+      "baslangic": 800.72,
+      "bitis": 802.72,
+      "metin": "daha çok netleri yükselecek."
+    },
+    {
+      "baslangic": 802.72,
+      "bitis": 803.72,
+      "metin": "Bu sözümü unutma."
+    },
+    {
+      "baslangic": 803.72,
+      "bitis": 804.72,
+      "metin": "Oldu mu?"
+    },
+    {
+      "baslangic": 804.72,
+      "bitis": 807.72,
+      "metin": "Evet bir sonra duraklama döneminde görüşmek üzere."
+    }
+  ]
+}

@@ -1,0 +1,1460 @@
+{
+  "ses_dosyasi": "yuklenenler\\Osmanlı Kültür Medeniyeti Devlet Yönetimi 2. Bölüm .mp3",
+  "model": "medium",
+  "cihaz": "cuda",
+  "terimler": "",
+  "ses_suresi_sn": 1468.8,
+  "islem_suresi_sn": 96.4,
+  "parcalar": [
+    {
+      "baslangic": 5.58,
+      "bitis": 9.58,
+      "metin": "Evet, değerli kardeşlerim, merkez teşkilatı yani devlet yönetimine devam ediyoruz."
+    },
+    {
+      "baslangic": 9.58,
+      "bitis": 15.58,
+      "metin": "Ne işledik? Sancak, veraset, kafes, ünvan, yetki, sembol."
+    },
+    {
+      "baslangic": 15.58,
+      "bitis": 19.58,
+      "metin": "Şimdi nereye geldi? Saray teşkilatından sonra çok önemli bir yere."
+    },
+    {
+      "baslangic": 19.58,
+      "bitis": 23.58,
+      "metin": "Divan teşkilatı deyip merkez yönetimi inşallah bitireceğiz arkadaşlar."
+    },
+    {
+      "baslangic": 23.58,
+      "bitis": 27.58,
+      "metin": "Divan teşkilatı, şöyle bir tarihi süreçteyelim."
+    },
+    {
+      "baslangic": 27.58,
+      "bitis": 29.58,
+      "metin": "Kardeşlerim divanı kim kurdu?"
+    },
+    {
+      "baslangic": 29.58,
+      "bitis": 33.58,
+      "metin": "Evet, divanı kuran."
+    },
+    {
+      "baslangic": 33.58,
+      "bitis": 47.06,
+      "metin": "Orhan Bey. Oldu mu? Gel şimdi divanın üyelerini oluşturan bana sorarsanız üyeleri Birinci Murat."
+    },
+    {
+      "baslangic": 47.06,
+      "bitis": 52.88,
+      "metin": "Hocam Birinci Murat derken neyi oluşturdu mesela? İşeceğiz arkadaşlar."
+    },
+    {
+      "baslangic": 52.88,
+      "bitis": 61.16,
+      "metin": "Sadrazam, defterdar, nişancı, kazasker, sadrazam, defterdar, nişancı, kazasker,"
+    },
+    {
+      "baslangic": 61.16,
+      "bitis": 66.48,
+      "metin": "Çandarlı ailesinin önemli bürokratik görevlere getirmesi bu dönemde başlıyor."
+    },
+    {
+      "baslangic": 66.48,
+      "bitis": 77.24,
+      "metin": "Biliyorsunuz Osmanlı da özellikle erken dönemde yani kuruluş döneminden İstanbul'un fethine kadar, Fatih'e kadar önemli görevlere Türk olan Çandarlı ailesi getirilmiştir."
+    },
+    {
+      "baslangic": 77.24,
+      "bitis": 83.32,
+      "metin": "Eski bir ön nisan sorusu bu. Fatih ne yapacak? Artık daha çok devşime yargılık verecekti. Bunu işlemiştik."
+    },
+    {
+      "baslangic": 83.32,
+      "bitis": 109.0,
+      "metin": "Üyeleri oluşturan kimdir? Birinci Murat. Gelin kardeşlerim, Divan'a başkanlığı bırakan, artı üye sayısını arttıran, sınırlar genişlediği için Fatih Sultan Mehmet. Oldu mu?"
+    },
+    {
+      "baslangic": 109.0,
+      "bitis": 112.0,
+      "metin": "Peki divanı kaldıran kim?"
+    },
+    {
+      "baslangic": 112.0,
+      "bitis": 118.03,
+      "metin": "Kardeşlerim 2. Mahmut."
+    },
+    {
+      "baslangic": 118.03,
+      "bitis": 121.03,
+      "metin": "Şimdi kaldıraş Mahmut diye öğreniyorsunuz."
+    },
+    {
+      "baslangic": 121.03,
+      "bitis": 124.03,
+      "metin": "Bu bazen bilgi daracınızı daraltıyor sizin."
+    },
+    {
+      "baslangic": 124.03,
+      "bitis": 127.03,
+      "metin": "Övseme sizin kaldıraş Mahmut bildiğinizi biliyor zaten."
+    },
+    {
+      "baslangic": 127.03,
+      "bitis": 129.03,
+      "metin": "O yüzden divanı kaldıran diye sormuyor."
+    },
+    {
+      "baslangic": 129.03,
+      "bitis": 137.03,
+      "metin": "Divanı kaldırıp nazırlık yani kabine sistemine geçen."
+    },
+    {
+      "baslangic": 137.03,
+      "bitis": 142.03,
+      "metin": "Evet kimmiş gençler 2. Mahmut?"
+    },
+    {
+      "baslangic": 142.03,
+      "bitis": 145.31,
+      "metin": "Bunu 2. Mahmud döneminde işeyeceğiz. Oldu mu?"
+    },
+    {
+      "baslangic": 145.31,
+      "bitis": 148.99,
+      "metin": "Evet kardeşlerim, şimdi bir de divanın toplantıları var."
+    },
+    {
+      "baslangic": 148.99,
+      "bitis": 151.87,
+      "metin": "Yani toplanma tarzları var arkadaşlar. Türlerini görelim."
+    },
+    {
+      "baslangic": 151.87,
+      "bitis": 154.83,
+      "metin": "Aşama aşama gidiyorum. Tarihi süreci gördük mü? Gördük."
+    },
+    {
+      "baslangic": 154.83,
+      "bitis": 161.95,
+      "metin": "Divan türleri, ayak divanı, halkın ayaküstü dinlendiği divandır."
+    },
+    {
+      "baslangic": 161.95,
+      "bitis": 165.23,
+      "metin": "Halkın ayaküstü dinlendiği divandır, ayak divanı."
+    },
+    {
+      "baslangic": 165.23,
+      "bitis": 172.75,
+      "metin": "İkindi, divan sabah namazında toplanır, bitmeyen işler için ikindi namazında toplanır."
+    },
+    {
+      "baslangic": 172.75,
+      "bitis": 177.79,
+      "metin": "Galebe, elçi kabul edilen divan türüdür."
+    },
+    {
+      "baslangic": 177.79,
+      "bitis": 182.43,
+      "metin": "Çarşamba, İstanbul için toplanan divandır."
+    },
+    {
+      "baslangic": 182.43,
+      "bitis": 188.43,
+      "metin": "Şöyle kodlayalım, eskiden bir türkü vardı, çarşambayı sel aldı, bir yer sevdiğim el aldı diye."
+    },
+    {
+      "baslangic": 188.43,
+      "bitis": 191.87,
+      "metin": "Çarşamba günü İstanbul'u sel aldı, divan toplantı."
+    },
+    {
+      "baslangic": 191.87,
+      "bitis": 196.23,
+      "metin": "Yani şöyle bir soru beklemiyorsun değil mi? Çarşamba divanı hangi gün toplanır diye."
+    },
+    {
+      "baslangic": 196.23,
+      "bitis": 199.87,
+      "metin": "Arkadaşlar çarşamba divanı İstanbul için toplanır."
+    },
+    {
+      "baslangic": 199.87,
+      "bitis": 202.99,
+      "metin": "Çarşamba günü İstanbul'u ser aldı divan toplandı."
+    },
+    {
+      "baslangic": 202.99,
+      "bitis": 204.95,
+      "metin": "Cuma divanı."
+    },
+    {
+      "baslangic": 204.95,
+      "bitis": 212.75,
+      "metin": "Sadrazam'la Kazasker'in bir araya geldiği, branç yaptığı, önemli örfü konuları görüştüğü divandır."
+    },
+    {
+      "baslangic": 212.75,
+      "bitis": 216.03,
+      "metin": "Sadrazam'la Kazasker hangi gün bir araya geliyormuş? Cuma."
+    },
+    {
+      "baslangic": 216.03,
+      "bitis": 217.79,
+      "metin": "Ne yapıyormuş? Branç."
+    },
+    {
+      "baslangic": 217.79,
+      "bitis": 220.35,
+      "metin": "Geç kahvaltı demek. Çekil kenara."
+    },
+    {
+      "baslangic": 220.35,
+      "bitis": 224.31,
+      "metin": "Örfî meselere görüştü divan. Cuma divanı. Oldu mu?"
+    },
+    {
+      "baslangic": 224.31,
+      "bitis": 229.99,
+      "metin": "At sefer çok gizemli bir divan at üstünde. Uluf'e maaş dağıtılan divan."
+    },
+    {
+      "baslangic": 229.99,
+      "bitis": 237.87,
+      "metin": "Hızlı bir tekrar. Had dinlenir. Ayak. Bitmeyin işler. İkindi. Elçi kabulü. Galebe."
+    },
+    {
+      "baslangic": 237.87,
+      "bitis": 240.67,
+      "metin": "Çarşamba cuma. Nasipse bunu karıştıracaksın."
+    },
+    {
+      "baslangic": 240.67,
+      "bitis": 243.95,
+      "metin": "Hocam nasip oldu karıştırdım yanlış yaptım deme sakın döverim seni."
+    },
+    {
+      "baslangic": 243.95,
+      "bitis": 248.67,
+      "metin": "Çarşamba cuma hangisinde Sa'dazan'da Kazasker bir araya gelir? Cuma."
+    },
+    {
+      "baslangic": 248.67,
+      "bitis": 250.67,
+      "metin": "Hangisi İstanbul için?"
+    },
+    {
+      "baslangic": 250.67,
+      "bitis": 253.67,
+      "metin": "Çarşamba günü İstanbul'u selaldı, divan toplandı."
+    },
+    {
+      "baslangic": 253.67,
+      "bitis": 254.67,
+      "metin": "Oldu mu?"
+    },
+    {
+      "baslangic": 254.67,
+      "bitis": 257.67,
+      "metin": "Evet, kardeşlerim şimdi divanın üyelerine başlıyorum."
+    },
+    {
+      "baslangic": 257.67,
+      "bitis": 259.67,
+      "metin": "Burası önemlidir."
+    },
+    {
+      "baslangic": 259.67,
+      "bitis": 262.67,
+      "metin": "Tabii ki divanın doğal üyesi ve başkanı padişahdır, değil mi?"
+    },
+    {
+      "baslangic": 262.67,
+      "bitis": 264.67,
+      "metin": "Biz onu işleyeceğiz zaten, işelik daha doğrusu."
+    },
+    {
+      "baslangic": 264.67,
+      "bitis": 266.67,
+      "metin": "Doğal üye deyince,"
+    },
+    {
+      "baslangic": 266.67,
+      "bitis": 268.67,
+      "metin": "Bismillahirrahmanirrahim."
+    },
+    {
+      "baslangic": 268.67,
+      "bitis": 270.67,
+      "metin": "İlk kimden başlayalım?"
+    },
+    {
+      "baslangic": 270.67,
+      "bitis": 272.67,
+      "metin": "Sadrazam."
+    },
+    {
+      "baslangic": 272.67,
+      "bitis": 276.59,
+      "metin": "Temeli zayıf kardeşlerim için söylüyorum."
+    },
+    {
+      "baslangic": 276.59,
+      "bitis": 278.59,
+      "metin": "Sadrazamın diğer ismi,"
+    },
+    {
+      "baslangic": 278.59,
+      "bitis": 291.37,
+      "metin": "Diğer ismi Vezir-i Azam. Arkadaşlar sadrazamın normalde şöyle düşünün, veziri Orhan Bey kurdu."
+    },
+    {
+      "baslangic": 291.37,
+      "bitis": 296.37,
+      "metin": "1. Murat zamanında vezir sayısı 3'e çıkınca en büyük vezir sadrazam oldu. Oldu mu?"
+    },
+    {
+      "baslangic": 296.37,
+      "bitis": 304.37,
+      "metin": "Şimdi tane tane anlatıyorum. Sadır baş demektir. Sadır baş demektir. Sadrazam da vezirlerin başıdır."
+    },
+    {
+      "baslangic": 304.37,
+      "bitis": 310.37,
+      "metin": "Hükümetin başı gibi düşünebilirsiniz. Birincisi, Padişah'ın mührünü taşır."
+    },
+    {
+      "baslangic": 310.37,
+      "bitis": 323.68,
+      "metin": "Bu bir. Iki, padişahın mutlak vekilidir. Oldu mu? Padişahın"
+    },
+    {
+      "baslangic": 323.68,
+      "bitis": 326.84,
+      "metin": "mührünü taşır, padişahın mutlak vekilidir. Değerli"
+    },
+    {
+      "baslangic": 326.84,
+      "bitis": 330.6,
+      "metin": "kardeşlerim, ordunun başında sefere çıkınca hangi ünvan"
+    },
+    {
+      "baslangic": 330.6,
+      "bitis": 334.96,
+      "metin": "alır? A, Biskrem, B, Serdar Ekrem. Biskrem demeyin sakın."
+    },
+    {
+      "baslangic": 334.96,
+      "bitis": 344.22,
+      "metin": "Evet. Hangi ünvan alıyormuş? Serdar Ekrem. Peki, Fatih"
+    },
+    {
+      "baslangic": 344.22,
+      "bitis": 351.55,
+      "metin": "Sultan Mehmet'ten itibaren divana ne yapmış? Başkanlık yapmış."
+    },
+    {
+      "baslangic": 351.55,
+      "bitis": 358.66,
+      "metin": "Peki geliyorum kardeşlerim. Divana başkanlık yaptı. O zaman"
+    },
+    {
+      "baslangic": 358.66,
+      "bitis": 362.18,
+      "metin": "bu divan zamanla kimin konağında toplanır? Sadızamın."
+    },
+    {
+      "baslangic": 362.18,
+      "bitis": 366.38,
+      "metin": "O zaman harika bir soru. Konaklarına verilen verilen"
+    },
+    {
+      "baslangic": 366.38,
+      "bitis": 375.98,
+      "metin": "isim. Baba Ali. Söyle bakayım bir. Baba Ali. Gençler bu"
+    },
+    {
+      "baslangic": 375.98,
+      "bitis": 380.94,
+      "metin": "soru şöyle gelecek. Şöyle gelecek inşallah. Size güzel"
+    },
+    {
+      "baslangic": 380.94,
+      "bitis": 386.58,
+      "metin": "bir bilgi vereyim. Osmanlı'da Yüce Kapı anlamına gelen aynı"
+    },
+    {
+      "baslangic": 386.58,
+      "bitis": 390.66,
+      "metin": "zamanda Sadrazam Konağı olan ve tarih süreç içerisinde divan"
+    },
+    {
+      "baslangic": 390.66,
+      "bitis": 394.14,
+      "metin": "toplantısının da yapıldığı mekanın adı. Çok güzel"
+    },
+    {
+      "baslangic": 394.14,
+      "bitis": 396.54,
+      "metin": "konuştum, bir daha konuşamayacağım. Yüce Kapı"
+    },
+    {
+      "baslangic": 396.54,
+      "bitis": 400.58,
+      "metin": "anlamına gelen Sadrazam Konağı olan tarih süreç"
+    },
+    {
+      "baslangic": 400.58,
+      "bitis": 404.78,
+      "metin": "içerisinde divan toplantısının da yapıldığı birim neresiymiş?"
+    },
+    {
+      "baslangic": 404.78,
+      "bitis": 408.06,
+      "metin": "Baba Ali. Evet, kelime anlamı neymiş kardeşlerim bunun?"
+    },
+    {
+      "baslangic": 408.06,
+      "bitis": 415.74,
+      "metin": "Yüce Kapı. Taze bir bilgi. Kardeşlerim bir Paşa Kapısı ya da"
+    },
+    {
+      "baslangic": 415.74,
+      "bitis": 420.18,
+      "metin": "Baba Ali derir demiştim. Paşa Kapısı'na yazalım. O zaman"
+    },
+    {
+      "baslangic": 420.18,
+      "bitis": 424.42,
+      "metin": "ben size bir soruya daha hazırlayayım mı? Bu soruyu hep"
+    },
+    {
+      "baslangic": 424.42,
+      "bitis": 427.14,
+      "metin": "denemeye yazacağım. Unutuyorum vallahi. Soru şu."
+    },
+    {
+      "baslangic": 427.14,
+      "bitis": 431.1,
+      "metin": "Osmanlı'da tarihi süreç içerisinde divan toplantının"
+    },
+    {
+      "baslangic": 431.1,
+      "bitis": 433.66,
+      "metin": "yapıldığı yerlere divan toplantısının yapıldığı"
+    },
+    {
+      "baslangic": 433.66,
+      "bitis": 439.42,
+      "metin": "yerlere bir saray işaretlersin. Iki Baba Ali üç"
+    },
+    {
+      "baslangic": 439.42,
+      "bitis": 443.66,
+      "metin": "Paşa kapısı. Cevap 1, 2, 3. Anlaşıldı mı? Peki"
+    },
+    {
+      "baslangic": 443.66,
+      "bitis": 449.98,
+      "metin": "kardeşlerim Sadrazam başka ne yapar? Maaşı has araziden"
+    },
+    {
+      "baslangic": 449.98,
+      "bitis": 455.56,
+      "metin": "alır. Has arazi. Biliyormuş gibi davranın. Tımarda eşeceğiz."
+    },
+    {
+      "baslangic": 455.56,
+      "bitis": 460.8,
+      "metin": "Geniş araziden maaşını alır. Olur mu? Gelin kardeşlerim."
+    },
+    {
+      "baslangic": 460.8,
+      "bitis": 468.35,
+      "metin": "Atama az yetmeye yetkisi vardır. Bunları öğretelim"
+    },
+    {
+      "baslangic": 468.35,
+      "bitis": 471.55,
+      "metin": "sizlere. Kardeşlerim Sadrazam ve Şeyh Hüsam'ı genelde"
+    },
+    {
+      "baslangic": 471.55,
+      "bitis": 475.07,
+      "metin": "Padişah seçer. Önemli memurlukların atamasını sadrazam"
+    },
+    {
+      "baslangic": 475.07,
+      "bitis": 478.63,
+      "metin": "yapar. Görevden de alabilir. Şeyhülislam ve sadrazamı kim"
+    },
+    {
+      "baslangic": 478.63,
+      "bitis": 482.23,
+      "metin": "seçermiş padişah? Diğer birçok görevlerin memurların"
+    },
+    {
+      "baslangic": 482.23,
+      "bitis": 486.67,
+      "metin": "atamasını sadrazam yapar ya da görevden alabilir. Divana"
+    },
+    {
+      "baslangic": 486.67,
+      "bitis": 489.51,
+      "metin": "başkanlık eder, Serdar Ekrem, padişahın mutlak vekilidir"
+    },
+    {
+      "baslangic": 489.51,
+      "bitis": 492.43,
+      "metin": "değil mi? Günümüzdeki karşılığı başbakan gibidir"
+    },
+    {
+      "baslangic": 492.43,
+      "bitis": 500.44,
+      "metin": "arkadaşlar. Şimdi size karite katan bilgi. Sadrazam aynı"
+    },
+    {
+      "baslangic": 500.44,
+      "bitis": 505.12,
+      "metin": "zamanda İstanbul'un sorumlusudur. Sadrazam aynı zamanda"
+    },
+    {
+      "baslangic": 505.12,
+      "bitis": 513.1,
+      "metin": "başkentin sorumlusudur. O zaman soru geliyor size. Sadrazam"
+    },
+    {
+      "baslangic": 513.1,
+      "bitis": 516.54,
+      "metin": "Serdar Ekrem sıfatıyla başkentten giderse başkent"
+    },
+    {
+      "baslangic": 516.54,
+      "bitis": 521.18,
+      "metin": "boş kalır mı? Kalır. Mükemmel bir soru. Başkentteki"
+    },
+    {
+      "baslangic": 521.18,
+      "bitis": 528.1,
+      "metin": "vekilin adı vekili Sadaret Kaymakamı. Kısa yazıyorum"
+    },
+    {
+      "baslangic": 528.1,
+      "bitis": 532.26,
+      "metin": "çocuklar. Sadaret Kaymakamı. Bu adama dikkat edin, olur"
+    },
+    {
+      "baslangic": 532.26,
+      "bitis": 536.98,
+      "metin": "mu? Padişahın vekili Sadrazam, Sadrazam'ın İstanbul'daki"
+    },
+    {
+      "baslangic": 536.98,
+      "bitis": 540.94,
+      "metin": "vekili kim? Sadaret Kaymakamı. Sadaret ketudası da derler."
+    },
+    {
+      "baslangic": 540.94,
+      "bitis": 545.02,
+      "metin": "İleride İçişleri Bakanı olacak. Evet, vezir azam,"
+    },
+    {
+      "baslangic": 545.02,
+      "bitis": 548.98,
+      "metin": "padişahın mührü, mutlak vekil, serdar ekrem, divana"
+    },
+    {
+      "baslangic": 548.98,
+      "bitis": 553.3,
+      "metin": "başkanlık, babı Ali paşa kapısı, yüce kapı babı Ali,"
+    },
+    {
+      "baslangic": 553.3,
+      "bitis": 556.94,
+      "metin": "maaşı hasar azen alır, atama azet bir etkisi vardır,"
+    },
+    {
+      "baslangic": 556.94,
+      "bitis": 561.94,
+      "metin": "başbakan gibidir, başkentin sorumlusudur, kim oluşturmuştur,"
+    },
+    {
+      "baslangic": 561.94,
+      "bitis": 575.86,
+      "metin": "1. Murat kurdu. Kardeşlerim 19. yüzyılda kendisi başvekarete dönüştürüldü. Oldu mu?"
+    },
+    {
+      "baslangic": 575.86,
+      "bitis": 580.26,
+      "metin": "Evet. Sadrzam neye dönüştürülmüş? Başvekaret. Al sana sadrzam."
+    },
+    {
+      "baslangic": 580.26,
+      "bitis": 591.39,
+      "metin": "2. Kim olsun kardeşlerim? Defterdar. Hocam defterdar hangi işe bakar?"
+    },
+    {
+      "baslangic": 591.39,
+      "bitis": 598.87,
+      "metin": "Arkadaşlar defterdar maliye bakanıdır. Yani gelir gider"
+    },
+    {
+      "baslangic": 598.87,
+      "bitis": 604.51,
+      "metin": "değil mi? Bunlara bakar. Arkadaşlar defterdar aynı"
+    },
+    {
+      "baslangic": 604.51,
+      "bitis": 610.31,
+      "metin": "zamanda zamanla sayısı ikiye çıkmıştır. Rumeli ve Anadolu"
+    },
+    {
+      "baslangic": 610.31,
+      "bitis": 614.63,
+      "metin": "olmak üzere iki tanedir. Protokolde hangisi önce gelir?"
+    },
+    {
+      "baslangic": 614.63,
+      "bitis": 618.83,
+      "metin": "Her zaman Rumeli. Geliş arazi ve daha çaplı olduğu için."
+    },
+    {
+      "baslangic": 618.83,
+      "bitis": 625.03,
+      "metin": "Rumeli ve Anadolu defterdarı olacak. Maliye Bakanı. Kaç tane defterdarı varmış? İki. Rumeli ve Anadolu."
+    },
+    {
+      "baslangic": 625.03,
+      "bitis": 638.58,
+      "metin": "Gelin kardeşlerim. Üç. Vezirler. Arkadaşlar, vezir günümüzdeki ne gibidir? Bakan gibi."
+    },
+    {
+      "baslangic": 638.58,
+      "bitis": 646.4,
+      "metin": "Bunların zamanla sayısı yediye çıkmıştır. Kubbe altında böyle dururlar. Kubbe altı vezirleri derler."
+    },
+    {
+      "baslangic": 646.4,
+      "bitis": 649.6,
+      "metin": "Kubbe altı vezirleri. Günümüzdeki bakanlar."
+    },
+    {
+      "baslangic": 649.6,
+      "bitis": 664.88,
+      "metin": "Gelin kardeşlerim, nişancı. Ben de bunu seviyorum. Evet, şöyle bir tekrar yapayım."
+    },
+    {
+      "baslangic": 664.88,
+      "bitis": 686.88,
+      "metin": "İlk Türkler'de Tangacı, Bitikçi, Devam, Selçuklu'da Tuğracı ya da Münşi, Divan-i Şah vardı ya, Anadolu Selçuklu'da ikda dağıtımını kim yapar? Pervaneci."
+    },
+    {
+      "baslangic": 686.88,
+      "bitis": 691.16,
+      "metin": "Hepsinin yaptığı işi tek başına kim yapar? Nişancı."
+    },
+    {
+      "baslangic": 691.16,
+      "bitis": 694.72,
+      "metin": "O yüzden nişancıyı görünce şunları işaretleyin."
+    },
+    {
+      "baslangic": 694.72,
+      "bitis": 708.61,
+      "metin": "Yazı, kayıt, dikkat, tımar dağıtımı, çok önemli tımar dağıtımı, dikkat, mühür işleri."
+    },
+    {
+      "baslangic": 708.61,
+      "bitis": 712.64,
+      "metin": "Kardeşlerim, nişancı iki tane defter tutar."
+    },
+    {
+      "baslangic": 712.64,
+      "bitis": 715.88,
+      "metin": "A, harita metod defteri, B, mühümme defteri."
+    },
+    {
+      "baslangic": 715.88,
+      "bitis": 725.74,
+      "metin": "Nişancı öğrenin bunu. Hangi defteri tutarmış? Mühimme ve tahir defteri."
+    },
+    {
+      "baslangic": 725.74,
+      "bitis": 732.4,
+      "metin": "Ahmet Hocam bunlar nedir? Gençler ben size kültür medeniyetinin sonunda jest yapacağım."
+    },
+    {
+      "baslangic": 732.4,
+      "bitis": 736.4,
+      "metin": "Bütün önemli defterleri özet yapacağım tekrar. Araya serpiştiriyorum."
+    },
+    {
+      "baslangic": 736.4,
+      "bitis": 741.4,
+      "metin": "Divan'dan alınan kararlar nereye yazılır? Mühimme defterine. Mühim işler mühümme defteri."
+    },
+    {
+      "baslangic": 741.4,
+      "bitis": 748.4,
+      "metin": "Bir bölgenin nüfus, sosyal, ekonomik yapısı, arazi kaydı, tımar dağıtımı."
+    },
+    {
+      "baslangic": 748.4,
+      "bitis": 750.42,
+      "metin": "Bakın bunu pek ciddiye almadınız."
+    },
+    {
+      "baslangic": 751.32,
+      "bitis": 754.4,
+      "metin": "Bunlar nişancının yetkisidir. Hangi defterde yazar arkadaşlar?"
+    },
+    {
+      "baslangic": 754.4,
+      "bitis": 755.4,
+      "metin": "Tahir."
+    },
+    {
+      "baslangic": 755.66,
+      "bitis": 757.66,
+      "metin": "Oldu mu? Evet."
+    },
+    {
+      "baslangic": 757.86,
+      "bitis": 760.9,
+      "metin": "İlk Türklerde Tangacı bitikçi, Selçuklu'da Tuğracı,"
+    },
+    {
+      "baslangic": 760.9,
+      "bitis": 763.54,
+      "metin": "Selçuklu'da Münşi, Anadolu Selçuklu"
+    },
+    {
+      "baslangic": 763.54,
+      "bitis": 766.36,
+      "metin": "Pervaneci. Hepsinin yaptığı işi tek başına yapan kişi"
+    },
+    {
+      "baslangic": 766.36,
+      "bitis": 767.86,
+      "metin": "kimmiş gençler? Nişancı."
+    },
+    {
+      "baslangic": 768.78,
+      "bitis": 769.78,
+      "metin": "Devam."
+    },
+    {
+      "baslangic": 770.38,
+      "bitis": 771.38,
+      "metin": "Beş."
+    },
+    {
+      "baslangic": 771.9,
+      "bitis": 773.18,
+      "metin": "Bu da benim adamım."
+    },
+    {
+      "baslangic": 773.76,
+      "bitis": 774.76,
+      "metin": "Kazasker."
+    },
+    {
+      "baslangic": 774.76,
+      "bitis": 790.58,
+      "metin": "Evet. Hocam kazasker derken, kardeşlerim şöyle yapalım. Hocam kazasker kim? Bana sorma, kendisine sor. Kazasker kim? Al."
+    },
+    {
+      "baslangic": 790.58,
+      "bitis": 796.63,
+      "metin": "Kazasker kim biliyor musun?"
+    },
+    {
+      "baslangic": 796.63,
+      "bitis": 804.2,
+      "metin": "Kadı, imam, müderisi atayan kişi."
+    },
+    {
+      "baslangic": 804.2,
+      "bitis": 810.34,
+      "metin": "Kadı, imam, müderisi atayan kişi."
+    },
+    {
+      "baslangic": 810.34,
+      "bitis": 812.34,
+      "metin": "Nasıl kodluyor musun? Kazasker kim?"
+    },
+    {
+      "baslangic": 812.34,
+      "bitis": 814.34,
+      "metin": "O zaman farkında değilsin. Bir şey daha öğrendin."
+    },
+    {
+      "baslangic": 814.34,
+      "bitis": 817.34,
+      "metin": "Bakın ben önce divanın görevlerini anlatmadım size."
+    },
+    {
+      "baslangic": 817.34,
+      "bitis": 819.34,
+      "metin": "Önce ne yapıyorum? Üyelerini anlatıyorum. Niye?"
+    },
+    {
+      "baslangic": 819.34,
+      "bitis": 823.34,
+      "metin": "Zeki bir öğrenci üyelerini bilince zaten otomatikmen görevi de biliyor."
+    },
+    {
+      "baslangic": 823.34,
+      "bitis": 829.06,
+      "metin": "Divanda tımar dağıtımı var mı? Divanda atama var mı? Var. Soru."
+    },
+    {
+      "baslangic": 829.06,
+      "bitis": 838.38,
+      "metin": "Divanda davalara kim bakar? Kazasker. Ama sen ayda bir"
+    },
+    {
+      "baslangic": 838.38,
+      "bitis": 841.02,
+      "metin": "tarih çalışıyorsan kadı işaretlersin. Divanda kadı"
+    },
+    {
+      "baslangic": 841.02,
+      "bitis": 844.38,
+      "metin": "yok. Adalet Bakanı konumunda kim var? Kazasker var."
+    },
+    {
+      "baslangic": 844.38,
+      "bitis": 848.42,
+      "metin": "Divanda yargının en büyük temcisi kimmiş? Kazasker."
+    },
+    {
+      "baslangic": 848.42,
+      "bitis": 851.58,
+      "metin": "Kardeşlerim ben bunu bilerek böyle vurguluyorum. Daha"
+    },
+    {
+      "baslangic": 851.58,
+      "bitis": 855.02,
+      "metin": "doğrudan sorusu gelmedi. Zaman da bunun sayısıyla kaça"
+    },
+    {
+      "baslangic": 855.02,
+      "bitis": 861.18,
+      "metin": "çıkacak ikiye? Evet. Rumeli Kazaskeri, sınırlar gelişediği"
+    },
+    {
+      "baslangic": 861.18,
+      "bitis": 866.66,
+      "metin": "için Anadolu Kazaskeri. O zaman cevap ver. Protokolde kim önce"
+    },
+    {
+      "baslangic": 866.66,
+      "bitis": 873.62,
+      "metin": "gelir? Rumeli. Kaç kişi oldu şimdi? Beş. Sadrazam. Değil"
+    },
+    {
+      "baslangic": 873.62,
+      "bitis": 881.02,
+      "metin": "mi? Defterdar. Beziller. Nişancı Kazasker. Gençler"
+    },
+    {
+      "baslangic": 881.02,
+      "bitis": 896.03,
+      "metin": "Topluyorum bunları. Oh! Ne yazıyorum biliyor musunuz? Doğal üye. Ya. Divanın kuruluşundan beri var olan üylere doğal üye diyoruz."
+    },
+    {
+      "baslangic": 896.03,
+      "bitis": 907.03,
+      "metin": "O zaman sana bir soru daha gelecek. Divana sonradan katılanlar. Hep sonradan sonradan güzel şarkı da değil mi?"
+    },
+    {
+      "baslangic": 907.03,
+      "bitis": 919.03,
+      "metin": "Divana sonradan katılanlar. ÖVCM divana sonradan katılanlar diye sorar. Divana sonradan katılmayanlar diye sormaz. Öyle bir soru modeli yok."
+    },
+    {
+      "baslangic": 919.03,
+      "bitis": 927.03,
+      "metin": "Doğal iyi diye sorar. Sonradan katılmayan ne oluyormuş? Doğal iyi. Soru kökünü anlayalım. Kim sonradan katıldı?"
+    },
+    {
+      "baslangic": 927.03,
+      "bitis": 940.61,
+      "metin": "6. Kardeşlerim, Şeyhülislam, kendisi Diyanet İşleri Başkanı'dır, Fetva Makamı'dır."
+    },
+    {
+      "baslangic": 940.61,
+      "bitis": 950.01,
+      "metin": "Özellikle kanun döneminde protokolde Sadızam'la Şeyhülislam'ın, Ebu Suud Efendi var o dönemlerde, protokolde Sadızam'la eştihale getirilmiştir."
+    },
+    {
+      "baslangic": 950.01,
+      "bitis": 960.21,
+      "metin": "Şeyhülislam'ın divana katılması neyin göstergesidir kardeşlerim, divana katılması neyin göstergesidir? Tevkâtik yapının, oldu mu?"
+    },
+    {
+      "baslangic": 960.21,
+      "bitis": 972.12,
+      "metin": "Yedi, Kaptan-ı Derya. Arkadaşlar bunun da kanuni döneminde katıldığı, hatta ilk barboros haritinin olduğu söylenir."
+    },
+    {
+      "baslangic": 972.12,
+      "bitis": 978.02,
+      "metin": "Kaptan-ı Derya kimdir? Çok basit tabirle, deniz kuvvetleri komutanıdır."
+    },
+    {
+      "baslangic": 978.02,
+      "bitis": 980.02,
+      "metin": "Bu kadar."
+    },
+    {
+      "baslangic": 980.02,
+      "bitis": 991.82,
+      "metin": "Sekiz, Yeniçeri Ağası'nın arkadaşlar, Yeniçeri Ağası, Yeniçeri'nin lideri, bunları orada göreceğiz."
+    },
+    {
+      "baslangic": 991.82,
+      "bitis": 995.74,
+      "metin": "En basit anlamıyla, kara kuvvetleri komutanıdır."
+    },
+    {
+      "baslangic": 995.74,
+      "bitis": 997.34,
+      "metin": "Bu kadar."
+    },
+    {
+      "baslangic": 997.34,
+      "bitis": 1006.74,
+      "metin": "9. Reisül Küttap."
+    },
+    {
+      "baslangic": 1006.74,
+      "bitis": 1010.66,
+      "metin": "Kardeşlerim, bu esken divanın önünden bile geçmiyordu. Bunu hor görmüşlerdi."
+    },
+    {
+      "baslangic": 1010.66,
+      "bitis": 1013.42,
+      "metin": "Atanınca kıymetlendi. Öyle düşünün."
+    },
+    {
+      "baslangic": 1013.42,
+      "bitis": 1017.18,
+      "metin": "Kendisi Dışişleri Bakanı oldu."
+    },
+    {
+      "baslangic": 1017.18,
+      "bitis": 1021.38,
+      "metin": "Yani 19. yüzyılda hariciye nazır olacak."
+    },
+    {
+      "baslangic": 1021.38,
+      "bitis": 1022.54,
+      "metin": "Oldu mu?"
+    },
+    {
+      "baslangic": 1022.54,
+      "bitis": 1025.74,
+      "metin": "Al sana Reisül Küttap Dışişleri Bakanı'nız olacak."
+    },
+    {
+      "baslangic": 1025.74,
+      "bitis": 1029.74,
+      "metin": "Al sana yeniçerası, al sana şeyhül islam."
+    },
+    {
+      "baslangic": 1030.74,
+      "bitis": 1034.74,
+      "metin": "O zaman bunlar divana sonradan katılan üyeler, değil mi gençler?"
+    },
+    {
+      "baslangic": 1034.74,
+      "bitis": 1038.74,
+      "metin": "Şimdi bir tiyatral yapalım, üyelerini öğrenmiş olalım."
+    },
+    {
+      "baslangic": 1038.74,
+      "bitis": 1042.74,
+      "metin": "Hangisi ilmiye, seyfiye, kalemiye? Ben bunu karışık anlatmayı sevmiyorum."
+    },
+    {
+      "baslangic": 1042.74,
+      "bitis": 1046.74,
+      "metin": "O bilgilere daha sonra vereceğim sizlere. Tane tane gidelim."
+    },
+    {
+      "baslangic": 1046.74,
+      "bitis": 1051.74,
+      "metin": "Divan toplandı. Fatih dedi ki Sadrızam sen başkanlık yap. Sadrızam ortaya kon attı."
+    },
+    {
+      "baslangic": 1051.74,
+      "bitis": 1057.78,
+      "metin": "anlattı. Dedi ki Macaristan'a sebere gideceğiz. Macaristan'a"
+    },
+    {
+      "baslangic": 1057.78,
+      "bitis": 1063.1,
+      "metin": "sebere gideceğiz. Ne yapalım? Vezirler dedi ki paşam yani"
+    },
+    {
+      "baslangic": 1063.1,
+      "bitis": 1067.7,
+      "metin": "sadrazam gidersek bize artısı bu olur, eksi bu olur. Görüş"
+    },
+    {
+      "baslangic": 1067.7,
+      "bitis": 1072.26,
+      "metin": "bildirdi. Oldu mu? Defterler dedi ki ya gideceksiniz ama"
+    },
+    {
+      "baslangic": 1072.26,
+      "bitis": 1075.54,
+      "metin": "insan bir sorar. Para var mı, yok mu, sonunda ne kazanacağız?"
+    },
+    {
+      "baslangic": 1075.54,
+      "bitis": 1079.66,
+      "metin": "Değil mi? Sonra nişan dedi ki arkadaşlar bak çok"
+    },
+    {
+      "baslangic": 1079.66,
+      "bitis": 1084.66,
+      "metin": "uzatıyorsunuz. Bir an evvel karar alın ben yazacağım. Bak bir"
+    },
+    {
+      "baslangic": 1084.66,
+      "bitis": 1088.02,
+      "metin": "an evvel karar verin yazacağım. Kaz askerdi ki vallaha bana hiç"
+    },
+    {
+      "baslangic": 1088.02,
+      "bitis": 1091.06,
+      "metin": "bulaşmayın dedi ya. Benim dedi atamam gereken görevler var."
+    },
+    {
+      "baslangic": 1091.06,
+      "bitis": 1095.98,
+      "metin": "Bakmam gereken davalar var. Sonra sahtadan dedi ki dur"
+    },
+    {
+      "baslangic": 1095.98,
+      "bitis": 1100.42,
+      "metin": "bakalım dedi ya. Çağırın bakayım dedi Yeniçer Ağası'nı."
+    },
+    {
+      "baslangic": 1100.42,
+      "bitis": 1103.7,
+      "metin": "Sonradan içeriye kim girdi? Yeniçer Ağası. Dedi ki biz"
+    },
+    {
+      "baslangic": 1103.7,
+      "bitis": 1106.66,
+      "metin": "Macaritsal'a gideceğiz. Ne yaparız? Dedi ki ben üç güne"
+    },
+    {
+      "baslangic": 1106.66,
+      "bitis": 1112.06,
+      "metin": "hazırım. Yeter ki bize şey olsun ganimet. Sen git dedi"
+    },
+    {
+      "baslangic": 1112.06,
+      "bitis": 1115.74,
+      "metin": "Kaptan Derya'yı çağır. Sonradan kim geldi? Kaptan"
+    },
+    {
+      "baslangic": 1115.74,
+      "bitis": 1119.26,
+      "metin": "Derya geldi. Dedi ki biz Macarisan'a gideceğiz. Kaptan"
+    },
+    {
+      "baslangic": 1119.26,
+      "bitis": 1121.66,
+      "metin": "Deren dedi gerizekalı beni niye çağırdınız lan dedi. Orada"
+    },
+    {
+      "baslangic": 1121.66,
+      "bitis": 1126.46,
+      "metin": "deniz mi var dedi? Çıktı gitti. Oldu mu? Devam. Bu sefer"
+    },
+    {
+      "baslangic": 1126.46,
+      "bitis": 1130.38,
+      "metin": "reisli kütap geldi. Bak dedi karar alın. Ama dedi ben"
+    },
+    {
+      "baslangic": 1130.38,
+      "bitis": 1134.62,
+      "metin": "önce bir Macarisan Dışişleri Bakanı bir görüşeyim. Hemen"
+    },
+    {
+      "baslangic": 1134.62,
+      "bitis": 1139.26,
+      "metin": "savaşmayalım. Bu sefer Şehir Hüsam içeriye girdi sonradan."
+    },
+    {
+      "baslangic": 1139.26,
+      "bitis": 1142.58,
+      "metin": "Lan geri zekâllar dedi. Bir sürü bir sürü konuşunuz dedi."
+    },
+    {
+      "baslangic": 1142.58,
+      "bitis": 1147.54,
+      "metin": "Insan bir sorar dedi ya. Caiz mi değil mi? Al sana divan"
+    },
+    {
+      "baslangic": 1147.54,
+      "bitis": 1154.02,
+      "metin": "gençler. Peki sonsuz kime ait? Buyurun. Sonsuz kime"
+    },
+    {
+      "baslangic": 1154.02,
+      "bitis": 1162.7,
+      "metin": "ait? Padişaha. O yüzden divan ne olur? Danışma meclisi"
+    },
+    {
+      "baslangic": 1162.7,
+      "bitis": 1169.39,
+      "metin": "olur. Anlaşıldı mı? Gelin kardeşlerim. Divan danışma"
+    },
+    {
+      "baslangic": 1169.39,
+      "bitis": 1176.59,
+      "metin": "iyisi olur. Iki divanda hangi konular görüşüdür? Savaş,"
+    },
+    {
+      "baslangic": 1176.59,
+      "bitis": 1184.47,
+      "metin": "barış, ekonomi, askeri, elçi kabulü, bunları yaparız değil"
+    },
+    {
+      "baslangic": 1184.47,
+      "bitis": 1195.62,
+      "metin": "mi gençler? Dikkat sana karite katan bilgi yargı ya kaz"
+    },
+    {
+      "baslangic": 1195.62,
+      "bitis": 1200.46,
+      "metin": "askerden aklına gelecek. Sana karite katan bilgi tımarı"
+    },
+    {
+      "baslangic": 1200.46,
+      "bitis": 1206.94,
+      "metin": "dağıtı mı? Kimden aklından gelecek? Nişancı'dan. Ders"
+    },
+    {
+      "baslangic": 1206.94,
+      "bitis": 1213.1,
+      "metin": "böyle çalıştır. Sana kalite katan bilgi. Atama. Sadrazam da"
+    },
+    {
+      "baslangic": 1213.1,
+      "bitis": 1217.14,
+      "metin": "atama yapar, kazasker de atama yapar. Doğru mu? Bu kadar."
+    },
+    {
+      "baslangic": 1217.14,
+      "bitis": 1228.17,
+      "metin": "Peki hangi işlere yardımcı olur? Yasama, yürütme, yargı"
+    },
+    {
+      "baslangic": 1228.17,
+      "bitis": 1233.29,
+      "metin": "işlerine yardımcı olur. Ama unutmayın. Yasama direk"
+    },
+    {
+      "baslangic": 1233.29,
+      "bitis": 1235.45,
+      "metin": "hükümdara aittir. Ağzından çıkan her şey zaten yasadır"
+    },
+    {
+      "baslangic": 1235.45,
+      "bitis": 1241.13,
+      "metin": "arkadaşlar. Peki teokratik özellik gösterir mi? Evet."
+    },
+    {
+      "baslangic": 1241.13,
+      "bitis": 1249.28,
+      "metin": "Teokratik özellik gösterir mi? Evet. Oldu mu kardeşlerim? Gelin"
+    },
+    {
+      "baslangic": 1249.28,
+      "bitis": 1252.92,
+      "metin": "bakalım divanda alınan kararlar nereye yazılır? A,"
+    },
+    {
+      "baslangic": 1252.92,
+      "bitis": 1259.68,
+      "metin": "E, Z, B, Ö, C mühime defterine. Mühimişler hangi"
+    },
+    {
+      "baslangic": 1259.68,
+      "bitis": 1261.68,
+      "metin": "deftere yazılırmış arkadaşlar? Mühime defteri."
+    },
+    {
+      "baslangic": 1261.68,
+      "bitis": 1283.69,
+      "metin": "Anlaşıyoruz mu? Yorum öğren, zamanla üye sayısı arttı. Üye sayısı niye artar? Niye artar? Cevap, sınırlar geliştiği için. Oldu mu?"
+    },
+    {
+      "baslangic": 1283.69,
+      "bitis": 1290.81,
+      "metin": "Sonradan katılan dedik, özelliklerinden bahsettik. Yetki ve görevlerinden bahsettik. Şimdi sana son bir jest daha yapıyorum."
+    },
+    {
+      "baslangic": 1290.81,
+      "bitis": 1294.05,
+      "metin": "İslam'dan önce divan yoktu, kurultay var değil mi?"
+    },
+    {
+      "baslangic": 1294.05,
+      "bitis": 1297.81,
+      "metin": "İyi dinle. Kurultay'la divanın ortak özellikleri."
+    },
+    {
+      "baslangic": 1297.81,
+      "bitis": 1302.81,
+      "metin": "Kurultay'da da savaş, barış, ekonomi, askeri, yüksek mahkeme."
+    },
+    {
+      "baslangic": 1302.81,
+      "bitis": 1307.05,
+      "metin": "Divan'da da savaş, barış, ekonomi, yüksek mahkeme, ortak özellik."
+    },
+    {
+      "baslangic": 1307.05,
+      "bitis": 1310.29,
+      "metin": "Kurultay'da da son söz Kaan'a ait danışma meclisi."
+    },
+    {
+      "baslangic": 1310.29,
+      "bitis": 1313.81,
+      "metin": "Divan'da da son söz ait danışma meclisi."
+    },
+    {
+      "baslangic": 1313.81,
+      "bitis": 1315.81,
+      "metin": "Anlıyor musun? Bitmedi."
+    },
+    {
+      "baslangic": 1315.81,
+      "bitis": 1317.81,
+      "metin": "Kurultay'a kim başkanlık eder?"
+    },
+    {
+      "baslangic": 1317.81,
+      "bitis": 1327.53,
+      "metin": "Kaan, Ayguci, vezir değil mi gençler? Kim başkanlık eder? Padişah. Sonra sadrazam. Ortak özellik."
+    },
+    {
+      "baslangic": 1327.53,
+      "bitis": 1334.89,
+      "metin": "Peki, farklılık ne? Kurultay'da hatun var. Burada hatun yok. Kurultay dini değil. Bak dini görüşebilir."
+    },
+    {
+      "baslangic": 1334.89,
+      "bitis": 1341.41,
+      "metin": "Ama dini değil, divan teokatik. Çok güzel tekrarladım vallaha. Tebrik ediyorum kendimi."
+    },
+    {
+      "baslangic": 1341.41,
+      "bitis": 1343.41,
+      "metin": "Kafamıza yattı mı arkadaşlar?"
+    },
+    {
+      "baslangic": 1343.41,
+      "bitis": 1344.41,
+      "metin": "Evet."
+    },
+    {
+      "baslangic": 1344.41,
+      "bitis": 1346.41,
+      "metin": "Ahmet Hocam, kalem odaları."
+    },
+    {
+      "baslangic": 1346.41,
+      "bitis": 1350.41,
+      "metin": "Kardeşlerim bunların çoğunluğu nişancıya bağlı kaatipler."
+    },
+    {
+      "baslangic": 1350.41,
+      "bitis": 1351.41,
+      "metin": "Tabii."
+    },
+    {
+      "baslangic": 1351.41,
+      "bitis": 1353.41,
+      "metin": "Osmanlı'da kayıt işi çok önemli."
+    },
+    {
+      "baslangic": 1353.41,
+      "bitis": 1355.41,
+      "metin": "Defter işi çok önemli."
+    },
+    {
+      "baslangic": 1355.41,
+      "bitis": 1356.41,
+      "metin": "Birer cümle anlatayım."
+    },
+    {
+      "baslangic": 1356.41,
+      "bitis": 1361.41,
+      "metin": "Bakın bunlar bir yayın evinin yaprak testinde bile soruluyor."
+    },
+    {
+      "baslangic": 1361.41,
+      "bitis": 1363.41,
+      "metin": "Hani çok detay diye şey yapmayın."
+    },
+    {
+      "baslangic": 1363.41,
+      "bitis": 1367.41,
+      "metin": "Bu açıklamayı yapmak da bana aslında biraz zulüm oluyor ama ikna etmek için söylüyorum."
+    },
+    {
+      "baslangic": 1367.41,
+      "bitis": 1370.41,
+      "metin": "Herhangi bir yayın evinin bile yaprak testinde bunlar gelir."
+    },
+    {
+      "baslangic": 1370.41,
+      "bitis": 1375.41,
+      "metin": "Ama öğrenci sınavı tanımayınca biraz da az gülünce herhalde öyle oluyor."
+    },
+    {
+      "baslangic": 1375.41,
+      "bitis": 1377.41,
+      "metin": "Bu çok detay. Hoca öyle anlatıyor."
+    },
+    {
+      "baslangic": 1377.41,
+      "bitis": 1379.41,
+      "metin": "Hiç sorun değil kardeşim. Bilen bilir."
+    },
+    {
+      "baslangic": 1379.41,
+      "bitis": 1382.41,
+      "metin": "Evet. Ben hani il açıklama yapayım."
+    },
+    {
+      "baslangic": 1382.41,
+      "bitis": 1384.41,
+      "metin": "Hadi bakalım. Kalem odaları, kağıt ipler."
+    },
+    {
+      "baslangic": 1384.41,
+      "bitis": 1391.41,
+      "metin": "Tahvil kalemi. Üst düzey memurların atama işi özgük dosyası."
+    },
+    {
+      "baslangic": 1391.41,
+      "bitis": 1396.41,
+      "metin": "Atıyorum. Sadrazan Vezir atandı ya. Bunların dosyalarını kim tutar? Tahvil kalemi."
+    },
+    {
+      "baslangic": 1396.41,
+      "bitis": 1404.61,
+      "metin": "Alt düzey memurların atama özlük dosyası rüus, iç ve dış yalışmaları kim yapar?"
+    },
+    {
+      "baslangic": 1404.61,
+      "bitis": 1405.61,
+      "metin": "Amediye."
+    },
+    {
+      "baslangic": 1405.61,
+      "bitis": 1406.61,
+      "metin": "Teşrif."
+    },
+    {
+      "baslangic": 1406.61,
+      "bitis": 1407.61,
+      "metin": "Fatçı."
+    },
+    {
+      "baslangic": 1407.61,
+      "bitis": 1417.61,
+      "metin": "Teşrif etmekten gelir, hükümdarın katıldığı protokolleri yazar, beylikçi, surprise, divan"
+    },
+    {
+      "baslangic": 1417.61,
+      "bitis": 1419.61,
+      "metin": "kararların yazılmasına yardımcı olur."
+    },
+    {
+      "baslangic": 1419.61,
+      "bitis": 1421.61,
+      "metin": "O zaman benim öğrencim ne yapacak?"
+    },
+    {
+      "baslangic": 1421.61,
+      "bitis": 1423.61,
+      "metin": "Divan kararı normalde kim yazar?"
+    },
+    {
+      "baslangic": 1423.61,
+      "bitis": 1424.61,
+      "metin": "Nişancı."
+    },
+    {
+      "baslangic": 1424.61,
+      "bitis": 1429.37,
+      "metin": "Soruda nişancı yoksa, boş bırakmayacaksın. Kimi şaretle? Beylikçi kalemi."
+    },
+    {
+      "baslangic": 1429.37,
+      "bitis": 1434.89,
+      "metin": "O divandaki dosya belgenin hazırlanması, kayıt işlerine yardımcı olan kalem odası kimmiş? Beylikçi."
+    },
+    {
+      "baslangic": 1434.89,
+      "bitis": 1438.89,
+      "metin": "Vakani müste kardeşim, tarih yazarı demek değil mi? Tarih kalemi."
+    },
+    {
+      "baslangic": 1438.89,
+      "bitis": 1440.89,
+      "metin": "Bence güzel oldu be."
+    },
+    {
+      "baslangic": 1440.89,
+      "bitis": 1445.65,
+      "metin": "Evet gençler, görev ve yetkileri, diğer kısmı sizlere emanet. Kitabımıza bunlar var."
+    },
+    {
+      "baslangic": 1445.65,
+      "bitis": 1451.13,
+      "metin": "%95 oranında tablolar aynı. Ama ben dediğim gibi biraz tahtada spontanide anlatabiliyorum."
+    },
+    {
+      "baslangic": 1451.13,
+      "bitis": 1455.13,
+      "metin": "Evet, bir sonraki videoda hiçbir yere kaybolmayın."
+    },
+    {
+      "baslangic": 1455.13,
+      "bitis": 1457.13,
+      "metin": "Sizden iyi anlatacağım, biliyor musunuz arkadaşlar?"
+    },
+    {
+      "baslangic": 1457.13,
+      "bitis": 1460.13,
+      "metin": "Ülke yönetimi nedir, salihhaneli salihanesiz?"
+    },
+    {
+      "baslangic": 1460.13,
+      "bitis": 1462.13,
+      "metin": "Hepsi bir sonraki videoda."
+    },
+    {
+      "baslangic": 1462.13,
+      "bitis": 1463.13,
+      "metin": "Görüşmek üzere."
+    }
+  ]
+}

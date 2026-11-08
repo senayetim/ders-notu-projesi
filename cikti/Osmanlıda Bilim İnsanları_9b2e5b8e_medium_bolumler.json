@@ -1,0 +1,93 @@
+{
+  "bolumler": [
+    {
+      "baslik": "Osmanlı'da Matematik ve Astronomi Bilim İnsanları",
+      "baslangic_sn": 0,
+      "bitis_sn": 272,
+      "ozet": "Dersin girişinde Osmanlı bilim insanları konusuna motivasyon konuşmasıyla başlanmış, ardından matematik ve astronomi alanındaki önemli şahsiyetler incelenmiştir. Ali Kuşçu'nun Semerkand'dan gelişi, Muhammediye ve Risaletü'l-Fethiyye eserleri ile Ay haritası çalışmaları açıklanmıştır. Ayrıca Takiyüddin Mehmet'in ilk rasathaneyi kurması, Hezarfen ile Lagari'nin uçuş denemeleri ve Matrakçı Nasuh'un minyatür ile matematik çalışmaları anlatılmıştır.",
+      "anahtar_kelimeler": [
+        "Ali Kuşçu",
+        "Kadızade-i Rumi",
+        "Takiyüddin Mehmet",
+        "Hezarfen Ahmet Çelebi",
+        "Risaletü'l-Fethiyye",
+        "Matrakçı Nasuh"
+      ]
+    },
+    {
+      "baslik": "Osmanlı Coğrafyacıları ve Önemli Eserleri",
+      "baslangic_sn": 272,
+      "bitis_sn": 436,
+      "ozet": "Bu bölümde Osmanlı coğrafya bilimi ve temsilcileri ele alınmıştır. Piri Reis'in Kitab-ı Bahriye eseri ve dünya haritası ile Seydi Ali Reis'in Mir'atü'l-Memalik ve Kitab-ı Muhit eserleri açıklanmıştır. Ayrıca Katip Çelebi'nin Keşfü'z-Zünûn, Cihannüma ve hazırladığı raporlar (laihalar) ile Evliya Çelebi'nin Seyahatname eseri vurgulanmıştır.",
+      "anahtar_kelimeler": [
+        "Piri Reis",
+        "Seydi Ali Reis",
+        "Katip Çelebi",
+        "Evliya Çelebi",
+        "Kitab-ı Bahriye",
+        "Cihannüma"
+      ]
+    },
+    {
+      "baslik": "Osmanlı'da Tarih Yazıcılığı ve Önemli Tarihçiler",
+      "baslangic_sn": 436,
+      "bitis_sn": 535,
+      "ozet": "Osmanlı Devleti'nde tarih yazıcılığı teşkilatı olan Şehnamecilik ve Vakanüvislik kurumları tanıtılmıştır. İlk resmi tarihçi Naima Efendi, son resmi tarihçi Abdurrahman Şeref Bey ve Mecelle'yi hazırlayan Ahmet Cevdet Paşa'nın katkıları belirtilmiştir. İdris-i Bitlisi'nin Heşt Behişt adlı eseri ve Doğu danışmanlığı görevi de açıklanmıştır.",
+      "anahtar_kelimeler": [
+        "Vakanüvis",
+        "Şehnamecilik",
+        "Naima Efendi",
+        "Ahmet Cevdet Paşa",
+        "Abdurrahman Şeref",
+        "İdris-i Bitlisi"
+      ]
+    },
+    {
+      "baslik": "Osmanlı Tıp Bilimi ve Öne Çıkan Hekimler",
+      "baslangic_sn": 535,
+      "bitis_sn": 638,
+      "ozet": "Osmanlı Devleti'nde tıp alanında çalışma yürüten bilim insanları anlatılmıştır. Cerrahiyetü'l-Haniyye eseriyle bilinen ve ilk Türkçe tıp çalışmalarını yapan Sabuncuoğlu Şerafeddin detaylandırılmıştır. Ayrıca mikrop üzerine çalışmalar yapan Akşemsettin ile Celalüddin Hızır, Altuncuzade ve Ahi Çelebi'nin faaliyetlerine değinilmiştir.",
+      "anahtar_kelimeler": [
+        "Sabuncuoğlu Şerafeddin",
+        "Akşemsettin",
+        "Cerrahiyetü'l-Haniyye",
+        "Maddetü'l-Hayat",
+        "Ahi Çelebi"
+      ]
+    },
+    {
+      "baslik": "Din, İdare ve Fikir Alanındaki Bilim İnsanları",
+      "baslangic_sn": 638,
+      "bitis_sn": 742,
+      "ozet": "İlmiye sınıfının önemli temsilcileri ve Osmanlı düşünürleri özetlenmiştir. İlk Şeyhülislam Molla Fenari, en uzun süre görev yapan Ebussuud Efendi, ilk müderris Davud-ı Kayseri ve ilk kadı Dursun Fakih tanıtılmıştır. Koçi Bey'in risaleleri, Yanyalı Esad Efendi'nin Aristo çevirileri ve İbrahim Müteferrika'nın matbaayı getirmesi üzerinde durulmuştur.",
+      "anahtar_kelimeler": [
+        "Molla Fenari",
+        "Ebussuud Efendi",
+        "Davud-ı Kayseri",
+        "Koçi Bey",
+        "Yanyalı Esad Efendi",
+        "İbrahim Müteferrika"
+      ]
+    },
+    {
+      "baslik": "Ders Değerlendirmesi ve Soru Çözüm Tavsiyeleri",
+      "baslangic_sn": 742,
+      "bitis_sn": 813.3,
+      "ozet": "Dersin sonunda işlenen konular genel olarak özetlenmiş ve öğrencilere çalışma yöntemleri hakkında tavsiyeler verilmiştir. Konunun pekişmesi için en az 200 soru çözülmesi gerektiği ve soruların test test kontrol edilerek analiz edilmesi önerilmiştir. Aşırı not yazmak yerine zamanın soru bankasına ayrılmasının netleri daha çok artıracağı vurgulanmıştır.",
+      "anahtar_kelimeler": [
+        "Soru Çözümü",
+        "Kültür Medeniyet",
+        "Çalışma Stratejisi",
+        "Soru Bankası",
+        "Ders Analizi"
+      ]
+    }
+  ],
+  "olcumler": {
+    "model": "gemini-3.5-flash",
+    "gecikme_sn": 29.38,
+    "girdi_token": 4185,
+    "cikti_token": 1425,
+    "toplam_deneme": 1
+  }
+}

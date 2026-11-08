@@ -1,0 +1,1125 @@
+{
+  "ses_dosyasi": "yuklenenler\\I. Dünya Savaşının Başlaması.mp3",
+  "model": "medium",
+  "cihaz": "cuda",
+  "terimler": "",
+  "ses_suresi_sn": 971.7,
+  "islem_suresi_sn": 67.8,
+  "parcalar": [
+    {
+      "baslangic": 5.62,
+      "bitis": 8.2,
+      "metin": "Evet değerli öğrencilerim hoş geldiniz."
+    },
+    {
+      "baslangic": 8.2,
+      "bitis": 10.2,
+      "metin": "Yepyeni bir konuyla karşınızdayım arkadaşlar."
+    },
+    {
+      "baslangic": 10.2,
+      "bitis": 11.2,
+      "metin": "Konumuz ne?"
+    },
+    {
+      "baslangic": 11.2,
+      "bitis": 13.2,
+      "metin": "Birin Dünya Savaşı."
+    },
+    {
+      "baslangic": 13.2,
+      "bitis": 15.2,
+      "metin": "Birin Dünya Savaşı'nda ÖSYM'e"
+    },
+    {
+      "baslangic": 15.2,
+      "bitis": 18.8,
+      "metin": "son yılara baktığımız arkadaşlar daha çok soruları cephelerden,"
+    },
+    {
+      "baslangic": 18.8,
+      "bitis": 23.42,
+      "metin": "Monros mütarikesinden ve cemiyetlerden soruyor arkadaşlar."
+    },
+    {
+      "baslangic": 23.42,
+      "bitis": 28.76,
+      "metin": "Yine son yıllara baktığımızda ÖSYM'nin genel tarihten ziyade"
+    },
+    {
+      "baslangic": 28.76,
+      "bitis": 31.38,
+      "metin": "inkılap tarihi adını verdiğimiz bu işte"
+    },
+    {
+      "baslangic": 31.38,
+      "bitis": 35.74,
+      "metin": "Dünya savaşı, cepheler, örgütlenme, kurtuluş savaşı, ilk enkıraplar kısmı"
+    },
+    {
+      "baslangic": 35.74,
+      "bitis": 43.78,
+      "metin": "övsemenin burada eleyici soru hakkını daha fazla kullandığını görüyoruz."
+    },
+    {
+      "baslangic": 43.78,
+      "bitis": 48.3,
+      "metin": "O yüzden ben bu bütün videolarda arkadaşlar, özellikle bu bölümde itibaren"
+    },
+    {
+      "baslangic": 48.3,
+      "bitis": 52.7,
+      "metin": "öğrenciliğime sık sık kronoji yapacağım. Çünkü övsemenin klasik tuzağıdır."
+    },
+    {
+      "baslangic": 52.7,
+      "bitis": 55.7,
+      "metin": "Hangisi şu gelişmeden sonra görülmüştür, görülmemiştir."
+    },
+    {
+      "baslangic": 55.7,
+      "bitis": 57.9,
+      "metin": "Yani hep öncesi sonrası muhabbeti."
+    },
+    {
+      "baslangic": 57.9,
+      "bitis": 63.66,
+      "metin": "O yüzden hiçbir şey bilmiyorsak bile olay örgüsünü, başlık sırasını bilmek bize çok şeye katacaktır."
+    },
+    {
+      "baslangic": 63.66,
+      "bitis": 64.86,
+      "metin": "Bu öyle bir konu."
+    },
+    {
+      "baslangic": 64.86,
+      "bitis": 68.14,
+      "metin": "Şimdi kardeşlerim, Bir Nünya Savaşı'na Bismillah diyelim başlayalım."
+    },
+    {
+      "baslangic": 68.14,
+      "bitis": 71.26,
+      "metin": "Bir Nünya Savaşı'nın genel sebepleri var, özel sebepleri var."
+    },
+    {
+      "baslangic": 71.26,
+      "bitis": 73.02,
+      "metin": "Genel sebepler nelerdir?"
+    },
+    {
+      "baslangic": 73.02,
+      "bitis": 82.42,
+      "metin": "Bir, Fransız İttilâni'nin getirdiği milliyetçiliktir."
+    },
+    {
+      "baslangic": 82.42,
+      "bitis": 84.18,
+      "metin": "Hocam neden?"
+    },
+    {
+      "baslangic": 84.18,
+      "bitis": 90.25,
+      "metin": "Arkadaşlar çünkü Rusya palestinavizin politikası izliyor."
+    },
+    {
+      "baslangic": 90.25,
+      "bitis": 92.25,
+      "metin": "bütün sılavları bir araya getirmeye çalışıyor."
+    },
+    {
+      "baslangic": 93.09,
+      "bitis": 94.93,
+      "metin": "E bütün sılavlar ortalıkta yaşamıyor."
+    },
+    {
+      "baslangic": 95.29,
+      "bitis": 96.61,
+      "metin": "Diğer devletlerde yaşıyorlar."
+    },
+    {
+      "baslangic": 97.17,
+      "bitis": 98.93,
+      "metin": "Bu sefer Rusya'nın yaptığı milliyetçilik"
+    },
+    {
+      "baslangic": 99.05,
+      "bitis": 100.21,
+      "metin": "ve buna benzer şeyler"
+    },
+    {
+      "baslangic": 100.53,
+      "bitis": 102.53,
+      "metin": "devletler arası rekabete sebep oluyor."
+    },
+    {
+      "baslangic": 102.69,
+      "bitis": 103.81,
+      "metin": "E bir de neden milliyetçilik?"
+    },
+    {
+      "baslangic": 104.13,
+      "bitis": 106.13,
+      "metin": "Herkes en güçlü ben olayım, en iyi ben olayım."
+    },
+    {
+      "baslangic": 106.13,
+      "bitis": 108.77,
+      "metin": "En çok sömürge bende olsun mantı ile hareket edecek arkadaşlar."
+    },
+    {
+      "baslangic": 109.29,
+      "bitis": 110.81,
+      "metin": "Fransiran getirdiği milliyetçilik."
+    },
+    {
+      "baslangic": 111.37,
+      "bitis": 112.17,
+      "metin": "İkincisi"
+    },
+    {
+      "baslangic": 113.25,
+      "bitis": 115.21,
+      "metin": "sanayi inkılabının getirdiği"
+    },
+    {
+      "baslangic": 116.05,
+      "bitis": 118.25,
+      "metin": "sanayi inkılabının getirdiği"
+    },
+    {
+      "baslangic": 122.17,
+      "bitis": 123.45,
+      "metin": "sömürge rekabeti."
+    },
+    {
+      "baslangic": 125.4,
+      "bitis": 129.12,
+      "metin": "Sömürge rekabeti. Bakın değerli kardeşlerim ne olacak?"
+    },
+    {
+      "baslangic": 129.12,
+      "bitis": 134.4,
+      "metin": "Almanya ve İtalya kurulunca dünyada sömürge rekabeti daha da artacak."
+    },
+    {
+      "baslangic": 134.4,
+      "bitis": 139.04,
+      "metin": "Neden? Çünkü Almanya ve İtalya kurulduğunda zaten herkes pastayı paylaşmıştı."
+    },
+    {
+      "baslangic": 139.04,
+      "bitis": 145.28,
+      "metin": "O zaman ne olacak? İtalya, Habeşistan'a, Trablus Karbu'a göz dikecek daha mütevazi."
+    },
+    {
+      "baslangic": 145.28,
+      "bitis": 150.4,
+      "metin": "Almanya, Uzak Doğu'ya göz dikecek. İngiliz sömürgeni göz dikecek."
+    },
+    {
+      "baslangic": 150.4,
+      "bitis": 157.92,
+      "metin": "Dolayısıyla bir yandan milliyetçilik tartışmaları, ondan kaynaklanan sorunlar, bir yandan sömürge rekabeti, arkadaşlar,"
+    },
+    {
+      "baslangic": 157.92,
+      "bitis": 167.12,
+      "metin": "tüm bunlar savaşın kokusunu getirecek. Savaşın kokusu gelince devletler önce ne yapacak? Silahlanacak."
+    },
+    {
+      "baslangic": 167.12,
+      "bitis": 174.32,
+      "metin": "Değil mi? Bu dönemde en çok silah satan devlet kim olacak arkadaşlar? Amerika ve Almanya olacak."
+    },
+    {
+      "baslangic": 174.32,
+      "bitis": 177.28,
+      "metin": "E sonra bakacağız ki hepimizde silah var."
+    },
+    {
+      "baslangic": 177.28,
+      "bitis": 178.68,
+      "metin": "Hepimizde silah var."
+    },
+    {
+      "baslangic": 178.68,
+      "bitis": 180.52,
+      "metin": "Bu sefer ne yapacağız kardeşlerim?"
+    },
+    {
+      "baslangic": 180.52,
+      "bitis": 184.92,
+      "metin": "Menfaat-ı uyanlar bir tarafa, diğer uyanlar öbür tarafa diyecekler."
+    },
+    {
+      "baslangic": 184.92,
+      "bitis": 186.44,
+      "metin": "Kick-cut."
+    },
+    {
+      "baslangic": 186.44,
+      "bitis": 187.8,
+      "metin": "Ne başlayacak?"
+    },
+    {
+      "baslangic": 187.8,
+      "bitis": 192.74,
+      "metin": "Bloklaşma."
+    },
+    {
+      "baslangic": 192.74,
+      "bitis": 196.58,
+      "metin": "Bloklaşmayı üçe bölüyoruz."
+    },
+    {
+      "baslangic": 196.58,
+      "bitis": 199.23,
+      "metin": "İtilaf."
+    },
+    {
+      "baslangic": 199.23,
+      "bitis": 200.63,
+      "metin": "İttifak."
+    },
+    {
+      "baslangic": 200.63,
+      "bitis": 202.63,
+      "metin": "Hocam neden üçe böldün diye?"
+    },
+    {
+      "baslangic": 203.91,
+      "bitis": 207.03,
+      "metin": "İmparatorluğun en uzun yüzyılı konusunda bahsettim."
+    },
+    {
+      "baslangic": 207.03,
+      "bitis": 217.27,
+      "metin": "Bundan önce arkadaşlar 1870'lerden 84'e kadar Avrupa'da 3 İmparatorlar Ligi kurulmuştu."
+    },
+    {
+      "baslangic": 217.27,
+      "bitis": 220.75,
+      "metin": "3 İmparatorlar Ligi, sileceğim bunu birazdan."
+    },
+    {
+      "baslangic": 220.75,
+      "bitis": 223.15,
+      "metin": "Almanya, Avusturya ve Rusya."
+    },
+    {
+      "baslangic": 223.15,
+      "bitis": 227.11,
+      "metin": "Almanya, Avusturya ve Rusya zaten 3 İmparatorlar Ligi'ni kurmuştu."
+    },
+    {
+      "baslangic": 227.11,
+      "bitis": 233.15,
+      "metin": "Yani bir bloklaşma vardı ama daha sonra Rusya'nın panistavizmi Almanya ve Avusturya'yı rahatsız edecek."
+    },
+    {
+      "baslangic": 233.15,
+      "bitis": 239.67,
+      "metin": "zaten Rusya Slav, Almanya Avusturya German, bu uzun süreli olmayacak."
+    },
+    {
+      "baslangic": 239.67,
+      "bitis": 246.23,
+      "metin": "ÖSYM bunu ön lisan sınavında şıklarda kullandı, o yüzden üç imparatorlar ilgini görünce vefat etmeyin."
+    },
+    {
+      "baslangic": 246.23,
+      "bitis": 253.19,
+      "metin": "Hemen şöyle Almanya, Avusturya, Rusya aklınıza gelsin, zaten üçü aklınıza gelince bu ilişkinin yürümeyeceği de belli oluyor değil mi?"
+    },
+    {
+      "baslangic": 253.19,
+      "bitis": 256.55,
+      "metin": "Onun dışında ne var kardeşlerim? İtilaf ve ittifak devletleri var."
+    },
+    {
+      "baslangic": 256.55,
+      "bitis": 262.47,
+      "metin": "Biz hemen şu üç imparatorlarla ilgili sileyim."
+    },
+    {
+      "baslangic": 262.47,
+      "bitis": 265.94,
+      "metin": "Evet, benim alanımı daraltmasın."
+    },
+    {
+      "baslangic": 265.94,
+      "bitis": 267.54,
+      "metin": "Gelin buyurun."
+    },
+    {
+      "baslangic": 267.54,
+      "bitis": 274.1,
+      "metin": "Sayısalcı kardeşlerim, itilaf demez, anlaşma devletleri der."
+    },
+    {
+      "baslangic": 274.1,
+      "bitis": 279.38,
+      "metin": "İttifak demez, bağlaşma devletleri der."
+    },
+    {
+      "baslangic": 279.38,
+      "bitis": 281.38,
+      "metin": "Oldu mu?"
+    },
+    {
+      "baslangic": 281.38,
+      "bitis": 284.34,
+      "metin": "Peki Ahmet Hocam, buralarda kimler var?"
+    },
+    {
+      "baslangic": 284.34,
+      "bitis": 286.82,
+      "metin": "Hadi buyurun."
+    },
+    {
+      "baslangic": 286.82,
+      "bitis": 293.02,
+      "metin": "Bir, arkadaşlar tabii ki kim olacak benim uğurlu espirimdir."
+    },
+    {
+      "baslangic": 293.02,
+      "bitis": 296.65,
+      "metin": "Şöyle yapayım, Dingiltere."
+    },
+    {
+      "baslangic": 296.65,
+      "bitis": 298.65,
+      "metin": "Güzel espir değil mi?"
+    },
+    {
+      "baslangic": 298.65,
+      "bitis": 300.65,
+      "metin": "Dingiltere, devam ediyorum."
+    },
+    {
+      "baslangic": 300.65,
+      "bitis": 313.9,
+      "metin": "Fransa, Rusya, Sırp, Romanya, Japonya."
+    },
+    {
+      "baslangic": 313.9,
+      "bitis": 319.52,
+      "metin": "Gördün mü kardeşlerim?"
+    },
+    {
+      "baslangic": 319.52,
+      "bitis": 328.36,
+      "metin": "Evet, ABD, Yunan."
+    },
+    {
+      "baslangic": 328.36,
+      "bitis": 331.36,
+      "metin": "Geri ittifaka, ittifakta kim var?"
+    },
+    {
+      "baslangic": 331.36,
+      "bitis": 353.57,
+      "metin": "Onu da mavi yazalım, Almanya, Avusturya, Macaristan, İtalya, en başta buraya yakında arkadaşlar, en başta, sonradan taraf değiştirecek, Osman ve Bulgar."
+    },
+    {
+      "baslangic": 353.57,
+      "bitis": 363.45,
+      "metin": "Peki, ittifak, itilaf gördük değil mi? Bir de ben size neyi öğreteyim bu videolarda?"
+    },
+    {
+      "baslangic": 363.45,
+      "bitis": 375.04,
+      "metin": "Nihit. Hocam Nihit kim? Kim yaşar biliyor muyuz? Dünya savaşında tarafsız kalan devletler."
+    },
+    {
+      "baslangic": 375.04,
+      "bitis": 393.38,
+      "metin": "Norveç, İsveç, İsviçre, Danimarka ve Hollanda. Yani böyle bir soru görünce dumur olmayalım."
+    },
+    {
+      "baslangic": 393.38,
+      "bitis": 399.38,
+      "metin": "Neden? Basit bir bilgi ama arkadaşlar çalışmayınca köleliyoruz. Bunlar tarafsız. Oldu mu?"
+    },
+    {
+      "baslangic": 399.38,
+      "bitis": 404.38,
+      "metin": "Şimdi kardeşlerim buradan sonra nasıl gelebilir? Söyleyeyim. Bu dizayn boşuna değil."
+    },
+    {
+      "baslangic": 404.38,
+      "bitis": 412.38,
+      "metin": "Hadi gelin, bana eşlik edin. İttifak'a son katılan Bulgar. Bulgar son katılan. Az sonra."
+    },
+    {
+      "baslangic": 412.38,
+      "bitis": 418.38,
+      "metin": "İttifaktan itilafa geçen İtalya. Transfer olan İtalya."
+    },
+    {
+      "baslangic": 418.38,
+      "bitis": 425.38,
+      "metin": "Savaş sırasında rejim değiştirecek olan Rusya. Savaş sırasında rejim değiştirecek olan Rusya."
+    },
+    {
+      "baslangic": 425.38,
+      "bitis": 430.34,
+      "metin": "Çarlık'tan Boluşevi'ye geçecek. Arkadaşlar itilafa ve Dünya"
+    },
+    {
+      "baslangic": 430.34,
+      "bitis": 434.94,
+      "metin": "Savaşı'na en son katılan öğrenci kendini tutamıyor. ABD"
+    },
+    {
+      "baslangic": 434.94,
+      "bitis": 440.5,
+      "metin": "diyor cevap Yunan. Itilafa ve Dünya Savaşı'na en son katılan"
+    },
+    {
+      "baslangic": 440.5,
+      "bitis": 446.5,
+      "metin": "Amerika değil. Yunan. Amerika şu. Gidişatı değiştiren. Aşk ile"
+    },
+    {
+      "baslangic": 446.5,
+      "bitis": 450.58,
+      "metin": "şevk ile buyurun. İttifak'a son katılan Bulgar, taraf"
+    },
+    {
+      "baslangic": 450.58,
+      "bitis": 453.82,
+      "metin": "değiştiren kim olacak? İtalya. Savaş sırasında rejim"
+    },
+    {
+      "baslangic": 453.82,
+      "bitis": 461.02,
+      "metin": "Şimdi değiştiren, ihtilal olan Rusya, gidişat değiştiren ABD, son katılan Yunan."
+    },
+    {
+      "baslangic": 461.02,
+      "bitis": 465.02,
+      "metin": "Tamam, zaten Yunan, adam akıllı savaş banan da toprak kazanacak."
+    },
+    {
+      "baslangic": 465.02,
+      "bitis": 467.02,
+      "metin": "Sevgili arkadaşlar, buradan neyi bilelim?"
+    },
+    {
+      "baslangic": 467.02,
+      "bitis": 468.22,
+      "metin": "Neyi bilelim?"
+    },
+    {
+      "baslangic": 468.22,
+      "bitis": 469.82,
+      "metin": "Bulgar'ı görüyor musunuz?"
+    },
+    {
+      "baslangic": 469.82,
+      "bitis": 471.22,
+      "metin": "Romanya'yı gördünüz mü?"
+    },
+    {
+      "baslangic": 471.22,
+      "bitis": 472.62,
+      "metin": "Bak farklı bloglarda."
+    },
+    {
+      "baslangic": 472.62,
+      "bitis": 474.42,
+      "metin": "Çünkü Balkan Savaşları'nı söyledik."
+    },
+    {
+      "baslangic": 474.42,
+      "bitis": 475.82,
+      "metin": "Aralarında hangi problem vardı?"
+    },
+    {
+      "baslangic": 475.82,
+      "bitis": 476.82,
+      "metin": "Dobruca sorunu."
+    },
+    {
+      "baslangic": 476.82,
+      "bitis": 477.82,
+      "metin": "Değil mi?"
+    },
+    {
+      "baslangic": 477.82,
+      "bitis": 478.82,
+      "metin": "Evet."
+    },
+    {
+      "baslangic": 478.82,
+      "bitis": 481.82,
+      "metin": "Şimdi arkadaşlar, buradan gelebilecek soru modeli bu olabilir."
+    },
+    {
+      "baslangic": 481.82,
+      "bitis": 487.82,
+      "metin": "tarahsız ülkeler gelebilir. Değil mi? Asıl soru bence özel sebeplerden gelir. Bu ürün özel sebepler."
+    },
+    {
+      "baslangic": 487.82,
+      "bitis": 502.99,
+      "metin": "Bir, Alman İngiliz rekabeti. Ahmet Hocam neden? Arkadaşlar Almanya kurulurken Doğrudan'ın sömürgesi"
+    },
+    {
+      "baslangic": 502.99,
+      "bitis": 509.71,
+      "metin": "yoktu. İngiliz sömürgeni gözüktü. Hatırlarsan da İngiltere güneş batmıyor ülkedir. Yani o kadar"
+    },
+    {
+      "baslangic": 509.71,
+      "bitis": 514.91,
+      "metin": "sömürgesi var ki kuzey kutlu, güney kutlu, güneş batmıyor. Iki,"
+    },
+    {
+      "baslangic": 514.91,
+      "bitis": 523.51,
+      "metin": "Almanya, Fransa arasında tampon bölge. Neresi? A, Çukur"
+    },
+    {
+      "baslangic": 523.51,
+      "bitis": 528.35,
+      "metin": "mahallesi. B, Asas Doren. Çukur dizisi güzeldi bence değil"
+    },
+    {
+      "baslangic": 528.35,
+      "bitis": 531.67,
+      "metin": "mi? Asas Doren gençler, zengin maden yatakların olduğu"
+    },
+    {
+      "baslangic": 531.67,
+      "bitis": 535.71,
+      "metin": "yer. Yedi B sınıfındayken yededi sorundur. Gel bakayım."
+    },
+    {
+      "baslangic": 535.71,
+      "bitis": 543.56,
+      "metin": "Üç. Arkadaşlar, Rusya hangi politikayı izliyor? Panistopizm."
+    },
+    {
+      "baslangic": 543.56,
+      "bitis": 556.04,
+      "metin": "Bundan kim rahatsız? Avustura rahatsız. Dört. Uzakdoğu"
+    },
+    {
+      "baslangic": 556.04,
+      "bitis": 559.16,
+      "metin": "rekabeti. Arkadaşlar uzakdoğuya biz daha çok çağdaşta"
+    },
+    {
+      "baslangic": 559.16,
+      "bitis": 561.32,
+      "metin": "değiniyoruz. Çağdaş Türk Dünya tarihinde. Şöyle"
+    },
+    {
+      "baslangic": 561.32,
+      "bitis": 565.32,
+      "metin": "söyleyeyim. İngiltere'yle anlaşan İngiltere'yle"
+    },
+    {
+      "baslangic": 565.32,
+      "bitis": 569.08,
+      "metin": "anlaşan, itiraflarla anlaşan Japonya'nın Almanya'nın"
+    },
+    {
+      "baslangic": 569.08,
+      "bitis": 572.68,
+      "metin": "uzak doğudaki sömürgelerine saldırması. Ve savaş nereye"
+    },
+    {
+      "baslangic": 572.68,
+      "bitis": 576.6,
+      "metin": "taşınıyor arkadaşlar? Uzak doya taşınıyor. Oldu mu? Japonya"
+    },
+    {
+      "baslangic": 576.6,
+      "bitis": 578.56,
+      "metin": "Almanya rekabeti. Bunları çağdaşta daha iyi"
+    },
+    {
+      "baslangic": 578.56,
+      "bitis": 584.72,
+      "metin": "öğreneceksiniz. Beş evet Alman İngiliz rekabeti dedik değil"
+    },
+    {
+      "baslangic": 584.72,
+      "bitis": 588.08,
+      "metin": "mi? Arkadaşlar Almanya Fransa arasında Asa Soran dedik."
+    },
+    {
+      "baslangic": 588.08,
+      "bitis": 590.44,
+      "metin": "Rusya'nın panesevizminden Avusturya rahatsız. Çünkü"
+    },
+    {
+      "baslangic": 590.44,
+      "bitis": 593.44,
+      "metin": "Avusturya'nın içerisinde salavlar var. Uzak doğu"
+    },
+    {
+      "baslangic": 593.44,
+      "bitis": 596.44,
+      "metin": "rekabeti. Küçüklüğüne iniyorum senin. Umut'a"
+    },
+    {
+      "baslangic": 596.44,
+      "bitis": 598.44,
+      "metin": "Orada oraya Türk merkezine gidiyorsun değil mi?"
+    },
+    {
+      "baslangic": 598.44,
+      "bitis": 600.44,
+      "metin": "Sekizleri sınıfındasın."
+    },
+    {
+      "baslangic": 600.44,
+      "bitis": 603.44,
+      "metin": "Sosyal birer kitaplarım var."
+    },
+    {
+      "baslangic": 603.44,
+      "bitis": 605.44,
+      "metin": "Çözükçe öğreniyorum, öğrendim çözüyorum."
+    },
+    {
+      "baslangic": 605.44,
+      "bitis": 606.44,
+      "metin": "Habire boşluk dolduruyorsun."
+    },
+    {
+      "baslangic": 606.44,
+      "bitis": 608.44,
+      "metin": "Bayan bir sosyal bir öğretmenimiz."
+    },
+    {
+      "baslangic": 608.44,
+      "bitis": 610.44,
+      "metin": "Anaç yapılı, gözlüklü, sempatik."
+    },
+    {
+      "baslangic": 610.44,
+      "bitis": 612.44,
+      "metin": "Çocuklar savaşı başlatan Kıvılcım."
+    },
+    {
+      "baslangic": 612.44,
+      "bitis": 617.44,
+      "metin": "Oradan bıyı yeni terlemeye başlamış bir ergenüs erkek kardeşimiz."
+    },
+    {
+      "baslangic": 617.44,
+      "bitis": 619.44,
+      "metin": "Öğretmenin pıçaklanması diyor."
+    },
+    {
+      "baslangic": 619.44,
+      "bitis": 620.44,
+      "metin": "Aklına bir tek pıçak kalmış çünkü."
+    },
+    {
+      "baslangic": 620.44,
+      "bitis": 623.44,
+      "metin": "Her Türk gencini unutamadığı birkaç bilgilen birisidir bu."
+    },
+    {
+      "baslangic": 623.44,
+      "bitis": 625.44,
+      "metin": "Savaşı başlatan gelişme."
+    },
+    {
+      "baslangic": 625.44,
+      "bitis": 639.68,
+      "metin": "Arkadaşlar, Avusturya Ağarçıdükür'ün eşiyle beraber Bosna ziyaretinde Sırplı tarafından öldürülmesi."
+    },
+    {
+      "baslangic": 639.68,
+      "bitis": 645.68,
+      "metin": "Sırplı tarafından öldürülmesi. Şimdi bu basit bir olay değil bu arada. Değil."
+    },
+    {
+      "baslangic": 645.68,
+      "bitis": 651.44,
+      "metin": "Geçen videolarda haritada göstermiştim. Bu basit bir olay değil."
+    },
+    {
+      "baslangic": 651.44,
+      "bitis": 659.59,
+      "metin": "Gel şimdi Avusturya Ağuşdükü'nün ırkı nedir biliyor musunuz? German."
+    },
+    {
+      "baslangic": 659.59,
+      "bitis": 667.59,
+      "metin": "Sırpın ırkı ne? Slav. Bak German Slav rekabeti. Öğrendik mi?"
+    },
+    {
+      "baslangic": 667.59,
+      "bitis": 674.59,
+      "metin": "German Slav rekabeti. Bosna gençler ikisi arasında sorundur."
+    },
+    {
+      "baslangic": 674.59,
+      "bitis": 681.59,
+      "metin": "Çünkü Bosna İtalya'yla Balkanlar arasında kalan Adriyatik Denizi'ne açılan penceredir."
+    },
+    {
+      "baslangic": 681.59,
+      "bitis": 687.96,
+      "metin": "Adiletik Denizi'nin penceresi. Bunu birazdan haritada gösteririm yine."
+    },
+    {
+      "baslangic": 687.96,
+      "bitis": 690.96,
+      "metin": "Yine gösteririm. Kaçıncı gösterişim ama bir daha göstereyim."
+    },
+    {
+      "baslangic": 690.96,
+      "bitis": 695.96,
+      "metin": "Adiletik Denizi'ne, Sırbistan'ın ulaşması için Bostan'a hakim olması lazım."
+    },
+    {
+      "baslangic": 695.96,
+      "bitis": 697.96,
+      "metin": "Avusturya da bunu engelliyor arkadaşlar."
+    },
+    {
+      "baslangic": 697.96,
+      "bitis": 702.96,
+      "metin": "Zaten bakarsanız tarih çalıştığınızda, Avusturya hep Bostan'ın yönetimi almaya çalışır."
+    },
+    {
+      "baslangic": 702.96,
+      "bitis": 707.96,
+      "metin": "Kime karşı önlem olsun diye, Sırbistan Adiletik Denizi'ne ulaşmasın diye."
+    },
+    {
+      "baslangic": 707.96,
+      "bitis": 710.96,
+      "metin": "Oldu mu? Evet, o zaman savaşı başlatalım mı?"
+    },
+    {
+      "baslangic": 710.96,
+      "bitis": 714.08,
+      "metin": "Serkan'ım savaşı başlatırken şurada olacağım. Nereye bakayım?"
+    },
+    {
+      "baslangic": 714.08,
+      "bitis": 718.96,
+      "metin": "Ortaya mı bakayım, sağa mı, sola mı bakayım? Gel. Evet gençler o"
+    },
+    {
+      "baslangic": 718.96,
+      "bitis": 723.16,
+      "metin": "zaman savaşı başlatalım. İttifak, itiraf. Avusturya"
+    },
+    {
+      "baslangic": 723.16,
+      "bitis": 726.16,
+      "metin": "Ağaçdük'ü yirmi sekiz Haziran bin dokuz yüz on dörtte"
+    },
+    {
+      "baslangic": 726.16,
+      "bitis": 730.84,
+      "metin": "öldürüldü. Pıçaklandı. Avusturya Sırbistan'dan"
+    },
+    {
+      "baslangic": 730.84,
+      "bitis": 735.68,
+      "metin": "Sırp milliyetçiyi istedi. Vermeyince yirmi sekiz Temmuz"
+    },
+    {
+      "baslangic": 735.68,
+      "bitis": 738.52,
+      "metin": "bin dokuz yüz on dörtte savaş başladı. Birazdan bunları"
+    },
+    {
+      "baslangic": 738.52,
+      "bitis": 742.08,
+      "metin": "yazarım. O zaman buyurun. Avusturya kime savaş ilan"
+    },
+    {
+      "baslangic": 742.08,
+      "bitis": 746.12,
+      "metin": "edecek? Sırpa. Peki Rusya'yla Sırp'ın ırkı neydi bu arada?"
+    },
+    {
+      "baslangic": 746.12,
+      "bitis": 751.44,
+      "metin": "Slav. Avusturya'yla Alman'ın ırkı neydi? Germen. Milletçi"
+    },
+    {
+      "baslangic": 751.44,
+      "bitis": 752.96,
+      "metin": "daha yanılmıyor muyuz arkadaşlar? Bunlar dünya harit"
+    },
+    {
+      "baslangic": 752.96,
+      "bitis": 757.32,
+      "metin": "kardeş. Bu sefer Almanya kimin yanına savaşa girdi?"
+    },
+    {
+      "baslangic": 757.32,
+      "bitis": 760.4,
+      "metin": "Avusturya'nın. Değil mi? Rusya kimin yanına savaşa"
+    },
+    {
+      "baslangic": 760.4,
+      "bitis": 763.28,
+      "metin": "girdi? Sırp'ın. O zaman Rusya kime savaş ilan edecek?"
+    },
+    {
+      "baslangic": 763.28,
+      "bitis": 767.12,
+      "metin": "Almanya. Rusya'nın yanında Sırp kime savaş ilan edecek?"
+    },
+    {
+      "baslangic": 767.12,
+      "bitis": 772.4,
+      "metin": "Alman'a. Asasören aşkına. Fransa kime? Alman'a. Sömürge aşkına. İngiltere kime?"
+    },
+    {
+      "baslangic": 772.4,
+      "bitis": 780.28,
+      "metin": "Alman'a. Herkes kime? Alman'a. Peki. Almanya'nın bu kadar devletle baş etme şansı var mı?"
+    },
+    {
+      "baslangic": 780.28,
+      "bitis": 788.24,
+      "metin": "Sizce? Yok. Değil mi? Çünkü herkes Almanlı. Almanya ne yapacak gençler o zaman? Diğer"
+    },
+    {
+      "baslangic": 788.24,
+      "bitis": 795.12,
+      "metin": "devletlerin de ilgisini çekecek. Fiziği güzel, IQ'su düşük. Tamam mı? Fiziği güzel,"
+    },
+    {
+      "baslangic": 795.12,
+      "bitis": 803.12,
+      "metin": "A2'sü düşük bir Anadolu hatunu, Anadolu insanı diyeyim, Kezban'ı diyorum kızıyorsunuz bazen ben Kezban'ı seviyorum da,"
+    },
+    {
+      "baslangic": 803.12,
+      "bitis": 812.12,
+      "metin": "bir Anadolu hatunu lazım. Kim bu? Osmanlı. Evet. O yüzden Almanya bu kadar devlette baş edemeyeceği için"
+    },
+    {
+      "baslangic": 812.12,
+      "bitis": 820.12,
+      "metin": "kimi savaşa sokmak isteyecek gençler? Osmanlı'yım. Peki Osmanlı Almanya'nın çıkma teklifini kabul edecek mi?"
+    },
+    {
+      "baslangic": 820.12,
+      "bitis": 823.4,
+      "metin": "Önce diyecek ki, neden ben?"
+    },
+    {
+      "baslangic": 823.4,
+      "bitis": 824.96,
+      "metin": "Evet, neden ben?"
+    },
+    {
+      "baslangic": 824.96,
+      "bitis": 826.16,
+      "metin": "Benim en sevdiğim sorudur."
+    },
+    {
+      "baslangic": 826.16,
+      "bitis": 830.4,
+      "metin": "Lisede kız arkadaşım vardı, zaten mahçup bir insanım ben."
+    },
+    {
+      "baslangic": 830.4,
+      "bitis": 832.88,
+      "metin": "Böyle iddialı durduğuma bakmayın normalde."
+    },
+    {
+      "baslangic": 832.88,
+      "bitis": 838.72,
+      "metin": "Ya kıza zaten aşkımı zor söylüyorum veya zor ilgileniyorum, bir kasıntılık var."
+    },
+    {
+      "baslangic": 838.72,
+      "bitis": 841.12,
+      "metin": "Devamlı neden ben, neden ben?"
+    },
+    {
+      "baslangic": 841.12,
+      "bitis": 843.04,
+      "metin": "Zıkkımlık yok, neden sen işte aşırısın, Allah'ını seversen."
+    },
+    {
+      "baslangic": 843.04,
+      "bitis": 844.72,
+      "metin": "Devamlı bunu sorup duruyordu."
+    },
+    {
+      "baslangic": 844.72,
+      "bitis": 845.76,
+      "metin": "Neden ben?"
+    },
+    {
+      "baslangic": 845.76,
+      "bitis": 849.76,
+      "metin": "Bir yere gideriz, iki ay üç ay geçer, yine bir neden ben, illa iltifat alacak."
+    },
+    {
+      "baslangic": 849.76,
+      "bitis": 852.08,
+      "metin": "Osmanlı böyle. Neden ben?"
+    },
+    {
+      "baslangic": 852.08,
+      "bitis": 854.48,
+      "metin": "E neden sen? İşte söyleyeceğim şimdi. Değil mi?"
+    },
+    {
+      "baslangic": 854.48,
+      "bitis": 855.76,
+      "metin": "Fiziyenin güzelliği."
+    },
+    {
+      "baslangic": 855.76,
+      "bitis": 857.28,
+      "metin": "Almanya seni ilk bunun için isteyecek."
+    },
+    {
+      "baslangic": 857.28,
+      "bitis": 859.04,
+      "metin": "Hadi gelin bakalım."
+    },
+    {
+      "baslangic": 859.04,
+      "bitis": 860.88,
+      "metin": "Almanya Osman'ı isteyecek."
+    },
+    {
+      "baslangic": 860.88,
+      "bitis": 862.64,
+      "metin": "Ama Osmanlı önce ne yapacak?"
+    },
+    {
+      "baslangic": 862.64,
+      "bitis": 864.16,
+      "metin": "Buyurun bakalım Serkan'ım."
+    },
+    {
+      "baslangic": 864.16,
+      "bitis": 866.8,
+      "metin": "Evet. İlk sorumuz şu."
+    },
+    {
+      "baslangic": 866.8,
+      "bitis": 877.08,
+      "metin": "Savaş başlayınca Osmanlı."
+    },
+    {
+      "baslangic": 877.08,
+      "bitis": 882.61,
+      "metin": "Gençler bilgilerimizi netleştirelim."
+    },
+    {
+      "baslangic": 882.61,
+      "bitis": 886.05,
+      "metin": "Bir kere savaş başladığında Padişah'ımız kim?"
+    },
+    {
+      "baslangic": 886.05,
+      "bitis": 891.09,
+      "metin": "31 Mart'tan sonra tahta çıkmıştı."
+    },
+    {
+      "baslangic": 891.09,
+      "bitis": 892.41,
+      "metin": "Mehmet Reşat."
+    },
+    {
+      "baslangic": 893.45,
+      "bitis": 895.61,
+      "metin": "Monduros'tan iki ay önce vefat edecek."
+    },
+    {
+      "baslangic": 896.29,
+      "bitis": 898.61,
+      "metin": "Meclis kararıyla indirilen Abdülhamid'ti."
+    },
+    {
+      "baslangic": 899.13,
+      "bitis": 901.61,
+      "metin": "Meclis kararıyla tahta çıkarılan kimdi? Mehmet Reşat'tı."
+    },
+    {
+      "baslangic": 901.61,
+      "bitis": 903.61,
+      "metin": "1909-1918."
+    },
+    {
+      "baslangic": 904.49,
+      "bitis": 905.13,
+      "metin": "Peki,"
+    },
+    {
+      "baslangic": 906.37,
+      "bitis": 908.45,
+      "metin": "başladığında hükümet başkanlarımız kim?"
+    },
+    {
+      "baslangic": 909.33,
+      "bitis": 910.89,
+      "metin": "Yani eski adıyla sadı zamlar."
+    },
+    {
+      "baslangic": 912.17,
+      "bitis": 913.13,
+      "metin": "Buyurun kardeşlerim."
+    },
+    {
+      "baslangic": 913.81,
+      "bitis": 915.61,
+      "metin": "Önce Said Halim Paşa."
+    },
+    {
+      "baslangic": 918.37,
+      "bitis": 920.09,
+      "metin": "Savaş başladığında o vardı."
+    },
+    {
+      "baslangic": 920.89,
+      "bitis": 921.69,
+      "metin": "Sonra,"
+    },
+    {
+      "baslangic": 922.49,
+      "bitis": 923.25,
+      "metin": "Talat Paşa,"
+    },
+    {
+      "baslangic": 923.33,
+      "bitis": 933.33,
+      "metin": "Hatta işeyeceğiz, tehcir kanunu çıkarttı, sonra da sınıfım, sonra da ne olacak biliyor musunuz?"
+    },
+    {
+      "baslangic": 933.33,
+      "bitis": 939.33,
+      "metin": "Ahmet İzzet Paşa gelecek, Mondros'u imzalayacak. Oldu mu?"
+    },
+    {
+      "baslangic": 939.33,
+      "bitis": 949.54,
+      "metin": "Peki, etkin partimiz kim? İttihat ve terakki. Değil mi?"
+    },
+    {
+      "baslangic": 949.54,
+      "bitis": 965.18,
+      "metin": "Peki arkadaşlar, Osmanlı ordusunda önemli Alman subaylar var. Falkenhayn. Bunları duyunca heyecanlanmayın."
+    },
+    {
+      "baslangic": 965.18,
+      "bitis": 971.66,
+      "metin": "Ben baştan söyleyeyim de. Ve Limonpaşa. Limon Van Sanders gibi."
+    }
+  ]
+}
