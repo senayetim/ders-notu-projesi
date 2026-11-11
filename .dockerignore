@@ -1,0 +1,29 @@
+# Gizli anahtar imaja girmesin; compose çalışırken .env'den verir
+.env
+
+# Yerel ortam ve önbellekler
+venv/
+__pycache__/
+.pytest_cache/
+.git/
+.vscode/
+
+# Veriler imaja değil, volume olarak bağlanır
+cikti/
+yuklenenler/
+*.mp3
+*.wav
+*.m4a
+*.mp4
+*.ogg
+*.flac
+
+# Çalışmak için gerekmeyenler
+tests/
+test_*.json
+test_whisper.py
+requirements-dev.txt
+requirements-gpu.txt
+Dockerfile
+docker-compose.yml
+.dockerignore

@@ -1,0 +1,19 @@
+services:
+  echonote:
+    build: .
+    image: echonote
+    container_name: echonote
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      # İşlenen dersler ve yüklenen sesler bilgisayarda kalır, konteyner silinse de kaybolmaz
+      - ./cikti:/app/cikti
+      - ./yuklenenler:/app/yuklenenler
+      # İndirilen Whisper modelleri
+      - modeller:/modeller
+    restart: unless-stopped
+
+volumes:
+  modeller:

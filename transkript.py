@@ -11,6 +11,8 @@ from functools import lru_cache
 
 def _cuda_dll_yollari_ekle():
     """pip ile kurulan CUDA DLL'lerini Windows'a tanıt."""
+    if os.name != "nt":  # Linux'ta (Docker) bu adım gerekmez
+        return
     for sp in site.getsitepackages():
         for yol in glob.glob(os.path.join(sp, "nvidia", "*", "bin")):
             os.add_dll_directory(yol)

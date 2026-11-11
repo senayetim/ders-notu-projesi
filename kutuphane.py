@@ -26,6 +26,8 @@ def dersleri_listele(dizin):
 def ders_oku(dizin, anahtar):
     """Kayıtlı dersi (transkript, bölümler, ölçümler) olarak okur."""
     transkript = json.loads((dizin / f"{anahtar}_transkript.json").read_text(encoding="utf-8"))
+    # Windows'ta kaydedilen "yuklenenler\\ders.mp3" yolları Linux'ta (Docker) da bulunsun
+    transkript["ses_dosyasi"] = transkript["ses_dosyasi"].replace("\\", "/")
     b_yol = dizin / f"{anahtar}_bolumler.json"
     if not b_yol.exists():
         return transkript, [], None

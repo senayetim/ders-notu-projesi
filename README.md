@@ -48,6 +48,23 @@ python transkript.py ders.mp3
 python bolumle.py ders_transkript.json
 ```
 
+## Docker ile çalıştırma
+
+Başka bir bilgisayarda Python kurmadan çalıştırmak için yalnızca [Docker Desktop](https://www.docker.com/products/docker-desktop/) gerekir.
+
+1. Projeyi kopyala ve klasörde yukarıdaki gibi bir `.env` dosyası oluştur.
+2. Çalıştır:
+
+   ```powershell
+   docker compose up -d --build
+   ```
+
+3. Tarayıcıda http://localhost:8501 adresini aç.
+
+Durdurmak için `docker compose down`. `cikti/` ve `yuklenenler/` klasörleri konteynere bağlanır; işlenen dersler bilgisayarda kalır ve başka bir bilgisayara bu klasörler kopyalanarak taşınabilir. İndirilen Whisper modelleri `modeller` adlı Docker volume'unda saklanır, her açılışta yeniden inmez.
+
+Konteyner Whisper'ı CPU'da çalıştırır.
+
 ## Testler
 
 ```powershell

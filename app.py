@@ -125,7 +125,7 @@ def isle(ses_bayt, dosya_adi, whisper_modeli, yeniden_t, yeniden_b, terimler="")
             cubuk = st.progress(0.0)
             try:
                 transkript = transkript_et(
-                    str(yol), whisper_modeli, terimler,
+                    yol.as_posix(), whisper_modeli, terimler,
                     lambda oran: cubuk.progress(oran, f"%{int(oran * 100)}"),
                 )
             except Exception as e:
